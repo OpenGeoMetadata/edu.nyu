@@ -1,0 +1,57 @@
+{
+  "uuid": "http://hdl.handle.net/2451/34401",
+  "dc_identifier_s": "http://hdl.handle.net/2451/34401",
+  "dc_title_s": "2004 Orissa, India: Pre Delimitation State Assembly Constituency Boundaries and Election Data",
+  "dc_description_s": "This polygon shapefile shows pre-delimitation state Legislative Assembly constituency boundaries and data relating to the 2004 Assembly elections for the State of Orissa, India. Includes attribute data on election parties, candidates, voters, and results. This layer is part of the Poll Map of India which includes parliamentary constituency boundaries for India, Assembly constituency boundaries for all states, and data relating to the past national elections for each State of India.This data can be used for election analysis, forecasting, and mapping: Enables profiling of individual constituencies, permits historical analysis of the data, and helps predictive estimate of the impact of regional and state-wise electorate swings on the performance of political parties. These data are intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production.",
+  "dc_rights_s": "Restricted",
+  "dct_provenance_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34401\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/bitstream/2451/34401/2/nyu_2451_34401.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://maps-restricted.nyusdr.net/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://maps-restricted.nyusdr.net/geoserver/sdr/wms\"}",
+  "layer_id_s": "sdr:nyu_2451_34401",
+  "layer_slug_s": "nyu_2451_34401",
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2015-12-15T20:9:25Z",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": "English",
+  "dc_type_s": "Dataset",
+  "dc_publisher_s": [
+    "ML InfoMap (Firm)"
+  ],
+  "dc_creator_sm": [
+
+  ],
+  "dc_subject_sm": [
+    "Elections",
+    "Political Parties",
+    "Voting",
+    "Politics and government",
+    "Boundaries",
+    "Society"
+  ],
+  "dct_isPartOf_sm": "PollMap of India",
+  "dct_issued_s": "2013",
+  "dct_temporal_sm": [
+    "2004"
+  ],
+  "dct_spatial_sm": [
+    "Orissa, Odisha, India",
+    "Balasore, Odisha, India",
+    "Basta, Odisha, India",
+    "Birmitrapur, Odisha, India",
+    "Bhubaneswar, Odisha, India",
+    "Lanjigarh, Odisha, India",
+    "Nīlgiri, Odisha, India"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/1261029/about/rdf",
+    "http://sws.geonames.org/1277599/about/rdf",
+    "http://sws.geonames.org/1276742/about/rdf",
+    "http://sws.geonames.org/1275506/about/rdf",
+    "http://sws.geonames.org/1275817/about/rdf",
+    "http://sws.geonames.org/1265083/about/rdf",
+    "http://sws.geonames.org/1261402/about/rdf"
+  ],
+  "georss_box_s": "17.795650482178 81.526672363281 22.575759887695 87.480895996094",
+  "georss_polygon_s": "17.795650482178 81.526672363281 22.575759887695 81.526672363281 22.575759887695 87.480895996094 17.795650482178 87.480895996094 17.795650482178 81.526672363281",
+  "solr_geom": "ENVELOPE(81.526672363281, 87.480895996094, 22.575759887695, 17.795650482178)",
+  "solr_year_i": 2004
+}

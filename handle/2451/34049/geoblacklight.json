@@ -1,0 +1,46 @@
+{
+  "uuid": "http://hdl.handle.net/2451/34049",
+  "dc_identifier_s": "http://hdl.handle.net/2451/34049",
+  "dc_title_s": "2010 U.S. Counties",
+  "dc_description_s": "U.S. Counties represents the counties of the United States. This data set provides six feature classes for displaying the data at different scales. Everything about the feature classes is the same but the level of generalization and its name. The base feature class is called and isn't generalized. The least generalized feature class is called _1, the next more generalized feature class is called _2, and so on. For best performance, use the most appropriate feature class when displaying or printing.",
+  "dc_rights_s": "Restricted",
+  "dct_provenance_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34049\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/bitstream/2451/34049/2/nyu_2451_34049.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://maps-restricted.nyusdr.net/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://maps-restricted.nyusdr.net/geoserver/sdr/wms\"}",
+  "layer_id_s": "sdr:nyu_2451_34049",
+  "layer_slug_s": "nyu_2451_34049",
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2015-11-23T15:25:39Z",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": "English",
+  "dc_type_s": [
+
+  ],
+  "dc_publisher_s": [
+    "Environmental Systems Research Institute (Redlands, Calif.)"
+  ],
+  "dc_creator_sm": [
+
+  ],
+  "dc_subject_sm": [
+    "Counties",
+    "Boundaries",
+    "United States--Administrative and political divisions"
+  ],
+  "dct_isPartOf_sm": "ESRI 10 StreetMap",
+  "dct_issued_s": [
+
+  ],
+  "dct_temporal_sm": [
+    "2010"
+  ],
+  "dct_spatial_sm": [
+    "United States of America"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/6252001/about/rdf"
+  ],
+  "georss_box_s": "24.7073204053 -170.1769013405 71.6032483233 -64.5665435791",
+  "georss_polygon_s": "24.7073204053 -170.1769013405 71.6032483233 -170.1769013405 71.6032483233 -64.5665435791 24.7073204053 -64.5665435791 24.7073204053 -170.1769013405",
+  "solr_geom": "ENVELOPE(-170.1769013405, -64.5665435791, 71.6032483233, 24.7073204053)",
+  "solr_year_i": 2010
+}

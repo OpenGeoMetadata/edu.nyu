@@ -1,0 +1,46 @@
+{
+  "uuid": "http://hdl.handle.net/2451/34307",
+  "dc_identifier_s": "http://hdl.handle.net/2451/34307",
+  "dc_title_s": "1991 Block Boundaries of India",
+  "dc_description_s": "This layer is a polygon theme representing block boundaries of India for 1991 and includes socio-demographic Census attribute data such as total population, population by sex, and rural/urban populations. This data layer is sourced from secondary government sources (Survey of India, Census of India, Election Commission, etc.). This layer is part of the Historical Boundaries of India dataset showing decadal change in state boundaries of India since 1951.This dataset is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for state level demographic analysis within basic applications to support graphical overlays and analysis with other spatial data.",
+  "dc_rights_s": "Restricted",
+  "dct_provenance_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34307\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/bitstream/2451/34307/2/nyu_2451_34307.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://maps-restricted.nyusdr.net/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://maps-restricted.nyusdr.net/geoserver/sdr/wms\"}",
+  "layer_id_s": "sdr:nyu_2451_34307",
+  "layer_slug_s": "nyu_2451_34307",
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2015-12-15T20:9:43Z",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": "English",
+  "dc_type_s": "Dataset",
+  "dc_publisher_s": [
+    "ML InfoMap (Firm)"
+  ],
+  "dc_creator_sm": [
+
+  ],
+  "dc_subject_sm": [
+    "Sex ratio",
+    "Literacy",
+    "Population",
+    "Statistics",
+    "Administrative and political divisions",
+    "Boundaries",
+    "Society"
+  ],
+  "dct_isPartOf_sm": "Historical Boundaries of India",
+  "dct_issued_s": "2013",
+  "dct_temporal_sm": [
+    "1991"
+  ],
+  "dct_spatial_sm": [
+    "India"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/1269750/about/rdf"
+  ],
+  "georss_box_s": "6.747139 68.162834 35.504223 97.403305",
+  "georss_polygon_s": "6.747139 68.162834 35.504223 68.162834 35.504223 97.403305 6.747139 97.403305 6.747139 68.162834",
+  "solr_geom": "ENVELOPE(68.162834, 97.403305, 35.504223, 6.747139)",
+  "solr_year_i": 1991
+}

@@ -1,0 +1,55 @@
+{
+  "uuid": "http://hdl.handle.net/2451/34323",
+  "dc_identifier_s": "http://hdl.handle.net/2451/34323",
+  "dc_title_s": "2001 Meghalaya, India: Village Points with Socio-Demographic and Economic Census Data",
+  "dc_description_s": "This point shapefile shows village locations with socio-demographic and economic Census data for 2001 for the State of Meghalaya, India linked to the 2001 Census. Includes village socio-demographic and economic Census attribute data such as total population, population by sex, household, literacy and illiteracy rates, and employment by industry. This layer is part of the VillageMap dataset which includes socio-demographic and economic Census data for 2001 at the village level for all the states of India. This data layer is sourced from secondary government sources, chiefly Survey of India, Census of India, Election Commission, etc.  This dataset is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for village level demographic analysis within basic applications to support graphical overlays and analysis with other spatial data.",
+  "dc_rights_s": "Restricted",
+  "dct_provenance_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34323\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/bitstream/2451/34323/2/nyu_2451_34323.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://maps-restricted.nyusdr.net/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://maps-restricted.nyusdr.net/geoserver/sdr/wms\"}",
+  "layer_id_s": "sdr:nyu_2451_34323",
+  "layer_slug_s": "nyu_2451_34323",
+  "layer_geom_type_s": "Point",
+  "layer_modified_dt": "2015-12-15T20:9:33Z",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": "English",
+  "dc_type_s": "Dataset",
+  "dc_publisher_s": [
+    "ML InfoMap (Firm)"
+  ],
+  "dc_creator_sm": [
+
+  ],
+  "dc_subject_sm": [
+    "Human settlements",
+    "Villages",
+    "Census",
+    "Demography",
+    "Population",
+    "Sex ratio",
+    "Housing",
+    "Labor supply",
+    "Caste",
+    "Literacy",
+    "Society",
+    "Location"
+  ],
+  "dct_isPartOf_sm": "VillageMap of India",
+  "dct_issued_s": "2013",
+  "dct_temporal_sm": [
+    "2001"
+  ],
+  "dct_spatial_sm": [
+    "Meghalaya, India",
+    "Nongbah, Meghalaya, India",
+    "Shillong, Meghalaya, India"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/1263207/about/rdf",
+    "http://sws.geonames.org/1261213/about/rdf",
+    "http://sws.geonames.org/1256523/about/rdf"
+  ],
+  "georss_box_s": "25.013610839844 89.815536499023 26.07873916626 92.808059692383",
+  "georss_polygon_s": "25.013610839844 89.815536499023 26.07873916626 89.815536499023 26.07873916626 92.808059692383 25.013610839844 92.808059692383 25.013610839844 89.815536499023",
+  "solr_geom": "ENVELOPE(89.815536499023, 92.808059692383, 26.07873916626, 25.013610839844)",
+  "solr_year_i": 2001
+}

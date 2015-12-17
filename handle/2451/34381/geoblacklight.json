@@ -1,0 +1,49 @@
+{
+  "uuid": "http://hdl.handle.net/2451/34381",
+  "dc_identifier_s": "http://hdl.handle.net/2451/34381",
+  "dc_title_s": "2012 Uttarakhand, India: Post Delimitation Assembly Constituency Boundaries and Election Data",
+  "dc_description_s": "This data layer shows post-delimitation state Legislative Assembly constituency boundaries and data relating to the 2012 Assembly elections for the State of Uttarakhand, India. Map includes data for 70 constituencies. Includes attribute data on election parties, candidates, voters, and results. This layer is part of the Poll Map of India which includes parliamentary constituency boundaries for India, Assembly constituency boundaries for all states, and data relating to the past national elections for each State of India.This data can be used for election analysis, forecasting, and mapping: Enables profiling of individual constituencies, permits historical analysis of the data, and helps predictive estimate of the impact of regional and state-wise electorate swings on the performance of political parties. These data are intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production.",
+  "dc_rights_s": "Restricted",
+  "dct_provenance_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34381\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/bitstream/2451/34381/2/nyu_2451_34381.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://maps-restricted.nyusdr.net/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://maps-restricted.nyusdr.net/geoserver/sdr/wms\"}",
+  "layer_id_s": "sdr:nyu_2451_34381",
+  "layer_slug_s": "nyu_2451_34381",
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2015-12-15T20:9:14Z",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": "English",
+  "dc_type_s": "Dataset",
+  "dc_publisher_s": [
+    "ML InfoMap (Firm)"
+  ],
+  "dc_creator_sm": [
+
+  ],
+  "dc_subject_sm": [
+    "Elections",
+    "Political Parties",
+    "Voting",
+    "Politics and government",
+    "Boundaries",
+    "Society"
+  ],
+  "dct_isPartOf_sm": "PollMap of India",
+  "dct_issued_s": "2013",
+  "dct_temporal_sm": [
+    "2012"
+  ],
+  "dct_spatial_sm": [
+    "Uttarakhand, India",
+    "Dehra Dūn, Uttarakhand, India",
+    "Rishīkesh, Uttarakhand, India"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/1444366/about/rdf",
+    "http://sws.geonames.org/1273313/about/rdf",
+    "http://sws.geonames.org/1258128/about/rdf"
+  ],
+  "georss_box_s": "28.718791 77.601812 31.455041 81.047522",
+  "georss_polygon_s": "28.718791 77.601812 31.455041 77.601812 31.455041 81.047522 28.718791 81.047522 28.718791 77.601812",
+  "solr_geom": "ENVELOPE(77.601812, 81.047522, 31.455041, 28.718791)",
+  "solr_year_i": 2012
+}

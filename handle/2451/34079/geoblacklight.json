@@ -1,0 +1,43 @@
+{
+  "uuid": "http://hdl.handle.net/2451/34079",
+  "dc_identifier_s": "http://hdl.handle.net/2451/34079",
+  "dc_title_s": "2010 U.S. Telephone Area Code Boundaries",
+  "dc_description_s": "U.S. Telephone Area Code Boundaries represents the telephone area codes for the United States. They are also known as Numbering Plan Areas (NPA). The Numbering Plan Areas reflect current and accurate boundary changes both where new NPAs \"split\" from existing NPAs and where new NPAs \"overlay\" existing NPAs.",
+  "dc_rights_s": "Restricted",
+  "dct_provenance_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34079\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/bitstream/2451/34079/2/nyu_2451_34079.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://maps-restricted.nyusdr.net/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://maps-restricted.nyusdr.net/geoserver/sdr/wms\"}",
+  "layer_id_s": "sdr:nyu_2451_34079",
+  "layer_slug_s": "nyu_2451_34079",
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2015-11-23T15:25:33Z",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": "English",
+  "dc_type_s": "Dataset",
+  "dc_publisher_s": [
+    "Environmental Systems Research Institute (Redlands, Calif.)"
+  ],
+  "dc_creator_sm": [
+
+  ],
+  "dc_subject_sm": [
+    "Telephone",
+    "Boundaries"
+  ],
+  "dct_isPartOf_sm": "ESRI 10 USA Census",
+  "dct_issued_s": [
+
+  ],
+  "dct_temporal_sm": [
+    "2010"
+  ],
+  "dct_spatial_sm": [
+    "United States of America"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/6252001/about/rdf"
+  ],
+  "georss_box_s": "24.7073204053 -170.1769013405 71.6032483233 -64.5665435791",
+  "georss_polygon_s": "24.7073204053 -170.1769013405 71.6032483233 -170.1769013405 71.6032483233 -64.5665435791 24.7073204053 -64.5665435791 24.7073204053 -170.1769013405",
+  "solr_geom": "ENVELOPE(-170.1769013405, -64.5665435791, 71.6032483233, 24.7073204053)",
+  "solr_year_i": 2010
+}

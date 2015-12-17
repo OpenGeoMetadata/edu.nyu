@@ -1,0 +1,51 @@
+{
+  "uuid": "http://hdl.handle.net/2451/34436",
+  "dc_identifier_s": "http://hdl.handle.net/2451/34436",
+  "dc_title_s": "2008 Nagaland, India: Pre Delimitation State Assembly Constituency Boundaries and Election Data",
+  "dc_description_s": "This polygon shapefile shows pre-delimitation state Legislative Assembly constituency boundaries and data relating to the 2008 Assembly elections for the State of Nagaland, India. Includes attribute data on election parties, candidates, voters, and results. This layer is part of the Poll Map of India which includes parliamentary constituency boundaries for India, Assembly constituency boundaries for all states, and data relating to the past national elections for each State of India.This data can be used for election analysis, forecasting, and mapping: Enables profiling of individual constituencies, permits historical analysis of the data, and helps predictive estimate of the impact of regional and state-wise electorate swings on the performance of political parties. These data are intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production.",
+  "dc_rights_s": "Restricted",
+  "dct_provenance_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34436\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/bitstream/2451/34436/2/nyu_2451_34436.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://maps-restricted.nyusdr.net/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://maps-restricted.nyusdr.net/geoserver/sdr/wms\"}",
+  "layer_id_s": "sdr:nyu_2451_34436",
+  "layer_slug_s": "nyu_2451_34436",
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2015-12-15T20:9:20Z",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": "English",
+  "dc_type_s": "Dataset",
+  "dc_publisher_s": [
+    "ML InfoMap (Firm)"
+  ],
+  "dc_creator_sm": [
+
+  ],
+  "dc_subject_sm": [
+    "Elections",
+    "Political Parties",
+    "Voting",
+    "Politics and government",
+    "Boundaries",
+    "Society"
+  ],
+  "dct_isPartOf_sm": "PollMap of India",
+  "dct_issued_s": "2013",
+  "dct_temporal_sm": [
+    "2008"
+  ],
+  "dct_spatial_sm": [
+    "Nāgāland, Nagaland, India",
+    "Kohima, Nagaland, India",
+    "Phek, Nagaland, India",
+    "Zunheboto, Nagaland, India"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/1262271/about/rdf",
+    "http://sws.geonames.org/1266366/about/rdf",
+    "http://sws.geonames.org/1259785/about/rdf",
+    "http://sws.geonames.org/1252653/about/rdf"
+  ],
+  "georss_box_s": "25.159990310669 93.312637329102 27.008930206299 95.265663146973",
+  "georss_polygon_s": "25.159990310669 93.312637329102 27.008930206299 93.312637329102 27.008930206299 95.265663146973 25.159990310669 95.265663146973 25.159990310669 93.312637329102",
+  "solr_geom": "ENVELOPE(93.312637329102, 95.265663146973, 27.008930206299, 25.159990310669)",
+  "solr_year_i": 2008
+}

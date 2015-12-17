@@ -1,0 +1,59 @@
+{
+  "uuid": "http://hdl.handle.net/2451/34362",
+  "dc_identifier_s": "http://hdl.handle.net/2451/34362",
+  "dc_title_s": "2012 Himachal Pradesh, India: Post Delimitation Assembly Constituency Boundaries and Election Data",
+  "dc_description_s": "This data layer shows post-delimitation state Legislative Assembly constituency boundaries and data relating to the 2012 Assembly elections for the State of Himachal Pradesh, India. Includes attribute data on election parties, candidates, voters, and results. This layer is part of the Poll Map of India which includes parliamentary constituency boundaries for India, Assembly constituency boundaries for all states, and data relating to the past national elections for each State of India.This data can be used for election analysis, forecasting, and mapping: Enables profiling of individual constituencies, permits historical analysis of the data, and helps predictive estimate of the impact of regional and state-wise electorate swings on the performance of political parties. These data are intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production.",
+  "dc_rights_s": "Restricted",
+  "dct_provenance_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34362\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/bitstream/2451/34362/2/nyu_2451_34362.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://maps-restricted.nyusdr.net/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://maps-restricted.nyusdr.net/geoserver/sdr/wms\"}",
+  "layer_id_s": "sdr:nyu_2451_34362",
+  "layer_slug_s": "nyu_2451_34362",
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2015-12-15T20:9:15Z",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": "English",
+  "dc_type_s": "Dataset",
+  "dc_publisher_s": [
+    "ML InfoMap (Firm)"
+  ],
+  "dc_creator_sm": [
+
+  ],
+  "dc_subject_sm": [
+    "Elections",
+    "Political Parties",
+    "Voting",
+    "Politics and government",
+    "Boundaries",
+    "Society"
+  ],
+  "dct_isPartOf_sm": "PollMap of India",
+  "dct_issued_s": "2013",
+  "dct_temporal_sm": [
+    "2012"
+  ],
+  "dct_spatial_sm": [
+    "Himachal Pradesh, India",
+    "Shimla district, Himachal Pradesh, India",
+    "Manali, Himachal Pradesh, India",
+    "Dalhousie, Himachal Pradesh, India",
+    "Kasauli, Himachal Pradesh, India",
+    "Kāngra, Himachal Pradesh, India",
+    "Pāonta Sāhib, Himachal Pradesh, India",
+    "Solan, Himachal Pradesh, India"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/1270101/about/rdf",
+    "http://sws.geonames.org/1256238/about/rdf",
+    "http://sws.geonames.org/1263967/about/rdf",
+    "http://sws.geonames.org/1273648/about/rdf",
+    "http://sws.geonames.org/1267605/about/rdf",
+    "http://sws.geonames.org/1268085/about/rdf",
+    "http://sws.geonames.org/1260421/about/rdf",
+    "http://sws.geonames.org/1255851/about/rdf"
+  ],
+  "georss_box_s": "30.382219314575 75.651237487793 33.175651550293 78.998321533203",
+  "georss_polygon_s": "30.382219314575 75.651237487793 33.175651550293 75.651237487793 33.175651550293 78.998321533203 30.382219314575 78.998321533203 30.382219314575 75.651237487793",
+  "solr_geom": "ENVELOPE(75.651237487793, 78.998321533203, 33.175651550293, 30.382219314575)",
+  "solr_year_i": 2012
+}

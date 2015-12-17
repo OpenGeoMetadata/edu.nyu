@@ -1,0 +1,69 @@
+{
+  "uuid": "http://hdl.handle.net/2451/34404",
+  "dc_identifier_s": "http://hdl.handle.net/2451/34404",
+  "dc_title_s": "2003 Rajasthan, India: Pre Delimitation State Assembly Constituency Boundaries and Election Data",
+  "dc_description_s": "This polygon shapefile shows pre-delimitation state Legislative Assembly constituency boundaries and data relating to the 2003 Assembly elections for the State of Rajasthan, India. Includes attribute data on election parties, candidates, voters, and results. This layer is part of the Poll Map of India which includes parliamentary constituency boundaries for India, Assembly constituency boundaries for all states, and data relating to the past national elections for each State of India.This data can be used for election analysis, forecasting, and mapping: Enables profiling of individual constituencies, permits historical analysis of the data, and helps predictive estimate of the impact of regional and state-wise electorate swings on the performance of political parties. These data are intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production.",
+  "dc_rights_s": "Restricted",
+  "dct_provenance_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34404\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/bitstream/2451/34404/2/nyu_2451_34404.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://maps-restricted.nyusdr.net/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://maps-restricted.nyusdr.net/geoserver/sdr/wms\"}",
+  "layer_id_s": "sdr:nyu_2451_34404",
+  "layer_slug_s": "nyu_2451_34404",
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2015-12-15T20:9:26Z",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": "English",
+  "dc_type_s": "Dataset",
+  "dc_publisher_s": [
+    "ML InfoMap (Firm)"
+  ],
+  "dc_creator_sm": [
+
+  ],
+  "dc_subject_sm": [
+    "Elections",
+    "Political Parties",
+    "Voting",
+    "Politics and government",
+    "Boundaries",
+    "Society"
+  ],
+  "dct_isPartOf_sm": "PollMap of India",
+  "dct_issued_s": "2013",
+  "dct_temporal_sm": [
+    "2003"
+  ],
+  "dct_spatial_sm": [
+    "Rajasthan, India",
+    "Bānswāra, Rajasthan, India",
+    "Būndi, Rajasthan, India",
+    "Chittaurgarh, Rajasthan, India",
+    "Dhaulpur, Rajasthan, India",
+    "Jaisalmer, Rajasthan, India",
+    "Jhunjhunūn, Rajasthan, India",
+    "Jodhpur, Rajasthan, India",
+    "Sīkar, Rajasthan, India",
+    "Sirohi, Rajasthan, India",
+    "Udaipur, Rajasthan, India",
+    "Rajsamand, Rajasthan, India",
+    "Ramgarh, Rajasthan, India"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/1258899/about/rdf",
+    "http://sws.geonames.org/1277214/about/rdf",
+    "http://sws.geonames.org/1275104/about/rdf",
+    "http://sws.geonames.org/1274040/about/rdf",
+    "http://sws.geonames.org/1272805/about/rdf",
+    "http://sws.geonames.org/1269508/about/rdf",
+    "http://sws.geonames.org/1268937/about/rdf",
+    "http://sws.geonames.org/1268865/about/rdf",
+    "http://sws.geonames.org/1256321/about/rdf",
+    "http://sws.geonames.org/1256068/about/rdf",
+    "http://sws.geonames.org/1253989/about/rdf",
+    "http://sws.geonames.org/7701213/about/rdf",
+    "http://sws.geonames.org/1258677/about/rdf"
+  ],
+  "georss_box_s": "23.070020675659 69.484985351562 30.136001586914 78.262176513672",
+  "georss_polygon_s": "23.070020675659 69.484985351562 30.136001586914 69.484985351562 30.136001586914 78.262176513672 23.070020675659 78.262176513672 23.070020675659 69.484985351562",
+  "solr_geom": "ENVELOPE(69.484985351562, 78.262176513672, 30.136001586914, 23.070020675659)",
+  "solr_year_i": 2003
+}

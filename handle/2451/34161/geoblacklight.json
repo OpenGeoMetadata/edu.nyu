@@ -1,0 +1,47 @@
+{
+  "uuid": "http://hdl.handle.net/2451/34161",
+  "dc_identifier_s": "http://hdl.handle.net/2451/34161",
+  "dc_title_s": "2010 New York City Census Tracts for 2000 US Census",
+  "dc_description_s": "The Census Tracts for the 2000 US Census. These boundary files are derived from the US Census Bureau's TIGER project and have been geographically modified to fit the New York City base map. Because some census tract are under water not all census tracts are contained in this file, only census tracts that are partially or totally located on land have been mapped in this file.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34161\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/bitstream/2451/34161/2/nyu_2451_34161.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://maps-public.nyusdr.net/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://maps-public.nyusdr.net/geoserver/sdr/wms\"}",
+  "layer_id_s": "sdr:nyu_2451_34161",
+  "layer_slug_s": "nyu_2451_34161",
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2015-11-23T15:25:17Z",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": "English",
+  "dc_type_s": "Dataset",
+  "dc_publisher_s": [
+    "New York (City). Department of City Planning"
+  ],
+  "dc_creator_sm": [
+
+  ],
+  "dc_subject_sm": [
+    "Planning",
+    "Census",
+    "Tracts",
+    "Boundaries"
+  ],
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_issued_s": [
+
+  ],
+  "dct_temporal_sm": [
+    "2010"
+  ],
+  "dct_spatial_sm": [
+    "New York City, New York, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/5128581/about/rdf"
+  ],
+  "georss_box_s": "40.343124414571 -74.498383114354 41.085413785429 -73.513562685646",
+  "georss_polygon_s": "40.343124414571 -74.498383114354 41.085413785429 -74.498383114354 41.085413785429 -73.513562685646 40.343124414571 -73.513562685646 40.343124414571 -74.498383114354",
+  "solr_geom": "ENVELOPE(-74.498383114354, -73.513562685646, 41.085413785429, 40.343124414571)",
+  "solr_year_i": 2010
+}
