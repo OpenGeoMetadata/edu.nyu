@@ -5,11 +5,11 @@
   "dc_description_s": "U.S. and Canada Large Area Landmarks represents common landmark areas within the United States and Canada including military areas, hospitals, prisons, educational institutions, shopping centers, industrial parks, amusement centers, government centers, sport centers, golf courses, and cemeteries. This data set provides six feature classes for displaying the data at different scales. Everything about the feature classes is the same but the level of generalization and its name. The base feature class is called and isn't generalized. The least generalized feature class is called _1, the next more generalized feature class is called_2, and so on. For best performance, use the most appropriate feature class when displaying or printing.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "NYU",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34056\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/bitstream/2451/34056/2/nyu_2451_34056.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://maps-restricted.nyusdr.net/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://maps-restricted.nyusdr.net/geoserver/sdr/wms\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34056\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/bitstream/2451/34056/4/nyu_2451_34056.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\"}",
   "layer_id_s": "sdr:nyu_2451_34056",
   "layer_slug_s": "nyu_2451_34056",
   "layer_geom_type_s": "Point",
-  "layer_modified_dt": "2015-11-23T15:25:38Z",
+  "layer_modified_dt": "2016-1-30T4:4:3Z",
   "dc_format_s": "Shapefile",
   "dc_language_s": "English",
   "dc_type_s": [

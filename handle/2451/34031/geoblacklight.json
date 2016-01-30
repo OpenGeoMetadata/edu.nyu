@@ -5,11 +5,11 @@
   "dc_description_s": "LION is a single line representation of New York City streets containing address ranges and other information. This file can be used to geolocate existing datasets with New York City addresses.",
   "dc_rights_s": "Public",
   "dct_provenance_s": "NYU",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34031\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/bitstream/2451/34031/2/nyu_2451_34031.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://maps-public.nyusdr.net/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://maps-public.nyusdr.net/geoserver/sdr/wms\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34031\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/bitstream/2451/34031/4/nyu_2451_34031.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://maps-public.geo.nyu.edu/geoserver/sdr/wms\"}",
   "layer_id_s": "sdr:nyu_2451_34031",
   "layer_slug_s": "nyu_2451_34031",
   "layer_geom_type_s": "Line",
-  "layer_modified_dt": "2015-11-23T15:25:41Z",
+  "layer_modified_dt": "2016-1-30T4:4:6Z",
   "dc_format_s": "Shapefile",
   "dc_language_s": "English",
   "dc_type_s": [
