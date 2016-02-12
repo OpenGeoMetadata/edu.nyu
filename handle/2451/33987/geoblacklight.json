@@ -2,7 +2,7 @@
   "uuid": "http://hdl.handle.net/2451/33987",
   "dc_identifier_s": "http://hdl.handle.net/2451/33987",
   "dc_title_s": "Inclusionary Housing Designated Areas",
-  "dc_description_s": "A specified area in which the Inclusionary Housing Program is applicable. The program modifies the floor area ratio (FAR) and offers a bonus for developments that provide affordable housing.",
+  "dc_description_s": "This polygon shapefile layer represents the relevant areas of the Inclusionary Housing Program in New York City. The Inclusionary Housing Designated Areas Program was created in 2005 to encourage the creation and preservation of affordable housing in medium and high-density neighborhoods being rezoned to create new housing opportunities. The program modifies the base floor area ratio (FAR) available for developments and offers a floor area bonus for developments that provide affordable housing either on-site or within the surrounding community.",
   "dc_rights_s": "Public",
   "dct_provenance_s": "NYU",
   "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/33987\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/bitstream/2451/33987/2/nyu_2451_33987.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://maps-public.nyusdr.net/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://maps-public.nyusdr.net/geoserver/sdr/wms\"}",
