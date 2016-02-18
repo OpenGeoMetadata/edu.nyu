@@ -5,7 +5,7 @@
   "dc_description_s": "U.S. and Canada Detailed Streets represents streets, highways, roads with and without limited access, secondary and connecting roads, local and rural roads, roads with special characteristics, access ramps, and ferries within the United States and Canada. This data set contains road network features such as arterial classification, speed, and direction of travel. It contains address ranges for all addressable features with addresses.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "NYU",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34130\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/bitstream/2451/34130/4/nyu_2451_34130.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34130\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/bitstream/2451/34130/4/nyu_2451_34130.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\"}",
   "layer_id_s": "sdr:nyu_2451_34130",
   "layer_slug_s": "nyu_2451_34130",
   "layer_geom_type_s": "Line",

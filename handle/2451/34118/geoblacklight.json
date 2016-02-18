@@ -5,7 +5,7 @@
   "dc_description_s": "World Latitude and Longitude Grids represents a 5 by 5 degree latitude/longitude grid covering the world with attributes that allow it to display grids at intervals of 5, 10, 15, 20, and 30 degrees. To display a grid with a 5-degree interval, simply display all of the lines. To display a coarser grid (e.g., a 15-degree interval), in the Layer Properties dialog box, set the DEGREE15 attribute value equal to Y.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "NYU",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34118\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/bitstream/2451/34118/4/nyu_2451_34118.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34118\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/bitstream/2451/34118/4/nyu_2451_34118.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\"}",
   "layer_id_s": "sdr:nyu_2451_34118",
   "layer_slug_s": "nyu_2451_34118",
   "layer_geom_type_s": "Line",

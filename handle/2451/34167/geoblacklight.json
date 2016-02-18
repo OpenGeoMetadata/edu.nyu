@@ -5,7 +5,7 @@
   "dc_description_s": "The boundaries for New York City's Health Areas.",
   "dc_rights_s": "Public",
   "dct_provenance_s": "NYU",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34167\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/bitstream/2451/34167/4/nyu_2451_34167.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://maps-public.geo.nyu.edu/geoserver/sdr/wms\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34167\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/bitstream/2451/34167/4/nyu_2451_34167.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\"}",
   "layer_id_s": "sdr:nyu_2451_34167",
   "layer_slug_s": "nyu_2451_34167",
   "layer_geom_type_s": "Polygon",

@@ -5,7 +5,7 @@
   "dc_description_s": "This file contains the names and locations of state roads in China.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "NYU",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/33914\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/bitstream/2451/33914/2/nyu_2451_33914.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://maps-restricted.nyusdr.net/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://maps-restricted.nyusdr.net/geoserver/sdr/wms\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/33914\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/bitstream/2451/33914/2/nyu_2451_33914.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\"}",
   "layer_id_s": "sdr:nyu_2451_33914",
   "layer_slug_s": "nyu_2451_33914",
   "layer_geom_type_s": "Line",

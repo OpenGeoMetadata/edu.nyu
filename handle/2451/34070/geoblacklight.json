@@ -5,7 +5,7 @@
   "dc_description_s": "U.S. and Canada Postal Areas represents the five-digit ZIP Code areas of the United States and the three-character Forward Sortation Areas (FSA) of Canada. This data set provides six feature classes for displaying the data at different scales. Everything about the feature classes is the same but the level of generalization and its name. The base feature class is called and isn't generalized. The least generalized feature class is called _1, the next more generalized feature class is called _2, and so on. For best performance, use the most appropriate feature class when displaying or printing.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "NYU",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34070\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/bitstream/2451/34070/4/nyu_2451_34070.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34070\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/bitstream/2451/34070/4/nyu_2451_34070.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\"}",
   "layer_id_s": "sdr:nyu_2451_34070",
   "layer_slug_s": "nyu_2451_34070",
   "layer_geom_type_s": "Polygon",

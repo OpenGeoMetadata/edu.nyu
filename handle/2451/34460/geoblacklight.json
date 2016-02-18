@@ -5,7 +5,7 @@
   "dc_description_s": "This point shapefile layer represents locations of graffiti and street art collected by students during the Fall 2015 section of Art and Politics in the City at New York University. Students explored neighborhoods in New York and Buenos Aires and recorded pictures of graffiti and art with FulcrumApp. The data includes place notes, descriptions, categories for the art, and photos. A documentation file is available with the archival copy of the data.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "NYU",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34460\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/bitstream/2451/34460/2/nyu_2451_34460.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://maps-restricted.nyusdr.net/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://maps-restricted.nyusdr.net/geoserver/sdr/wms\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34460\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/bitstream/2451/34460/2/nyu_2451_34460.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\"}",
   "layer_id_s": "sdr:nyu_2451_34460",
   "layer_slug_s": "nyu_2451_34460",
   "layer_geom_type_s": "Point",

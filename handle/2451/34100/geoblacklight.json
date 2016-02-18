@@ -5,7 +5,7 @@
   "dc_description_s": "U.S. ZIP Code Points represents the five-digit U.S. ZIP Code areas as points, plus all ZIP Codes that have no area and are represented as points rather than areas such as Post-Office-Box ZIP Codes and unique ZIP Codes (for example, defining an organization).",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "NYU",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34100\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/bitstream/2451/34100/4/nyu_2451_34100.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34100\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/bitstream/2451/34100/4/nyu_2451_34100.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\"}",
   "layer_id_s": "sdr:nyu_2451_34100",
   "layer_slug_s": "nyu_2451_34100",
   "layer_geom_type_s": "Point",

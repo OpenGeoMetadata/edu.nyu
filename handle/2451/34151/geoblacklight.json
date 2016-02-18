@@ -5,7 +5,7 @@
   "dc_description_s": "Europe NUTS 2 Demographics represents areas of aggregated socioeconomic and demographic information at the NUTS 2 level for Europe. NUTS 2 units have an average population between 800,000 and 3,000,000 people. NUTS (Nomenclature des Units Territoriales Statistiques) refers to the Nomenclature of Territorial Units for Statistics. For more information: http://ec.europa.eu/eurostat/ramon/nuts/home_regions_en.html.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "NYU",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34151\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/bitstream/2451/34151/4/nyu_2451_34151.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34151\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/bitstream/2451/34151/4/nyu_2451_34151.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\"}",
   "layer_id_s": "sdr:nyu_2451_34151",
   "layer_slug_s": "nyu_2451_34151",
   "layer_geom_type_s": "Polygon",
