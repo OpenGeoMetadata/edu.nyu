@@ -5,7 +5,7 @@
   "dc_description_s": "U.S. Census Block Centroid Populations represents the populations of the U.S. Census blocks for United States. U.S. Census blocks are the smallest geographic entities within a county for which the Census Bureau tabulates population.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "NYU",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34081\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/bitstream/2451/34081/4/nyu_2451_34081.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34081\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/bitstream/2451/34081/4/nyu_2451_34081.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\"}",
   "layer_id_s": "sdr:nyu_2451_34081",
   "layer_slug_s": "nyu_2451_34081",
   "layer_geom_type_s": "Point",

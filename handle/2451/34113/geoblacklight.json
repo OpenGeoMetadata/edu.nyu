@@ -5,7 +5,7 @@
   "dc_description_s": "World Gazetteer represents the locations and proper names for map features around the world. The gazetteer includes attribute and annotation name information from various layers of the Digital Chart of the World.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "NYU",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34113\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/bitstream/2451/34113/4/nyu_2451_34113.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34113\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/bitstream/2451/34113/4/nyu_2451_34113.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\"}",
   "layer_id_s": "sdr:nyu_2451_34113",
   "layer_slug_s": "nyu_2451_34113",
   "layer_geom_type_s": "Polygon",
