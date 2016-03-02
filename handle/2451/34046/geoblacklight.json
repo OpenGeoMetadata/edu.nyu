@@ -8,7 +8,7 @@
   "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34046\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/bitstream/2451/34046/4/nyu_2451_34046.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\"}",
   "layer_id_s": "sdr:nyu_2451_34046",
   "layer_slug_s": "nyu_2451_34046",
-  "layer_geom_type_s": "Point",
+  "layer_geom_type_s": "Polygon",
   "layer_modified_dt": "2016-1-30T4:4:5Z",
   "dc_format_s": "Shapefile",
   "dc_language_s": "English",
