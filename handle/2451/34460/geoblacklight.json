@@ -11,10 +11,7 @@
   "layer_geom_type_s": "Point",
   "layer_modified_dt": "2016-3-11T19:7:57Z",
   "dc_format_s": "Shapefile",
-  "dc_language_s": [
-    "English",
-    "Spanish"
-  ],
+  "dc_language_s": "English",
   "dc_type_s": "Dataset",
   "dc_publisher_s": [
 
