@@ -5,7 +5,7 @@
   "dc_description_s": "This layer represents Buenos Aires 2014 population by comunas and barrios. Downloaded from http://www.estadistica.buenosaires.gob.ar/areas/hacienda/sis_estadistico/banco_datos/buscador.php?menu_id=34691",
   "dc_rights_s": "Public",
   "dct_provenance_s": "NYU",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34201\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/bitstream/2451/34201/2/nyu_2451_34201.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://maps-public.geo.nyu.edu/geoserver/sdr/wms\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34201\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/bitstream/2451/34201/2/nyu_2451_34201.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\"}",
   "layer_id_s": "sdr:nyu_2451_34201",
   "layer_slug_s": "nyu_2451_34201",
   "layer_geom_type_s": "Polygon",

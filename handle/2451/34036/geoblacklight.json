@@ -5,7 +5,7 @@
   "dc_description_s": "This map is the boundaries and the names of the hospital zone areas in Buenos Aires, Argentina. It is taken from the City of Buenos Aires GIS and data center, and full documentation is available at http://data.buenosaires.gob.ar/dataset/areas-hospitalarias/resource/c1caac1d-6055-44fa-9367-c30c36424610",
   "dc_rights_s": "Public",
   "dct_provenance_s": "NYU",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34036\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/bitstream/2451/34036/2/nyu_2451_34036.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://maps-public.geo.nyu.edu/geoserver/sdr/wms\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34036\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/bitstream/2451/34036/2/nyu_2451_34036.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\"}",
   "layer_id_s": "sdr:nyu_2451_34036",
   "layer_slug_s": "nyu_2451_34036",
   "layer_geom_type_s": "Polygon",
