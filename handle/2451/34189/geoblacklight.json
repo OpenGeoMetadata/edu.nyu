@@ -8,7 +8,7 @@
   "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34189\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/bitstream/2451/34189/4/nyu_2451_34189.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/geotiff/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/geotiff/wms\"}",
   "layer_id_s": "geotiff:brooklyn.0",
   "layer_slug_s": "nyu_2451_34189",
-  "layer_geom_type_s": "",
+  "layer_geom_type_s": "Raster",
   "layer_modified_dt": "2016-3-11T21:4:16Z",
   "dc_format_s": "GeoTIFF",
   "dc_language_s": "English",
