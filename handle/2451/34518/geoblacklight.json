@@ -1,0 +1,44 @@
+{
+  "uuid": "http://hdl.handle.net/2451/34518",
+  "dc_identifier_s": "http://hdl.handle.net/2451/34518",
+  "dc_title_s": "2011 Buenos Aires Election Results",
+  "dc_description_s": "This layer represents election returns by comuna in Buenos Aires, Argentina for the 2011 election.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34518\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/bitstream/2451/34518/2/nyu_2451_34518.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://maps-public.geo.nyu.edu/geoserver/sdr/wms\"}",
+  "layer_id_s": "sdr:nyu_2451_34518",
+  "layer_slug_s": "nyu_2451_34518",
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2016-3-11T19:8:0Z",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": "Spanish",
+  "dc_type_s": "Dataset",
+  "dc_publisher_s": [
+
+  ],
+  "dc_creator_sm": [
+
+  ],
+  "dc_subject_sm": [
+    "Election districts",
+    "Politics and culture",
+    "Elections"
+  ],
+  "dct_isPartOf_sm": "Art and Politics in the City",
+  "dct_issued_s": [
+
+  ],
+  "dct_temporal_sm": [
+    "2011"
+  ],
+  "dct_spatial_sm": [
+    "Buenos Aires, Buenos Aires F.D., Argentina"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/3435910/about/rdf"
+  ],
+  "georss_box_s": "-35.082544906698 -58.944383391729 -34.143752713587 -57.810072174677",
+  "georss_polygon_s": "-35.082544906698 -58.944383391729 -34.143752713587 -58.944383391729 -34.143752713587 -57.810072174677 -35.082544906698 -57.810072174677 -35.082544906698 -58.944383391729",
+  "solr_geom": "ENVELOPE(-58.944383391729, -57.810072174677, -34.143752713587, -35.082544906698)",
+  "solr_year_i": 2011
+}
