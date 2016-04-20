@@ -1,0 +1,42 @@
+{
+  "uuid": "http://hdl.handle.net/2451/34530",
+  "dc_identifier_s": "http://hdl.handle.net/2451/34530",
+  "dc_title_s": "2016 NYC Zoning Map Ammendments",
+  "dc_description_s": "This polygon shapefile layer represents the boundaries for all rezonings adopted since January 1, 2002 (STATUS = \"Adopted\") and current proposed rezonings (STATUS = \"Certified\"). Selected city-initiated text amendments to the Zoning Resolution since 2002 that have discrete geographical boundaries may be included.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34530\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/bitstream/2451/34530/2/nyu_2451_34530.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://maps-public.geo.nyu.edu/geoserver/sdr/wms\"}",
+  "layer_id_s": "sdr:nyu_2451_34530",
+  "layer_slug_s": "nyu_2451_34530",
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2016-4-20T21:31:20Z",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": "English",
+  "dc_type_s": "Dataset",
+  "dc_publisher_s": [
+    "New York (City). Department of City Planning"
+  ],
+  "dc_creator_sm": [
+
+  ],
+  "dc_subject_sm": [
+    "Zoning",
+    "Districts",
+    "Special districts"
+  ],
+  "dct_isPartOf_sm": "Bytes of the Big Apple",
+  "dct_issued_s": "2016",
+  "dct_temporal_sm": [
+    "2016"
+  ],
+  "dct_spatial_sm": [
+    "New York, New York, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/5128581/about/rdf"
+  ],
+  "georss_box_s": "40.343124414571 -74.498383114354 41.085413785429 -73.513562685646",
+  "georss_polygon_s": "40.343124414571 -74.498383114354 41.085413785429 -74.498383114354 41.085413785429 -73.513562685646 40.343124414571 -73.513562685646 40.343124414571 -74.498383114354",
+  "solr_geom": "ENVELOPE(-74.498383114354, -73.513562685646, 41.085413785429, 40.343124414571)",
+  "solr_year_i": 2016
+}

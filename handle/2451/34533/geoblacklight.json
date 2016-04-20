@@ -1,0 +1,44 @@
+{
+  "uuid": "http://hdl.handle.net/2451/34533",
+  "dc_identifier_s": "http://hdl.handle.net/2451/34533",
+  "dc_title_s": "2016 Zones for Sidewalk Cafes in New York City",
+  "dc_description_s": "This polygon shapefile feature class is a spatial representation of the Sidewalk Cafe regulations in the New York City Zoning Resolution, Chapter 1, Article 4 as of February, 2016. The CafeType field indicates the types of Sidewalk Cafes that are permitted, including All Cafes (includes Enclosed, Unenclosed, and Small), Unenclosed Only (includes Small), Small Only, and Not Permitted (for locations where the zoning would normally permit, but some other regulation prohibits). Lines are coincident with the Department Of Finance Tax Block edges. This dataset is maintained to reflect changes to mapped zoning districts or zoning text amendments as they are adopted by the City Council. Note that this dataset changes frequently, as updates to the zoning for sidewalk cafes occur with monthly city council meetings. Users may want to refer to Bytes of the Big Apple to discover more recent sets. These features only indicate areas where certain cafes types should or should not be allowed according to zoning regulations. The Department of Consumer Affairs approval is always required for sidewalk cafes.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34533\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/bitstream/2451/34533/2/nyu_2451_34533.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://maps-public.geo.nyu.edu/geoserver/sdr/wms\"}",
+  "layer_id_s": "sdr:nyu_2451_34533",
+  "layer_slug_s": "nyu_2451_34533",
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2016-4-20T21:31:20Z",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": "English",
+  "dc_type_s": "Dataset",
+  "dc_publisher_s": [
+    "New York (City). Department of City Planning"
+  ],
+  "dc_creator_sm": [
+
+  ],
+  "dc_subject_sm": [
+    "Food",
+    "Sidewalks",
+    "Food trucks",
+    "Restaurants",
+    "Zoning"
+  ],
+  "dct_isPartOf_sm": "Bytes of the Big Apple",
+  "dct_issued_s": "2016",
+  "dct_temporal_sm": [
+    "2016"
+  ],
+  "dct_spatial_sm": [
+    "New York, New York, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/5128581/about/rdf"
+  ],
+  "georss_box_s": "40.343124414571 -74.498383114354 41.085413785429 -73.513562685646",
+  "georss_polygon_s": "40.343124414571 -74.498383114354 41.085413785429 -74.498383114354 41.085413785429 -73.513562685646 40.343124414571 -73.513562685646 40.343124414571 -74.498383114354",
+  "solr_geom": "ENVELOPE(-74.498383114354, -73.513562685646, 41.085413785429, 40.343124414571)",
+  "solr_year_i": 2016
+}
