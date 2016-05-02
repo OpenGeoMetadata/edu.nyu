@@ -5,7 +5,7 @@
   "dc_description_s": "U.S. and Canada Highways represents the major highways of the United States and Canada. These include interstates and inter-metropolitan area highways and major roads.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "NYU",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34052\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/bitstream/2451/34052/4/nyu_2451_34052.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34052\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/73373/nyu_2451_34052.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\"}",
   "layer_id_s": "sdr:nyu_2451_34052",
   "layer_slug_s": "nyu_2451_34052",
   "layer_geom_type_s": "Line",

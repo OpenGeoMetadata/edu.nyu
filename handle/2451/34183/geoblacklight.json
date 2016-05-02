@@ -5,7 +5,7 @@
   "dc_description_s": "U.S. State Plane Zones (NAD 1983) represents the State Plane Coordinate System (SPCS) Zones for the 1983 North American Datum within United States. Several State Plane Coordinate System zones are not shown in this dataset, including Puerto Rico, the U.S. Virgin Islands, American Samoa, Guam, and Louisiana's offshore zone.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "NYU",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34183\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/bitstream/2451/34183/4/nyu_2451_34183.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34183\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/73116/nyu_2451_34183.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\"}",
   "layer_id_s": "sdr:nyu_2451_34183",
   "layer_slug_s": "nyu_2451_34183",
   "layer_geom_type_s": "Polygon",

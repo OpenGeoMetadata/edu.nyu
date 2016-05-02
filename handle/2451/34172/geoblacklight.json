@@ -5,7 +5,7 @@
   "dc_description_s": "New York State Senate district boundaries for the City of New York. These district boundaries represent the redistricting as of the US Census 2000.",
   "dc_rights_s": "Public",
   "dct_provenance_s": "NYU",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34172\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/bitstream/2451/34172/4/nyu_2451_34172.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34172\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/73141/nyu_2451_34172.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\"}",
   "layer_id_s": "sdr:nyu_2451_34172",
   "layer_slug_s": "nyu_2451_34172",
   "layer_geom_type_s": "Polygon",

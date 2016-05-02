@@ -5,7 +5,7 @@
   "dc_description_s": "This layer represents the Buenos Aires 2012 average income by comunas. Downloaded from http://www.estadistica.buenosaires.gob.ar/areas/hacienda/sis_estadistico/banco_datos/buscador.php?menu_id=34691",
   "dc_rights_s": "Public",
   "dct_provenance_s": "NYU",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34199\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/bitstream/2451/34199/2/nyu_2451_34199.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34199\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/73705/nyu_2451_34199.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\"}",
   "layer_id_s": "sdr:nyu_2451_34199",
   "layer_slug_s": "nyu_2451_34199",
   "layer_geom_type_s": "Polygon",

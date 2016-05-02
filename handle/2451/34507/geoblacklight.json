@@ -1,0 +1,68 @@
+{
+  "uuid": "http://hdl.handle.net/2451/34507",
+  "dc_identifier_s": "http://hdl.handle.net/2451/34507",
+  "dc_title_s": "2010 New York City Coastal Water and Rivers",
+  "dc_description_s": "This polygon layer is a subset and combination of the Census TIGER county water files for all counties in the metro region, re-projected to local state plane. Individual water features that were of significant collective size and that would be appropriate for city-level maps were selected from the master water feature set (nyu_2451_34516), with particular attention paid to areas around and along: the Atlantic Coast, Long Island Sound, Hudson River, East River, Harlem River, Arthur Kill, Hackensack River, Passaic River, New York Bay, Newark Bay, Raritan Bay, and Jamaica Bay. This data was created as part of the NYC Geodatabase (NYC GDB) project, a resource designed for basic geographic analysis and thematic mapping within the five boroughs of New York City.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Baruch CUNY",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34507\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/74622/nyu_2451_34507.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\"}",
+  "layer_id_s": "sdr:nyu_2451_34507",
+  "layer_slug_s": "nyu_2451_34507",
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2016-5-2T18:21:4Z",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": "English",
+  "dc_type_s": "Dataset",
+  "dc_publisher_s": [
+    "Newman Library (Bernard M. Baruch College)"
+  ],
+  "dc_creator_sm": "GIS Lab, Newman Library, Baruch CUNY",
+  "dc_subject_sm": [
+    "Rivers",
+    "Water",
+    "Bays",
+    "Coasts",
+    "Bodies of water"
+  ],
+  "dct_isPartOf_sm": "NYC Geodatabase (version jan2016)",
+  "dct_issued_s": "1/15/2016",
+  "dct_temporal_sm": [
+    "2010"
+  ],
+  "dct_spatial_sm": [
+    "New York City, New York, United States",
+    "Bronx County, New York, United States",
+    "Kings County, New York, United States",
+    "New York County, New York, United States",
+    "Queens County, New York, United States",
+    "Richmond County, New York, United States",
+    "Nassau County, New York, United States",
+    "Suffolk County, New York, United States",
+    "Westchester County, New York, United States",
+    "Borough of Bronx, New York, United States",
+    "Borough of Brooklyn, New York, United States",
+    "Borough of Manhattan, New York, United States",
+    "Borough of Queens, New York, United States",
+    "Borough of Staten Island, New York, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/5128581/about/rdf",
+    "http://sws.geonames.org/5110253/about/rdf",
+    "http://sws.geonames.org/6941775/about/rdf",
+    "http://sws.geonames.org/5128594/about/rdf",
+    "http://sws.geonames.org/5133268/about/rdf",
+    "http://sws.geonames.org/5139559/about/rdf",
+    "http://sws.geonames.org/5128316/about/rdf",
+    "http://sws.geonames.org/5140076/about/rdf",
+    "http://sws.geonames.org/5144050/about/rdf",
+    "http://sws.geonames.org/5110266/about/rdf",
+    "http://sws.geonames.org/5110302/about/rdf",
+    "http://sws.geonames.org/5125771/about/rdf",
+    "http://sws.geonames.org/5133273/about/rdf",
+    "http://sws.geonames.org/5139568/about/rdf"
+  ],
+  "georss_box_s": "40.343124414571 -74.498383114354 41.085413785429 -73.513562685646",
+  "georss_polygon_s": "40.343124414571 -74.498383114354 41.085413785429 -74.498383114354 41.085413785429 -73.513562685646 40.343124414571 -73.513562685646 40.343124414571 -74.498383114354",
+  "solr_geom": "ENVELOPE(-74.498383114354, -73.513562685646, 41.085413785429, 40.343124414571)",
+  "solr_year_i": 2010
+}

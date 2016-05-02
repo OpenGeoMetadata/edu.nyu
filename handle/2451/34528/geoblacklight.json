@@ -5,7 +5,7 @@
   "dc_description_s": "This polygon shapefile layer features the Special Purpose Districts and their associated sub-districts. The main district designation is indicated in the SDNAME attribute. The abbreviation as shown on the zoning map is indicated in the SDLBL attribute. Note that these zones change frequently, and users may want to consult more recent releases at Bytes of the Big Apple.",
   "dc_rights_s": "Public",
   "dct_provenance_s": "NYU",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34528\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/bitstream/2451/34528/2/nyu_2451_34528.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://maps-public.geo.nyu.edu/geoserver/sdr/wms\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34528\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/74468/nyu_2451_34528.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://maps-public.geo.nyu.edu/geoserver/sdr/wms\"}",
   "layer_id_s": "sdr:nyu_2451_34528",
   "layer_slug_s": "nyu_2451_34528",
   "layer_geom_type_s": "Polygon",

@@ -5,7 +5,7 @@
   "dc_description_s": "U.S. Major Roads represents interstates, freeways, U.S. and state highways, major streets and roads, primary, secondary, and local roads, access ramps, ferry crossings, and other major thoroughfares within the United States.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "NYU",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34178\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/bitstream/2451/34178/4/nyu_2451_34178.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34178\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/73126/nyu_2451_34178.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\"}",
   "layer_id_s": "sdr:nyu_2451_34178",
   "layer_slug_s": "nyu_2451_34178",
   "layer_geom_type_s": "Line",

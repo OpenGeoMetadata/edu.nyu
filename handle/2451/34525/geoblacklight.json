@@ -5,7 +5,7 @@
   "dc_description_s": "This polygon shapefile layer contains features representing the Limited Height Districts. The main district designation is indicated in the LHNAME attribute. The abbreviation as shown on the zoning map is indicated in the LHLBL attribute. Note that these zones change frequently, and users may want to consult more recent releases at Bytes of the Big Apple.",
   "dc_rights_s": "Public",
   "dct_provenance_s": "NYU",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34525\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/bitstream/2451/34525/2/nyu_2451_34525.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://maps-public.geo.nyu.edu/geoserver/sdr/wms\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34525\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/74459/nyu_2451_34525.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://maps-public.geo.nyu.edu/geoserver/sdr/wms\"}",
   "layer_id_s": "sdr:nyu_2451_34525",
   "layer_slug_s": "nyu_2451_34525",
   "layer_geom_type_s": "Polygon",

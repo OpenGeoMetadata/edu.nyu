@@ -5,7 +5,7 @@
   "dc_description_s": "U.S. Recreation Areas represents point locations within the United States for common recreational landmarks including golf courses, amusement parks, beaches, and park and recreation areas.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "NYU",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34147\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/bitstream/2451/34147/4/nyu_2451_34147.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34147\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/73200/nyu_2451_34147.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\"}",
   "layer_id_s": "sdr:nyu_2451_34147",
   "layer_slug_s": "nyu_2451_34147",
   "layer_geom_type_s": "Polygon",

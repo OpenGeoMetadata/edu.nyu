@@ -5,7 +5,7 @@
   "dc_description_s": "U.S. Highways represents the major and minor highways of the United States. These include interstates, U.S. highways, state highways, major roads, and minor roads. This dataset is from the Census 2000 TIGER/Line files. It contains all Class 1, 2, and 3 road segments plus any other roads segments necessary to provide network connectivity for the Class_Rte field.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "NYU",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34175\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/bitstream/2451/34175/4/nyu_2451_34175.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34175\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/73135/nyu_2451_34175.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\"}",
   "layer_id_s": "sdr:nyu_2451_34175",
   "layer_slug_s": "nyu_2451_34175",
   "layer_geom_type_s": "Line",

@@ -5,7 +5,7 @@
   "dc_description_s": "U.S. Census Tracts represents the U.S. Census tracts of the United States in the 50 states, the District of Columbia, and Puerto Rico.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "NYU",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34095\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/bitstream/2451/34095/4/nyu_2451_34095.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34095\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/73317/nyu_2451_34095.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\"}",
   "layer_id_s": "sdr:nyu_2451_34095",
   "layer_slug_s": "nyu_2451_34095",
   "layer_geom_type_s": "Polygon",

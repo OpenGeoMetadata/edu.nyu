@@ -5,7 +5,7 @@
   "dc_description_s": "This polygon shapefile layer represents New York City Atomic Polygons. Formerly known as a dynamic block, an Atomic Polygon is a minimal polygon formed by most LION file segments (exceptions include ‘paper street’ and ‘alley’ segments). ‘Minimal’ means the polygon is not subdivided by LION segments (other than the noted exceptions) into smaller polygons.  An Atomic Polygon can contain segments of various types in its interior: paper street segments (FEATURE TYPE = ‘5’), dead end segments (SEGMENT LOCATIONAL STATUS = ‘I’), ‘land-hooked’ segments (SEGMENT LOCATIONAL STATUS = ‘H’), and alley segments (FEATURE TYPE = ‘A’).  Atomic Polygon numbers are unique within 2010 Census tracts.",
   "dc_rights_s": "Public",
   "dct_provenance_s": "NYU",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34563\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/bitstream/2451/34563/2/nyu_2451_34563.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://maps-public.geo.nyu.edu/geoserver/sdr/wms\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34563\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/74560/nyu_2451_34563.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://maps-public.geo.nyu.edu/geoserver/sdr/wms\"}",
   "layer_id_s": "sdr:nyu_2451_34563",
   "layer_slug_s": "nyu_2451_34563",
   "layer_geom_type_s": "Polygon",

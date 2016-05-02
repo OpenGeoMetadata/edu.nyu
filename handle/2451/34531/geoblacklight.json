@@ -5,7 +5,7 @@
   "dc_description_s": "This polygon shapefile layer represents areas where  zoning and discretionary tax incentives are available for the development, expansion and renovation of full line grocery stores and supermarkets. This is a geographic file created by the New York City Department of City Planning, showing eligible areas for zoning incentives and eligible areas for tax incentives through the NYC Industrial Development Agency. For more information on the FRESH program and other incentives targeting grocery stores, please see www.nyc.gov/FRESH, or download the report in the archival copy.",
   "dc_rights_s": "Public",
   "dct_provenance_s": "NYU",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34531\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/bitstream/2451/34531/2/nyu_2451_34531.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://maps-public.geo.nyu.edu/geoserver/sdr/wms\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34531\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/74477/nyu_2451_34531.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://maps-public.geo.nyu.edu/geoserver/sdr/wms\"}",
   "layer_id_s": "sdr:nyu_2451_34531",
   "layer_slug_s": "nyu_2451_34531",
   "layer_geom_type_s": "Polygon",

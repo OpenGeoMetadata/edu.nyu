@@ -1,0 +1,45 @@
+{
+  "uuid": "http://hdl.handle.net/2451/34497",
+  "dc_identifier_s": "http://hdl.handle.net/2451/34497",
+  "dc_title_s": "2015 New York City PATH Stations and Ridership",
+  "dc_description_s": "This point layer is a subset of the NJ Transit passenger railroad stations shapefile file that has been combined with ridership data from the Port Authority of NY and NJ. The data was re-projected to NY state plane and contains just the PATH train stations that are in NYC. Annual, average weekday, and average weekend ridership is provided for 2012 to 2014. The unique ID is atis_id, a field created by NJ Transit. This layer was created as part of the NYC Geodatabase (NYC GDB) project, a resource designed for basic geographic analysis and thematic mapping within the five boroughs of New York City.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Baruch CUNY",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34497\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/74612/nyu_2451_34497.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\"}",
+  "layer_id_s": "sdr:nyu_2451_34497",
+  "layer_slug_s": "nyu_2451_34497",
+  "layer_geom_type_s": "Point",
+  "layer_modified_dt": "2016-5-2T18:21:6Z",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": "English",
+  "dc_type_s": "Dataset",
+  "dc_publisher_s": [
+    "Newman Library (Bernard M. Baruch College)"
+  ],
+  "dc_creator_sm": "GIS Lab, Newman Library, Baruch CUNY",
+  "dc_subject_sm": [
+    "Subway stations",
+    "Transportation",
+    "Urban transportation",
+    "Local transit"
+  ],
+  "dct_isPartOf_sm": "NYC Geodatabase (version jan2016)",
+  "dct_issued_s": "1/15/2016",
+  "dct_temporal_sm": [
+    "2015"
+  ],
+  "dct_spatial_sm": [
+    "New York, New York, United States",
+    "New York County, New York, United States",
+    "Borough of Manhattan, New York, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/5128581/about/rdf",
+    "http://sws.geonames.org/5128594/about/rdf",
+    "http://sws.geonames.org/5125771/about/rdf"
+  ],
+  "georss_box_s": "40.343124414571 -74.498383114354 41.085413785429 -73.513562685646",
+  "georss_polygon_s": "40.343124414571 -74.498383114354 41.085413785429 -74.498383114354 41.085413785429 -73.513562685646 40.343124414571 -73.513562685646 40.343124414571 -74.498383114354",
+  "solr_geom": "ENVELOPE(-74.498383114354, -73.513562685646, 41.085413785429, 40.343124414571)",
+  "solr_year_i": 2015
+}
