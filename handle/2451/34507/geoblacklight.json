@@ -5,7 +5,7 @@
   "dc_description_s": "This polygon layer is a subset and combination of the Census TIGER county water files for all counties in the metro region, re-projected to local state plane. Individual water features that were of significant collective size and that would be appropriate for city-level maps were selected from the master water feature set (nyu_2451_34516), with particular attention paid to areas around and along: the Atlantic Coast, Long Island Sound, Hudson River, East River, Harlem River, Arthur Kill, Hackensack River, Passaic River, New York Bay, Newark Bay, Raritan Bay, and Jamaica Bay. This data was created as part of the NYC Geodatabase (NYC GDB) project, a resource designed for basic geographic analysis and thematic mapping within the five boroughs of New York City.",
   "dc_rights_s": "Public",
   "dct_provenance_s": "Baruch CUNY",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34507\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/74622/nyu_2451_34507.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34507\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/74706/nyu_2451_34507.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\"}",
   "layer_id_s": "sdr:nyu_2451_34507",
   "layer_slug_s": "nyu_2451_34507",
   "layer_geom_type_s": "Polygon",
