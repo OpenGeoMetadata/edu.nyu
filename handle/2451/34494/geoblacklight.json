@@ -5,7 +5,7 @@
   "dc_description_s": "This point layer is an extract of NYC's Selected Facilities and Programs database that has been converted to a spatial layer. The data was taken \"as is\" and was not verified for accuracy or omissions. It includes all facilities coded as hospitals (factype 3102). The capacity field is the number of certified hospital beds as of December 2014 as reported by the NYS Dept of Health. The unique ID is id; a field created by the City. This layer was created as part of the NYC Geodatabase (NYC GDB) project, a resource designed for basic geographic analysis and thematic mapping within the five boroughs of New York City.",
   "dc_rights_s": "Public",
   "dct_provenance_s": "Baruch CUNY",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34494\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/74693/nyu_2451_34494.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34494\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/74693/nyu_2451_34494.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"http://metadata.geo.nyu.edu/records/edu.nyu/handle/2451/34494/iso19139.xml\"}",
   "layer_id_s": "sdr:nyu_2451_34494",
   "layer_slug_s": "nyu_2451_34494",
   "layer_geom_type_s": "Point",

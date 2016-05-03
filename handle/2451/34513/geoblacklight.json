@@ -5,7 +5,7 @@
   "dc_description_s": "This polygon layer is a subset of the Census TIGER census tract file, re-projected to local state plane. The content of this layer has not been modified from its original version, and contains official census tract boundaries. Tracts are statistical areas built from census blockgroups that are designed to have an ideal size of 4,000 residents, with range of 1,200 to 8,000. The unique ID is geoid; the FIPS state-county-tract number code. This layer was created as part of the NYC Geodatabase (NYC GDB) project, a resource designed for basic geographic analysis and thematic mapping within the five boroughs of New York City.",
   "dc_rights_s": "Public",
   "dct_provenance_s": "Baruch CUNY",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34513\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/74712/nyu_2451_34513.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34513\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/74712/nyu_2451_34513.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"http://metadata.geo.nyu.edu/records/edu.nyu/handle/2451/34513/iso19139.xml\"}",
   "layer_id_s": "sdr:nyu_2451_34513",
   "layer_slug_s": "nyu_2451_34513",
   "layer_geom_type_s": "Polygon",
