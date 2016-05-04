@@ -1,0 +1,45 @@
+{
+  "uuid": "http://hdl.handle.net/2451/34596",
+  "dc_identifier_s": "http://hdl.handle.net/2451/34596",
+  "dc_title_s": "2016 Spring Semester Student Data for Art and Politics in the City",
+  "dc_description_s": "This point shapefile layer represents locations of graffiti and street art collected by students during the Spring 2016 section of Art and Politics in the City at New York University. Students explored neighborhoods in New York and Buenos Aires and recorded pictures of graffiti and art with FulcrumApp. The data includes place notes, descriptions, categories for the art, and photos. A documentation file is available with the archival copy of the data.",
+  "dc_rights_s": "Restricted",
+  "dct_provenance_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34596\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/74772/nyu_2451_34596.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\"}",
+  "layer_id_s": "sdr:nyu_2451_34596",
+  "layer_slug_s": "nyu_2451_34596",
+  "layer_geom_type_s": "Point",
+  "layer_modified_dt": "2016-5-4T20:45:15Z",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": "English",
+  "dc_type_s": "Dataset",
+  "dc_publisher_s": [],
+  "dc_creator_sm": "Jenny Kijowski",
+  "dc_subject_sm": [
+    "Graffiti",
+    "Graffiti artists",
+    "Art",
+    "Politics and culture",
+    "Cities and towns",
+    "Public spaces in art",
+    "Public spaces",
+    "Vandalism"
+  ],
+  "dct_isPartOf_sm": "Art and Politics in the City",
+  "dct_issued_s": "2016",
+  "dct_temporal_sm": [
+    "2016"
+  ],
+  "dct_spatial_sm": [
+    "New York, New York, United States",
+    "Buenos Aires, Buenos Aires F.D., Argentina"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/5128581/about/rdf",
+    "http://sws.geonames.org/3435910/about/rdf"
+  ],
+  "georss_box_s": "-35.2456190942 -75.4541015625 41.8669137903 -53.9208984375",
+  "georss_polygon_s": "-35.2456190942 -75.4541015625 41.8669137903 -75.4541015625 41.8669137903 -53.9208984375 -35.2456190942 -53.9208984375 -35.2456190942 -75.4541015625",
+  "solr_geom": "ENVELOPE(-75.4541015625, -53.9208984375, 41.8669137903, -35.2456190942)",
+  "solr_year_i": 2016
+}
