@@ -5,7 +5,7 @@
   "dc_description_s": "This Esri geodatabase contains data from the American Community Survey (ACS) during the years of 2009-2013 as well as data from the Office of Management and Budget (OMB) and Neilson Media Research. This geodatabase allows for easy analysis of the impact of population changes on local services and sites. Esri's ACS data provides much of the information previously available through the decennial census. For ease of use, Esri developed a proprietary system of reliability symbols that identify the accuracy of the ACS estimates. ACS data categories offered by Esri include the following: Population—Total population, marital status, language, poverty; School and work—School enrollment, educational attainment, travel time and means of transportation to work; Households—Total households, poverty status, income, home value, rent, vehicles available, mortgage status; Housing—Total housing units, number of units in structure, year built. For information on the ACS methodology and variable names, see the documentation.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "NYU",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34603\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/bitstream/2451/34603/4/nyu_2451_34603.zip\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34603\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/74788/nyu_2451_34603.zip\",\"http://schema.org/additionalType\":\"https://archive.nyu.edu/retrieve/74789/nyu_2451_34603_doc.zip\"}",
   "layer_id_s": "sdr:nyu_2451_34603",
   "layer_slug_s": "nyu_2451_34603",
   "layer_geom_type_s": "Polygon",

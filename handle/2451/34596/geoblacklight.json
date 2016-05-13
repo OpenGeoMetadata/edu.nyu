@@ -13,7 +13,9 @@
   "dc_format_s": "Shapefile",
   "dc_language_s": "English",
   "dc_type_s": "Dataset",
-  "dc_publisher_s": [],
+  "dc_publisher_s": [
+
+  ],
   "dc_creator_sm": "Jenny Kijowski",
   "dc_subject_sm": [
     "Graffiti",
