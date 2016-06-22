@@ -5,7 +5,7 @@
   "dc_description_s": "This image is a 1:100,000 scale topographic map produced by the Soviet military in 1978. Maps produced by the Soviet military were believed to be used as an organizing framework for knowledge about the world and were compiled through a combination of aerial intelligence and on-the-ground observation. Sheet numbering is based on the alphanumeric system adopted by the International Map of the World (IMW), in which the globe is divided into equal-sized zones based upon latitude and longitude. Each zone is further subdivided so that the position of a sheet at the full range of scales can be deduced. The date and factory of production of each map are provided in a unique code that is embedded within the outer border, usually at the bottom right. For more information, see the manual and scholarship of John M. Davies and Alexander Kent in the documentation.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "NYU",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34714\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/bitstream/2451/34714/4/nyu_2451_34714.zip\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34714\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/75103/nyu_2451_34714.jpg\"}",
   "layer_id_s": "sdr:nyu_2451_34714",
   "layer_slug_s": "nyu_2451_34714",
   "layer_geom_type_s": "Image",
