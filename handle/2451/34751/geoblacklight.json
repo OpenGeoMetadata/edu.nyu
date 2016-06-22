@@ -1,0 +1,83 @@
+{
+  "uuid": "http://hdl.handle.net/2451/34751",
+  "dc_identifier_s": "http://hdl.handle.net/2451/34751",
+  "dc_title_s": "1978 Topographic Map of UAE (1:100k), Sheet 6-40-088",
+  "dc_description_s": "This image is a 1:100,000 scale topographic map produced by the Soviet military in 1978. Maps produced by the Soviet military were believed to be used as an organizing framework for knowledge about the world and were compiled through a combination of aerial intelligence and on-the-ground observation. Sheet numbering is based on the alphanumeric system adopted by the International Map of the World (IMW), in which the globe is divided into equal-sized zones based upon latitude and longitude. Each zone is further subdivided so that the position of a sheet at the full range of scales can be deduced. The date and factory of production of each map are provided in a unique code that is embedded within the outer border, usually at the bottom right. For more information, see the manual and scholarship of John M. Davies and Alexander Kent in the documentation.",
+  "dc_rights_s": "Restricted",
+  "dct_provenance_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34751\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/75139/nyu_2451_34751.jpg\"}",
+  "layer_id_s": "sdr:nyu_2451_34751",
+  "layer_slug_s": "nyu_2451_34751",
+  "layer_geom_type_s": "Image",
+  "layer_modified_dt": "2016-6-22T14:16:6Z",
+  "dc_format_s": "JPG",
+  "dc_language_s": "Russian",
+  "dc_type_s": "Dataset",
+  "dc_publisher_s": [
+    "Omni Resources (Firm)"
+  ],
+  "dc_creator_sm": [
+
+  ],
+  "dc_subject_sm": [
+    "Soviet Union--Administrative and political divisions--Maps",
+    "Soviet Union--Maps",
+    "Soviet Union--Military policy",
+    "Espionage"
+  ],
+  "dct_isPartOf_sm": "Soviet 1:100k of UAE",
+  "dct_issued_s": [
+
+  ],
+  "dct_temporal_sm": [
+    "1978"
+  ],
+  "dct_spatial_sm": [
+    "Umm al Qaywayn, United Arab Emirates",
+    "Ajman, United Arab Emirates",
+    "Umm al-Quwain, United Arab Emirates",
+    "Falaj al Mu‘allā, United Arab Emirates",
+    "Al Ḩamrānīyah, United Arab Emirates",
+    "Gragrah, United Arab Emirates",
+    "Diqdāqah, United Arab Emirates",
+    "Dhad al Arab, United Arab Emirates",
+    "Al Ḩamrīyah, United Arab Emirates",
+    "Lazīmah, United Arab Emirates",
+    "Ar Rā‘fah, United Arab Emirates",
+    "Al Ḩamīdīyah, United Arab Emirates",
+    "‘Uwaynāt, United Arab Emirates",
+    "Biyātah, United Arab Emirates",
+    "Ar Ramlah, United Arab Emirates",
+    "As Salamah, United Arab Emirates",
+    "Al Abraq, United Arab Emirates",
+    "As Surrah, United Arab Emirates",
+    "Muhadhdhib, United Arab Emirates",
+    "Kābir, United Arab Emirates"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/290595/about/rdf",
+    "http://sws.geonames.org/292933/about/rdf",
+    "http://sws.geonames.org/290594/about/rdf",
+    "http://sws.geonames.org/292202/about/rdf",
+    "http://sws.geonames.org/412516/about/rdf",
+    "http://sws.geonames.org/292055/about/rdf",
+    "http://sws.geonames.org/292234/about/rdf",
+    "http://sws.geonames.org/292257/about/rdf",
+    "http://sws.geonames.org/292856/about/rdf",
+    "http://sws.geonames.org/291617/about/rdf",
+    "http://sws.geonames.org/412514/about/rdf",
+    "http://sws.geonames.org/414901/about/rdf",
+    "http://sws.geonames.org/292630/about/rdf",
+    "http://sws.geonames.org/8308860/about/rdf",
+    "http://sws.geonames.org/8052059/about/rdf",
+    "http://sws.geonames.org/8052062/about/rdf",
+    "http://sws.geonames.org/8052063/about/rdf",
+    "http://sws.geonames.org/8052070/about/rdf",
+    "http://sws.geonames.org/8052071/about/rdf",
+    "http://sws.geonames.org/8052072/about/rdf"
+  ],
+  "georss_box_s": "25.333 55.5 25.666 56.0",
+  "georss_polygon_s": "25.333 55.5 25.666 55.5 25.666 56.0 25.333 56.0 25.333 55.5",
+  "solr_geom": "ENVELOPE(55.5, 56.0, 25.666, 25.333)",
+  "solr_year_i": 1978
+}
