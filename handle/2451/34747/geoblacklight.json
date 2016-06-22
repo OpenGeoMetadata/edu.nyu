@@ -1,0 +1,83 @@
+{
+  "uuid": "http://hdl.handle.net/2451/34747",
+  "dc_identifier_s": "http://hdl.handle.net/2451/34747",
+  "dc_title_s": "1978 Topographic Map of UAE (1:100k), Sheet 7-40-089",
+  "dc_description_s": "This image is a 1:100,000 scale topographic map produced by the Soviet military in 1978. Maps produced by the Soviet military were believed to be used as an organizing framework for knowledge about the world and were compiled through a combination of aerial intelligence and on-the-ground observation. Sheet numbering is based on the alphanumeric system adopted by the International Map of the World (IMW), in which the globe is divided into equal-sized zones based upon latitude and longitude. Each zone is further subdivided so that the position of a sheet at the full range of scales can be deduced. The date and factory of production of each map are provided in a unique code that is embedded within the outer border, usually at the bottom right. For more information, see the manual and scholarship of John M. Davies and Alexander Kent in the documentation.",
+  "dc_rights_s": "Restricted",
+  "dct_provenance_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34747\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/bitstream/2451/34747/4/nyu_2451_34747.zip\"}",
+  "layer_id_s": "sdr:nyu_2451_34747",
+  "layer_slug_s": "nyu_2451_34747",
+  "layer_geom_type_s": "Image",
+  "layer_modified_dt": "2016-6-22T14:16:6Z",
+  "dc_format_s": "JPG",
+  "dc_language_s": "Russian",
+  "dc_type_s": "Dataset",
+  "dc_publisher_s": [
+    "Omni Resources (Firm)"
+  ],
+  "dc_creator_sm": [
+
+  ],
+  "dc_subject_sm": [
+    "Soviet Union--Administrative and political divisions--Maps",
+    "Soviet Union--Maps",
+    "Soviet Union--Military policy",
+    "Espionage"
+  ],
+  "dct_isPartOf_sm": "Soviet 1:100k of UAE",
+  "dct_issued_s": [
+
+  ],
+  "dct_temporal_sm": [
+    "1978"
+  ],
+  "dct_spatial_sm": [
+    "Dibba Al-Fujairah, United Arab Emirates",
+    "Dibba Al-Hisn, United Arab Emirates",
+    "Dibba Al-Baya, Oman",
+    "Badīyah, United Arab Emirates",
+    "Mawrid, United Arab Emirates",
+    "Wad Wid, United Arab Emirates",
+    "Wādī Shī, United Arab Emirates",
+    "Ţayyibah, United Arab Emirates",
+    "Siqattah, Oman",
+    "Riyāmah, United Arab Emirates",
+    "Ramlah, United Arab Emirates",
+    "Muraytah, United Arab Emirates",
+    "Mukhtaraqah, United Arab Emirates",
+    "Nedaifi, United Arab Emirates",
+    "Maydaq, United Arab Emirates",
+    "Lūlayyah, United Arab Emirates",
+    "Khulaybīyah, United Arab Emirates",
+    "Khatt, United Arab Emirates",
+    "Khabākhib, United Arab Emirates",
+    "Ḩiyāwah, United Arab Emirates"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/292231/about/rdf",
+    "http://sws.geonames.org/292239/about/rdf",
+    "http://sws.geonames.org/288760/about/rdf",
+    "http://sws.geonames.org/292596/about/rdf",
+    "http://sws.geonames.org/389992/about/rdf",
+    "http://sws.geonames.org/290518/about/rdf",
+    "http://sws.geonames.org/290519/about/rdf",
+    "http://sws.geonames.org/290664/about/rdf",
+    "http://sws.geonames.org/290745/about/rdf",
+    "http://sws.geonames.org/291047/about/rdf",
+    "http://sws.geonames.org/291085/about/rdf",
+    "http://sws.geonames.org/291342/about/rdf",
+    "http://sws.geonames.org/291374/about/rdf",
+    "http://sws.geonames.org/291418/about/rdf",
+    "http://sws.geonames.org/291588/about/rdf",
+    "http://sws.geonames.org/291598/about/rdf",
+    "http://sws.geonames.org/291672/about/rdf",
+    "http://sws.geonames.org/291708/about/rdf",
+    "http://sws.geonames.org/291755/about/rdf",
+    "http://sws.geonames.org/291891/about/rdf"
+  ],
+  "georss_box_s": "25.333 56.0 25.666 56.5",
+  "georss_polygon_s": "25.333 56.0 25.666 56.0 25.666 56.5 25.333 56.5 25.333 56.0",
+  "solr_geom": "ENVELOPE(56.0, 56.5, 25.666, 25.333)",
+  "solr_year_i": 1978
+}

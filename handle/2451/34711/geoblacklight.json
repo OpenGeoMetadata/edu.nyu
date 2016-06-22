@@ -1,0 +1,55 @@
+{
+  "uuid": "http://hdl.handle.net/2451/34711",
+  "dc_identifier_s": "http://hdl.handle.net/2451/34711",
+  "dc_title_s": "1978 Topographic Map of UAE (1:100k), Sheet 7-39-115",
+  "dc_description_s": "This image is a 1:100,000 scale topographic map produced by the Soviet military in 1978. Maps produced by the Soviet military were believed to be used as an organizing framework for knowledge about the world and were compiled through a combination of aerial intelligence and on-the-ground observation. Sheet numbering is based on the alphanumeric system adopted by the International Map of the World (IMW), in which the globe is divided into equal-sized zones based upon latitude and longitude. Each zone is further subdivided so that the position of a sheet at the full range of scales can be deduced. The date and factory of production of each map are provided in a unique code that is embedded within the outer border, usually at the bottom right. For more information, see the manual and scholarship of John M. Davies and Alexander Kent in the documentation.",
+  "dc_rights_s": "Restricted",
+  "dct_provenance_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34711\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/bitstream/2451/34711/4/nyu_2451_34711.zip\"}",
+  "layer_id_s": "sdr:nyu_2451_34711",
+  "layer_slug_s": "nyu_2451_34711",
+  "layer_geom_type_s": "Image",
+  "layer_modified_dt": "2016-6-22T14:16:6Z",
+  "dc_format_s": "JPG",
+  "dc_language_s": "Russian",
+  "dc_type_s": "Dataset",
+  "dc_publisher_s": [
+    "Omni Resources (Firm)"
+  ],
+  "dc_creator_sm": [
+
+  ],
+  "dc_subject_sm": [
+    "Soviet Union--Administrative and political divisions--Maps",
+    "Soviet Union--Maps",
+    "Soviet Union--Military policy",
+    "Espionage"
+  ],
+  "dct_isPartOf_sm": "Soviet 1:100k of UAE",
+  "dct_issued_s": [
+
+  ],
+  "dct_temporal_sm": [
+    "1978"
+  ],
+  "dct_spatial_sm": [
+    "Al Wakrah, Qatar",
+    "Baladīyat Jarayān al Bāţinah, Qatar",
+    "Baladīyat Umm Sa‘īd, Qatar",
+    "Mazra‘at Turaynā, Qatar",
+    "Ash Shaqrā’, Qatar",
+    "Al Kharrārah, Qatar"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/389472/about/rdf",
+    "http://sws.geonames.org/389473/about/rdf",
+    "http://sws.geonames.org/6201190/about/rdf",
+    "http://sws.geonames.org/289724/about/rdf",
+    "http://sws.geonames.org/289876/about/rdf",
+    "http://sws.geonames.org/289968/about/rdf"
+  ],
+  "georss_box_s": "24.666 51.0 25.0 51.5",
+  "georss_polygon_s": "24.666 51.0 25.0 51.0 25.0 51.5 24.666 51.5 24.666 51.0",
+  "solr_geom": "ENVELOPE(51.0, 51.5, 25.0, 24.666)",
+  "solr_year_i": 1978
+}
