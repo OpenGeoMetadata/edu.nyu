@@ -1,0 +1,56 @@
+{
+  "uuid": "http://hdl.handle.net/2451/34695",
+  "dc_identifier_s": "http://hdl.handle.net/2451/34695",
+  "dc_title_s": "2016 (May) Eastern Queens Bus Stops",
+  "dc_description_s": "This point layer was created from the GTFS data feeds from the Metropolitan Transportation Authority (MTA). It represents the bus stop locations (individual locations where one or more buses make stops) for the MTA NYC Transit bus routes in eastern Queens. Because of the way the MTA classifies it's bus lines and data, buses for Queens are split into two separate files. A python script was written to take the data files as input and plot and save them as a spatial layer in the local state plane coordinate reference system. In some cases the layer may include stops for routes that originate in a different borough, and in other cases may be missing certain stops for routes that are largely contained in a neighboring borough. The unique ID is stop_id, a field created by the MTA. This dataset is intended for researchers, policy makers, students, and educators for basic geographic analysis and mapping purposes. It was created by the GIS Lab at the Newman Library at Baruch College CUNY as part of the NYC Mass Transit Spatial Layers series, so that members of the public could have access to well-documented and readily-usable GIS layers of NYC mass transit features.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Baruch CUNY",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34695\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/75167/nyu_2451_34695.zip\"}",
+  "layer_id_s": "sdr:nyu_2451_34695",
+  "layer_slug_s": "nyu_2451_34695",
+  "layer_geom_type_s": "Point",
+  "layer_modified_dt": "2016-6-27T14:58:49Z",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": "English",
+  "dc_type_s": "Dataset",
+  "dc_publisher_s": [
+    "Newman Library (Bernard M. Baruch College)"
+  ],
+  "dc_creator_sm": "GIS Lab, Newman Library, Baruch CUNY",
+  "dc_subject_sm": [
+    "Transportation",
+    "Local transit",
+    "Commuting",
+    "Buses",
+    "Bus stops"
+  ],
+  "dct_isPartOf_sm": "NYC Mass Transit Spatial Layers",
+  "dct_issued_s": "05/31/2016",
+  "dct_temporal_sm": [
+    "2016"
+  ],
+  "dct_spatial_sm": [
+    "New York, New York, United States",
+    "Bronx County, New York, United States",
+    "New York County, New York, United States",
+    "Queens County, New York, United States",
+    "Nassau County, New York, United States",
+    "Borough of Bronx, New York, United States",
+    "Borough of Manhattan, New York, United States",
+    "Borough of Queens, New York, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/5128581/about/rdf",
+    "http://sws.geonames.org/5110253/about/rdf",
+    "http://sws.geonames.org/5128594/about/rdf",
+    "http://sws.geonames.org/5133268/about/rdf",
+    "http://sws.geonames.org/5128316/about/rdf",
+    "http://sws.geonames.org/5110266/about/rdf",
+    "http://sws.geonames.org/5125771/about/rdf",
+    "http://sws.geonames.org/5133273/about/rdf"
+  ],
+  "georss_box_s": "40.6471369999998 -73.991081 40.8425599999998 -73.701385",
+  "georss_polygon_s": "40.6471369999998 -73.991081 40.8425599999998 -73.991081 40.8425599999998 -73.701385 40.6471369999998 -73.701385 40.6471369999998 -73.991081",
+  "solr_geom": "ENVELOPE(-73.991081, -73.701385, 40.8425599999998, 40.6471369999998)",
+  "solr_year_i": 2016
+}
