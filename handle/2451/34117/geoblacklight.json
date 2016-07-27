@@ -1,5 +1,4 @@
 {
-  "uuid": "http://hdl.handle.net/2451/34117",
   "dc_identifier_s": "http://hdl.handle.net/2451/34117",
   "dc_title_s": "2010 World Lakes",
   "dc_description_s": "World Lakes represents the major lakes and inland seas of the world.",
@@ -34,11 +33,7 @@
   "dct_spatial_sm": [
     "World"
   ],
-  "dc_relation_sm": [
-    "http://sws.geonames.org/6295630/about/rdf"
-  ],
-  "georss_box_s": "-16.606263636 -125.123318182 67.046936395 109.965",
-  "georss_polygon_s": "-16.606263636 -125.123318182 67.046936395 -125.123318182 67.046936395 109.965 -16.606263636 109.965 -16.606263636 -125.123318182",
   "solr_geom": "ENVELOPE(-125.123318182, 109.965, 67.046936395, -16.606263636)",
-  "solr_year_i": 2010
+  "solr_year_i": 2010,
+  "geoblacklight_version": "1.0"
 }

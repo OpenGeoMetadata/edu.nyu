@@ -1,5 +1,4 @@
 {
-  "uuid": "http://hdl.handle.net/2451/34534",
   "dc_identifier_s": "http://hdl.handle.net/2451/34534",
   "dc_title_s": "2014 Publicly Accessible Waterfront Spaces (PAWS) in New York City",
   "dc_description_s": "This is a polygon shapefile of publicly accessible waterfront spaces in NYC containing jurisdictional and construction status information. The majority of these spaces were constructed in conjunction with private waterfront developments, pursuant to the NYC Zoning Resolution. This shapefile also includes spaces that are under construction (in progress), or have been approved through ULURP (Uniform Land Use Review Procedure) but construction of the waterfront spaces has not commenced. The publicly owned spaces in this shapefile do not include parks or open spaces under the jurisdiction of NYC Department of Parks and Recreation, NYS Office of Parks, Recreation & Historic Preservation, or the National Park Service. Consult the archival copy for a PAWS database, which can be joined with this file.",
@@ -31,11 +30,7 @@
   "dct_spatial_sm": [
     "New York, New York, United States"
   ],
-  "dc_relation_sm": [
-    "http://sws.geonames.org/5128581/about/rdf"
-  ],
-  "georss_box_s": "40.5097467201395 -74.2428103762222 40.874508009144 -73.7814197364776",
-  "georss_polygon_s": "40.5097467201395 -74.2428103762222 40.874508009144 -74.2428103762222 40.874508009144 -73.7814197364776 40.5097467201395 -73.7814197364776 40.5097467201395 -74.2428103762222",
   "solr_geom": "ENVELOPE(-74.2428103762222, -73.7814197364776, 40.874508009144, 40.5097467201395)",
-  "solr_year_i": 2014
+  "solr_year_i": 2014,
+  "geoblacklight_version": "1.0"
 }

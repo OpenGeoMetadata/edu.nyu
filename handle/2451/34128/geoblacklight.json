@@ -1,5 +1,4 @@
 {
-  "uuid": "http://hdl.handle.net/2451/34128",
   "dc_identifier_s": "http://hdl.handle.net/2451/34128",
   "dc_title_s": "2010 World Wildlife Fund Marine Ecoregions",
   "dc_description_s": "World Wildlife Fund Marine Ecoregions represents global marine ecoregions. Ecoregions are defined as relatively large areas of land or water in the world containing a characteristic set of natural communities that share a large majority of their species, dynamics, and environmental conditions. This data set contains the marine ecoregions of the Global 200. Global 200 ecoregions are a collection of the Earth's most outstanding and diverse terrestrial, freshwater, and marine habitats where the Earth's biological wealth is most distinctive and rich, where its loss will be most severely felt, and we must protect if we are to preserve the web of life. For more information, contact http://www.worldwildlife.org.",
@@ -35,11 +34,7 @@
   "dct_spatial_sm": [
     "World"
   ],
-  "dc_relation_sm": [
-    "http://sws.geonames.org/6295630/about/rdf"
-  ],
-  "georss_box_s": "-85.855218182 -179.999954545 82.806005818 179.999955455",
-  "georss_polygon_s": "-85.855218182 -179.999954545 82.806005818 -179.999954545 82.806005818 179.999955455 -85.855218182 179.999955455 -85.855218182 -179.999954545",
   "solr_geom": "ENVELOPE(-179.999954545, 179.999955455, 82.806005818, -85.855218182)",
-  "solr_year_i": 2010
+  "solr_year_i": 2010,
+  "geoblacklight_version": "1.0"
 }

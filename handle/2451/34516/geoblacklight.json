@@ -1,5 +1,4 @@
 {
-  "uuid": "http://hdl.handle.net/2451/34516",
   "dc_identifier_s": "http://hdl.handle.net/2451/34516",
   "dc_title_s": "2010 New York City Water",
   "dc_description_s": "This polygon layer is a combination of the county Census TIGER water files for all counties in the metro region; re-projected to local state plane. Its features and attributes are unmodified from the original file with the exception of the include field  - features with a value of 1 in this field were selected for inclusion in the coastal water layer (nyu_2451_34507), which was used to modify the boundaries of many of the layers in the dataset. The unique ID is hyrdoid; created by the Census. This data was created as part of the NYC Geodatabase (NYC GDB) project, a resource designed for basic geographic analysis and thematic mapping within the five boroughs of New York City.",
@@ -45,28 +44,11 @@
     "Borough of Queens, New York, United States",
     "Borough of Staten Island, New York, United States"
   ],
-  "dc_relation_sm": [
-    "http://sws.geonames.org/5128581/about/rdf",
-    "http://sws.geonames.org/5110253/about/rdf",
-    "http://sws.geonames.org/6941775/about/rdf",
-    "http://sws.geonames.org/5128594/about/rdf",
-    "http://sws.geonames.org/5133268/about/rdf",
-    "http://sws.geonames.org/5139559/about/rdf",
-    "http://sws.geonames.org/5128316/about/rdf",
-    "http://sws.geonames.org/5140076/about/rdf",
-    "http://sws.geonames.org/5144050/about/rdf",
-    "http://sws.geonames.org/5110266/about/rdf",
-    "http://sws.geonames.org/5110302/about/rdf",
-    "http://sws.geonames.org/5125771/about/rdf",
-    "http://sws.geonames.org/5133273/about/rdf",
-    "http://sws.geonames.org/5139568/about/rdf"
-  ],
-  "georss_box_s": "39.4751979999998 -74.889753 42.1767029999998 -71.777491",
-  "georss_polygon_s": "39.4751979999998 -74.889753 42.1767029999998 -74.889753 42.1767029999998 -71.777491 39.4751979999998 -71.777491 39.4751979999998 -74.889753",
   "solr_geom": "ENVELOPE(-74.889753, -71.777491, 42.1767029999998, 39.4751979999998)",
   "solr_year_i": 2010,
   "dct_source_sm": [
     "nyu_2451_34635",
     "nyu_2451_34636"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

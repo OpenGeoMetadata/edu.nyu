@@ -1,5 +1,4 @@
 {
-  "uuid": "http://hdl.handle.net/2451/34123",
   "dc_identifier_s": "http://hdl.handle.net/2451/34123",
   "dc_title_s": "2010 World Roads",
   "dc_description_s": "World Roads represents the major roads and ferries of the world.",
@@ -34,11 +33,7 @@
   "dct_spatial_sm": [
     "World"
   ],
-  "dc_relation_sm": [
-    "http://sws.geonames.org/6295630/about/rdf"
-  ],
-  "georss_box_s": "-54.840724468 -166.529663444 70.48218728 178.567104578",
-  "georss_polygon_s": "-54.840724468 -166.529663444 70.48218728 -166.529663444 70.48218728 178.567104578 -54.840724468 178.567104578 -54.840724468 -166.529663444",
   "solr_geom": "ENVELOPE(-166.529663444, 178.567104578, 70.48218728, -54.840724468)",
-  "solr_year_i": 2010
+  "solr_year_i": 2010,
+  "geoblacklight_version": "1.0"
 }

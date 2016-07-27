@@ -1,5 +1,4 @@
 {
-  "uuid": "http://hdl.handle.net/2451/34572",
   "dc_identifier_s": "http://hdl.handle.net/2451/34572",
   "dc_title_s": "2014 New York City Neighborhood Names",
   "dc_description_s": "This New York City Neighborhood Names point file was created as a guide to New York City’s neighborhoods that appear  on the web resource, “New York: A City of Neighborhoods.” Best estimates of label centroids were established at a 1:1,000 scale, but are ideally viewed at a 1:50,000 scale.",
@@ -32,11 +31,7 @@
   "dct_spatial_sm": [
     "New York, New York, United States"
   ],
-  "dc_relation_sm": [
-    "http://sws.geonames.org/5128581/about/rdf"
-  ],
-  "georss_box_s": "40.5053337611564 -74.2465693423528 40.9085428295067 -73.7088470588925",
-  "georss_polygon_s": "40.5053337611564 -74.2465693423528 40.9085428295067 -74.2465693423528 40.9085428295067 -73.7088470588925 40.5053337611564 -73.7088470588925 40.5053337611564 -74.2465693423528",
   "solr_geom": "ENVELOPE(-74.2465693423528, -73.7088470588925, 40.9085428295067, 40.5053337611564)",
-  "solr_year_i": 2014
+  "solr_year_i": 2014,
+  "geoblacklight_version": "1.0"
 }

@@ -1,5 +1,4 @@
 {
-  "uuid": "http://hdl.handle.net/2451/34501",
   "dc_identifier_s": "http://hdl.handle.net/2451/34501",
   "dc_title_s": "2015 New York City Public Schools",
   "dc_description_s": "This point layer is an extract of NYC's Selected Facilities and Program Sites database that has been converted to a spatial layer. The data was take \"as is\" and was not verified for accuracy or omissions. It includes all facilities coded as public schools (factypes 1001 through 1018). The capacity field is the total enrollment for the 2013-14 school year, with two additional fields that indicate enrollment for pre-k through 8th grade and 9th through 12th grade, as reported by the NYS Dept of Education. There is an sd field that indicates school district. The unique ID is id, a field created by the City. This layer was created as part of the NYC Geodatabase (NYC GDB) project, a resource designed for basic geographic analysis and thematic mapping within the five boroughs of New York City.",
@@ -42,25 +41,11 @@
     "Borough of Queens, New York, United States",
     "Borough of Staten Island, New York, United States"
   ],
-  "dc_relation_sm": [
-    "http://sws.geonames.org/5128581/about/rdf",
-    "http://sws.geonames.org/5110253/about/rdf",
-    "http://sws.geonames.org/6941775/about/rdf",
-    "http://sws.geonames.org/5128594/about/rdf",
-    "http://sws.geonames.org/5133268/about/rdf",
-    "http://sws.geonames.org/5139559/about/rdf",
-    "http://sws.geonames.org/5110266/about/rdf",
-    "http://sws.geonames.org/5110302/about/rdf",
-    "http://sws.geonames.org/5125771/about/rdf",
-    "http://sws.geonames.org/5133273/about/rdf",
-    "http://sws.geonames.org/5139568/about/rdf"
-  ],
-  "georss_box_s": "40.507769528921 -74.243950969043 40.9033081118142 -73.7086288204577",
-  "georss_polygon_s": "40.507769528921 -74.243950969043 40.9033081118142 -74.243950969043 40.9033081118142 -73.7086288204577 40.507769528921 -73.7086288204577 40.507769528921 -74.243950969043",
   "solr_geom": "ENVELOPE(-74.243950969043, -73.7086288204577, 40.9033081118142, 40.507769528921)",
   "solr_year_i": 2015,
   "dct_source_sm": [
     "nyu_2451_34635",
     "nyu_2451_34636"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

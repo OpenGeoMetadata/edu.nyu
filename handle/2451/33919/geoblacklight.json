@@ -1,5 +1,4 @@
 {
-  "uuid": "http://hdl.handle.net/2451/33919",
   "dc_identifier_s": "http://hdl.handle.net/2451/33919",
   "dc_title_s": "2010 China Township Main Rivers",
   "dc_description_s": "This file contains the names and courses of the main rivers in China.",
@@ -34,11 +33,7 @@
   "dct_spatial_sm": [
     "People's Republic of China, China"
   ],
-  "dc_relation_sm": [
-    "http://sws.geonames.org/1814991/about/rdf"
-  ],
-  "georss_box_s": "19.2314262390137 79.0229110717773 53.5621223449707 135.101516723633",
-  "georss_polygon_s": "19.2314262390137 79.0229110717773 53.5621223449707 79.0229110717773 53.5621223449707 135.101516723633 19.2314262390137 135.101516723633 19.2314262390137 79.0229110717773",
   "solr_geom": "ENVELOPE(79.0229110717773, 135.101516723633, 53.5621223449707, 19.2314262390137)",
-  "solr_year_i": 2010
+  "solr_year_i": 2010,
+  "geoblacklight_version": "1.0"
 }

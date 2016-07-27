@@ -1,5 +1,4 @@
 {
-  "uuid": "http://hdl.handle.net/2451/34602",
   "dc_identifier_s": "http://hdl.handle.net/2451/34602",
   "dc_title_s": "2010 ESRI Census Geodatabase",
   "dc_description_s": "This Esri geodatabase contains data from the 2010 U.S. Census, as well as additional data from the Office of Management and Budget (OMB) and Neilson Media Research. Esri’s compilation of census data allows for easy analysis of population, income, race, and ethnicity. The geodatabase splits all indicators into subcategories, and a full roster of population data variables in a variety of geographies are included in Esri's Census 2010 data documentation file. The data categories include population, household, housing mortgage status, tenure, family, age, race, and ethnicity. The geodatabase presents this data at the level of nation, state, county, census tract, block group, place, zip code, county subdivision, core-based statistical area, designated market area, and congressional district. Multiple files in NYU’s collection have been derived from this geodatabase.",
@@ -35,11 +34,7 @@
   "dct_spatial_sm": [
     "United States of America"
   ],
-  "dc_relation_sm": [
-    "http://sws.geonames.org/6252001/about/rdf"
-  ],
-  "georss_box_s": "24.7073204053 -170.1769013405 71.6032483233 -64.5665435791",
-  "georss_polygon_s": "24.7073204053 -170.1769013405 71.6032483233 -170.1769013405 71.6032483233 -64.5665435791 24.7073204053 -64.5665435791 24.7073204053 -170.1769013405",
   "solr_geom": "ENVELOPE(-170.1769013405, -64.5665435791, 71.6032483233, 24.7073204053)",
-  "solr_year_i": 2010
+  "solr_year_i": 2010,
+  "geoblacklight_version": "1.0"
 }

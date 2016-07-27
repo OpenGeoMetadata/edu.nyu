@@ -1,5 +1,4 @@
 {
-  "uuid": "http://hdl.handle.net/2451/34689",
   "dc_identifier_s": "http://hdl.handle.net/2451/34689",
   "dc_title_s": "2016 (May) Brooklyn Bus Stops",
   "dc_description_s": "This point layer was created from the GTFS data feeds from the Metropolitan Transportation Authority (MTA). It represents the bus stop locations (individual locations where one or more buses make stops) for the MTA NYC Transit Brooklyn bus routes. A python script was written to take the data files as input and plot and save them as a spatial layer in the local state plane coordinate reference system. In some cases the layer may include stops for routes that originate in a different borough, and in other cases may be missing certain stops for routes that are largely contained in a neighboring borough. The unique ID is stop_id, a field created by the MTA. This dataset is intended for researchers, policy makers, students, and educators for basic geographic analysis and mapping purposes. It was created by the GIS Lab at the Newman Library at Baruch College CUNY as part of the NYC Mass Transit Spatial Layers series, so that members of the public could have access to well-documented and readily-usable GIS layers of NYC mass transit features.",
@@ -38,17 +37,7 @@
     "Borough of Manhattan, New York, United States",
     "Borough of Queens, New York, United States"
   ],
-  "dc_relation_sm": [
-    "http://sws.geonames.org/5128581/about/rdf",
-    "http://sws.geonames.org/6941775/about/rdf",
-    "http://sws.geonames.org/5128594/about/rdf",
-    "http://sws.geonames.org/5117472/about/rdf",
-    "http://sws.geonames.org/5110302/about/rdf",
-    "http://sws.geonames.org/5125771/about/rdf",
-    "http://sws.geonames.org/5133273/about/rdf"
-  ],
-  "georss_box_s": "40.5726359999998 -74.040878 40.7625619999999 -73.779564",
-  "georss_polygon_s": "40.5726359999998 -74.040878 40.7625619999999 -74.040878 40.7625619999999 -73.779564 40.5726359999998 -73.779564 40.5726359999998 -74.040878",
   "solr_geom": "ENVELOPE(-74.040878, -73.779564, 40.7625619999999, 40.5726359999998)",
-  "solr_year_i": 2016
+  "solr_year_i": 2016,
+  "geoblacklight_version": "1.0"
 }

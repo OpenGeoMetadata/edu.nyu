@@ -1,5 +1,4 @@
 {
-  "uuid": "http://hdl.handle.net/2451/34751",
   "dc_identifier_s": "http://hdl.handle.net/2451/34751",
   "dc_title_s": "1978 Topographic Map of UAE (1:100k), Sheet 6-40-088",
   "dc_description_s": "This image is a 1:100,000 scale topographic map produced by the Soviet military in 1978. Maps produced by the Soviet military were believed to be used as an organizing framework for knowledge about the world and were compiled through a combination of aerial intelligence and on-the-ground observation. Sheet numbering is based on the alphanumeric system adopted by the International Map of the World (IMW), in which the globe is divided into equal-sized zones based upon latitude and longitude. Each zone is further subdivided so that the position of a sheet at the full range of scales can be deduced. The date and factory of production of each map are provided in a unique code that is embedded within the outer border, usually at the bottom right. For more information, see the manual and scholarship of John M. Davies and Alexander Kent in the documentation.",
@@ -54,30 +53,7 @@
     "Muhadhdhib, United Arab Emirates",
     "Kābir, United Arab Emirates"
   ],
-  "dc_relation_sm": [
-    "http://sws.geonames.org/290595/about/rdf",
-    "http://sws.geonames.org/292933/about/rdf",
-    "http://sws.geonames.org/290594/about/rdf",
-    "http://sws.geonames.org/292202/about/rdf",
-    "http://sws.geonames.org/412516/about/rdf",
-    "http://sws.geonames.org/292055/about/rdf",
-    "http://sws.geonames.org/292234/about/rdf",
-    "http://sws.geonames.org/292257/about/rdf",
-    "http://sws.geonames.org/292856/about/rdf",
-    "http://sws.geonames.org/291617/about/rdf",
-    "http://sws.geonames.org/412514/about/rdf",
-    "http://sws.geonames.org/414901/about/rdf",
-    "http://sws.geonames.org/292630/about/rdf",
-    "http://sws.geonames.org/8308860/about/rdf",
-    "http://sws.geonames.org/8052059/about/rdf",
-    "http://sws.geonames.org/8052062/about/rdf",
-    "http://sws.geonames.org/8052063/about/rdf",
-    "http://sws.geonames.org/8052070/about/rdf",
-    "http://sws.geonames.org/8052071/about/rdf",
-    "http://sws.geonames.org/8052072/about/rdf"
-  ],
-  "georss_box_s": "25.333 55.5 25.666 56.0",
-  "georss_polygon_s": "25.333 55.5 25.666 55.5 25.666 56.0 25.333 56.0 25.333 55.5",
   "solr_geom": "ENVELOPE(55.5, 56.0, 25.666, 25.333)",
-  "solr_year_i": 1978
+  "solr_year_i": 1978,
+  "geoblacklight_version": "1.0"
 }

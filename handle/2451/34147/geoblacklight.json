@@ -1,5 +1,4 @@
 {
-  "uuid": "http://hdl.handle.net/2451/34147",
   "dc_identifier_s": "http://hdl.handle.net/2451/34147",
   "dc_title_s": "2010 U.S. Recreation Areas",
   "dc_description_s": "U.S. Recreation Areas represents point locations within the United States for common recreational landmarks including golf courses, amusement parks, beaches, and park and recreation areas.",
@@ -35,11 +34,7 @@
   "dct_spatial_sm": [
     "United States of America"
   ],
-  "dc_relation_sm": [
-    "http://sws.geonames.org/6252001/about/rdf"
-  ],
-  "georss_box_s": "18.008815 -170.280528 67.688860019 -65.634281",
-  "georss_polygon_s": "18.008815 -170.280528 67.688860019 -170.280528 67.688860019 -65.634281 18.008815 -65.634281 18.008815 -170.280528",
   "solr_geom": "ENVELOPE(-170.280528, -65.634281, 67.688860019, 18.008815)",
-  "solr_year_i": 2010
+  "solr_year_i": 2010,
+  "geoblacklight_version": "1.0"
 }

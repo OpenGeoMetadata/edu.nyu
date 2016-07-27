@@ -1,5 +1,4 @@
 {
-  "uuid": "http://hdl.handle.net/2451/34202",
   "dc_identifier_s": "http://hdl.handle.net/2451/34202",
   "dc_title_s": "2010 Unemployment Statistics in Buenos Aires",
   "dc_description_s": "This layer represents Buenos Aires 2010 levels of employment by comunas and barrios. Downloaded from http://www.estadistica.buenosaires.gob.ar/areas/hacienda/sis_estadistico/banco_datos/buscador.php?menu_id=34691",
@@ -35,11 +34,7 @@
   "dct_spatial_sm": [
     "Buenos Aires, Buenos Aires F.D., Argentina"
   ],
-  "dc_relation_sm": [
-    "http://sws.geonames.org/3435910/about/rdf"
-  ],
-  "georss_box_s": "-34.7052931351596 -58.531518740591 -34.5275410741021 -58.3351430067124",
-  "georss_polygon_s": "-34.7052931351596 -58.531518740591 -34.5275410741021 -58.531518740591 -34.5275410741021 -58.3351430067124 -34.7052931351596 -58.3351430067124 -34.7052931351596 -58.531518740591",
   "solr_geom": "ENVELOPE(-58.531518740591, -58.3351430067124, -34.5275410741021, -34.7052931351596)",
-  "solr_year_i": 2010
+  "solr_year_i": 2010,
+  "geoblacklight_version": "1.0"
 }

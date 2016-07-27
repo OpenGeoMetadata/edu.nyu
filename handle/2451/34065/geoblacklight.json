@@ -1,5 +1,4 @@
 {
-  "uuid": "http://hdl.handle.net/2451/34065",
   "dc_identifier_s": "http://hdl.handle.net/2451/34065",
   "dc_title_s": "2010 U.S. States and Canada Provinces",
   "dc_description_s": "U.S. States and Canada Provinces represents the states of the United States and the provinces of Canada. This data set provides six feature classes for displaying the data at different scales. Everything about the feature classes is the same but the level of generalization and its name. The base feature class is calledand isn't generalized. The least generalized feature class is called _1, the next more generalized feature class is called _2, and so on. For best performance, use the most appropriate feature class when displaying or printing.",
@@ -36,12 +35,7 @@
     "United States of America",
     "Canada"
   ],
-  "dc_relation_sm": [
-    "http://sws.geonames.org/6252001/about/rdf",
-    "http://sws.geonames.org/6251999/about/rdf"
-  ],
-  "georss_box_s": "17.83151 -179.231086 85.79181 179.859685",
-  "georss_polygon_s": "17.83151 -179.231086 85.79181 -179.231086 85.79181 179.859685 17.83151 179.859685 17.83151 -179.231086",
   "solr_geom": "ENVELOPE(-179.231086, 179.859685, 85.79181, 17.83151)",
-  "solr_year_i": 2010
+  "solr_year_i": 2010,
+  "geoblacklight_version": "1.0"
 }

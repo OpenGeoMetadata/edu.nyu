@@ -1,5 +1,4 @@
 {
-  "uuid": "http://hdl.handle.net/2451/34535",
   "dc_identifier_s": "http://hdl.handle.net/2451/34535",
   "dc_title_s": "2014 Waterfront Parks in New York City",
   "dc_description_s": "This is a polygon shapefile of parklands on the water's edge in New York City. Any portions of a park that are located upland (separated from water by the first upland street) are excluded. This shapefile complements the PAWS shapefile for mapping all open spaces on the water's edge in New York City. Most of the parks in this file are included in the New York City Department of City Planning's Selected Facilities and Program Sites database and are under the jurisdiction of NYC Department of Parks and Recreation, NYS Office of Parks, Recreation & Historic Preservation, or the National Park Service. Consult the archival copy for a PAWS database, which can be joined with this file.",
@@ -33,11 +32,7 @@
   "dct_spatial_sm": [
     "New York, New York, United States"
   ],
-  "dc_relation_sm": [
-    "http://sws.geonames.org/5128581/about/rdf"
-  ],
-  "georss_box_s": "40.4957772466202 -74.2554863191497 40.9037151766444 -73.7369870804478",
-  "georss_polygon_s": "40.4957772466202 -74.2554863191497 40.9037151766444 -74.2554863191497 40.9037151766444 -73.7369870804478 40.4957772466202 -73.7369870804478 40.4957772466202 -74.2554863191497",
   "solr_geom": "ENVELOPE(-74.2554863191497, -73.7369870804478, 40.9037151766444, 40.4957772466202)",
-  "solr_year_i": 2014
+  "solr_year_i": 2014,
+  "geoblacklight_version": "1.0"
 }

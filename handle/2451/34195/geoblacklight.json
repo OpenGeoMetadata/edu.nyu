@@ -1,5 +1,4 @@
 {
-  "uuid": "http://hdl.handle.net/2451/34195",
   "dc_identifier_s": "http://hdl.handle.net/2451/34195",
   "dc_title_s": "2015 New York City Beats",
   "dc_description_s": "This map represents ares in New York City where students collected images and attribute information about graffiti and urban spaces. The beats, or informally designated areas, were designated by the professors of the class and do not adhere to any established political boundaries or administrative divisions.",
@@ -33,11 +32,7 @@
   "dct_spatial_sm": [
     "New York, New York, United States"
   ],
-  "dc_relation_sm": [
-    "http://sws.geonames.org/5128581/about/rdf"
-  ],
-  "georss_box_s": "40.6709360065636 -74.0109649926446 40.7993154617878 -73.8894183937195",
-  "georss_polygon_s": "40.6709360065636 -74.0109649926446 40.7993154617878 -74.0109649926446 40.7993154617878 -73.8894183937195 40.6709360065636 -73.8894183937195 40.6709360065636 -74.0109649926446",
   "solr_geom": "ENVELOPE(-74.0109649926446, -73.8894183937195, 40.7993154617878, 40.6709360065636)",
-  "solr_year_i": 2015
+  "solr_year_i": 2015,
+  "geoblacklight_version": "1.0"
 }

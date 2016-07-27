@@ -1,5 +1,4 @@
 {
-  "uuid": "http://hdl.handle.net/2451/34174",
   "dc_identifier_s": "http://hdl.handle.net/2451/34174",
   "dc_title_s": "2010 U.S. National Atlas Airports",
   "dc_description_s": "U.S. National Atlas Airports represents airports in the United States, Puerto Rico, U.S. Virgin Islands, and U.S. Possessions with airport passenger enplanements of greater than or equal to 100 passengers per year.",
@@ -36,13 +35,7 @@
     "U.S. Virgin Islands",
     "Puerto Rico"
   ],
-  "dc_relation_sm": [
-    "http://sws.geonames.org/6252001/about/rdf",
-    "http://sws.geonames.org/4796775/about/rdf",
-    "http://sws.geonames.org/4566966/about/rdf"
-  ],
-  "georss_box_s": "-14.334444 -177.37 71.285436 166.641662",
-  "georss_polygon_s": "-14.334444 -177.37 71.285436 -177.37 71.285436 166.641662 -14.334444 166.641662 -14.334444 -177.37",
   "solr_geom": "ENVELOPE(-177.37, 166.641662, 71.285436, -14.334444)",
-  "solr_year_i": 2010
+  "solr_year_i": 2010,
+  "geoblacklight_version": "1.0"
 }

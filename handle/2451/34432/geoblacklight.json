@@ -1,5 +1,4 @@
 {
-  "uuid": "http://hdl.handle.net/2451/34432",
   "dc_identifier_s": "http://hdl.handle.net/2451/34432",
   "dc_title_s": "2001 Sub District Boundaries of India",
   "dc_description_s": "This polygon dataset shows Sub-District (Tahsil/Taluka) boundaries of India for 2001. Includes Sub-District socio-demographic Census attribute data such as total population, population by sex, rural/urban populations, household, literacy, and employment statistics. This layer is part of the India State Basemap dataset containing district and sub-district boundaries, locations of cities and towns, villages over 5,000 population, highways and metalled roads, rail-routes and railway stations, airports, etc. Census demographic, socio-economic and communications data are also included for some layers.This dataset is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production, or to provide a basemap to support graphical overlays and analysis with other spatial data.",
@@ -39,11 +38,7 @@
   "dct_spatial_sm": [
     "India"
   ],
-  "dc_relation_sm": [
-    "http://sws.geonames.org/1269750/about/rdf"
-  ],
-  "georss_box_s": "6.755698 68.110092 37.050301 97.409103",
-  "georss_polygon_s": "6.755698 68.110092 37.050301 68.110092 37.050301 97.409103 6.755698 97.409103 6.755698 68.110092",
   "solr_geom": "ENVELOPE(68.110092, 97.409103, 37.050301, 6.755698)",
-  "solr_year_i": 2001
+  "solr_year_i": 2001,
+  "geoblacklight_version": "1.0"
 }

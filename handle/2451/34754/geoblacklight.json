@@ -1,5 +1,4 @@
 {
-  "uuid": "http://hdl.handle.net/2451/34754",
   "dc_identifier_s": "http://hdl.handle.net/2451/34754",
   "dc_title_s": "2016 (May) Long Island Rail Road Stops",
   "dc_description_s": "This point layer was created using the GTFS data feeds from the Metropolitan Transportation Authority (MTA). It represents the stop locations for the MTA Long Island Rail Road (LIRR), where a stop represents a train station (specifically the center point of the track in front of the station) that serves one or more routes. A python script was written to take the data files as input and plot and save them as a spatial layer in the local state plane coordinate reference system. The unique ID is stop_id, a field created by the MTA. This dataset is intended for researchers, policy makers, students, and educators for basic geographic analysis and mapping purposes. It was created by the GIS Lab at the Newman Library at Baruch College CUNY as part of the NYC Mass Transit Spatial Layers series, so that members of the public could have access to well-documented and readily-usable GIS layers of NYC mass transit features. ",
@@ -42,20 +41,7 @@
     "Borough of Manhattan, New York, United States",
     "Borough of Queens, New York, United States"
   ],
-  "dc_relation_sm": [
-    "http://sws.geonames.org/6955102/about/rdf",
-    "http://sws.geonames.org/5128581/about/rdf",
-    "http://sws.geonames.org/5110302/about/rdf",
-    "http://sws.geonames.org/5128594/about/rdf",
-    "http://sws.geonames.org/5133268/about/rdf",
-    "http://sws.geonames.org/5128316/about/rdf",
-    "http://sws.geonames.org/5140076/about/rdf",
-    "http://sws.geonames.org/5110302/about/rdf",
-    "http://sws.geonames.org/5125771/about/rdf",
-    "http://sws.geonames.org/5133273/about/rdf"
-  ],
-  "georss_box_s": "40.5901699999998 -73.99358 41.0996999999998 -71.95388",
-  "georss_polygon_s": "40.5901699999998 -73.99358 41.0996999999998 -73.99358 41.0996999999998 -71.95388 40.5901699999998 -71.95388 40.5901699999998 -73.99358",
   "solr_geom": "ENVELOPE(-73.99358, -71.95388, 41.0996999999998, 40.5901699999998)",
-  "solr_year_i": 2016
+  "solr_year_i": 2016,
+  "geoblacklight_version": "1.0"
 }

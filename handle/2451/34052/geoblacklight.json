@@ -1,5 +1,4 @@
 {
-  "uuid": "http://hdl.handle.net/2451/34052",
   "dc_identifier_s": "http://hdl.handle.net/2451/34052",
   "dc_title_s": "2010 U.S. and Canada Highways",
   "dc_description_s": "U.S. and Canada Highways represents the major highways of the United States and Canada. These include interstates and inter-metropolitan area highways and major roads.",
@@ -36,12 +35,7 @@
     "United States of America",
     "Canada"
   ],
-  "dc_relation_sm": [
-    "http://sws.geonames.org/6252001/about/rdf",
-    "http://sws.geonames.org/6251999/about/rdf"
-  ],
-  "georss_box_s": "17.955365 -166.547319 68.42358098 -52.681706",
-  "georss_polygon_s": "17.955365 -166.547319 68.42358098 -166.547319 68.42358098 -52.681706 17.955365 -52.681706 17.955365 -166.547319",
   "solr_geom": "ENVELOPE(-166.547319, -52.681706, 68.42358098, 17.955365)",
-  "solr_year_i": 2010
+  "solr_year_i": 2010,
+  "geoblacklight_version": "1.0"
 }

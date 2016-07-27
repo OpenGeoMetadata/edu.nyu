@@ -1,5 +1,4 @@
 {
-  "uuid": "http://hdl.handle.net/2451/34060",
   "dc_identifier_s": "http://hdl.handle.net/2451/34060",
   "dc_title_s": "2010 U.S. and Canada Parks",
   "dc_description_s": "U.S. and Canada Parks represents parks and forests within the United States and Canada at national, state, and local levels. This data set provides six feature classes for displaying the data at different scales. Everything about the feature classes is the same but the level of generalization and its name. The base feature class is called and isn't generalized. The least generalized feature class is called _1, the next more generalized feature class is called _2, and so on. For best performance, use the most appropriate feature class when displaying or printing.",
@@ -35,12 +34,7 @@
     "United States of America",
     "Canada"
   ],
-  "dc_relation_sm": [
-    "http://sws.geonames.org/6252001/about/rdf",
-    "http://sws.geonames.org/6251999/about/rdf"
-  ],
-  "georss_box_s": "17.883138 -167.540447 83.076004 -52.684267",
-  "georss_polygon_s": "17.883138 -167.540447 83.076004 -167.540447 83.076004 -52.684267 17.883138 -52.684267 17.883138 -167.540447",
   "solr_geom": "ENVELOPE(-167.540447, -52.684267, 83.076004, 17.883138)",
-  "solr_year_i": 2010
+  "solr_year_i": 2010,
+  "geoblacklight_version": "1.0"
 }

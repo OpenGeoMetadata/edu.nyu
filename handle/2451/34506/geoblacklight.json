@@ -1,5 +1,4 @@
 {
-  "uuid": "http://hdl.handle.net/2451/34506",
   "dc_identifier_s": "http://hdl.handle.net/2451/34506",
   "dc_title_s": "2012 New York City Train Stations",
   "dc_description_s": "This point layer is an extract from the Metropolitan Transportation Authority's (MTA) stops files for Metro North and the Long Island Railroad (LIRR) that have been combined to create one train station file for the entire city. The unique ID is rail_id, a field created by attaching a railroad prefix for either Metro North or the LIRR to numbers created by the MTA. This layer was created as part of the NYC Geodatabase (NYC GDB) project, a resource designed for basic geographic analysis and thematic mapping within the five boroughs of New York City.",
@@ -38,23 +37,11 @@
     "Borough of Manhattan, New York, United States",
     "Borough of Queens, New York, United States"
   ],
-  "dc_relation_sm": [
-    "http://sws.geonames.org/5128581/about/rdf",
-    "http://sws.geonames.org/5110253/about/rdf",
-    "http://sws.geonames.org/6941775/about/rdf",
-    "http://sws.geonames.org/5128594/about/rdf",
-    "http://sws.geonames.org/5133268/about/rdf",
-    "http://sws.geonames.org/5110266/about/rdf",
-    "http://sws.geonames.org/5110302/about/rdf",
-    "http://sws.geonames.org/5125771/about/rdf",
-    "http://sws.geonames.org/5133273/about/rdf"
-  ],
-  "georss_box_s": "40.6091299999998 -73.99358 40.9054239999998 -73.72862",
-  "georss_polygon_s": "40.6091299999998 -73.99358 40.9054239999998 -73.99358 40.9054239999998 -73.72862 40.6091299999998 -73.72862 40.6091299999998 -73.99358",
   "solr_geom": "ENVELOPE(-73.99358, -73.72862, 40.9054239999998, 40.6091299999998)",
   "solr_year_i": 2012,
   "dct_source_sm": [
     "nyu_2451_34635",
     "nyu_2451_34636"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

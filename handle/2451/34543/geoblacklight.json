@@ -1,5 +1,4 @@
 {
-  "uuid": "http://hdl.handle.net/2451/34543",
   "dc_identifier_s": "http://hdl.handle.net/2451/34543",
   "dc_title_s": "2016 New York City State Senate Districts (Water Areas Included)",
   "dc_description_s": "This polygon shapefile layer represents the State Senate Districts boundaries for the City of New York, with water included. These district boundaries represent the redistricting as of the US Census 2010. This file was generated from the 16A release of the Department of City Planning's LION file. ",
@@ -33,11 +32,7 @@
   "dct_spatial_sm": [
     "New York, New York, United States"
   ],
-  "dc_relation_sm": [
-    "http://sws.geonames.org/5128581/about/rdf"
-  ],
-  "georss_box_s": "40.4860830762555 -74.2587474598435 40.9176618088593 -73.7000090638712",
-  "georss_polygon_s": "40.4860830762555 -74.2587474598435 40.9176618088593 -74.2587474598435 40.9176618088593 -73.7000090638712 40.4860830762555 -73.7000090638712 40.4860830762555 -74.2587474598435",
   "solr_geom": "ENVELOPE(-74.2587474598435, -73.7000090638712, 40.9176618088593, 40.4860830762555)",
-  "solr_year_i": 2016
+  "solr_year_i": 2016,
+  "geoblacklight_version": "1.0"
 }

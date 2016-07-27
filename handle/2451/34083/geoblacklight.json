@@ -1,5 +1,4 @@
 {
-  "uuid": "http://hdl.handle.net/2451/34083",
   "dc_identifier_s": "http://hdl.handle.net/2451/34083",
   "dc_title_s": "2008 U.S. 110th Congressional Districts",
   "dc_description_s": "U.S. 110th Congressional Districts represents the political boundaries for the U.S. 110th Congressional Districts. The membership is current as of May 1, 2008.",
@@ -35,11 +34,7 @@
   "dct_spatial_sm": [
     "United States of America"
   ],
-  "dc_relation_sm": [
-    "http://sws.geonames.org/6252001/about/rdf"
-  ],
-  "georss_box_s": "17.884809091 -179.147336364 71.352563166 -65.221109258",
-  "georss_polygon_s": "17.884809091 -179.147336364 71.352563166 -179.147336364 71.352563166 -65.221109258 17.884809091 -65.221109258 17.884809091 -179.147336364",
   "solr_geom": "ENVELOPE(-179.147336364, -65.221109258, 71.352563166, 17.884809091)",
-  "solr_year_i": 2008
+  "solr_year_i": 2008,
+  "geoblacklight_version": "1.0"
 }

@@ -1,5 +1,4 @@
 {
-  "uuid": "http://hdl.handle.net/2451/34066",
   "dc_identifier_s": "http://hdl.handle.net/2451/34066",
   "dc_title_s": "2010 U.S. State and Canada Province Boundaries",
   "dc_description_s": "U.S. State and Canada Province Boundaries represents the boundary lines between the states of the United States and the provinces of Canada. This data set provides six feature classes for displaying the data at different scales. Everything about the feature classes is the same but the level of generalization and its name. The base feature class is called and isn't generalized. The least generalized feature class is called _1, the next more generalized feature class is called _2, and so on. For best performance, use the most appropriate feature class when displaying or printing.",
@@ -37,12 +36,7 @@
     "United States of America",
     "Canada"
   ],
-  "dc_relation_sm": [
-    "http://sws.geonames.org/6252001/about/rdf",
-    "http://sws.geonames.org/6251999/about/rdf"
-  ],
-  "georss_box_s": "29.596577 -141.004096 85.294574 -57.100241",
-  "georss_polygon_s": "29.596577 -141.004096 85.294574 -141.004096 85.294574 -57.100241 29.596577 -57.100241 29.596577 -141.004096",
   "solr_geom": "ENVELOPE(-141.004096, -57.100241, 85.294574, 29.596577)",
-  "solr_year_i": 2010
+  "solr_year_i": 2010,
+  "geoblacklight_version": "1.0"
 }

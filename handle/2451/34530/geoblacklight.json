@@ -1,5 +1,4 @@
 {
-  "uuid": "http://hdl.handle.net/2451/34530",
   "dc_identifier_s": "http://hdl.handle.net/2451/34530",
   "dc_title_s": "2016 NYC Zoning Map Ammendments",
   "dc_description_s": "This polygon shapefile layer represents the boundaries for all rezonings adopted since January 1, 2002 (STATUS = \"Adopted\") and current proposed rezonings (STATUS = \"Certified\"). Selected city-initiated text amendments to the Zoning Resolution since 2002 that have discrete geographical boundaries may be included.",
@@ -32,11 +31,7 @@
   "dct_spatial_sm": [
     "New York, New York, United States"
   ],
-  "dc_relation_sm": [
-    "http://sws.geonames.org/5128581/about/rdf"
-  ],
-  "georss_box_s": "40.495381044488 -74.2571403770178 40.9132848518265 -73.7001408156509",
-  "georss_polygon_s": "40.495381044488 -74.2571403770178 40.9132848518265 -74.2571403770178 40.9132848518265 -73.7001408156509 40.495381044488 -73.7001408156509 40.495381044488 -74.2571403770178",
   "solr_geom": "ENVELOPE(-74.2571403770178, -73.7001408156509, 40.9132848518265, 40.495381044488)",
-  "solr_year_i": 2016
+  "solr_year_i": 2016,
+  "geoblacklight_version": "1.0"
 }

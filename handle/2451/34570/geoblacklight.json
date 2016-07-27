@@ -1,5 +1,4 @@
 {
-  "uuid": "http://hdl.handle.net/2451/34570",
   "dc_identifier_s": "http://hdl.handle.net/2451/34570",
   "dc_title_s": "2016 New York City Health Center (Clipped to Shoreline)",
   "dc_description_s": "This polygon shapefile layer represents the service area boundaries for the health centers of the City of New York, clipped to the shoreline. This file was generated from the 16A release of the Department of City Planning's LION file.",
@@ -32,11 +31,7 @@
   "dct_spatial_sm": [
     "New York, New York, United States"
   ],
-  "dc_relation_sm": [
-    "http://sws.geonames.org/5128581/about/rdf"
-  ],
-  "georss_box_s": "40.4961153951703 -74.2555913631521 40.9155327770052 -73.7000090632105",
-  "georss_polygon_s": "40.4961153951703 -74.2555913631521 40.9155327770052 -74.2555913631521 40.9155327770052 -73.7000090632105 40.4961153951703 -73.7000090632105 40.4961153951703 -74.2555913631521",
   "solr_geom": "ENVELOPE(-74.2555913631521, -73.7000090632105, 40.9155327770052, 40.4961153951703)",
-  "solr_year_i": 2016
+  "solr_year_i": 2016,
+  "geoblacklight_version": "1.0"
 }

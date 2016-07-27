@@ -1,5 +1,4 @@
 {
-  "uuid": "http://hdl.handle.net/2451/34378",
   "dc_identifier_s": "http://hdl.handle.net/2451/34378",
   "dc_title_s": "2011 Tamil Nadu, India: Post Delimitation Assembly Constituency Boundaries and Election Data",
   "dc_description_s": "This data layer shows post-delimitation state Legislative Assembly constituency boundaries and data relating to the 2011 Assembly elections for the State of Tamil Nadu, India. Map includes data for 234 constituencies. Includes attribute data on election parties, candidates, voters, and results. This layer is part of the Poll Map of India which includes parliamentary constituency boundaries for India, Assembly constituency boundaries for all states, and data relating to the past national elections for each State of India.This data can be used for election analysis, forecasting, and mapping: Enables profiling of individual constituencies, permits historical analysis of the data, and helps predictive estimate of the impact of regional and state-wise electorate swings on the performance of political parties. These data are intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production.",
@@ -45,21 +44,7 @@
     "Vellore district, Tamil Nadu, India",
     "Yercaud, Tamil Nadu, India"
   ],
-  "dc_relation_sm": [
-    "http://sws.geonames.org/1255053/about/rdf",
-    "http://sws.geonames.org/1278840/about/rdf",
-    "http://sws.geonames.org/1278173/about/rdf",
-    "http://sws.geonames.org/1274383/about/rdf",
-    "http://sws.geonames.org/1269934/about/rdf",
-    "http://sws.geonames.org/1268009/about/rdf",
-    "http://sws.geonames.org/1264522/about/rdf",
-    "http://sws.geonames.org/1254589/about/rdf",
-    "http://sws.geonames.org/1254355/about/rdf",
-    "http://sws.geonames.org/7646146/about/rdf",
-    "http://sws.geonames.org/1252734/about/rdf"
-  ],
-  "georss_box_s": "8.073207 76.240883 13.56321 80.353348",
-  "georss_polygon_s": "8.073207 76.240883 13.56321 76.240883 13.56321 80.353348 8.073207 80.353348 8.073207 76.240883",
   "solr_geom": "ENVELOPE(76.240883, 80.353348, 13.56321, 8.073207)",
-  "solr_year_i": 2011
+  "solr_year_i": 2011,
+  "geoblacklight_version": "1.0"
 }

@@ -1,5 +1,4 @@
 {
-  "uuid": "http://hdl.handle.net/2451/34173",
   "dc_identifier_s": "http://hdl.handle.net/2451/34173",
   "dc_title_s": "2010 U.S. Airports",
   "dc_description_s": "U.S. Airports represents airport grounds and airport runways within the United States. All airports have a boundary, and most have at least one runway.",
@@ -34,11 +33,7 @@
   "dct_spatial_sm": [
     "United States of America"
   ],
-  "dc_relation_sm": [
-    "http://sws.geonames.org/6252001/about/rdf"
-  ],
-  "georss_box_s": "18.003798 -171.744183 71.28905801 -65.981677",
-  "georss_polygon_s": "18.003798 -171.744183 71.28905801 -171.744183 71.28905801 -65.981677 18.003798 -65.981677 18.003798 -171.744183",
   "solr_geom": "ENVELOPE(-171.744183, -65.981677, 71.28905801, 18.003798)",
-  "solr_year_i": 2010
+  "solr_year_i": 2010,
+  "geoblacklight_version": "1.0"
 }

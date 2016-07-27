@@ -1,5 +1,4 @@
 {
-  "uuid": "http://hdl.handle.net/2451/34403",
   "dc_identifier_s": "http://hdl.handle.net/2451/34403",
   "dc_title_s": "2007 Punjab, India: Pre Delimitation State Assembly Constituency Boundaries and Election Data",
   "dc_description_s": "This polygon shapefile shows pre-delimitation state Legislative Assembly constituency boundaries and data relating to the 2007 Assembly elections for the State of Punjab, India. Includes attribute data on election parties, candidates, voters, and results. This layer is part of the Poll Map of India which includes parliamentary constituency boundaries for India, Assembly constituency boundaries for all states, and data relating to the past national elections for each State of India.This data can be used for election analysis, forecasting, and mapping: Enables profiling of individual constituencies, permits historical analysis of the data, and helps predictive estimate of the impact of regional and state-wise electorate swings on the performance of political parties. These data are intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production.",
@@ -43,19 +42,7 @@
     "Moga district, Punjab, India",
     "Sangrūr, Punjab, India"
   ],
-  "dc_relation_sm": [
-    "http://sws.geonames.org/1259223/about/rdf",
-    "http://sws.geonames.org/1278077/about/rdf",
-    "http://sws.geonames.org/1273173/about/rdf",
-    "http://sws.geonames.org/1271924/about/rdf",
-    "http://sws.geonames.org/1270648/about/rdf",
-    "http://sws.geonames.org/1267911/about/rdf",
-    "http://sws.geonames.org/1264729/about/rdf",
-    "http://sws.geonames.org/8407028/about/rdf",
-    "http://sws.geonames.org/1257402/about/rdf"
-  ],
-  "georss_box_s": "29.5142994 73.87442028 32.4924507 76.95662688",
-  "georss_polygon_s": "29.5142994 73.87442028 32.4924507 73.87442028 32.4924507 76.95662688 29.5142994 76.95662688 29.5142994 73.87442028",
   "solr_geom": "ENVELOPE(73.87442028, 76.95662688, 32.4924507, 29.5142994)",
-  "solr_year_i": 2007
+  "solr_year_i": 2007,
+  "geoblacklight_version": "1.0"
 }

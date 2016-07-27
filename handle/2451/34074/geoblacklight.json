@@ -1,5 +1,4 @@
 {
-  "uuid": "http://hdl.handle.net/2451/34074",
   "dc_identifier_s": "http://hdl.handle.net/2451/34074",
   "dc_title_s": "2010 U.S. Water Bodies",
   "dc_description_s": "U.S. Water Bodies represents the major lakes, reservoirs, large rivers, lagoons, and estuaries in the United States.",
@@ -35,11 +34,7 @@
   "dct_spatial_sm": [
     "United States of America"
   ],
-  "dc_relation_sm": [
-    "http://sws.geonames.org/6252001/about/rdf"
-  ],
-  "georss_box_s": "19.203998324 -160.231107166 49.384333057 -66.997866678",
-  "georss_polygon_s": "19.203998324 -160.231107166 49.384333057 -160.231107166 49.384333057 -66.997866678 19.203998324 -66.997866678 19.203998324 -160.231107166",
   "solr_geom": "ENVELOPE(-160.231107166, -66.997866678, 49.384333057, 19.203998324)",
-  "solr_year_i": 2010
+  "solr_year_i": 2010,
+  "geoblacklight_version": "1.0"
 }

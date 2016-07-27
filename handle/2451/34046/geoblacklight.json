@@ -1,5 +1,4 @@
 {
-  "uuid": "http://hdl.handle.net/2451/34046",
   "dc_identifier_s": "http://hdl.handle.net/2451/34046",
   "dc_title_s": "2010 U.S. and Canada Airports",
   "dc_description_s": "U.S. and Canada Airports represents airport boundaries and runways within the United States and Canada. This data set provides six feature classes for displaying the data at different scales. Everything about the feature classes is the same but the level of generalization and its name. The base feature class is calledand isn't generalized. The least generalized feature class is called _1, the next more generalized feature class is called _2, and so on. For best performance, use the most appropriate feature class when displaying or printing.",
@@ -38,12 +37,7 @@
     "United States of America",
     "Canada"
   ],
-  "dc_relation_sm": [
-    "http://sws.geonames.org/6252001/about/rdf",
-    "http://sws.geonames.org/6251999/about/rdf"
-  ],
-  "georss_box_s": "18.003798 -171.744183 74.726026 -52.723513",
-  "georss_polygon_s": "18.003798 -171.744183 74.726026 -171.744183 74.726026 -52.723513 18.003798 -52.723513 18.003798 -171.744183",
   "solr_geom": "ENVELOPE(-171.744183, -52.723513, 74.726026, 18.003798)",
-  "solr_year_i": 2010
+  "solr_year_i": 2010,
+  "geoblacklight_version": "1.0"
 }

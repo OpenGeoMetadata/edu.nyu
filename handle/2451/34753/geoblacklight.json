@@ -1,5 +1,4 @@
 {
-  "uuid": "http://hdl.handle.net/2451/34753",
   "dc_identifier_s": "http://hdl.handle.net/2451/34753",
   "dc_title_s": "2016 (May) Long Island Rail Road Routes",
   "dc_description_s": "This line layer was created from the GTFS data feeds from the Metropolitan Transportation Authority (MTA) to represent the MTA Long Island Rail Road (LIRR) routes. A python script was written to take the data files as input and plot and save them as a spatial layer in the local state plane coordinate reference system. Lines in this layer represent individual train routes that follow physical track locations; they were generalized from the GTFS format where lines depicted individual train services. The unique ID is route_id, a field created by the MTA. This dataset is intended for researchers, policy makers, students, and educators for basic geographic analysis and mapping purposes. It was created by the GIS Lab at the Newman Library at Baruch College CUNY as part of the NYC Mass Transit Spatial Layers series, so that members of the public could have access to well-documented and readily-usable GIS layers of NYC mass transit features. ",
@@ -40,20 +39,7 @@
     "Borough of Manhattan, New York, United States",
     "Borough of Queens, New York, United States"
   ],
-  "dc_relation_sm": [
-    "http://sws.geonames.org/6955102/about/rdf",
-    "http://sws.geonames.org/5128581/about/rdf",
-    "http://sws.geonames.org/6941775/about/rdf",
-    "http://sws.geonames.org/5128594/about/rdf",
-    "http://sws.geonames.org/5133268/about/rdf",
-    "http://sws.geonames.org/5128316/about/rdf",
-    "http://sws.geonames.org/5140076/about/rdf",
-    "http://sws.geonames.org/5110302/about/rdf",
-    "http://sws.geonames.org/5125771/about/rdf",
-    "http://sws.geonames.org/5133273/about/rdf"
-  ],
-  "georss_box_s": "40.5901816634998 -73.9930874105 41.0996521690998 -71.9541238589",
-  "georss_polygon_s": "40.5901816634998 -73.9930874105 41.0996521690998 -73.9930874105 41.0996521690998 -71.9541238589 40.5901816634998 -71.9541238589 40.5901816634998 -73.9930874105",
   "solr_geom": "ENVELOPE(-73.9930874105, -71.9541238589, 41.0996521690998, 40.5901816634998)",
-  "solr_year_i": 2016
+  "solr_year_i": 2016,
+  "geoblacklight_version": "1.0"
 }

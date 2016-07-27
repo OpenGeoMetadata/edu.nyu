@@ -1,5 +1,4 @@
 {
-  "uuid": "http://hdl.handle.net/2451/33917",
   "dc_identifier_s": "http://hdl.handle.net/2451/33917",
   "dc_title_s": "2010 China Township Highways",
   "dc_description_s": "This file contains names and locations of highways in China. The source is the National Geomatic Center of China (NGCC).",
@@ -33,11 +32,7 @@
   "dct_spatial_sm": [
     "People's Republic of China, China"
   ],
-  "dc_relation_sm": [
-    "http://sws.geonames.org/1814991/about/rdf"
-  ],
-  "georss_box_s": "18.226526260376 84.8292615539964 47.6620139968296 132.546783591845",
-  "georss_polygon_s": "18.226526260376 84.8292615539964 47.6620139968296 84.8292615539964 47.6620139968296 132.546783591845 18.226526260376 132.546783591845 18.226526260376 84.8292615539964",
   "solr_geom": "ENVELOPE(84.8292615539964, 132.546783591845, 47.6620139968296, 18.226526260376)",
-  "solr_year_i": 2010
+  "solr_year_i": 2010,
+  "geoblacklight_version": "1.0"
 }

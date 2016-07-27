@@ -1,5 +1,4 @@
 {
-  "uuid": "http://hdl.handle.net/2451/33916",
   "dc_identifier_s": "http://hdl.handle.net/2451/33916",
   "dc_title_s": "2010 China Coastlines and Islands",
   "dc_description_s": "This file contains the boundaries for China's coastlines and islands.",
@@ -34,11 +33,7 @@
   "dct_spatial_sm": [
     "People's Republic of China, China"
   ],
-  "dc_relation_sm": [
-    "http://sws.geonames.org/1814991/about/rdf"
-  ],
-  "georss_box_s": "16.833438873291 73.4469604492188 53.5579261779785 135.085830688477",
-  "georss_polygon_s": "16.833438873291 73.4469604492188 53.5579261779785 73.4469604492188 53.5579261779785 135.085830688477 16.833438873291 135.085830688477 16.833438873291 73.4469604492188",
   "solr_geom": "ENVELOPE(73.4469604492188, 135.085830688477, 53.5579261779785, 16.833438873291)",
-  "solr_year_i": 2010
+  "solr_year_i": 2010,
+  "geoblacklight_version": "1.0"
 }

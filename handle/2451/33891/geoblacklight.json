@@ -1,5 +1,4 @@
 {
-  "uuid": "http://hdl.handle.net/2451/33891",
   "dc_identifier_s": "http://hdl.handle.net/2451/33891",
   "dc_title_s": "2010 China Township Rails",
   "dc_description_s": "This file contains the name and route of rails in China. The attribute table contains the name of each route in Chinese and English. Some fields are null. The source of the data is the National Geomatic Center of China.",
@@ -35,11 +34,7 @@
   "dct_spatial_sm": [
     "People's Republic of China, China"
   ],
-  "dc_relation_sm": [
-    "http://sws.geonames.org/1814991/about/rdf"
-  ],
-  "georss_box_s": "18.2223377227783 84.7080385538836 52.9693411104193 133.122650297828",
-  "georss_polygon_s": "18.2223377227783 84.7080385538836 52.9693411104193 84.7080385538836 52.9693411104193 133.122650297828 18.2223377227783 133.122650297828 18.2223377227783 84.7080385538836",
   "solr_geom": "ENVELOPE(84.7080385538836, 133.122650297828, 52.9693411104193, 18.2223377227783)",
-  "solr_year_i": 2010
+  "solr_year_i": 2010,
+  "geoblacklight_version": "1.0"
 }

@@ -1,5 +1,4 @@
 {
-  "uuid": "http://hdl.handle.net/2451/34210",
   "dc_identifier_s": "http://hdl.handle.net/2451/34210",
   "dc_title_s": "2010 China Rivers",
   "dc_description_s": "This layer represents the rivers of China.",
@@ -34,11 +33,7 @@
   "dct_spatial_sm": [
     "People's Republic of China, China"
   ],
-  "dc_relation_sm": [
-    "http://sws.geonames.org/1814991/about/rdf"
-  ],
-  "georss_box_s": "18.7507038116455 73.450384293399 53.458984308088 134.541197910336",
-  "georss_polygon_s": "18.7507038116455 73.450384293399 53.458984308088 73.450384293399 53.458984308088 134.541197910336 18.7507038116455 134.541197910336 18.7507038116455 73.450384293399",
   "solr_geom": "ENVELOPE(73.450384293399, 134.541197910336, 53.458984308088, 18.7507038116455)",
-  "solr_year_i": 2010
+  "solr_year_i": 2010,
+  "geoblacklight_version": "1.0"
 }

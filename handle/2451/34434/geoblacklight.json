@@ -1,5 +1,4 @@
 {
-  "uuid": "http://hdl.handle.net/2451/34434",
   "dc_identifier_s": "http://hdl.handle.net/2451/34434",
   "dc_title_s": "2001 Goa, India Village Boundaries with Socio-Demographic and Economic Census Data",
   "dc_description_s": "This polygon shapefile shows village boundaries with socio-demographic and economic Census data for 2001 for the State of Goa, India linked to the 2001 Census. Includes village socio-demographic and economic Census attribute data such as total population, population by sex, household, literacy and illiteracy rates, and employment by industry. This layer is part of the VillageMap dataset which includes socio-demographic and economic Census data for 2001 at the village level for all the states of India. This data layer is sourced from secondary government sources, chiefly Survey of India, Census of India, Election Commission, etc. This map includes data for 18548 villages, 248 towns, 25 districts, and 1 state.This dataset is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for village level demographic analysis within basic applications to support graphical overlays and analysis with other spatial data.",
@@ -48,18 +47,7 @@
     "Vasco Da Gama, Goa, India",
     "Valpoy, Goa, India"
   ],
-  "dc_relation_sm": [
-    "http://sws.geonames.org/1271157/about/rdf",
-    "http://sws.geonames.org/1273858/about/rdf",
-    "http://sws.geonames.org/1264588/about/rdf",
-    "http://sws.geonames.org/1260607/about/rdf",
-    "http://sws.geonames.org/1259429/about/rdf",
-    "http://sws.geonames.org/1257611/about/rdf",
-    "http://sws.geonames.org/1253367/about/rdf",
-    "http://sws.geonames.org/1253471/about/rdf"
-  ],
-  "georss_box_s": "14.8977632522583 73.6892318725586 15.8007678985596 74.3369827270508",
-  "georss_polygon_s": "14.8977632522583 73.6892318725586 15.8007678985596 73.6892318725586 15.8007678985596 74.3369827270508 14.8977632522583 74.3369827270508 14.8977632522583 73.6892318725586",
   "solr_geom": "ENVELOPE(73.6892318725586, 74.3369827270508, 15.8007678985596, 14.8977632522583)",
-  "solr_year_i": 2001
+  "solr_year_i": 2001,
+  "geoblacklight_version": "1.0"
 }

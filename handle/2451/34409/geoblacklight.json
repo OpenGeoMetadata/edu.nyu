@@ -1,5 +1,4 @@
 {
-  "uuid": "http://hdl.handle.net/2451/34409",
   "dc_identifier_s": "http://hdl.handle.net/2451/34409",
   "dc_title_s": "2007 Uttarakhand, India: Pre Delimitation State Assembly Constituency Boundaries and Election Data",
   "dc_description_s": "This polygon shapefile shows pre-delimitation state Legislative Assembly constituency boundaries and data relating to the 2007 Assembly elections for the State of Uttarakhand, India. Includes attribute data on election parties, candidates, voters, and results. This layer is part of the Poll Map of India which includes parliamentary constituency boundaries for India, Assembly constituency boundaries for all states, and data relating to the past national elections for each State of India.This data can be used for election analysis, forecasting, and mapping: Enables profiling of individual constituencies, permits historical analysis of the data, and helps predictive estimate of the impact of regional and state-wise electorate swings on the performance of political parties. These data are intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production.",
@@ -48,24 +47,7 @@
     "Naini Tal, Uttarakhand, India",
     "Rānīkhet, Uttarakhand, India"
   ],
-  "dc_relation_sm": [
-    "http://sws.geonames.org/1444366/about/rdf",
-    "http://sws.geonames.org/1278974/about/rdf",
-    "http://sws.geonames.org/1278010/about/rdf",
-    "http://sws.geonames.org/10181105/about/rdf",
-    "http://sws.geonames.org/1273313/about/rdf",
-    "http://sws.geonames.org/1270498/about/rdf",
-    "http://sws.geonames.org/1270351/about/rdf",
-    "http://sws.geonames.org/1271641/about/rdf",
-    "http://sws.geonames.org/1267345/about/rdf",
-    "http://sws.geonames.org/1266014/about/rdf",
-    "http://sws.geonames.org/1265208/about/rdf",
-    "http://sws.geonames.org/1262374/about/rdf",
-    "http://sws.geonames.org/1262118/about/rdf",
-    "http://sws.geonames.org/1258455/about/rdf"
-  ],
-  "georss_box_s": "28.72261044 77.57601156 31.45733073 81.03749832",
-  "georss_polygon_s": "28.72261044 77.57601156 31.45733073 77.57601156 31.45733073 81.03749832 28.72261044 81.03749832 28.72261044 77.57601156",
   "solr_geom": "ENVELOPE(77.57601156, 81.03749832, 31.45733073, 28.72261044)",
-  "solr_year_i": 2007
+  "solr_year_i": 2007,
+  "geoblacklight_version": "1.0"
 }

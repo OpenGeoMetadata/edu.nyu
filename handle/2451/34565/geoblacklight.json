@@ -1,5 +1,4 @@
 {
-  "uuid": "http://hdl.handle.net/2451/34565",
   "dc_identifier_s": "http://hdl.handle.net/2451/34565",
   "dc_title_s": "2016 LION Single Line Street Base Map for New York City, V. 16A",
   "dc_description_s": "This line shapefile serves as a street base map representing New York City's streets and other linear geographic features, such as shorelines, surface rail lines and boardwalks, along with feature names and address ranges for each addressable street segment. This is Version 16 A, released in February 2016.",
@@ -32,11 +31,7 @@
   "dct_spatial_sm": [
     "New York, New York, United States"
   ],
-  "dc_relation_sm": [
-    "http://sws.geonames.org/5128581/about/rdf"
-  ],
-  "georss_box_s": "40.4860830763879 -74.2587474600122 40.9176618088964 -73.700009063747",
-  "georss_polygon_s": "40.4860830763879 -74.2587474600122 40.9176618088964 -74.2587474600122 40.9176618088964 -73.700009063747 40.4860830763879 -73.700009063747 40.4860830763879 -74.2587474600122",
   "solr_geom": "ENVELOPE(-74.2587474600122, -73.700009063747, 40.9176618088964, 40.4860830763879)",
-  "solr_year_i": 2016
+  "solr_year_i": 2016,
+  "geoblacklight_version": "1.0"
 }

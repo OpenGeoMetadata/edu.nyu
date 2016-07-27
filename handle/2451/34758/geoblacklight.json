@@ -1,5 +1,4 @@
 {
-  "uuid": "http://hdl.handle.net/2451/34758",
   "dc_identifier_s": "http://hdl.handle.net/2451/34758",
   "dc_title_s": "2016 (May) New York City Subway Routes",
   "dc_description_s": "This line layer was created from the GTFS data feeds from the Metropolitan Transportation Authority (MTA) to represent the MTA NYC Transit Subway routes. A python script was written to take the data files as input and plot and save them as a spatial layer in the local state plane coordinate reference system. Lines in this layer represent individual subway routes that follow physical track locations; they were generalized from the GTFS format where lines depicted individual services. Each line represents the route that a specific train takes during normal weekday and rush hour service. The unique ID is route_id, a field created by the MTA that uses the familiar letter or number designation for trains, with distinct ids for each of the three shuttle (S) trains. This dataset is intended for researchers, policy makers, students, and educators for basic geographic analysis and mapping purposes. It was created by the GIS Lab at the Newman Library at Baruch College CUNY as part of the NYC Mass Transit Spatial Layers series, so that members of the public could have access to well-documented and readily-usable GIS layers of NYC mass transit features. ",
@@ -41,21 +40,7 @@
     "Borough of Queens, New York, United States",
     "Borough of Staten Island, New York, United States"
   ],
-  "dc_relation_sm": [
-    "http://sws.geonames.org/5128581/about/rdf",
-    "http://sws.geonames.org/5110253/about/rdf",
-    "http://sws.geonames.org/6941775/about/rdf",
-    "http://sws.geonames.org/5128594/about/rdf",
-    "http://sws.geonames.org/5133268/about/rdf",
-    "http://sws.geonames.org/5139559/about/rdf",
-    "http://sws.geonames.org/5110266/about/rdf",
-    "http://sws.geonames.org/5110302/about/rdf",
-    "http://sws.geonames.org/5125771/about/rdf",
-    "http://sws.geonames.org/5133273/about/rdf",
-    "http://sws.geonames.org/5139568/about/rdf"
-  ],
-  "georss_box_s": "40.5127639999998 -74.251961 40.9031249999998 -73.755405",
-  "georss_polygon_s": "40.5127639999998 -74.251961 40.9031249999998 -74.251961 40.9031249999998 -73.755405 40.5127639999998 -73.755405 40.5127639999998 -74.251961",
   "solr_geom": "ENVELOPE(-74.251961, -73.755405, 40.9031249999998, 40.5127639999998)",
-  "solr_year_i": 2016
+  "solr_year_i": 2016,
+  "geoblacklight_version": "1.0"
 }

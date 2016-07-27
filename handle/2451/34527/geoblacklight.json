@@ -1,5 +1,4 @@
 {
-  "uuid": "http://hdl.handle.net/2451/34527",
   "dc_identifier_s": "http://hdl.handle.net/2451/34527",
   "dc_title_s": "2016 NYC Special Purpose Districs with Subdistricts",
   "dc_description_s": "This polygon feature class represents only the internal subdistricts of any special purpose districts that are so subdivided. The main special purpose district name is indicated by the SPNAME attribute, the SUBDIST attribute contains the subdistrict name. Any further subdistrict divisions are named in the SUBSUB attribute. Note that these zones change frequently, and users may want to consult more recent releases at Bytes of the Big Apple.",
@@ -33,11 +32,7 @@
   "dct_spatial_sm": [
     "New York, New York, United States"
   ],
-  "dc_relation_sm": [
-    "http://sws.geonames.org/5128581/about/rdf"
-  ],
-  "georss_box_s": "40.572239245953 -74.0802807915093 40.8783615514146 -73.7707315471799",
-  "georss_polygon_s": "40.572239245953 -74.0802807915093 40.8783615514146 -74.0802807915093 40.8783615514146 -73.7707315471799 40.572239245953 -73.7707315471799 40.572239245953 -74.0802807915093",
   "solr_geom": "ENVELOPE(-74.0802807915093, -73.7707315471799, 40.8783615514146, 40.572239245953)",
-  "solr_year_i": 2016
+  "solr_year_i": 2016,
+  "geoblacklight_version": "1.0"
 }

@@ -1,5 +1,4 @@
 {
-  "uuid": "http://hdl.handle.net/2451/34563",
   "dc_identifier_s": "http://hdl.handle.net/2451/34563",
   "dc_title_s": "2016 New York City Atomic Polygons",
   "dc_description_s": "This polygon shapefile layer represents New York City Atomic Polygons. Formerly known as a dynamic block, an Atomic Polygon is a minimal polygon formed by most LION file segments (exceptions include ‘paper street’ and ‘alley’ segments). ‘Minimal’ means the polygon is not subdivided by LION segments (other than the noted exceptions) into smaller polygons.  An Atomic Polygon can contain segments of various types in its interior: paper street segments (FEATURE TYPE = ‘5’), dead end segments (SEGMENT LOCATIONAL STATUS = ‘I’), ‘land-hooked’ segments (SEGMENT LOCATIONAL STATUS = ‘H’), and alley segments (FEATURE TYPE = ‘A’).  Atomic Polygon numbers are unique within 2010 Census tracts.",
@@ -31,11 +30,7 @@
   "dct_spatial_sm": [
     "New York, New York, United States"
   ],
-  "dc_relation_sm": [
-    "http://sws.geonames.org/5128581/about/rdf"
-  ],
-  "georss_box_s": "40.4860830762555 -74.2587474598416 40.9176618088593 -73.7000090638735",
-  "georss_polygon_s": "40.4860830762555 -74.2587474598416 40.9176618088593 -74.2587474598416 40.9176618088593 -73.7000090638735 40.4860830762555 -73.7000090638735 40.4860830762555 -74.2587474598416",
   "solr_geom": "ENVELOPE(-74.2587474598416, -73.7000090638735, 40.9176618088593, 40.4860830762555)",
-  "solr_year_i": 2016
+  "solr_year_i": 2016,
+  "geoblacklight_version": "1.0"
 }

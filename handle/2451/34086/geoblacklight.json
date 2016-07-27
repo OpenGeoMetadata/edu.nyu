@@ -1,5 +1,4 @@
 {
-  "uuid": "http://hdl.handle.net/2451/34086",
   "dc_identifier_s": "http://hdl.handle.net/2451/34086",
   "dc_title_s": "2010 U.S. Cities",
   "dc_description_s": "U.S. Cities represents locations for cities within United States with populations of 10,000 or greater (based on Census 2000 figures), all state capitals, and the national capital.",
@@ -33,11 +32,7 @@
   "dct_spatial_sm": [
     "United States of America"
   ],
-  "dc_relation_sm": [
-    "http://sws.geonames.org/6252001/about/rdf"
-  ],
-  "georss_box_s": "19.702481638 -158.176463655 64.848300194 -68.783009072",
-  "georss_polygon_s": "19.702481638 -158.176463655 64.848300194 -158.176463655 64.848300194 -68.783009072 19.702481638 -68.783009072 19.702481638 -158.176463655",
   "solr_geom": "ENVELOPE(-158.176463655, -68.783009072, 64.848300194, 19.702481638)",
-  "solr_year_i": 2010
+  "solr_year_i": 2010,
+  "geoblacklight_version": "1.0"
 }

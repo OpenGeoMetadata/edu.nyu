@@ -1,5 +1,4 @@
 {
-  "uuid": "http://hdl.handle.net/2451/34084",
   "dc_identifier_s": "http://hdl.handle.net/2451/34084",
   "dc_title_s": "2009 U.S. 111th Congressional Districts",
   "dc_description_s": "U.S. 111th Congressional Districts represents the political boundaries for the U.S. 111th congressional districts. The membership is current as of February 25, 2009.",
@@ -34,11 +33,7 @@
   "dct_spatial_sm": [
     "United States of America"
   ],
-  "dc_relation_sm": [
-    "http://sws.geonames.org/6252001/about/rdf"
-  ],
-  "georss_box_s": "17.884809091 -179.147336364 71.352563166 -65.221109258",
-  "georss_polygon_s": "17.884809091 -179.147336364 71.352563166 -179.147336364 71.352563166 -65.221109258 17.884809091 -65.221109258 17.884809091 -179.147336364",
   "solr_geom": "ENVELOPE(-179.147336364, -65.221109258, 71.352563166, 17.884809091)",
-  "solr_year_i": 2009
+  "solr_year_i": 2009,
+  "geoblacklight_version": "1.0"
 }

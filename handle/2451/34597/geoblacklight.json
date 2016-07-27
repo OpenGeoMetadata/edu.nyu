@@ -1,5 +1,4 @@
 {
-  "uuid": "http://hdl.handle.net/2451/34597",
   "dc_identifier_s": "http://hdl.handle.net/2451/34597",
   "dc_title_s": "2015-2016 Complete Set of Student Data for Art and Politics in the City",
   "dc_description_s": "This point shapefile layer represents locations of graffiti and street art collected by students during the span of three semesters of Art and Politics in the City at New York University. Students explored neighborhoods in New York and Buenos Aires and recorded pictures of graffiti and art with FulcrumApp. The data includes place notes, descriptions, categories for the art, and photos. A documentation file is available with the archival copy of the data.",
@@ -35,12 +34,7 @@
     "New York, New York, United States",
     "Buenos Aires, Buenos Aires F.D., Argentina"
   ],
-  "dc_relation_sm": [
-    "http://sws.geonames.org/5128581/about/rdf",
-    "http://sws.geonames.org/3435910/about/rdf"
-  ],
-  "georss_box_s": "-34.662196 -74.013008 41.31022605 -58.3691343245",
-  "georss_polygon_s": "-34.662196 -74.013008 41.31022605 -74.013008 41.31022605 -58.3691343245 -34.662196 -58.3691343245 -34.662196 -74.013008",
   "solr_geom": "ENVELOPE(-74.013008, -58.3691343245, 41.31022605, -34.662196)",
-  "solr_year_i": 2016
+  "solr_year_i": 2016,
+  "geoblacklight_version": "1.0"
 }

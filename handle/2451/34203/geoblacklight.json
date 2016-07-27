@@ -1,5 +1,4 @@
 {
-  "uuid": "http://hdl.handle.net/2451/34203",
   "dc_identifier_s": "http://hdl.handle.net/2451/34203",
   "dc_title_s": "2010 Median Age in Manhattan and Brooklyn",
   "dc_description_s": "This layer displays the median age by (total and by sex), 2010 in Manhattan and Brooklyn at the census tract level. Downloaded from American Factfinder, Table B01002, Median Age by Sex.",
@@ -34,11 +33,7 @@
   "dct_spatial_sm": [
     "New York, New York, United States"
   ],
-  "dc_relation_sm": [
-    "http://sws.geonames.org/5128581/about/rdf"
-  ],
-  "georss_box_s": "40.5695382235533 -74.0472333882571 40.8792862922826 -73.8335583513957",
-  "georss_polygon_s": "40.5695382235533 -74.0472333882571 40.8792862922826 -74.0472333882571 40.8792862922826 -73.8335583513957 40.5695382235533 -73.8335583513957 40.5695382235533 -74.0472333882571",
   "solr_geom": "ENVELOPE(-74.0472333882571, -73.8335583513957, 40.8792862922826, 40.5695382235533)",
-  "solr_year_i": 2010
+  "solr_year_i": 2010,
+  "geoblacklight_version": "1.0"
 }

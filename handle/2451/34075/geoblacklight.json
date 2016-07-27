@@ -1,5 +1,4 @@
 {
-  "uuid": "http://hdl.handle.net/2451/34075",
   "dc_identifier_s": "http://hdl.handle.net/2451/34075",
   "dc_title_s": "2010 U.S. National Atlas Water Feature Lines",
   "dc_description_s": "U.S. National Atlas Water Feature Lines represents the linear water features (for example, aqueducts, canals, intracoastal waterways, and streams) of the United States.",
@@ -36,11 +35,7 @@
   "dct_spatial_sm": [
     "United States of America"
   ],
-  "dc_relation_sm": [
-    "http://sws.geonames.org/6252001/about/rdf"
-  ],
-  "georss_box_s": "17.958973573 -178.065719534 71.222236637 -65.387969429",
-  "georss_polygon_s": "17.958973573 -178.065719534 71.222236637 -178.065719534 71.222236637 -65.387969429 17.958973573 -65.387969429 17.958973573 -178.065719534",
   "solr_geom": "ENVELOPE(-178.065719534, -65.387969429, 71.222236637, 17.958973573)",
-  "solr_year_i": 2010
+  "solr_year_i": 2010,
+  "geoblacklight_version": "1.0"
 }

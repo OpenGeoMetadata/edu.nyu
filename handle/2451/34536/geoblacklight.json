@@ -1,5 +1,4 @@
 {
-  "uuid": "http://hdl.handle.net/2451/34536",
   "dc_identifier_s": "http://hdl.handle.net/2451/34536",
   "dc_title_s": "2011 Waterfront Access Plan in New York City",
   "dc_description_s": "This polygon shapefile layer represents all existing Waterfont Access Plan areas in NYC. A Waterfront Access Plan is a detailed framework set forth in the Zoning Resolution, that tailors waterfront bulk regulations and public access requirements to the specific conditions of a particular waterfront. Development of individual waterfront parcels governed by the plan triggers a requirement to build and maintain public access areas in accordance with the WAP.",
@@ -32,11 +31,7 @@
   "dct_spatial_sm": [
     "New York, New York, United States"
   ],
-  "dc_relation_sm": [
-    "http://sws.geonames.org/5128581/about/rdf"
-  ],
-  "georss_box_s": "40.7181641530022 -73.9664688492767 40.819347523144 -73.8341297477283",
-  "georss_polygon_s": "40.7181641530022 -73.9664688492767 40.819347523144 -73.9664688492767 40.819347523144 -73.8341297477283 40.7181641530022 -73.8341297477283 40.7181641530022 -73.9664688492767",
   "solr_geom": "ENVELOPE(-73.9664688492767, -73.8341297477283, 40.819347523144, 40.7181641530022)",
-  "solr_year_i": 2011
+  "solr_year_i": 2011,
+  "geoblacklight_version": "1.0"
 }

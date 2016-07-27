@@ -1,5 +1,4 @@
 {
-  "uuid": "http://hdl.handle.net/2451/34189",
   "dc_identifier_s": "http://hdl.handle.net/2451/34189",
   "dc_title_s": "Map of the Borough of Brooklyn Published for the Brooklyn Directory",
   "dc_description_s": "This georeferenced map of Brooklyn was published for the Brooklyn Directory. It is held by the Lionel Pincus & Princess Firyal Map Division, The New York Public Library and was georeferenced via the NYPL's MapWarper tool.",
@@ -34,11 +33,7 @@
   "dct_spatial_sm": [
     "Brooklyn, New York, United States"
   ],
-  "dc_relation_sm": [
-    "http://sws.geonames.org/5110302/about/rdf"
-  ],
-  "georss_box_s": "40.453216826621 -74.209856828436 40.846990773379 -73.689307771564",
-  "georss_polygon_s": "40.453216826621 -74.209856828436 40.846990773379 -74.209856828436 40.846990773379 -73.689307771564 40.453216826621 -73.689307771564 40.453216826621 -74.209856828436",
   "solr_geom": "ENVELOPE(-74.209856828436, -73.689307771564, 40.846990773379, 40.453216826621)",
-  "solr_year_i": 1898
+  "solr_year_i": 1898,
+  "geoblacklight_version": "1.0"
 }

@@ -1,5 +1,4 @@
 {
-  "uuid": "http://hdl.handle.net/2451/34054",
   "dc_identifier_s": "http://hdl.handle.net/2451/34054",
   "dc_title_s": "2010 U.S. and Canada Interstate Highways",
   "dc_description_s": "U.S. and Canada Interstate Highways represents the interstate highways of the United States and Canada.",
@@ -39,12 +38,7 @@
     "United States of America",
     "Canada"
   ],
-  "dc_relation_sm": [
-    "http://sws.geonames.org/6252001/about/rdf",
-    "http://sws.geonames.org/6251999/about/rdf"
-  ],
-  "georss_box_s": "21.277771979 -158.107177999 55.246855009 -52.681706001",
-  "georss_polygon_s": "21.277771979 -158.107177999 55.246855009 -158.107177999 55.246855009 -52.681706001 21.277771979 -52.681706001 21.277771979 -158.107177999",
   "solr_geom": "ENVELOPE(-158.107177999, -52.681706001, 55.246855009, 21.277771979)",
-  "solr_year_i": 2010
+  "solr_year_i": 2010,
+  "geoblacklight_version": "1.0"
 }

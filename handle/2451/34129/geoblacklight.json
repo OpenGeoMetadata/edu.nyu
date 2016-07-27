@@ -1,5 +1,4 @@
 {
-  "uuid": "http://hdl.handle.net/2451/34129",
   "dc_identifier_s": "http://hdl.handle.net/2451/34129",
   "dc_title_s": "2010 World Wildlife Fund Terrestrial Ecoregions",
   "dc_description_s": "World Wildlife Fund Terrestrial Ecoregions represents global terrestrial ecoregions. Ecoregions are defined as relatively large areas of land or water in the world containing a characteristic set of natural communities that share a large majority of their species, dynamics, and environmental conditions. This data set contains all terrestrial ecoregions, which include those of the Global 200. Global 200 ecoregions are a collection of the Earth's most outstanding and diverse terrestrial, freshwater, and marine habitats where the Earth's biological wealth is most distinctive and rich, where its loss will be most severely felt, and we must protect if we are to preserve the web of life. For more information, contact http://www.worldwildlife.org.",
@@ -36,11 +35,7 @@
   "dct_spatial_sm": [
     "World"
   ],
-  "dc_relation_sm": [
-    "http://sws.geonames.org/6295630/about/rdf"
-  ],
-  "georss_box_s": "-89.891973349 -179.999988601 83.623121651 179.999984399",
-  "georss_polygon_s": "-89.891973349 -179.999988601 83.623121651 -179.999988601 83.623121651 179.999984399 -89.891973349 179.999984399 -89.891973349 -179.999988601",
   "solr_geom": "ENVELOPE(-179.999988601, 179.999984399, 83.623121651, -89.891973349)",
-  "solr_year_i": 2010
+  "solr_year_i": 2010,
+  "geoblacklight_version": "1.0"
 }

@@ -1,5 +1,4 @@
 {
-  "uuid": "http://hdl.handle.net/2451/34093",
   "dc_identifier_s": "http://hdl.handle.net/2451/34093",
   "dc_title_s": "2010 U.S. Populated Place Points",
   "dc_description_s": "U.S. Populated Place Points represents populated places that include census designated places, consolidated cities, and incorporated places within United States identified by the U.S. Census Bureau.",
@@ -33,11 +32,7 @@
   "dct_spatial_sm": [
     "United States of America"
   ],
-  "dc_relation_sm": [
-    "http://sws.geonames.org/6252001/about/rdf"
-  ],
-  "georss_box_s": "19.062918182 -176.645063636 71.300376182 173.186142364",
-  "georss_polygon_s": "19.062918182 -176.645063636 71.300376182 -176.645063636 71.300376182 173.186142364 19.062918182 173.186142364 19.062918182 -176.645063636",
   "solr_geom": "ENVELOPE(-176.645063636, 173.186142364, 71.300376182, 19.062918182)",
-  "solr_year_i": 2010
+  "solr_year_i": 2010,
+  "geoblacklight_version": "1.0"
 }

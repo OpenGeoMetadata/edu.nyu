@@ -1,5 +1,4 @@
 {
-  "uuid": "http://hdl.handle.net/2451/34519",
   "dc_identifier_s": "http://hdl.handle.net/2451/34519",
   "dc_title_s": "2013 New York City Mayoral Election Returns",
   "dc_description_s": "New York City 2013 mayoral election returns contiguous with the beats.",
@@ -35,11 +34,7 @@
   "dct_spatial_sm": [
     "New York, New York, United States"
   ],
-  "dc_relation_sm": [
-    "http://sws.geonames.org/5128581/about/rdf"
-  ],
-  "georss_box_s": "40.6597536030713 -74.0126607344216 40.8006164757006 -73.890960487642",
-  "georss_polygon_s": "40.6597536030713 -74.0126607344216 40.8006164757006 -74.0126607344216 40.8006164757006 -73.890960487642 40.6597536030713 -73.890960487642 40.6597536030713 -74.0126607344216",
   "solr_geom": "ENVELOPE(-74.0126607344216, -73.890960487642, 40.8006164757006, 40.6597536030713)",
-  "solr_year_i": 2013
+  "solr_year_i": 2013,
+  "geoblacklight_version": "1.0"
 }

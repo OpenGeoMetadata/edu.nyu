@@ -1,5 +1,4 @@
 {
-  "uuid": "http://hdl.handle.net/2451/34514",
   "dc_identifier_s": "http://hdl.handle.net/2451/34514",
   "dc_title_s": "2010 New York City Landmarks",
   "dc_description_s": "This polygon layer is a combination of the county Census TIGER landmark files for the five boroughs, re-projected to local state plane. Its features and attributes are unmodified from the original file. Features include parks, cemeteries, wildlife areas, airports, transit yards, and large public buildings like hospitals museums, colleges, and city government offices. The facilities (nyu_2451_34492) and greenspace (nyu_2451_34493) layers were largely created using the landmarks geometry, with additions and modifications to features and attributes. This layer is provided for users who wish to add additional features to the existing layers or to create new ones. The unique ID is areaid; created by the Census. This data was created as part of the NYC Geodatabase (NYC GDB) project, a resource designed for basic geographic analysis and thematic mapping within the five boroughs of New York City.",
@@ -42,25 +41,11 @@
     "Borough of Queens, New York, United States",
     "Borough of Staten Island, New York, United States"
   ],
-  "dc_relation_sm": [
-    "http://sws.geonames.org/5128581/about/rdf",
-    "http://sws.geonames.org/5110253/about/rdf",
-    "http://sws.geonames.org/6941775/about/rdf",
-    "http://sws.geonames.org/5128594/about/rdf",
-    "http://sws.geonames.org/5133268/about/rdf",
-    "http://sws.geonames.org/5139559/about/rdf",
-    "http://sws.geonames.org/5110266/about/rdf",
-    "http://sws.geonames.org/5110302/about/rdf",
-    "http://sws.geonames.org/5125771/about/rdf",
-    "http://sws.geonames.org/5133273/about/rdf",
-    "http://sws.geonames.org/5139568/about/rdf"
-  ],
-  "georss_box_s": "40.5057239999998 -74.231336 40.9151869999998 -73.709374",
-  "georss_polygon_s": "40.5057239999998 -74.231336 40.9151869999998 -74.231336 40.9151869999998 -73.709374 40.5057239999998 -73.709374 40.5057239999998 -74.231336",
   "solr_geom": "ENVELOPE(-74.231336, -73.709374, 40.9151869999998, 40.5057239999998)",
   "solr_year_i": 2010,
   "dct_source_sm": [
     "nyu_2451_34635",
     "nyu_2451_34636"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

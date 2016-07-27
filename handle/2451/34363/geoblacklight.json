@@ -1,5 +1,4 @@
 {
-  "uuid": "http://hdl.handle.net/2451/34363",
   "dc_identifier_s": "http://hdl.handle.net/2451/34363",
   "dc_title_s": "2008 Jammu and Kashmir, India: Post Delimitation Assembly Constituency Boundaries and Election Data",
   "dc_description_s": "This data layer shows post-delimitation state Legislative Assembly constituency boundaries and data relating to the 2008 Assembly elections for the State of Jammu and Kashmir, India. Includes attribute data on election parties, candidates, voters, and results. This layer is part of the Poll Map of India which includes parliamentary constituency boundaries for India, Assembly constituency boundaries for all states, and data relating to the past national elections for each State of India.This data can be used for election analysis, forecasting, and mapping: Enables profiling of individual constituencies, permits historical analysis of the data, and helps predictive estimate of the impact of regional and state-wise electorate swings on the performance of political parties. These data are intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production.",
@@ -46,22 +45,7 @@
     "Sāmba, Kashmir, India",
     "Sonāwāri, Kashmir, India"
   ],
-  "dc_relation_sm": [
-    "http://sws.geonames.org/1269320/about/rdf",
-    "http://sws.geonames.org/1277997/about/rdf",
-    "http://sws.geonames.org/1272476/about/rdf",
-    "http://sws.geonames.org/1270743/about/rdf",
-    "http://sws.geonames.org/9748001/about/rdf",
-    "http://sws.geonames.org/6268046/about/rdf",
-    "http://sws.geonames.org/1264976/about/rdf",
-    "http://sws.geonames.org/1260880/about/rdf",
-    "http://sws.geonames.org/1167718/about/rdf",
-    "http://sws.geonames.org/1430013/about/rdf",
-    "http://sws.geonames.org/1257545/about/rdf",
-    "http://sws.geonames.org/1430686/about/rdf"
-  ],
-  "georss_box_s": "32.264778 72.574257 37.050301 80.300888",
-  "georss_polygon_s": "32.264778 72.574257 37.050301 72.574257 37.050301 80.300888 32.264778 80.300888 32.264778 72.574257",
   "solr_geom": "ENVELOPE(72.574257, 80.300888, 37.050301, 32.264778)",
-  "solr_year_i": 2008
+  "solr_year_i": 2008,
+  "geoblacklight_version": "1.0"
 }

@@ -1,5 +1,4 @@
 {
-  "uuid": "http://hdl.handle.net/2451/34562",
   "dc_identifier_s": "http://hdl.handle.net/2451/34562",
   "dc_title_s": "2016 New York City Public Use Micro Areas (PUMAs)",
   "dc_description_s": "This polygon shapefile layer represents the 2010 NYC Public Use Microdata Areas (PUMAs). PUMAs are statistical geographic areas defined for the dissemination of Public Use Microdata Sample (PUMS) data. PUMAs have a minimum population of 100,000, are aggregated from census tracts, and approximate Community Districts (CDs), or combinations of CDs (There are 59 CDs and only 55 NYC PUMAs because of such combinations). This geography is also used for disseminating American Community Survey (ACS) estimates.",
@@ -32,11 +31,7 @@
   "dct_spatial_sm": [
     "New York, New York, United States"
   ],
-  "dc_relation_sm": [
-    "http://sws.geonames.org/5128581/about/rdf"
-  ],
-  "georss_box_s": "40.4961153951689 -74.2555913624937 40.9155327770052 -73.7000090638712",
-  "georss_polygon_s": "40.4961153951689 -74.2555913624937 40.9155327770052 -74.2555913624937 40.9155327770052 -73.7000090638712 40.4961153951689 -73.7000090638712 40.4961153951689 -74.2555913624937",
   "solr_geom": "ENVELOPE(-74.2555913624937, -73.7000090638712, 40.9155327770052, 40.4961153951689)",
-  "solr_year_i": 2016
+  "solr_year_i": 2016,
+  "geoblacklight_version": "1.0"
 }

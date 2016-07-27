@@ -1,5 +1,4 @@
 {
-  "uuid": "http://hdl.handle.net/2451/34148",
   "dc_identifier_s": "http://hdl.handle.net/2451/34148",
   "dc_title_s": "2010 U.S. National Atlas Volcanoes",
   "dc_description_s": "U.S. National Atlas Volcanoes represents volcanoes thought to be active in the last 10,000 years (Holocene), in and near the United States. The data is a subset of data available from the Global Volcanism Program, Smithsonian Institution.",
@@ -33,11 +32,7 @@
   "dct_spatial_sm": [
     "United States of America"
   ],
-  "dc_relation_sm": [
-    "http://sws.geonames.org/6252001/about/rdf"
-  ],
-  "georss_box_s": "10.029999733 -178.792617798 65.599281785 179.577270536",
-  "georss_polygon_s": "10.029999733 -178.792617798 65.599281785 -178.792617798 65.599281785 179.577270536 10.029999733 179.577270536 10.029999733 -178.792617798",
   "solr_geom": "ENVELOPE(-178.792617798, 179.577270536, 65.599281785, 10.029999733)",
-  "solr_year_i": 2010
+  "solr_year_i": 2010,
+  "geoblacklight_version": "1.0"
 }
