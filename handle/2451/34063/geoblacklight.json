@@ -1,5 +1,4 @@
 {
-  "uuid": "http://hdl.handle.net/2451/34063",
   "dc_identifier_s": "http://hdl.handle.net/2451/34063",
   "dc_title_s": "2010 U.S. and Canada Retail Centers",
   "dc_description_s": "U.S. and Canada Retail Centers represents locations within the United States and Canada for shopping centers and major retail centers.",
@@ -37,12 +36,7 @@
     "United States of America",
     "Canada"
   ],
-  "dc_relation_sm": [
-    "http://sws.geonames.org/6252001/about/rdf",
-    "http://sws.geonames.org/6251999/about/rdf"
-  ],
-  "georss_box_s": "17.993815 -159.392653 64.852148 -52.71085",
-  "georss_polygon_s": "17.993815 -159.392653 64.852148 -159.392653 64.852148 -52.71085 17.993815 -52.71085 17.993815 -159.392653",
   "solr_geom": "ENVELOPE(-159.392653, -52.71085, 64.852148, 17.993815)",
-  "solr_year_i": 2010
+  "solr_year_i": 2010,
+  "geoblacklight_version": "1.0"
 }

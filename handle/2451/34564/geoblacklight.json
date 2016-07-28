@@ -1,5 +1,4 @@
 {
-  "uuid": "http://hdl.handle.net/2451/34564",
   "dc_identifier_s": "http://hdl.handle.net/2451/34564",
   "dc_title_s": "2014 New York City Places",
   "dc_description_s": "This point shapefile was created as a guide to New York City’s non-neighborhood place locations that appear in “New York: A City of Neighborhoods.” These place locations include parks, cemeteries, and airports. Best estimates of label centroids were established at a 1:1,000 scale, but are ideally viewed at a 1:50,000 scale.",
@@ -32,11 +31,7 @@
   "dct_spatial_sm": [
     "New York, New York, United States"
   ],
-  "dc_relation_sm": [
-    "http://sws.geonames.org/5128581/about/rdf"
-  ],
-  "georss_box_s": "40.4995658893951 -74.2485646353495 40.8962098695574 -73.7322869841185",
-  "georss_polygon_s": "40.4995658893951 -74.2485646353495 40.8962098695574 -74.2485646353495 40.8962098695574 -73.7322869841185 40.4995658893951 -73.7322869841185 40.4995658893951 -74.2485646353495",
   "solr_geom": "ENVELOPE(-74.2485646353495, -73.7322869841185, 40.8962098695574, 40.4995658893951)",
-  "solr_year_i": 2014
+  "solr_year_i": 2014,
+  "geoblacklight_version": "1.0"
 }

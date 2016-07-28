@@ -1,5 +1,4 @@
 {
-  "uuid": "http://hdl.handle.net/2451/34097",
   "dc_identifier_s": "http://hdl.handle.net/2451/34097",
   "dc_title_s": "2010 U.S. National Atlas Urbanized Areas",
   "dc_description_s": "U.S. National Atlas Urbanized Areas represents urban areas in the United States derived from the urban areas layer of the Digital Chart of the World (DCW).",
@@ -33,11 +32,7 @@
   "dct_spatial_sm": [
     "United States of America"
   ],
-  "dc_relation_sm": [
-    "http://sws.geonames.org/6252001/about/rdf"
-  ],
-  "georss_box_s": "19.191790909 -165.447890909 64.856134909 -66.986387909",
-  "georss_polygon_s": "19.191790909 -165.447890909 64.856134909 -165.447890909 64.856134909 -66.986387909 19.191790909 -66.986387909 19.191790909 -165.447890909",
   "solr_geom": "ENVELOPE(-165.447890909, -66.986387909, 64.856134909, 19.191790909)",
-  "solr_year_i": 2010
+  "solr_year_i": 2010,
+  "geoblacklight_version": "1.0"
 }

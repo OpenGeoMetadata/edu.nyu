@@ -1,5 +1,4 @@
 {
-  "uuid": "http://hdl.handle.net/2451/34185",
   "dc_identifier_s": "http://hdl.handle.net/2451/34185",
   "dc_title_s": "2010 U.S. USGS 1:24,000 Topographic Quadrangle Series Index",
   "dc_description_s": "U.S. USGS 1:24,000 Topographic Quadrangle Series Index represents the geographic extent of USGS 1:24,000 topographic maps (7.5- by 7.5-minute quadrangles) for the coterminous U.S. forty-eight states and District of Columbia.",
@@ -35,11 +34,7 @@
   "dct_spatial_sm": [
     "United States of America"
   ],
-  "dc_relation_sm": [
-    "http://sws.geonames.org/6252001/about/rdf"
-  ],
-  "georss_box_s": "24.5 -124.750009091 49.500002013 -66.874996091",
-  "georss_polygon_s": "24.5 -124.750009091 49.500002013 -124.750009091 49.500002013 -66.874996091 24.5 -66.874996091 24.5 -124.750009091",
   "solr_geom": "ENVELOPE(-124.750009091, -66.874996091, 49.500002013, 24.5)",
-  "solr_year_i": 2010
+  "solr_year_i": 2010,
+  "geoblacklight_version": "1.0"
 }

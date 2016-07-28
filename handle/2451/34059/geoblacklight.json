@@ -1,5 +1,4 @@
 {
-  "uuid": "http://hdl.handle.net/2451/34059",
   "dc_identifier_s": "http://hdl.handle.net/2451/34059",
   "dc_title_s": "2010 U.S. and Canada Major Roads",
   "dc_description_s": "U.S. and Canada Major Roads represents the major roads of the United States and Canada. These include interstates, inter-metropolitan area, and intra-state highways and major roads.",
@@ -38,12 +37,7 @@
     "United States of America",
     "Canada"
   ],
-  "dc_relation_sm": [
-    "http://sws.geonames.org/6252001/about/rdf",
-    "http://sws.geonames.org/6251999/about/rdf"
-  ],
-  "georss_box_s": "17.951845 -166.556497 71.306885025 -52.622456",
-  "georss_polygon_s": "17.951845 -166.556497 71.306885025 -166.556497 71.306885025 -52.622456 17.951845 -52.622456 17.951845 -166.556497",
   "solr_geom": "ENVELOPE(-166.556497, -52.622456, 71.306885025, 17.951845)",
-  "solr_year_i": 2010
+  "solr_year_i": 2010,
+  "geoblacklight_version": "1.0"
 }

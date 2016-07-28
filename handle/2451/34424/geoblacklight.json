@@ -1,5 +1,4 @@
 {
-  "uuid": "http://hdl.handle.net/2451/34424",
   "dc_identifier_s": "http://hdl.handle.net/2451/34424",
   "dc_title_s": "2001 Assam, India: Village Boundaries with Socio-Demographic and Economic Census Data",
   "dc_description_s": "This polygon shapefile shows village boundaries with socio-demographic and economic Census data for 2001 for the State of Assam, India. Includes village socio-demographic and economic Census attribute data such as total population, population by sex, household, literacy and illiteracy rates, and employment by industry. This layer is part of the VillageMap dataset which includes socio-demographic and economic Census data for 2001 at the village level for all the states of India. This data layer is sourced from secondary government sources, chiefly Survey of India, Census of India, Election Commission, etc. This map includes data for 22259 villages,119 towns, 23 districts and 1 state.This dataset is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for village level demographic analysis within basic applications to support graphical overlays and analysis with other spatial data.",
@@ -47,17 +46,7 @@
     "Jorhāt (India : District), Assam, India",
     "Tezpur, Assam, India"
   ],
-  "dc_relation_sm": [
-    "http://sws.geonames.org/1278253/about/rdf",
-    "http://sws.geonames.org/1254432/about/rdf",
-    "http://sws.geonames.org/1272649/about/rdf",
-    "http://sws.geonames.org/1261181/about/rdf",
-    "http://sws.geonames.org/1256389/about/rdf",
-    "http://sws.geonames.org/7627081/about/rdf",
-    "http://sws.geonames.org/1254710/about/rdf"
-  ],
-  "georss_box_s": "24.12979002 89.70450012 27.97218999 96.01561008",
-  "georss_polygon_s": "24.12979002 89.70450012 27.97218999 89.70450012 27.97218999 96.01561008 24.12979002 96.01561008 24.12979002 89.70450012",
   "solr_geom": "ENVELOPE(89.70450012, 96.01561008, 27.97218999, 24.12979002)",
-  "solr_year_i": 2001
+  "solr_year_i": 2001,
+  "geoblacklight_version": "1.0"
 }

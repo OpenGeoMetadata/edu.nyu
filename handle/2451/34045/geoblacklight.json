@@ -1,5 +1,4 @@
 {
-  "uuid": "http://hdl.handle.net/2451/34045",
   "dc_identifier_s": "http://hdl.handle.net/2451/34045",
   "dc_title_s": "2010 AOI Centroids",
   "dc_description_s": [
@@ -39,11 +38,7 @@
   "dct_spatial_sm": [
     "New York City, New York, United States"
   ],
-  "dc_relation_sm": [
-    "http://sws.geonames.org/5128581/about/rdf"
-  ],
-  "georss_box_s": "40.4995658893952 -74.2485646353494 40.8962098695574 -73.7322869841184",
-  "georss_polygon_s": "40.4995658893952 -74.2485646353494 40.8962098695574 -74.2485646353494 40.8962098695574 -73.7322869841184 40.4995658893952 -73.7322869841184 40.4995658893952 -74.2485646353494",
   "solr_geom": "ENVELOPE(-74.2485646353494, -73.7322869841184, 40.8962098695574, 40.4995658893952)",
-  "solr_year_i": 2010
+  "solr_year_i": 2010,
+  "geoblacklight_version": "1.0"
 }

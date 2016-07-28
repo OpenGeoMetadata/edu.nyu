@@ -1,5 +1,4 @@
 {
-  "uuid": "http://hdl.handle.net/2451/34194",
   "dc_identifier_s": "http://hdl.handle.net/2451/34194",
   "dc_title_s": "2015 Buenos Aires Beats",
   "dc_description_s": "This map represents ares in Buenos Aires  where students collected images and attribute information about graffiti and urban spaces. The beats, or informally designated areas, were designated by the professors of the class and do not adhere to any established political boundaries or administrative divisions.",
@@ -32,11 +31,7 @@
   "dct_spatial_sm": [
     "Buenos Aires, Buenos Aires F.D., Argentina"
   ],
-  "dc_relation_sm": [
-    "http://sws.geonames.org/3435910/about/rdf"
-  ],
-  "georss_box_s": "-34.6221012535782 -58.4468849797608 -34.5754016411022 -58.3693316354319",
-  "georss_polygon_s": "-34.6221012535782 -58.4468849797608 -34.5754016411022 -58.4468849797608 -34.5754016411022 -58.3693316354319 -34.6221012535782 -58.3693316354319 -34.6221012535782 -58.4468849797608",
   "solr_geom": "ENVELOPE(-58.4468849797608, -58.3693316354319, -34.5754016411022, -34.6221012535782)",
-  "solr_year_i": 2015
+  "solr_year_i": 2015,
+  "geoblacklight_version": "1.0"
 }

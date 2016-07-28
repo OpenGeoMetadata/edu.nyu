@@ -1,5 +1,4 @@
 {
-  "uuid": "http://hdl.handle.net/2451/34068",
   "dc_identifier_s": "http://hdl.handle.net/2451/34068",
   "dc_title_s": "2010 U.S. and Canada Transportation Terminals",
   "dc_description_s": "U.S. and Canada Transportation Terminals represents locations within the United States and Canada for transportation terminals such as bus terminals, train stations, marine and ferry terminals, and other significant transportation nodes.",
@@ -37,12 +36,7 @@
     "United States of America",
     "Canada"
   ],
-  "dc_relation_sm": [
-    "http://sws.geonames.org/6252001/about/rdf",
-    "http://sws.geonames.org/6251999/about/rdf"
-  ],
-  "georss_box_s": "18.152334 -166.498692 67.45651 -52.713966",
-  "georss_polygon_s": "18.152334 -166.498692 67.45651 -166.498692 67.45651 -52.713966 18.152334 -52.713966 18.152334 -166.498692",
   "solr_geom": "ENVELOPE(-166.498692, -52.713966, 67.45651, 18.152334)",
-  "solr_year_i": 2010
+  "solr_year_i": 2010,
+  "geoblacklight_version": "1.0"
 }

@@ -1,5 +1,4 @@
 {
-  "uuid": "http://hdl.handle.net/2451/34078",
   "dc_identifier_s": "http://hdl.handle.net/2451/34078",
   "dc_title_s": "2010 U.S. Rivers (Generalized)",
   "dc_description_s": "U.S. Rivers (Generalized) represents the major rivers within the United States.",
@@ -33,11 +32,7 @@
   "dct_spatial_sm": [
     "United States of America"
   ],
-  "dc_relation_sm": [
-    "http://sws.geonames.org/6252001/about/rdf"
-  ],
-  "georss_box_s": "25.845554545 -164.765827273 70.409756535 -67.790980273",
-  "georss_polygon_s": "25.845554545 -164.765827273 70.409756535 -164.765827273 70.409756535 -67.790980273 25.845554545 -67.790980273 25.845554545 -164.765827273",
   "solr_geom": "ENVELOPE(-164.765827273, -67.790980273, 70.409756535, 25.845554545)",
-  "solr_year_i": 2010
+  "solr_year_i": 2010,
+  "geoblacklight_version": "1.0"
 }

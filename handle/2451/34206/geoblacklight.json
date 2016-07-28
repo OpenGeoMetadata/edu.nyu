@@ -1,5 +1,4 @@
 {
-  "uuid": "http://hdl.handle.net/2451/34206",
   "dc_identifier_s": "http://hdl.handle.net/2451/34206",
   "dc_title_s": "2010 New York City Election Districts",
   "dc_description_s": "This layer shows the New York City Board of Elections election districts for the City of New York. These district boundaries represent the redistricting as of the US Census 2010. Downloaded from NYC Dept of City Planning",
@@ -35,11 +34,7 @@
   "dct_spatial_sm": [
     "New York, New York, United States"
   ],
-  "dc_relation_sm": [
-    "http://sws.geonames.org/5128581/about/rdf"
-  ],
-  "georss_box_s": "40.4961236005812 -74.2555928797073 40.915541075395 -73.7000104159321",
-  "georss_polygon_s": "40.4961236005812 -74.2555928797073 40.915541075395 -74.2555928797073 40.915541075395 -73.7000104159321 40.4961236005812 -73.7000104159321 40.4961236005812 -74.2555928797073",
   "solr_geom": "ENVELOPE(-74.2555928797073, -73.7000104159321, 40.915541075395, 40.4961236005812)",
-  "solr_year_i": 2010
+  "solr_year_i": 2010,
+  "geoblacklight_version": "1.0"
 }

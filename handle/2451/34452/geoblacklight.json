@@ -1,5 +1,4 @@
 {
-  "uuid": "http://hdl.handle.net/2451/34452",
   "dc_identifier_s": "http://hdl.handle.net/2451/34452",
   "dc_title_s": "2001 Chhattisgarh, India: Village Amenities Points with Socio-Demographic and Economic Census Data",
   "dc_description_s": "This point shapefile shows village locations with socio-demographic and economic Census data for 2001 for the State of Chhattisgarh, India linked to the 2001 Census. Includes village socio-demographic and economic Census attribute data such as total population, population by sex, household, literacy and illiteracy rates, and employment by industry. This layer is part of the VillageMap dataset which includes socio-demographic and economic Census data for 2001 at the village level for all the states of India. This data layer is sourced from secondary government sources, chiefly Survey of India, Census of India, Election Commission, etc. This dataset is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for village level demographic analysis within basic applications to support graphical overlays and analysis with other spatial data.",
@@ -43,13 +42,7 @@
     "Bhairamgarh, Chhattisgarh, India",
     "Antāgarh, Chhattisgarh, India"
   ],
-  "dc_relation_sm": [
-    "http://sws.geonames.org/1444364/about/rdf",
-    "http://sws.geonames.org/1276258/about/rdf",
-    "http://sws.geonames.org/1278530/about/rdf"
-  ],
-  "georss_box_s": "17.79652593 80.2704924 20.43398097 81.95617692",
-  "georss_polygon_s": "17.79652593 80.2704924 20.43398097 80.2704924 20.43398097 81.95617692 17.79652593 81.95617692 17.79652593 80.2704924",
   "solr_geom": "ENVELOPE(80.2704924, 81.95617692, 20.43398097, 17.79652593)",
-  "solr_year_i": 2001
+  "solr_year_i": 2001,
+  "geoblacklight_version": "1.0"
 }

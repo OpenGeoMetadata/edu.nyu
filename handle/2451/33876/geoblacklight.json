@@ -1,5 +1,4 @@
 {
-  "uuid": "http://hdl.handle.net/2451/33876",
   "dc_identifier_s": "http://hdl.handle.net/2451/33876",
   "dc_title_s": "National Jewish Population Map by County",
   "dc_description_s": "This file is an estimate of the number of Jewish persons in the U.S. by county in 2010 census geographies, based upon multiple sources of data, including Jewish community studies available at the Jewish Data Bank, the Data Bank's Current Jewish Population Report series, and the American Community Survey. Joshua Comenetz used indicators like language spoken and ancestry in the absence of standard demographic data to measure Jewish populations. For more information on the methodology used to compile this data set, see the Jewish Data Bank.",
@@ -34,11 +33,7 @@
   "dct_spatial_sm": [
     "United States of America"
   ],
-  "dc_relation_sm": [
-    "http://sws.geonames.org/6252001/about/rdf"
-  ],
-  "georss_box_s": "17.926875 -179.14734 71.352561 179.77847",
-  "georss_polygon_s": "17.926875 -179.14734 71.352561 -179.14734 71.352561 179.77847 17.926875 179.77847 17.926875 -179.14734",
   "solr_geom": "ENVELOPE(-179.14734, 179.77847, 71.352561, 17.926875)",
-  "solr_year_i": 2012
+  "solr_year_i": 2012,
+  "geoblacklight_version": "1.0"
 }

@@ -1,5 +1,4 @@
 {
-  "uuid": "http://hdl.handle.net/2451/34105",
   "dc_identifier_s": "http://hdl.handle.net/2451/34105",
   "dc_title_s": "2010 World Cities",
   "dc_description_s": "World Cities represents the locations of the major cities of the world.",
@@ -33,11 +32,7 @@
   "dct_spatial_sm": [
     "World"
   ],
-  "dc_relation_sm": [
-    "http://sws.geonames.org/6295630/about/rdf"
-  ],
-  "georss_box_s": "-54.792 -176.151563636 78.200001155 179.221887695",
-  "georss_polygon_s": "-54.792 -176.151563636 78.200001155 -176.151563636 78.200001155 179.221887695 -54.792 179.221887695 -54.792 -176.151563636",
   "solr_geom": "ENVELOPE(-176.151563636, 179.221887695, 78.200001155, -54.792)",
-  "solr_year_i": 2010
+  "solr_year_i": 2010,
+  "geoblacklight_version": "1.0"
 }

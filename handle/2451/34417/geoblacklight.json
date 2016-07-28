@@ -1,5 +1,4 @@
 {
-  "uuid": "http://hdl.handle.net/2451/34417",
   "dc_identifier_s": "http://hdl.handle.net/2451/34417",
   "dc_title_s": "2001 Andhra Pradesh, India: Village Boundaries with Socio-Demographic and Economic Census Data",
   "dc_description_s": "This polygon shapefile shows village boundaries with socio-demographic and economic Census data for 2001 for the state of Andhra Pradesh, India linked to the 2001 Census. Includes village socio-demographic and economic Census attribute data such as total population, population by sex, household, literacy and illiteracy rates, and employment by industry. This layer is part of the VillageMap dataset which includes socio-demographic and economic Census data for 2001 at the village level for all the states of India. This data layer is sourced from secondary government sources, chiefly Survey of India, Census of India, Election Commission, etc. This map Includes data for 26841 villages, 237 towns, 23 districts and 1 state. This dataset is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for village level demographic analysis within basic applications to support graphical overlays and analysis with other spatial data.",
@@ -58,28 +57,7 @@
     "Pulivendla, Andhra Pradesh, India",
     "Nandigāma, Andhra Pradesh, India"
   ],
-  "dc_relation_sm": [
-    "http://sws.geonames.org/1278629/about/rdf",
-    "http://sws.geonames.org/1262067/about/rdf",
-    "http://sws.geonames.org/1269843/about/rdf",
-    "http://sws.geonames.org/1253102/about/rdf",
-    "http://sws.geonames.org/1253184/about/rdf",
-    "http://sws.geonames.org/1252948/about/rdf",
-    "http://sws.geonames.org/1270668/about/rdf",
-    "http://sws.geonames.org/1272722/about/rdf",
-    "http://sws.geonames.org/1259704/about/rdf",
-    "http://sws.geonames.org/1258922/about/rdf",
-    "http://sws.geonames.org/1260674/about/rdf",
-    "http://sws.geonames.org/1253077/about/rdf",
-    "http://sws.geonames.org/7302835/about/rdf",
-    "http://sws.geonames.org/1278697/about/rdf",
-    "http://sws.geonames.org/1261957/about/rdf",
-    "http://sws.geonames.org/1278202/about/rdf",
-    "http://sws.geonames.org/1259264/about/rdf",
-    "http://sws.geonames.org/1261960/about/rdf"
-  ],
-  "georss_box_s": "12.62309265 76.76000208 19.91632464 84.714966",
-  "georss_polygon_s": "12.62309265 76.76000208 19.91632464 76.76000208 19.91632464 84.714966 12.62309265 84.714966 12.62309265 76.76000208",
   "solr_geom": "ENVELOPE(76.76000208, 84.714966, 19.91632464, 12.62309265)",
-  "solr_year_i": 2001
+  "solr_year_i": 2001,
+  "geoblacklight_version": "1.0"
 }

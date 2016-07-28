@@ -1,5 +1,4 @@
 {
-  "uuid": "http://hdl.handle.net/2451/34533",
   "dc_identifier_s": "http://hdl.handle.net/2451/34533",
   "dc_title_s": "2016 Zones for Sidewalk Cafes in New York City",
   "dc_description_s": "This line shapefile feature class is a spatial representation of the Sidewalk Cafe regulations in the New York City Zoning Resolution, Chapter 1, Article 4 as of February, 2016. The CafeType field indicates the types of Sidewalk Cafes that are permitted, including All Cafes (includes Enclosed, Unenclosed, and Small), Unenclosed Only (includes Small), Small Only, and Not Permitted (for locations where the zoning would normally permit, but some other regulation prohibits). Lines are coincident with the Department Of Finance Tax Block edges. This dataset is maintained to reflect changes to mapped zoning districts or zoning text amendments as they are adopted by the City Council. Note that this dataset changes frequently, as updates to the zoning for sidewalk cafes occur with monthly city council meetings. Users may want to refer to Bytes of the Big Apple to discover more recent sets. These features only indicate areas where certain cafes types should or should not be allowed according to zoning regulations. The Department of Consumer Affairs approval is always required for sidewalk cafes.",
@@ -34,11 +33,7 @@
   "dct_spatial_sm": [
     "New York, New York, United States"
   ],
-  "dc_relation_sm": [
-    "http://sws.geonames.org/5128581/about/rdf"
-  ],
-  "georss_box_s": "40.5067526622558 -74.2503962847784 40.9116321450824 -73.7001760541387",
-  "georss_polygon_s": "40.5067526622558 -74.2503962847784 40.9116321450824 -74.2503962847784 40.9116321450824 -73.7001760541387 40.5067526622558 -73.7001760541387 40.5067526622558 -74.2503962847784",
   "solr_geom": "ENVELOPE(-74.2503962847784, -73.7001760541387, 40.9116321450824, 40.5067526622558)",
-  "solr_year_i": 2016
+  "solr_year_i": 2016,
+  "geoblacklight_version": "1.0"
 }

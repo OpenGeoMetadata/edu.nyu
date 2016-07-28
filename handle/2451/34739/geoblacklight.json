@@ -1,5 +1,4 @@
 {
-  "uuid": "http://hdl.handle.net/2451/34739",
   "dc_identifier_s": "http://hdl.handle.net/2451/34739",
   "dc_title_s": "1978 Topographic Map of UAE (1:100k), Sheet 7-39-144",
   "dc_description_s": "This image is a 1:100,000 scale topographic map produced by the Soviet military in 1978. Maps produced by the Soviet military were believed to be used as an organizing framework for knowledge about the world and were compiled through a combination of aerial intelligence and on-the-ground observation. Sheet numbering is based on the alphanumeric system adopted by the International Map of the World (IMW), in which the globe is divided into equal-sized zones based upon latitude and longitude. Each zone is further subdivided so that the position of a sheet at the full range of scales can be deduced. The date and factory of production of each map are provided in a unique code that is embedded within the outer border, usually at the bottom right. For more information, see the manual and scholarship of John M. Davies and Alexander Kent in the documentation.",
@@ -40,16 +39,7 @@
     "Farīq, United Arab Emirates",
     "Bū Līfīyāt, United Arab Emirates"
   ],
-  "dc_relation_sm": [
-    "http://sws.geonames.org/290681/about/rdf",
-    "http://sws.geonames.org/292783/about/rdf",
-    "http://sws.geonames.org/291796/about/rdf",
-    "http://sws.geonames.org/292182/about/rdf",
-    "http://sws.geonames.org/292184/about/rdf",
-    "http://sws.geonames.org/292363/about/rdf"
-  ],
-  "georss_box_s": "24.0 53.5 24.333 54.0",
-  "georss_polygon_s": "24.0 53.5 24.333 53.5 24.333 54.0 24.0 54.0 24.0 53.5",
   "solr_geom": "ENVELOPE(53.5, 54.0, 24.333, 24.0)",
-  "solr_year_i": 1978
+  "solr_year_i": 1978,
+  "geoblacklight_version": "1.0"
 }

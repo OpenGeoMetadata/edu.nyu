@@ -1,5 +1,4 @@
 {
-  "uuid": "http://hdl.handle.net/2451/33914",
   "dc_identifier_s": "http://hdl.handle.net/2451/33914",
   "dc_title_s": "2010 China State Roads",
   "dc_description_s": "This file contains the names and locations of state roads in China.",
@@ -34,11 +33,7 @@
   "dct_spatial_sm": [
     "People's Republic of China, China"
   ],
-  "dc_relation_sm": [
-    "http://sws.geonames.org/1814991/about/rdf"
-  ],
-  "georss_box_s": "18.1906719207764 74.9090270996094 50.5736618041992 132.523883794862",
-  "georss_polygon_s": "18.1906719207764 74.9090270996094 50.5736618041992 74.9090270996094 50.5736618041992 132.523883794862 18.1906719207764 132.523883794862 18.1906719207764 74.9090270996094",
   "solr_geom": "ENVELOPE(74.9090270996094, 132.523883794862, 50.5736618041992, 18.1906719207764)",
-  "solr_year_i": 2010
+  "solr_year_i": 2010,
+  "geoblacklight_version": "1.0"
 }

@@ -1,5 +1,4 @@
 {
-  "uuid": "http://hdl.handle.net/2451/34057",
   "dc_identifier_s": "http://hdl.handle.net/2451/34057",
   "dc_title_s": "2010 U.S. and Canada Maneuvers",
   "dc_description_s": "U.S. and Canada Maneuvers represents street and highway maneuvers in the United States and Canada.",
@@ -35,12 +34,7 @@
     "United States of America",
     "Canada"
   ],
-  "dc_relation_sm": [
-    "http://sws.geonames.org/6252001/about/rdf",
-    "http://sws.geonames.org/6251999/about/rdf"
-  ],
-  "georss_box_s": "21.269086 -158.182763 53.819133 -64.258109",
-  "georss_polygon_s": "21.269086 -158.182763 53.819133 -158.182763 53.819133 -64.258109 21.269086 -64.258109 21.269086 -158.182763",
   "solr_geom": "ENVELOPE(-158.182763, -64.258109, 53.819133, 21.269086)",
-  "solr_year_i": 2010
+  "solr_year_i": 2010,
+  "geoblacklight_version": "1.0"
 }

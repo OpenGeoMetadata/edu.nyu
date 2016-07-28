@@ -1,5 +1,4 @@
 {
-  "uuid": "http://hdl.handle.net/2451/34604",
   "dc_identifier_s": "http://hdl.handle.net/2451/34604",
   "dc_title_s": "2015 ESRI Consumer Spending Geodatabase",
   "dc_description_s": [
@@ -35,11 +34,7 @@
   "dct_spatial_sm": [
     "United States of America"
   ],
-  "dc_relation_sm": [
-    "http://sws.geonames.org/6252001/about/rdf"
-  ],
-  "georss_box_s": "24.7073204053 -170.1769013405 71.6032483233 -64.5665435791",
-  "georss_polygon_s": "24.7073204053 -170.1769013405 71.6032483233 -170.1769013405 71.6032483233 -64.5665435791 24.7073204053 -64.5665435791 24.7073204053 -170.1769013405",
   "solr_geom": "ENVELOPE(-170.1769013405, -64.5665435791, 71.6032483233, 24.7073204053)",
-  "solr_year_i": 2015
+  "solr_year_i": 2015,
+  "geoblacklight_version": "1.0"
 }

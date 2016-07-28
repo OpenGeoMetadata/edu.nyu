@@ -1,5 +1,4 @@
 {
-  "uuid": "http://hdl.handle.net/2451/34036",
   "dc_identifier_s": "http://hdl.handle.net/2451/34036",
   "dc_title_s": "2013 Hospital Zone Areas in Buenos Aires",
   "dc_description_s": "This map is the boundaries and the names of the hospital zone areas in Buenos Aires, Argentina. It is taken from the City of Buenos Aires GIS and data center, and full documentation is available at http://data.buenosaires.gob.ar/dataset/areas-hospitalarias/resource/c1caac1d-6055-44fa-9367-c30c36424610",
@@ -31,11 +30,7 @@
   "dct_spatial_sm": [
     "Buenos Aires, Buenos Aires F.D., Argentina"
   ],
-  "dc_relation_sm": [
-    "http://sws.geonames.org/3435910/about/rdf"
-  ],
-  "georss_box_s": "-34.7057379596882 -58.530916480872 -34.5279899419183 -58.3345478894812",
-  "georss_polygon_s": "-34.7057379596882 -58.530916480872 -34.5279899419183 -58.530916480872 -34.5279899419183 -58.3345478894812 -34.7057379596882 -58.3345478894812 -34.7057379596882 -58.530916480872",
   "solr_geom": "ENVELOPE(-58.530916480872, -58.3345478894812, -34.5279899419183, -34.7057379596882)",
-  "solr_year_i": 2013
+  "solr_year_i": 2013,
+  "geoblacklight_version": "1.0"
 }

@@ -1,5 +1,4 @@
 {
-  "uuid": "http://hdl.handle.net/2451/34365",
   "dc_identifier_s": "http://hdl.handle.net/2451/34365",
   "dc_title_s": "2008 Karnataka, India: Post Delimitation Assembly Constituency Boundaries and Election Data",
   "dc_description_s": "This data layer shows post-delimitation state Legislative Assembly constituency boundaries and data relating to the 2008 Assembly elections for the State of Karnataka, India. Map includes data for 224 constituencies. Includes attribute data on election parties, candidates, voters, and results. This layer is part of the Poll Map of India which includes parliamentary constituency boundaries for India, Assembly constituency boundaries for all states, and data relating to the past national elections for each State of India.This data can be used for election analysis, forecasting, and mapping: Enables profiling of individual constituencies, permits historical analysis of the data, and helps predictive estimate of the impact of regional and state-wise electorate swings on the performance of political parties. These data are intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production.",
@@ -43,19 +42,7 @@
     "Mangalore, Karnataka, India",
     "Malur, Karnataka, India"
   ],
-  "dc_relation_sm": [
-    "http://sws.geonames.org/1267701/about/rdf",
-    "http://sws.geonames.org/1277333/about/rdf",
-    "http://sws.geonames.org/1276510/about/rdf",
-    "http://sws.geonames.org/1269873/about/rdf",
-    "http://sws.geonames.org/1269920/about/rdf",
-    "http://sws.geonames.org/1272818/about/rdf",
-    "http://sws.geonames.org/1268434/about/rdf",
-    "http://sws.geonames.org/1263780/about/rdf",
-    "http://sws.geonames.org/1264010/about/rdf"
-  ],
-  "georss_box_s": "11.59294419 74.08809648 18.45161631 78.58860012",
-  "georss_polygon_s": "11.59294419 74.08809648 18.45161631 74.08809648 18.45161631 78.58860012 11.59294419 78.58860012 11.59294419 74.08809648",
   "solr_geom": "ENVELOPE(74.08809648, 78.58860012, 18.45161631, 11.59294419)",
-  "solr_year_i": 2008
+  "solr_year_i": 2008,
+  "geoblacklight_version": "1.0"
 }

@@ -1,5 +1,4 @@
 {
-  "uuid": "http://hdl.handle.net/2451/34603",
   "dc_identifier_s": "http://hdl.handle.net/2451/34603",
   "dc_title_s": "2009 - 2013 ESRI American Community Survey Geodatabase",
   "dc_description_s": "This Esri geodatabase contains data from the American Community Survey (ACS) during the years of 2009-2013 as well as data from the Office of Management and Budget (OMB) and Neilson Media Research. This geodatabase allows for easy analysis of the impact of population changes on local services and sites. Esri's ACS data provides much of the information previously available through the decennial census. For ease of use, Esri developed a proprietary system of reliability symbols that identify the accuracy of the ACS estimates. ACS data categories offered by Esri include the following: Population—Total population, marital status, language, poverty; School and work—School enrollment, educational attainment, travel time and means of transportation to work; Households—Total households, poverty status, income, home value, rent, vehicles available, mortgage status; Housing—Total housing units, number of units in structure, year built. For information on the ACS methodology and variable names, see the documentation.",
@@ -35,11 +34,7 @@
   "dct_spatial_sm": [
     "United States of America"
   ],
-  "dc_relation_sm": [
-    "http://sws.geonames.org/6252001/about/rdf"
-  ],
-  "georss_box_s": "24.7073204053 -170.1769013405 71.6032483233 -64.5665435791",
-  "georss_polygon_s": "24.7073204053 -170.1769013405 71.6032483233 -170.1769013405 71.6032483233 -64.5665435791 24.7073204053 -64.5665435791 24.7073204053 -170.1769013405",
   "solr_geom": "ENVELOPE(-170.1769013405, -64.5665435791, 71.6032483233, 24.7073204053)",
-  "solr_year_i": 2015
+  "solr_year_i": 2015,
+  "geoblacklight_version": "1.0"
 }

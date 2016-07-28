@@ -1,5 +1,4 @@
 {
-  "uuid": "http://hdl.handle.net/2451/34073",
   "dc_identifier_s": "http://hdl.handle.net/2451/34073",
   "dc_title_s": "2010 U.S. Rivers and Streams",
   "dc_description_s": "U.S. Rivers and Streams represents detailed rivers and streams in the United States.",
@@ -34,11 +33,7 @@
   "dct_spatial_sm": [
     "United States of America"
   ],
-  "dc_relation_sm": [
-    "http://sws.geonames.org/6252001/about/rdf"
-  ],
-  "georss_box_s": "18.92267282 -160.220853081 49.376613157 -66.988396468",
-  "georss_polygon_s": "18.92267282 -160.220853081 49.376613157 -160.220853081 49.376613157 -66.988396468 18.92267282 -66.988396468 18.92267282 -160.220853081",
   "solr_geom": "ENVELOPE(-160.220853081, -66.988396468, 49.376613157, 18.92267282)",
-  "solr_year_i": 2010
+  "solr_year_i": 2010,
+  "geoblacklight_version": "1.0"
 }

@@ -1,5 +1,4 @@
 {
-  "uuid": "http://hdl.handle.net/2451/34067",
   "dc_identifier_s": "http://hdl.handle.net/2451/34067",
   "dc_title_s": "2010 U.S. and Canada Streets Cartographic",
   "dc_description_s": "U.S. and Canada Streets Cartographic represents streets, highways, interstate highways, roads with and without limited access, secondary and connecting roads, local and rural roads, roads with special characteristics, access ramps, and ferries within the United States and Canada.",
@@ -36,12 +35,7 @@
     "United States of America",
     "Canada"
   ],
-  "dc_relation_sm": [
-    "http://sws.geonames.org/6252001/about/rdf",
-    "http://sws.geonames.org/6251999/about/rdf"
-  ],
-  "georss_box_s": "18.911530886 -178.090634 76.427236 179.452975",
-  "georss_polygon_s": "18.911530886 -178.090634 76.427236 -178.090634 76.427236 179.452975 18.911530886 179.452975 18.911530886 -178.090634",
   "solr_geom": "ENVELOPE(-178.090634, 179.452975, 76.427236, 18.911530886)",
-  "solr_year_i": 2010
+  "solr_year_i": 2010,
+  "geoblacklight_version": "1.0"
 }

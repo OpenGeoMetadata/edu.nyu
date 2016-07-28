@@ -1,5 +1,4 @@
 {
-  "uuid": "http://hdl.handle.net/2451/34528",
   "dc_identifier_s": "http://hdl.handle.net/2451/34528",
   "dc_title_s": "2016 NYC Special Purpose Districts ",
   "dc_description_s": "This polygon shapefile layer features the Special Purpose Districts and their associated sub-districts. The main district designation is indicated in the SDNAME attribute. The abbreviation as shown on the zoning map is indicated in the SDLBL attribute. Note that these zones change frequently, and users may want to consult more recent releases at Bytes of the Big Apple.",
@@ -33,11 +32,7 @@
   "dct_spatial_sm": [
     "New York, New York, United States"
   ],
-  "dc_relation_sm": [
-    "http://sws.geonames.org/5128581/about/rdf"
-  ],
-  "georss_box_s": "40.4931845026818 -74.2564963493598 40.9159763085606 -73.7707315471799",
-  "georss_polygon_s": "40.4931845026818 -74.2564963493598 40.9159763085606 -74.2564963493598 40.9159763085606 -73.7707315471799 40.4931845026818 -73.7707315471799 40.4931845026818 -74.2564963493598",
   "solr_geom": "ENVELOPE(-74.2564963493598, -73.7707315471799, 40.9159763085606, 40.4931845026818)",
-  "solr_year_i": 2016
+  "solr_year_i": 2016,
+  "geoblacklight_version": "1.0"
 }

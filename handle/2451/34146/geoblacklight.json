@@ -1,5 +1,4 @@
 {
-  "uuid": "http://hdl.handle.net/2451/34146",
   "dc_identifier_s": "http://hdl.handle.net/2451/34146",
   "dc_title_s": "2010 U.S. National Atlas Historic Earthquakes",
   "dc_description_s": "U.S. National Atlas Historic Earthquakes represents the locations of significant, historic earthquakes in United States and adjacent Canada and Mexico that caused deaths, property damage, and geological effects, or were otherwise experienced by the resident populations.",
@@ -35,11 +34,7 @@
   "dct_spatial_sm": [
     "United States of America"
   ],
-  "dc_relation_sm": [
-    "http://sws.geonames.org/6252001/about/rdf"
-  ],
-  "georss_box_s": "17.25 -179.992675781 68.688659668 180.0",
-  "georss_polygon_s": "17.25 -179.992675781 68.688659668 -179.992675781 68.688659668 180.0 17.25 180.0 17.25 -179.992675781",
   "solr_geom": "ENVELOPE(-179.992675781, 180.0, 68.688659668, 17.25)",
-  "solr_year_i": 2010
+  "solr_year_i": 2010,
+  "geoblacklight_version": "1.0"
 }

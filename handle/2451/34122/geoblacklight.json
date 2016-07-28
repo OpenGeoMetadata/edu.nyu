@@ -1,5 +1,4 @@
 {
-  "uuid": "http://hdl.handle.net/2451/34122",
   "dc_identifier_s": "http://hdl.handle.net/2451/34122",
   "dc_title_s": "2010 World Rivers",
   "dc_description_s": "World Rivers represents the major rivers within the world.",
@@ -34,11 +33,7 @@
   "dct_spatial_sm": [
     "World"
   ],
-  "dc_relation_sm": [
-    "http://sws.geonames.org/6295630/about/rdf"
-  ],
-  "georss_box_s": "-36.969445455 -164.887436364 71.392489545 160.763595636",
-  "georss_polygon_s": "-36.969445455 -164.887436364 71.392489545 -164.887436364 71.392489545 160.763595636 -36.969445455 160.763595636 -36.969445455 -164.887436364",
   "solr_geom": "ENVELOPE(-164.887436364, 160.763595636, 71.392489545, -36.969445455)",
-  "solr_year_i": 2010
+  "solr_year_i": 2010,
+  "geoblacklight_version": "1.0"
 }

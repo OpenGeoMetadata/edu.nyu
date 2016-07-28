@@ -1,5 +1,4 @@
 {
-  "uuid": "http://hdl.handle.net/2451/34101",
   "dc_identifier_s": "http://hdl.handle.net/2451/34101",
   "dc_title_s": "2010 World Administrative Units",
   "dc_description_s": "World Administrative Units represents the boundaries for the first-level administrative units of the world.",
@@ -34,11 +33,7 @@
   "dct_spatial_sm": [
     "Earth"
   ],
-  "dc_relation_sm": [
-    "http://sws.geonames.org/6295630/about/rdf"
-  ],
-  "georss_box_s": "-90.0 -180.0 83.623600162 180.0",
-  "georss_polygon_s": "-90.0 -180.0 83.623600162 -180.0 83.623600162 180.0 -90.0 180.0 -90.0 -180.0",
   "solr_geom": "ENVELOPE(-180.0, 180.0, 83.623600162, -90.0)",
-  "solr_year_i": 2010
+  "solr_year_i": 2010,
+  "geoblacklight_version": "1.0"
 }

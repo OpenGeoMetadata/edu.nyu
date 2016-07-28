@@ -1,5 +1,4 @@
 {
-  "uuid": "http://hdl.handle.net/2451/34109",
   "dc_identifier_s": "http://hdl.handle.net/2451/34109",
   "dc_title_s": "2010 World Country Boundaries (Generalized)",
   "dc_description_s": "World Country Boundaries (Generalized) represents the generalized boundary lines for the countries of the world.",
@@ -32,11 +31,7 @@
   "dct_spatial_sm": [
     "World"
   ],
-  "dc_relation_sm": [
-    "http://sws.geonames.org/6295630/about/rdf"
-  ],
-  "georss_box_s": "-85.463627269 -179.999999928 83.604153705 180.0",
-  "georss_polygon_s": "-85.463627269 -179.999999928 83.604153705 -179.999999928 83.604153705 180.0 -85.463627269 180.0 -85.463627269 -179.999999928",
   "solr_geom": "ENVELOPE(-179.999999928, 180.0, 83.604153705, -85.463627269)",
-  "solr_year_i": 2010
+  "solr_year_i": 2010,
+  "geoblacklight_version": "1.0"
 }

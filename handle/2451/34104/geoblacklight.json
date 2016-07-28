@@ -1,5 +1,4 @@
 {
-  "uuid": "http://hdl.handle.net/2451/34104",
   "dc_identifier_s": "http://hdl.handle.net/2451/34104",
   "dc_title_s": "2010 World Airports",
   "dc_description_s": "World Airports represents the airports of the world.",
@@ -34,11 +33,7 @@
   "dct_spatial_sm": [
     "World"
   ],
-  "dc_relation_sm": [
-    "http://sws.geonames.org/6295630/about/rdf"
-  ],
-  "georss_box_s": "-54.843278051 -177.380635977 78.246111115 178.559227943",
-  "georss_polygon_s": "-54.843278051 -177.380635977 78.246111115 -177.380635977 78.246111115 178.559227943 -54.843278051 178.559227943 -54.843278051 -177.380635977",
   "solr_geom": "ENVELOPE(-177.380635977, 178.559227943, 78.246111115, -54.843278051)",
-  "solr_year_i": 2010
+  "solr_year_i": 2010,
+  "geoblacklight_version": "1.0"
 }

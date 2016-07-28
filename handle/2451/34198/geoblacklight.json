@@ -1,5 +1,4 @@
 {
-  "uuid": "http://hdl.handle.net/2451/34198",
   "dc_identifier_s": "http://hdl.handle.net/2451/34198",
   "dc_title_s": "2015 Buenos Aires Comunas",
   "dc_description_s": "This layers represents the boundaries of Buenos Aires Comunas. Downloaded from http://data.buenosaires.gob.ar/dataset/comunas.  Authored by Modernization- Agency Ministry of Information-Systems Unit Geographic Information Systems",
@@ -33,11 +32,7 @@
   "dct_spatial_sm": [
     "Buenos Aires, Buenos Aires F.D., Argentina"
   ],
-  "dc_relation_sm": [
-    "http://sws.geonames.org/3435910/about/rdf"
-  ],
-  "georss_box_s": "-34.7052931351596 -58.531518740591 -34.5275410741021 -58.3351430067124",
-  "georss_polygon_s": "-34.7052931351596 -58.531518740591 -34.5275410741021 -58.531518740591 -34.5275410741021 -58.3351430067124 -34.7052931351596 -58.3351430067124 -34.7052931351596 -58.531518740591",
   "solr_geom": "ENVELOPE(-58.531518740591, -58.3351430067124, -34.5275410741021, -34.7052931351596)",
-  "solr_year_i": 2015
+  "solr_year_i": 2015,
+  "geoblacklight_version": "1.0"
 }

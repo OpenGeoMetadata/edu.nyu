@@ -1,5 +1,4 @@
 {
-  "uuid": "http://hdl.handle.net/2451/34125",
   "dc_identifier_s": "http://hdl.handle.net/2451/34125",
   "dc_title_s": "2010 World Urban Areas",
   "dc_description_s": "World Urban Areas represents the major urban areas of the world.",
@@ -33,11 +32,7 @@
   "dct_spatial_sm": [
     "World"
   ],
-  "dc_relation_sm": [
-    "http://sws.geonames.org/6295630/about/rdf"
-  ],
-  "georss_box_s": "-53.184814453 -175.214132786 69.365611573 178.468740214",
-  "georss_polygon_s": "-53.184814453 -175.214132786 69.365611573 -175.214132786 69.365611573 178.468740214 -53.184814453 178.468740214 -53.184814453 -175.214132786",
   "solr_geom": "ENVELOPE(-175.214132786, 178.468740214, 69.365611573, -53.184814453)",
-  "solr_year_i": 2010
+  "solr_year_i": 2010,
+  "geoblacklight_version": "1.0"
 }

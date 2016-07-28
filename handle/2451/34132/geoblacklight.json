@@ -1,5 +1,4 @@
 {
-  "uuid": "http://hdl.handle.net/2451/34132",
   "dc_identifier_s": "http://hdl.handle.net/2451/34132",
   "dc_title_s": "2010 U.S. National Atlas Federal and Indian Land Areas",
   "dc_description_s": "U.S. National Atlas Federal and Indian Land Areas represents the federal- and Indian-owned land areas (for example, Bureau of Indian Affairs, Department of Defense, and Tennessee Valley Authority) of the United States.",
@@ -34,11 +33,7 @@
   "dct_spatial_sm": [
     "United States of America"
   ],
-  "dc_relation_sm": [
-    "http://sws.geonames.org/6252001/about/rdf"
-  ],
-  "georss_box_s": "17.674692154 -179.133392334 71.340702154 179.788209666",
-  "georss_polygon_s": "17.674692154 -179.133392334 71.340702154 -179.133392334 71.340702154 179.788209666 17.674692154 179.788209666 17.674692154 -179.133392334",
   "solr_geom": "ENVELOPE(-179.133392334, 179.788209666, 71.340702154, 17.674692154)",
-  "solr_year_i": 2010
+  "solr_year_i": 2010,
+  "geoblacklight_version": "1.0"
 }

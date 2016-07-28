@@ -1,5 +1,4 @@
 {
-  "uuid": "http://hdl.handle.net/2451/34503",
   "dc_identifier_s": "http://hdl.handle.net/2451/34503",
   "dc_title_s": "2015 New York City Subway Stations",
   "dc_description_s": "This point layer was created from the Metropolitan Transportation Authority's (MTA) stops file in May 2015  and was updated in September 2015 to add the new 34th St - 11 Av station on the 7 line. The data was converted to a spatial layer and re-projected in local state plane, with some modifications to remove duplicate points. Stations represent distinct platforms served by specific trains, and the location represents the center of the platform. For example, 14th-St-Union Square is represented as three stations in distinct geographic locations based on train service: The L train, the N Q R trains, and the 4 5 6 trains. The complex_id field relates individual stations to shared complexes where platforms are connected and transfers are free in the subway complexes layer (nyu_2451_34502). The multi field indicates whether the station is one of many stations in a complex. The most recent NYC subway map was consulted to assign trains to stations since the MTA stops file lacked this information. The names of stations were taken directly from the stops file and may vary from the names printed on official subway maps. The unique ID is stop_id, a field created by the MTA. This layer was created as part of the NYC Geodatabase (NYC GDB) project, a resource designed for basic geographic analysis and thematic mapping within the five boroughs of New York City.",
@@ -42,25 +41,11 @@
     "Borough of Queens, New York, United States",
     "Borough of Staten Island, New York, United States"
   ],
-  "dc_relation_sm": [
-    "http://sws.geonames.org/5128581/about/rdf",
-    "http://sws.geonames.org/5110253/about/rdf",
-    "http://sws.geonames.org/6941775/about/rdf",
-    "http://sws.geonames.org/5128594/about/rdf",
-    "http://sws.geonames.org/5133268/about/rdf",
-    "http://sws.geonames.org/5139559/about/rdf",
-    "http://sws.geonames.org/5110266/about/rdf",
-    "http://sws.geonames.org/5110302/about/rdf",
-    "http://sws.geonames.org/5125771/about/rdf",
-    "http://sws.geonames.org/5133273/about/rdf",
-    "http://sws.geonames.org/5139568/about/rdf"
-  ],
-  "georss_box_s": "40.5127639999997 -74.251961 40.9031249999997 -73.755405",
-  "georss_polygon_s": "40.5127639999997 -74.251961 40.9031249999997 -74.251961 40.9031249999997 -73.755405 40.5127639999997 -73.755405 40.5127639999997 -74.251961",
   "solr_geom": "ENVELOPE(-74.251961, -73.755405, 40.9031249999997, 40.5127639999997)",
   "solr_year_i": 2016,
   "dct_source_sm": [
     "nyu_2451_34635",
     "nyu_2451_34636"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

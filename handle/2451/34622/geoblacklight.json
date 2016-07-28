@@ -1,5 +1,4 @@
 {
-  "uuid": "http://hdl.handle.net/2451/34622",
   "dc_identifier_s": "http://hdl.handle.net/2451/34622",
   "dc_title_s": "1900 Bacon's Plan of Dublin, Ireland and Suburbs",
   "dc_description_s": "This map is a 1900 Plan of the City of Dublin, Ireland. This map was georeferenced via the New York Public Library MapWarper tool.",
@@ -33,11 +32,7 @@
   "dct_spatial_sm": [
     "Dublin, Leinster, Ireland"
   ],
-  "dc_relation_sm": [
-    "http://sws.geonames.org/2964574/about/rdf"
-  ],
-  "georss_box_s": "53.30178734842306 -6.321077523825791 53.381500063335125 -6.212382293765533",
-  "georss_polygon_s": "53.30178734842306 -6.321077523825791 53.381500063335125 -6.321077523825791 53.381500063335125 -6.212382293765533 53.30178734842306 -6.212382293765533 53.30178734842306 -6.321077523825791",
   "solr_geom": "ENVELOPE(-6.321077523825791, -6.212382293765533, 53.381500063335125, 53.30178734842306)",
-  "solr_year_i": 1900
+  "solr_year_i": 1900,
+  "geoblacklight_version": "1.0"
 }

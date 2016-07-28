@@ -1,5 +1,4 @@
 {
-  "uuid": "http://hdl.handle.net/2451/34113",
   "dc_identifier_s": "http://hdl.handle.net/2451/34113",
   "dc_title_s": "2010 World Gazetteer",
   "dc_description_s": "World Gazetteer represents the locations and proper names for map features around the world. The gazetteer includes attribute and annotation name information from various layers of the Digital Chart of the World.",
@@ -34,11 +33,7 @@
   "dct_spatial_sm": [
     "World"
   ],
-  "dc_relation_sm": [
-    "http://sws.geonames.org/6295630/about/rdf"
-  ],
-  "georss_box_s": "-86.906 -179.989 85.213995995 179.996987",
-  "georss_polygon_s": "-86.906 -179.989 85.213995995 -179.989 85.213995995 179.996987 -86.906 179.996987 -86.906 -179.989",
   "solr_geom": "ENVELOPE(-179.989, 179.996987, 85.213995995, -86.906)",
-  "solr_year_i": 2010
+  "solr_year_i": 2010,
+  "geoblacklight_version": "1.0"
 }

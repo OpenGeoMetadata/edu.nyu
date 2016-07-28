@@ -1,5 +1,4 @@
 {
-  "uuid": "http://hdl.handle.net/2451/33918",
   "dc_identifier_s": "http://hdl.handle.net/2451/33918",
   "dc_title_s": "2010 China Provincial Trunk Roads",
   "dc_description_s": "China Provincial Trunk Roads is a polyline theme representing provincial trunk roads in China for 2000.",
@@ -34,11 +33,7 @@
   "dct_spatial_sm": [
     "People's Republic of China, China"
   ],
-  "dc_relation_sm": [
-    "http://sws.geonames.org/1814991/about/rdf"
-  ],
-  "georss_box_s": "18.2233543395996 73.9164962768555 53.3699378967285 134.312316894531",
-  "georss_polygon_s": "18.2233543395996 73.9164962768555 53.3699378967285 73.9164962768555 53.3699378967285 134.312316894531 18.2233543395996 134.312316894531 18.2233543395996 73.9164962768555",
   "solr_geom": "ENVELOPE(73.9164962768555, 134.312316894531, 53.3699378967285, 18.2233543395996)",
-  "solr_year_i": 2010
+  "solr_year_i": 2010,
+  "geoblacklight_version": "1.0"
 }

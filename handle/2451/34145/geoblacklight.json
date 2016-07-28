@@ -1,5 +1,4 @@
 {
-  "uuid": "http://hdl.handle.net/2451/34145",
   "dc_identifier_s": "http://hdl.handle.net/2451/34145",
   "dc_title_s": "2010 U.S. Major Parks",
   "dc_description_s": "U.S. Major Parks represents National Parks, National Forests, State and local parks and forests within the United States.",
@@ -34,11 +33,7 @@
   "dct_spatial_sm": [
     "United States of America"
   ],
-  "dc_relation_sm": [
-    "http://sws.geonames.org/6252001/about/rdf"
-  ],
-  "georss_box_s": "18.910845455 -167.535945455 68.655492441 -67.131657455",
-  "georss_polygon_s": "18.910845455 -167.535945455 68.655492441 -167.535945455 68.655492441 -67.131657455 18.910845455 -67.131657455 18.910845455 -167.535945455",
   "solr_geom": "ENVELOPE(-167.535945455, -67.131657455, 68.655492441, 18.910845455)",
-  "solr_year_i": 2010
+  "solr_year_i": 2010,
+  "geoblacklight_version": "1.0"
 }

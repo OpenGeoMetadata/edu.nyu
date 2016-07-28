@@ -1,5 +1,4 @@
 {
-  "uuid": "http://hdl.handle.net/2451/34120",
   "dc_identifier_s": "http://hdl.handle.net/2451/34120",
   "dc_title_s": "2010 World Railroads",
   "dc_description_s": "World Railroads represents the railroads of the world.",
@@ -34,11 +33,7 @@
   "dct_spatial_sm": [
     "World"
   ],
-  "dc_relation_sm": [
-    "http://sws.geonames.org/6295630/about/rdf"
-  ],
-  "georss_box_s": "-46.415433883 -130.359395861 62.399597121 178.013850093",
-  "georss_polygon_s": "-46.415433883 -130.359395861 62.399597121 -130.359395861 62.399597121 178.013850093 -46.415433883 178.013850093 -46.415433883 -130.359395861",
   "solr_geom": "ENVELOPE(-130.359395861, 178.013850093, 62.399597121, -46.415433883)",
-  "solr_year_i": 2010
+  "solr_year_i": 2010,
+  "geoblacklight_version": "1.0"
 }

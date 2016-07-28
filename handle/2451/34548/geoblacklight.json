@@ -1,5 +1,4 @@
 {
-  "uuid": "http://hdl.handle.net/2451/34548",
   "dc_identifier_s": "http://hdl.handle.net/2451/34548",
   "dc_title_s": "2016 New York City Election Districts (Clipped to Shoreline)",
   "dc_description_s": "This polygon shapefile layer represents the Election District boundaries for the City of New York. These district boundaries represent the redistricting as of the US Census 2010. This file was generated from the 16A release of the Department of City Planning's LION file. ",
@@ -34,11 +33,7 @@
   "dct_spatial_sm": [
     "New York, New York, United States"
   ],
-  "dc_relation_sm": [
-    "http://sws.geonames.org/5128581/about/rdf"
-  ],
-  "georss_box_s": "40.4961153952116 -74.2555913638125 40.9155327760001 -73.7000090638712",
-  "georss_polygon_s": "40.4961153952116 -74.2555913638125 40.9155327760001 -74.2555913638125 40.9155327760001 -73.7000090638712 40.4961153952116 -73.7000090638712 40.4961153952116 -74.2555913638125",
   "solr_geom": "ENVELOPE(-74.2555913638125, -73.7000090638712, 40.9155327760001, 40.4961153952116)",
-  "solr_year_i": 2016
+  "solr_year_i": 2016,
+  "geoblacklight_version": "1.0"
 }

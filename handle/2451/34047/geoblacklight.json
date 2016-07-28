@@ -1,5 +1,4 @@
 {
-  "uuid": "http://hdl.handle.net/2451/34047",
   "dc_identifier_s": "http://hdl.handle.net/2451/34047",
   "dc_title_s": "2010 U.S. and Canada Major Cities",
   "dc_description_s": "U.S. and Canada Major Cities represents major cities of United States and Canada including national, state, and provincial capitals.",
@@ -35,12 +34,7 @@
     "United States of America",
     "Canada"
   ],
-  "dc_relation_sm": [
-    "http://sws.geonames.org/6252001/about/rdf",
-    "http://sws.geonames.org/6251999/about/rdf"
-  ],
-  "georss_box_s": "18.3814976 -157.82186 63.7512776 -52.709744",
-  "georss_polygon_s": "18.3814976 -157.82186 63.7512776 -157.82186 63.7512776 -52.709744 18.3814976 -52.709744 18.3814976 -157.82186",
   "solr_geom": "ENVELOPE(-157.82186, -52.709744, 63.7512776, 18.3814976)",
-  "solr_year_i": 2010
+  "solr_year_i": 2010,
+  "geoblacklight_version": "1.0"
 }

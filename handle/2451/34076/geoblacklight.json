@@ -1,5 +1,4 @@
 {
-  "uuid": "http://hdl.handle.net/2451/34076",
   "dc_identifier_s": "http://hdl.handle.net/2451/34076",
   "dc_title_s": "2010 U.S. National Atlas Water Feature Areas",
   "dc_description_s": "U.S. National Atlas Water Feature Areas represents the water feature areas (for example, bays, glaciers, lakes, and swamps) of the United States.",
@@ -35,11 +34,7 @@
   "dct_spatial_sm": [
     "United States of America"
   ],
-  "dc_relation_sm": [
-    "http://sws.geonames.org/6252001/about/rdf"
-  ],
-  "georss_box_s": "17.681852341 -178.06388855 71.398181341 179.67077545",
-  "georss_polygon_s": "17.681852341 -178.06388855 71.398181341 -178.06388855 71.398181341 179.67077545 17.681852341 179.67077545 17.681852341 -178.06388855",
   "solr_geom": "ENVELOPE(-178.06388855, 179.67077545, 71.398181341, 17.681852341)",
-  "solr_year_i": 2010
+  "solr_year_i": 2010,
+  "geoblacklight_version": "1.0"
 }

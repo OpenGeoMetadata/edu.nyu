@@ -1,5 +1,4 @@
 {
-  "uuid": "http://hdl.handle.net/2451/34115",
   "dc_identifier_s": "http://hdl.handle.net/2451/34115",
   "dc_title_s": "2010 World Linear Water",
   "dc_description_s": "World Linear Water represents the narrow rivers and streams of the world.",
@@ -33,11 +32,7 @@
   "dct_spatial_sm": [
     "World"
   ],
-  "dc_relation_sm": [
-    "http://sws.geonames.org/6295630/about/rdf"
-  ],
-  "georss_box_s": "-54.997981667 -179.999999285 81.784887311 179.999996662",
-  "georss_polygon_s": "-54.997981667 -179.999999285 81.784887311 -179.999999285 81.784887311 179.999996662 -54.997981667 179.999996662 -54.997981667 -179.999999285",
   "solr_geom": "ENVELOPE(-179.999999285, 179.999996662, 81.784887311, -54.997981667)",
-  "solr_year_i": 2010
+  "solr_year_i": 2010,
+  "geoblacklight_version": "1.0"
 }

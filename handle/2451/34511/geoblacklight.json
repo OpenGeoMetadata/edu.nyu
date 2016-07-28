@@ -1,5 +1,4 @@
 {
-  "uuid": "http://hdl.handle.net/2451/34511",
   "dc_identifier_s": "http://hdl.handle.net/2451/34511",
   "dc_title_s": "2010 NYC Metropolitan Area County Boundaries",
   "dc_description_s": "This polygon layer is a subset of the Census TIGER county file, re-projected to local state plane. The content of this layer has not been modified from its original version present in the US Census TIGER Line Shapesfiles, and contains official county boundaries.The unique ID is geoid; the FIPS state-county code. This layer contains counties in the NYC Metropolitan Area. This layer was created as part of the NYC Geodatabase (NYC GDB) project, a resource designed for basic geographic analysis and thematic mapping within the five boroughs of New York City.",
@@ -35,21 +34,11 @@
     "Queens County, New York, United States",
     "Richmond County, New York, United States"
   ],
-  "dc_relation_sm": [
-    "http://sws.geonames.org/6955102/about/rdf",
-    "http://sws.geonames.org/5128581/about/rdf",
-    "http://sws.geonames.org/5110253/about/rdf",
-    "http://sws.geonames.org/6941775/about/rdf",
-    "http://sws.geonames.org/5128594/about/rdf",
-    "http://sws.geonames.org/5133268/about/rdf",
-    "http://sws.geonames.org/5139559/about/rdf"
-  ],
-  "georss_box_s": "39.4751979999998 -75.359184 42.1769919999999 -71.777491",
-  "georss_polygon_s": "39.4751979999998 -75.359184 42.1769919999999 -75.359184 42.1769919999999 -71.777491 39.4751979999998 -71.777491 39.4751979999998 -75.359184",
   "solr_geom": "ENVELOPE(-75.359184, -71.777491, 42.1769919999999, 39.4751979999998)",
   "solr_year_i": 2010,
   "dct_source_sm": [
     "nyu_2451_34635",
     "nyu_2451_34636"
-  ]
+  ],
+  "geoblacklight_version": "1.0"
 }

@@ -1,5 +1,4 @@
 {
-  "uuid": "http://hdl.handle.net/2451/34179",
   "dc_identifier_s": "http://hdl.handle.net/2451/34179",
   "dc_title_s": "2010 U.S. National Transportation Atlas Railroads",
   "dc_description_s": "U.S. National Transportation Atlas Railroads represents a comprehensive database of the nation's railway system at 1:100,000 scale. The data set covers the 48 contiguous States plus the District of Columbia within United States.",
@@ -36,11 +35,7 @@
   "dct_spatial_sm": [
     "United States of America"
   ],
-  "dc_relation_sm": [
-    "http://sws.geonames.org/6252001/about/rdf"
-  ],
-  "georss_box_s": "25.462463636 -124.258490909 49.001882636 -67.267952909",
-  "georss_polygon_s": "25.462463636 -124.258490909 49.001882636 -124.258490909 49.001882636 -67.267952909 25.462463636 -67.267952909 25.462463636 -124.258490909",
   "solr_geom": "ENVELOPE(-124.258490909, -67.267952909, 49.001882636, 25.462463636)",
-  "solr_year_i": 2010
+  "solr_year_i": 2010,
+  "geoblacklight_version": "1.0"
 }

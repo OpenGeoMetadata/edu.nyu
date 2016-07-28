@@ -1,5 +1,4 @@
 {
-  "uuid": "http://hdl.handle.net/2451/34144",
   "dc_identifier_s": "http://hdl.handle.net/2451/34144",
   "dc_title_s": "2010 U.S. Parks",
   "dc_description_s": "U.S. Parks represents parks and forests within the United States at national, state, county, regional, and local levels.",
@@ -34,11 +33,7 @@
   "dct_spatial_sm": [
     "United States of America"
   ],
-  "dc_relation_sm": [
-    "http://sws.geonames.org/6252001/about/rdf"
-  ],
-  "georss_box_s": "17.883138 -167.540447 68.658579011 -65.70742",
-  "georss_polygon_s": "17.883138 -167.540447 68.658579011 -167.540447 68.658579011 -65.70742 17.883138 -65.70742 17.883138 -167.540447",
   "solr_geom": "ENVELOPE(-167.540447, -65.70742, 68.658579011, 17.883138)",
-  "solr_year_i": 2010
+  "solr_year_i": 2010,
+  "geoblacklight_version": "1.0"
 }

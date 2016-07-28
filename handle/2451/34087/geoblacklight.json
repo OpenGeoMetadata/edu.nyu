@@ -1,5 +1,4 @@
 {
-  "uuid": "http://hdl.handle.net/2451/34087",
   "dc_identifier_s": "http://hdl.handle.net/2451/34087",
   "dc_title_s": "2010 U.S. Counties (Generalized)",
   "dc_description_s": "U.S. Counties (Generalized) represents the counties of the United States in the 50 states and the District of Columbia.",
@@ -33,11 +32,7 @@
   "dct_spatial_sm": [
     "United States of America"
   ],
-  "dc_relation_sm": [
-    "http://sws.geonames.org/6252001/about/rdf"
-  ],
-  "georss_box_s": "18.921786345 -178.217598362 71.406235367 -66.969271036",
-  "georss_polygon_s": "18.921786345 -178.217598362 71.406235367 -178.217598362 71.406235367 -66.969271036 18.921786345 -66.969271036 18.921786345 -178.217598362",
   "solr_geom": "ENVELOPE(-178.217598362, -66.969271036, 71.406235367, 18.921786345)",
-  "solr_year_i": 2010
+  "solr_year_i": 2010,
+  "geoblacklight_version": "1.0"
 }

@@ -1,5 +1,4 @@
 {
-  "uuid": "http://hdl.handle.net/2451/34143",
   "dc_identifier_s": "http://hdl.handle.net/2451/34143",
   "dc_title_s": "2010 U.S. Large Area Landmarks",
   "dc_description_s": "U.S. Large Area Landmarks represents common landmark areas within the United States including military territories, hospitals, educational institutions, shopping centers, industrial parks, amusement parks, stadiums, golf courses, and cemeteries.",
@@ -36,11 +35,7 @@
   "dct_spatial_sm": [
     "United States of America"
   ],
-  "dc_relation_sm": [
-    "http://sws.geonames.org/6252001/about/rdf"
-  ],
-  "georss_box_s": "17.989248 -176.810434 68.870009991 -65.62905",
-  "georss_polygon_s": "17.989248 -176.810434 68.870009991 -176.810434 68.870009991 -65.62905 17.989248 -65.62905 17.989248 -176.810434",
   "solr_geom": "ENVELOPE(-176.810434, -65.62905, 68.870009991, 17.989248)",
-  "solr_year_i": 2010
+  "solr_year_i": 2010,
+  "geoblacklight_version": "1.0"
 }

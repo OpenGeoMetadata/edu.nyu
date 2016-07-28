@@ -1,5 +1,4 @@
 {
-  "uuid": "http://hdl.handle.net/2451/34062",
   "dc_identifier_s": "http://hdl.handle.net/2451/34062",
   "dc_title_s": "2010 U.S. and Canada Recreation Areas",
   "dc_description_s": "U.S. and Canada Recreation Areas represents point locations within the United States and Canada of common recreation landmarks including golf courses, zoos, resorts, and other recreational facilities.",
@@ -37,12 +36,7 @@
     "United States of America",
     "Canada"
   ],
-  "dc_relation_sm": [
-    "http://sws.geonames.org/6252001/about/rdf",
-    "http://sws.geonames.org/6251999/about/rdf"
-  ],
-  "georss_box_s": "17.970693 -161.741602 64.896843 -52.681143",
-  "georss_polygon_s": "17.970693 -161.741602 64.896843 -161.741602 64.896843 -52.681143 17.970693 -52.681143 17.970693 -161.741602",
   "solr_geom": "ENVELOPE(-161.741602, -52.681143, 64.896843, 17.970693)",
-  "solr_year_i": 2010
+  "solr_year_i": 2010,
+  "geoblacklight_version": "1.0"
 }

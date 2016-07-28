@@ -1,5 +1,4 @@
 {
-  "uuid": "http://hdl.handle.net/2451/34404",
   "dc_identifier_s": "http://hdl.handle.net/2451/34404",
   "dc_title_s": "2003 Rajasthan, India: Pre Delimitation State Assembly Constituency Boundaries and Election Data",
   "dc_description_s": "This polygon shapefile shows pre-delimitation state Legislative Assembly constituency boundaries and data relating to the 2003 Assembly elections for the State of Rajasthan, India. Includes attribute data on election parties, candidates, voters, and results. This layer is part of the Poll Map of India which includes parliamentary constituency boundaries for India, Assembly constituency boundaries for all states, and data relating to the past national elections for each State of India.This data can be used for election analysis, forecasting, and mapping: Enables profiling of individual constituencies, permits historical analysis of the data, and helps predictive estimate of the impact of regional and state-wise electorate swings on the performance of political parties. These data are intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production.",
@@ -47,23 +46,7 @@
     "Rajsamand, Rajasthan, India",
     "Ramgarh, Rajasthan, India"
   ],
-  "dc_relation_sm": [
-    "http://sws.geonames.org/1258899/about/rdf",
-    "http://sws.geonames.org/1277214/about/rdf",
-    "http://sws.geonames.org/1275104/about/rdf",
-    "http://sws.geonames.org/1274040/about/rdf",
-    "http://sws.geonames.org/1272805/about/rdf",
-    "http://sws.geonames.org/1269508/about/rdf",
-    "http://sws.geonames.org/1268937/about/rdf",
-    "http://sws.geonames.org/1268865/about/rdf",
-    "http://sws.geonames.org/1256321/about/rdf",
-    "http://sws.geonames.org/1256068/about/rdf",
-    "http://sws.geonames.org/1253989/about/rdf",
-    "http://sws.geonames.org/7701213/about/rdf",
-    "http://sws.geonames.org/1258677/about/rdf"
-  ],
-  "georss_box_s": "23.06052 69.48154 30.19254 78.27097",
-  "georss_polygon_s": "23.06052 69.48154 30.19254 69.48154 30.19254 78.27097 23.06052 78.27097 23.06052 69.48154",
   "solr_geom": "ENVELOPE(69.48154, 78.27097, 30.19254, 23.06052)",
-  "solr_year_i": 2003
+  "solr_year_i": 2003,
+  "geoblacklight_version": "1.0"
 }

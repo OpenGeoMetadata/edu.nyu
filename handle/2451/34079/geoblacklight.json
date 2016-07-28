@@ -1,5 +1,4 @@
 {
-  "uuid": "http://hdl.handle.net/2451/34079",
   "dc_identifier_s": "http://hdl.handle.net/2451/34079",
   "dc_title_s": "2010 U.S. Telephone Area Code Boundaries",
   "dc_description_s": "U.S. Telephone Area Code Boundaries represents the telephone area codes for the United States. They are also known as Numbering Plan Areas (NPA). The Numbering Plan Areas reflect current and accurate boundary changes both where new NPAs \"split\" from existing NPAs and where new NPAs \"overlay\" existing NPAs.",
@@ -33,11 +32,7 @@
   "dct_spatial_sm": [
     "United States of America"
   ],
-  "dc_relation_sm": [
-    "http://sws.geonames.org/6252001/about/rdf"
-  ],
-  "georss_box_s": "17.926706 -178.227822 71.38268998 -65.244128",
-  "georss_polygon_s": "17.926706 -178.227822 71.38268998 -178.227822 71.38268998 -65.244128 17.926706 -65.244128 17.926706 -178.227822",
   "solr_geom": "ENVELOPE(-178.227822, -65.244128, 71.38268998, 17.926706)",
-  "solr_year_i": 2010
+  "solr_year_i": 2010,
+  "geoblacklight_version": "1.0"
 }

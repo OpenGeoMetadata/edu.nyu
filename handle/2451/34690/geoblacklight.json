@@ -1,5 +1,4 @@
 {
-  "uuid": "http://hdl.handle.net/2451/34690",
   "dc_identifier_s": "http://hdl.handle.net/2451/34690",
   "dc_title_s": "2016 (May) Bronx Bus Routes",
   "dc_description_s": "This line layer was created from the GTFS data feeds from the Metropolitan Transportation Authority (MTA) to represent Bronx bus routes. A python script was written to take the data files as input and plot and save them as a spatial layer in the local state plane coordinate reference system. Lines in this layer represent individual bus routes over a roadway for a specific direction; they were generalized from the GTFS format where lines depicted individual services. In some cases the layer may include routes that cross into a different borough, and in other cases may be missing certain routes that are largely contained in a neighboring borough. The unique ID is route_dir, which is a combination of the bus route id and its direction. The direction of a bus route is indicated with a 0 (the bus runs either northbound or eastbound) or a 1 (the bus runs either southbound or westbound). Bus route ids that have a plus symbol + as a suffix represent Select Bus services. This dataset is intended for researchers, policy makers, students, and educators for basic geographic analysis and mapping purposes. It was created by the GIS Lab at the Newman Library at Baruch College CUNY as part of the NYC Mass Transit Spatial Layers series, so that members of the public could have access to well-documented and readily-usable GIS layers of NYC mass transit features.",
@@ -35,15 +34,7 @@
     "Borough of Bronx, New York, United States",
     "Borough of Manhattan, New York, United States"
   ],
-  "dc_relation_sm": [
-    "http://sws.geonames.org/5128581/about/rdf",
-    "http://sws.geonames.org/5110253/about/rdf",
-    "http://sws.geonames.org/5128594/about/rdf",
-    "http://sws.geonames.org/5110266/about/rdf",
-    "http://sws.geonames.org/5125771/about/rdf"
-  ],
-  "georss_box_s": "40.7992558324998 -73.9602794427 40.9123890421998 -73.783411121",
-  "georss_polygon_s": "40.7992558324998 -73.9602794427 40.9123890421998 -73.9602794427 40.9123890421998 -73.783411121 40.7992558324998 -73.783411121 40.7992558324998 -73.9602794427",
   "solr_geom": "ENVELOPE(-73.9602794427, -73.783411121, 40.9123890421998, 40.7992558324998)",
-  "solr_year_i": 2016
+  "solr_year_i": 2016,
+  "geoblacklight_version": "1.0"
 }

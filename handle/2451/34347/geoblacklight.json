@@ -1,5 +1,4 @@
 {
-  "uuid": "http://hdl.handle.net/2451/34347",
   "dc_identifier_s": "http://hdl.handle.net/2451/34347",
   "dc_title_s": "2001 Tamil Nadu, India: Village Boundaries with Socio-Demographic and Economic Census Data",
   "dc_description_s": "This polygon shapefile shows village boundaries with socio-demographic and economic Census data for 2001 for the State of Tamilnadu, India linked to the 2001 Census. Includes village socio-demographic and economic Census attribute data such as total population, population by sex, household, literacy and illiteracy rates, and employment by industry. This layer is part of the VillageMap dataset which includes socio-demographic and economic Census data for 2001 at the village level for all the states of India. This data layer is sourced from secondary government sources, chiefly Survey of India, Census of India, Election Commission, etc. This dataset is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for village level demographic analysis within basic applications to support graphical overlays and analysis with other spatial data.",
@@ -48,18 +47,7 @@
     "Coimbatore, Tamil Nadu, India",
     "Chennai District, Tamil Nadu, India"
   ],
-  "dc_relation_sm": [
-    "http://sws.geonames.org/1255053/about/rdf",
-    "http://sws.geonames.org/1272023/about/rdf",
-    "http://sws.geonames.org/1260628/about/rdf",
-    "http://sws.geonames.org/1257629/about/rdf",
-    "http://sws.geonames.org/1254388/about/rdf",
-    "http://sws.geonames.org/1264522/about/rdf",
-    "http://sws.geonames.org/1273865/about/rdf",
-    "http://sws.geonames.org/7646145/about/rdf"
-  ],
-  "georss_box_s": "8.07320691 76.2408828 13.5639315 80.35334784",
-  "georss_polygon_s": "8.07320691 76.2408828 13.5639315 76.2408828 13.5639315 80.35334784 8.07320691 80.35334784 8.07320691 76.2408828",
   "solr_geom": "ENVELOPE(76.2408828, 80.35334784, 13.5639315, 8.07320691)",
-  "solr_year_i": 2001
+  "solr_year_i": 2001,
+  "geoblacklight_version": "1.0"
 }

@@ -1,5 +1,4 @@
 {
-  "uuid": "http://hdl.handle.net/2451/34540",
   "dc_identifier_s": "http://hdl.handle.net/2451/34540",
   "dc_title_s": "2016 New York City U.S. Congressional Districts (Clipped to Shoreline)",
   "dc_description_s": "This polygon shapefile layer represents the U.S. Congressional Districts boundaries for the City of New York, clipped to the shoreline. These district boundaries represent the redistricting as of the US Census 2010. This file was generated from the 16A release of the Department of City Planning's LION file.",
@@ -33,11 +32,7 @@
   "dct_spatial_sm": [
     "New York, New York, United States"
   ],
-  "dc_relation_sm": [
-    "http://sws.geonames.org/5128581/about/rdf"
-  ],
-  "georss_box_s": "40.4961153951703 -74.2555913631521 40.9155327760001 -73.7000090638712",
-  "georss_polygon_s": "40.4961153951703 -74.2555913631521 40.9155327760001 -74.2555913631521 40.9155327760001 -73.7000090638712 40.4961153951703 -73.7000090638712 40.4961153951703 -74.2555913631521",
   "solr_geom": "ENVELOPE(-74.2555913631521, -73.7000090638712, 40.9155327760001, 40.4961153951703)",
-  "solr_year_i": 2016
+  "solr_year_i": 2016,
+  "geoblacklight_version": "1.0"
 }

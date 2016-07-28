@@ -1,5 +1,4 @@
 {
-  "uuid": "http://hdl.handle.net/2451/34529",
   "dc_identifier_s": "http://hdl.handle.net/2451/34529",
   "dc_title_s": "2016 NYC Zoning Districts",
   "dc_description_s": "This polygon shapefile layer represents NYC zoning districts. These features are continuous over the entire city. They extend to the city limits on land and out to the US Army Corps of Engineers Pierhead lines over water. Zoning district designations are indicated in the ZONEDIST attribute. Note that these zones change frequently, and users may want to consult more recent releases at Bytes of the Big Apple.",
@@ -32,11 +31,7 @@
   "dct_spatial_sm": [
     "New York, New York, United States"
   ],
-  "dc_relation_sm": [
-    "http://sws.geonames.org/5128581/about/rdf"
-  ],
-  "georss_box_s": "40.4911128857581 -74.2562523539887 40.916513336576 -73.7001534315768",
-  "georss_polygon_s": "40.4911128857581 -74.2562523539887 40.916513336576 -74.2562523539887 40.916513336576 -73.7001534315768 40.4911128857581 -73.7001534315768 40.4911128857581 -74.2562523539887",
   "solr_geom": "ENVELOPE(-74.2562523539887, -73.7001534315768, 40.916513336576, 40.4911128857581)",
-  "solr_year_i": 2016
+  "solr_year_i": 2016,
+  "geoblacklight_version": "1.0"
 }

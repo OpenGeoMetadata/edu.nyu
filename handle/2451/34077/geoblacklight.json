@@ -1,5 +1,4 @@
 {
-  "uuid": "http://hdl.handle.net/2451/34077",
   "dc_identifier_s": "http://hdl.handle.net/2451/34077",
   "dc_title_s": "2010 U.S. Lakes (Generalized)",
   "dc_description_s": "U.S. Lakes (Generalized) represents the major lakes within United States.",
@@ -33,11 +32,7 @@
   "dct_spatial_sm": [
     "United States of America"
   ],
-  "dc_relation_sm": [
-    "http://sws.geonames.org/6252001/about/rdf"
-  ],
-  "georss_box_s": "26.682836364 -120.152127273 49.996364364 -71.198121273",
-  "georss_polygon_s": "26.682836364 -120.152127273 49.996364364 -120.152127273 49.996364364 -71.198121273 26.682836364 -71.198121273 26.682836364 -120.152127273",
   "solr_geom": "ENVELOPE(-120.152127273, -71.198121273, 49.996364364, 26.682836364)",
-  "solr_year_i": 2010
+  "solr_year_i": 2010,
+  "geoblacklight_version": "1.0"
 }

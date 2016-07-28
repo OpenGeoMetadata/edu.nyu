@@ -1,5 +1,4 @@
 {
-  "uuid": "http://hdl.handle.net/2451/34167",
   "dc_identifier_s": "http://hdl.handle.net/2451/34167",
   "dc_title_s": "2010 New York City Health Areas",
   "dc_description_s": "The boundaries for New York City's Health Areas.",
@@ -35,11 +34,7 @@
   "dct_spatial_sm": [
     "New York City, New York, United States"
   ],
-  "dc_relation_sm": [
-    "http://sws.geonames.org/5128581/about/rdf"
-  ],
-  "georss_box_s": "40.4960925239255 -74.2556640887564 40.9157739339836 -73.700009054899",
-  "georss_polygon_s": "40.4960925239255 -74.2556640887564 40.9157739339836 -74.2556640887564 40.9157739339836 -73.700009054899 40.4960925239255 -73.700009054899 40.4960925239255 -74.2556640887564",
   "solr_geom": "ENVELOPE(-74.2556640887564, -73.700009054899, 40.9157739339836, 40.4960925239255)",
-  "solr_year_i": 2010
+  "solr_year_i": 2010,
+  "geoblacklight_version": "1.0"
 }

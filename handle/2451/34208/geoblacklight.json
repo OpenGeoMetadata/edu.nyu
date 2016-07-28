@@ -1,5 +1,4 @@
 {
-  "uuid": "http://hdl.handle.net/2451/34208",
   "dc_identifier_s": "http://hdl.handle.net/2451/34208",
   "dc_title_s": "2015 New York City Subway Entrances",
   "dc_description_s": "This layer represents the location of NYC Subway entrances. Downloaded from https://nycopendata.socrata.com/. ",
@@ -33,11 +32,7 @@
   "dct_spatial_sm": [
     "New York City, New York, United States"
   ],
-  "dc_relation_sm": [
-    "http://sws.geonames.org/5128581/about/rdf"
-  ],
-  "georss_box_s": "40.5121140432397 -74.2528325183404 40.9035783323142 -73.7541728188225",
-  "georss_polygon_s": "40.5121140432397 -74.2528325183404 40.9035783323142 -74.2528325183404 40.9035783323142 -73.7541728188225 40.5121140432397 -73.7541728188225 40.5121140432397 -74.2528325183404",
   "solr_geom": "ENVELOPE(-74.2528325183404, -73.7541728188225, 40.9035783323142, 40.5121140432397)",
-  "solr_year_i": 2015
+  "solr_year_i": 2015,
+  "geoblacklight_version": "1.0"
 }

@@ -1,5 +1,4 @@
 {
-  "uuid": "http://hdl.handle.net/2451/34620",
   "dc_identifier_s": "http://hdl.handle.net/2451/34620",
   "dc_title_s": "1797 Plan of the City of Dublin, Ireland",
   "dc_description_s": "This georeferenced map is a 1797 Plan of the City of Dublin, Ireland, \"surveyed for use of the division of justices, to which have been added plans of the canal harbor and its junction with the grand canal and the royal canal and every projection and alteration of the present time.\" This map was georeferenced via the New York Public Library MapWarper tool.",
@@ -32,11 +31,7 @@
   "dct_spatial_sm": [
     "Dublin, Leinster, Ireland"
   ],
-  "dc_relation_sm": [
-    "http://sws.geonames.org/2964574/about/rdf"
-  ],
-  "georss_box_s": "53.324874532648664 -6.317794482994228 53.36611871713887 -6.218368502249842",
-  "georss_polygon_s": "53.324874532648664 -6.317794482994228 53.36611871713887 -6.317794482994228 53.36611871713887 -6.218368502249842 53.324874532648664 -6.218368502249842 53.324874532648664 -6.317794482994228",
   "solr_geom": "ENVELOPE(-6.317794482994228, -6.218368502249842, 53.36611871713887, 53.324874532648664)",
-  "solr_year_i": 1797
+  "solr_year_i": 1797,
+  "geoblacklight_version": "1.0"
 }

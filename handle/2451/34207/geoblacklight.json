@@ -1,5 +1,4 @@
 {
-  "uuid": "http://hdl.handle.net/2451/34207",
   "dc_identifier_s": "http://hdl.handle.net/2451/34207",
   "dc_title_s": "2015 Graffiti Complaints in New York City",
   "dc_description_s": "This layer identifies Graffiti complaints called into NYC 311 from 1/2015 to 4/9/2015. Downloaded from https://nycopendata.socrata.com/",
@@ -35,11 +34,7 @@
   "dct_spatial_sm": [
     "New York, New York, United States"
   ],
-  "dc_relation_sm": [
-    "http://sws.geonames.org/5128581/about/rdf"
-  ],
-  "georss_box_s": "40.53306829 -74.21363472 40.91047872 -73.70719243",
-  "georss_polygon_s": "40.53306829 -74.21363472 40.91047872 -74.21363472 40.91047872 -73.70719243 40.53306829 -73.70719243 40.53306829 -74.21363472",
   "solr_geom": "ENVELOPE(-74.21363472, -73.70719243, 40.91047872, 40.53306829)",
-  "solr_year_i": 2015
+  "solr_year_i": 2015,
+  "geoblacklight_version": "1.0"
 }

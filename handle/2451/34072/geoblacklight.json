@@ -1,5 +1,4 @@
 {
-  "uuid": "http://hdl.handle.net/2451/34072",
   "dc_identifier_s": "http://hdl.handle.net/2451/34072",
   "dc_title_s": "2010 U.S. Drainage Systems (Generalized)",
   "dc_description_s": "U.S. Drainage Systems (Generalized) represents the major drainage systems within United States.",
@@ -35,11 +34,7 @@
   "dct_spatial_sm": [
     "United States of America"
   ],
-  "dc_relation_sm": [
-    "http://sws.geonames.org/6252001/about/rdf"
-  ],
-  "georss_box_s": "25.845554545 -164.765827273 67.462094545 -73.218565273",
-  "georss_polygon_s": "25.845554545 -164.765827273 67.462094545 -164.765827273 67.462094545 -73.218565273 25.845554545 -73.218565273 25.845554545 -164.765827273",
   "solr_geom": "ENVELOPE(-164.765827273, -73.218565273, 67.462094545, 25.845554545)",
-  "solr_year_i": 2010
+  "solr_year_i": 2010,
+  "geoblacklight_version": "1.0"
 }

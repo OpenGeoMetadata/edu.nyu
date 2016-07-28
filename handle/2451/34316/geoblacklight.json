@@ -1,5 +1,4 @@
 {
-  "uuid": "http://hdl.handle.net/2451/34316",
   "dc_identifier_s": "http://hdl.handle.net/2451/34316",
   "dc_title_s": "2001 Manipur, India: Village Amenities Points with Socio-Demographic and Economic Census Data",
   "dc_description_s": "This point shapefile shows village locations with socio-demographic and economic Census data for 2001 for the State of Manipur, India linked to the 2001 Census. Includes village socio-demographic and economic Census attribute data such as total population, population by sex, household, literacy and illiteracy rates, and employment by industry. This layer is part of the VillageMap dataset which includes socio-demographic and economic Census data for 2001 at the village level for all the states of India. This data layer is sourced from secondary government sources, chiefly Survey of India, Census of India, Election Commission, etc. This map includes data for 1946 villages, 2 towns, 9 districts and 1 state. This dataset is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for village level demographic analysis within basic applications to support graphical overlays and analysis with other spatial data.",
@@ -43,13 +42,7 @@
     "Thānga, Manipur, India",
     "Imphal, Manipur, India"
   ],
-  "dc_relation_sm": [
-    "http://sws.geonames.org/1263706/about/rdf",
-    "http://sws.geonames.org/1254656/about/rdf",
-    "http://sws.geonames.org/1269771/about/rdf"
-  ],
-  "georss_box_s": "23.8603191375732 93.0243148803711 25.6240062713623 94.7131881713867",
-  "georss_polygon_s": "23.8603191375732 93.0243148803711 25.6240062713623 93.0243148803711 25.6240062713623 94.7131881713867 23.8603191375732 94.7131881713867 23.8603191375732 93.0243148803711",
   "solr_geom": "ENVELOPE(93.0243148803711, 94.7131881713867, 25.6240062713623, 23.8603191375732)",
-  "solr_year_i": 2001
+  "solr_year_i": 2001,
+  "geoblacklight_version": "1.0"
 }

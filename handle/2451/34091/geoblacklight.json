@@ -1,5 +1,4 @@
 {
-  "uuid": "http://hdl.handle.net/2451/34091",
   "dc_identifier_s": "http://hdl.handle.net/2451/34091",
   "dc_title_s": "2010 U.S. States",
   "dc_description_s": "U.S. States represents the 50 states, the District of Columbia, and Puerto Rico of the United States.",
@@ -32,11 +31,7 @@
   "dct_spatial_sm": [
     "United States of America"
   ],
-  "dc_relation_sm": [
-    "http://sws.geonames.org/6252001/about/rdf"
-  ],
-  "georss_box_s": "17.881242 -179.14734 71.390482064 179.778465",
-  "georss_polygon_s": "17.881242 -179.14734 71.390482064 -179.14734 71.390482064 179.778465 17.881242 179.778465 17.881242 -179.14734",
   "solr_geom": "ENVELOPE(-179.14734, 179.778465, 71.390482064, 17.881242)",
-  "solr_year_i": 2010
+  "solr_year_i": 2010,
+  "geoblacklight_version": "1.0"
 }

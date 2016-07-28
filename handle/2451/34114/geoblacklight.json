@@ -1,5 +1,4 @@
 {
-  "uuid": "http://hdl.handle.net/2451/34114",
   "dc_identifier_s": "http://hdl.handle.net/2451/34114",
   "dc_title_s": "2010 World Named Latitudes and Longitudes",
   "dc_description_s": "World Named Latitudes and Longitudes represents geographically significant reference latitudes and longitudes for the world such as the equator, tropics, Arctic and Antarctic Circles, prime meridian, and International Date Line.",
@@ -33,11 +32,7 @@
   "dct_spatial_sm": [
     "World"
   ],
-  "dc_relation_sm": [
-    "http://sws.geonames.org/6295630/about/rdf"
-  ],
-  "georss_box_s": "-90.0 -180.0 89.999999916 180.0",
-  "georss_polygon_s": "-90.0 -180.0 89.999999916 -180.0 89.999999916 180.0 -90.0 180.0 -90.0 -180.0",
   "solr_geom": "ENVELOPE(-180.0, 180.0, 89.999999916, -90.0)",
-  "solr_year_i": 2010
+  "solr_year_i": 2010,
+  "geoblacklight_version": "1.0"
 }

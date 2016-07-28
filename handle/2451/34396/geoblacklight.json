@@ -1,5 +1,4 @@
 {
-  "uuid": "http://hdl.handle.net/2451/34396",
   "dc_identifier_s": "http://hdl.handle.net/2451/34396",
   "dc_title_s": "2003 Madhya Pradesh, India: Pre Delimitation State Assembly Constituency Boundaries and Election Data",
   "dc_description_s": "This polygon shapefile shows pre-delimitation state Legislative Assembly constituency boundaries and data relating to the 2003 Assembly elections for the State of Madhya Pradesh, India. Includes attribute data on election parties, candidates, voters, and results. This layer is part of the Poll Map of India which includes parliamentary constituency boundaries for India, Assembly constituency boundaries for all states, and data relating to the past national elections for each State of India.This data can be used for election analysis, forecasting, and mapping: Enables profiling of individual constituencies, permits historical analysis of the data, and helps predictive estimate of the impact of regional and state-wise electorate swings on the performance of political parties. These data are intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production.",
@@ -43,19 +42,7 @@
     "Hoshangābād, Madhya Pradesh, India",
     "Khilchipur, Madhya Pradesh, India"
   ],
-  "dc_relation_sm": [
-    "http://sws.geonames.org/1264542/about/rdf",
-    "http://sws.geonames.org/1277661/about/rdf",
-    "http://sws.geonames.org/1276391/about/rdf",
-    "http://sws.geonames.org/1275869/about/rdf",
-    "http://sws.geonames.org/6990539/about/rdf",
-    "http://sws.geonames.org/1273066/about/rdf",
-    "http://sws.geonames.org/1270585/about/rdf",
-    "http://sws.geonames.org/1269939/about/rdf",
-    "http://sws.geonames.org/1266731/about/rdf"
-  ],
-  "georss_box_s": "21.0704 74.02936 26.86964 82.81637",
-  "georss_polygon_s": "21.0704 74.02936 26.86964 74.02936 26.86964 82.81637 21.0704 82.81637 21.0704 74.02936",
   "solr_geom": "ENVELOPE(74.02936, 82.81637, 26.86964, 21.0704)",
-  "solr_year_i": 2003
+  "solr_year_i": 2003,
+  "geoblacklight_version": "1.0"
 }

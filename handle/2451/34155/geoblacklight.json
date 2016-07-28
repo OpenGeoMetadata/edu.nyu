@@ -1,5 +1,4 @@
 {
-  "uuid": "http://hdl.handle.net/2451/34155",
   "dc_identifier_s": "http://hdl.handle.net/2451/34155",
   "dc_title_s": "2010 New York City Borough Boundaries Water Included",
   "dc_description_s": "The borough boundaries of New York City including portions of the borough under water.",
@@ -36,11 +35,7 @@
   "dct_spatial_sm": [
     "New York City, New York, United States"
   ],
-  "dc_relation_sm": [
-    "http://sws.geonames.org/5128581/about/rdf"
-  ],
-  "georss_box_s": "40.4860830856901 -74.2587474685173 40.9176618323612 -73.700009054899",
-  "georss_polygon_s": "40.4860830856901 -74.2587474685173 40.9176618323612 -74.2587474685173 40.9176618323612 -73.700009054899 40.4860830856901 -73.700009054899 40.4860830856901 -74.2587474685173",
   "solr_geom": "ENVELOPE(-74.2587474685173, -73.700009054899, 40.9176618323612, 40.4860830856901)",
-  "solr_year_i": 2010
+  "solr_year_i": 2010,
+  "geoblacklight_version": "1.0"
 }

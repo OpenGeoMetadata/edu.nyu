@@ -1,5 +1,4 @@
 {
-  "uuid": "http://hdl.handle.net/2451/34156",
   "dc_identifier_s": "http://hdl.handle.net/2451/34156",
   "dc_title_s": "2000 New York City Census Blocks for 2000 US Census",
   "dc_description_s": "The Census Blocks for the 2000 US Census. These boundary files are derived from the US Census Bureau's TIGER project and have been geographically modified to fit the New York City base map. Because some census blocks are under water not all census blocks are contained in this file, only census blocks that are partially or totally located on land have been mapped in this file.",
@@ -35,11 +34,7 @@
   "dct_spatial_sm": [
     "New York City, New York, United States"
   ],
-  "dc_relation_sm": [
-    "http://sws.geonames.org/5128581/about/rdf"
-  ],
-  "georss_box_s": "40.4960925239255 -74.2556640887564 40.9157739339836 -73.700009054899",
-  "georss_polygon_s": "40.4960925239255 -74.2556640887564 40.9157739339836 -74.2556640887564 40.9157739339836 -73.700009054899 40.4960925239255 -73.700009054899 40.4960925239255 -74.2556640887564",
   "solr_geom": "ENVELOPE(-74.2556640887564, -73.700009054899, 40.9157739339836, 40.4960925239255)",
-  "solr_year_i": 2000
+  "solr_year_i": 2000,
+  "geoblacklight_version": "1.0"
 }

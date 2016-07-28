@@ -1,5 +1,4 @@
 {
-  "uuid": "http://hdl.handle.net/2451/34112",
   "dc_identifier_s": "http://hdl.handle.net/2451/34112",
   "dc_title_s": "2008 World Countries",
   "dc_description_s": "World Countries represents the boundaries for the countries of the world as they existed in January 2008.",
@@ -32,11 +31,7 @@
   "dct_spatial_sm": [
     "World"
   ],
-  "dc_relation_sm": [
-    "http://sws.geonames.org/6295630/about/rdf"
-  ],
-  "georss_box_s": "-90.0 -180.0 83.623600162 180.0",
-  "georss_polygon_s": "-90.0 -180.0 83.623600162 -180.0 83.623600162 180.0 -90.0 180.0 -90.0 -180.0",
   "solr_geom": "ENVELOPE(-180.0, 180.0, 83.623600162, -90.0)",
-  "solr_year_i": 2008
+  "solr_year_i": 2008,
+  "geoblacklight_version": "1.0"
 }

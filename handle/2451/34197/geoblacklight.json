@@ -1,5 +1,4 @@
 {
-  "uuid": "http://hdl.handle.net/2451/34197",
   "dc_identifier_s": "http://hdl.handle.net/2451/34197",
   "dc_title_s": "2015 Buenos Aires Election Circuit Areas",
   "dc_description_s": "This layer represents the boundaries of election circuit areas in Buenos Aires. Downloaded from http://data.buenosaires.gob.ar/dataset/circuitos-electorales. Authored by Directorate General of Planning - Ministry of Urban Development.",
@@ -33,11 +32,7 @@
   "dct_spatial_sm": [
     "Buenos Aires, Buenos Aires F.D., Argentina"
   ],
-  "dc_relation_sm": [
-    "http://sws.geonames.org/3435910/about/rdf"
-  ],
-  "georss_box_s": "-34.7052931489258 -58.5315187721333 -34.5275410783547 -58.3351430047738",
-  "georss_polygon_s": "-34.7052931489258 -58.5315187721333 -34.5275410783547 -58.5315187721333 -34.5275410783547 -58.3351430047738 -34.7052931489258 -58.3351430047738 -34.7052931489258 -58.5315187721333",
   "solr_geom": "ENVELOPE(-58.5315187721333, -58.3351430047738, -34.5275410783547, -34.7052931489258)",
-  "solr_year_i": 2015
+  "solr_year_i": 2015,
+  "geoblacklight_version": "1.0"
 }

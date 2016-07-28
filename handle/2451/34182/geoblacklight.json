@@ -1,5 +1,4 @@
 {
-  "uuid": "http://hdl.handle.net/2451/34182",
   "dc_identifier_s": "http://hdl.handle.net/2451/34182",
   "dc_title_s": "2010 U.S. State Plane Zones (NAD 1927)",
   "dc_description_s": "U.S. State Plane Zones (NAD 1927) represents the State Plane Coordinate System (SPCS) Zones for the 1927 North American Datum within United States. Several State Plane Coordinate System zones are not shown in this dataset, including Puerto Rico, the U.S. Virgin Islands, American Samoa, Guam, and Louisiana's offshore zone.",
@@ -34,11 +33,7 @@
   "dct_spatial_sm": [
     "United States of America"
   ],
-  "dc_relation_sm": [
-    "http://sws.geonames.org/6252001/about/rdf"
-  ],
-  "georss_box_s": "18.924781818 -178.215027273 71.406643818 -66.969843273",
-  "georss_polygon_s": "18.924781818 -178.215027273 71.406643818 -178.215027273 71.406643818 -66.969843273 18.924781818 -66.969843273 18.924781818 -178.215027273",
   "solr_geom": "ENVELOPE(-178.215027273, -66.969843273, 71.406643818, 18.924781818)",
-  "solr_year_i": 2010
+  "solr_year_i": 2010,
+  "geoblacklight_version": "1.0"
 }

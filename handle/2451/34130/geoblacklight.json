@@ -1,5 +1,4 @@
 {
-  "uuid": "http://hdl.handle.net/2451/34130",
   "dc_identifier_s": "http://hdl.handle.net/2451/34130",
   "dc_title_s": "2010 U.S. and Canada Detailed Streets",
   "dc_description_s": "U.S. and Canada Detailed Streets represents streets, highways, roads with and without limited access, secondary and connecting roads, local and rural roads, roads with special characteristics, access ramps, and ferries within the United States and Canada. This data set contains road network features such as arterial classification, speed, and direction of travel. It contains address ranges for all addressable features with addresses.",
@@ -35,12 +34,7 @@
     "United States of America",
     "Canada"
   ],
-  "dc_relation_sm": [
-    "http://sws.geonames.org/6252001/about/rdf",
-    "http://sws.geonames.org/6251999/about/rdf"
-  ],
-  "georss_box_s": "41.053699091 -136.850489091 76.427236364 -52.622456364",
-  "georss_polygon_s": "41.053699091 -136.850489091 76.427236364 -136.850489091 76.427236364 -52.622456364 41.053699091 -52.622456364 41.053699091 -136.850489091",
   "solr_geom": "ENVELOPE(-136.850489091, -52.622456364, 76.427236364, 41.053699091)",
-  "solr_year_i": 2010
+  "solr_year_i": 2010,
+  "geoblacklight_version": "1.0"
 }

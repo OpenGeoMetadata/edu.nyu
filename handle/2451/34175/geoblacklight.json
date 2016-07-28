@@ -1,5 +1,4 @@
 {
-  "uuid": "http://hdl.handle.net/2451/34175",
   "dc_identifier_s": "http://hdl.handle.net/2451/34175",
   "dc_title_s": "2010 U.S. Highways",
   "dc_description_s": "U.S. Highways represents the major and minor highways of the United States. These include interstates, U.S. highways, state highways, major roads, and minor roads. This dataset is from the Census 2000 TIGER/Line files. It contains all Class 1, 2, and 3 road segments plus any other roads segments necessary to provide network connectivity for the Class_Rte field.",
@@ -35,11 +34,7 @@
   "dct_spatial_sm": [
     "United States of America"
   ],
-  "dc_relation_sm": [
-    "http://sws.geonames.org/6252001/about/rdf"
-  ],
-  "georss_box_s": "19.058081818 -166.5565 71.295692804 -66.979672",
-  "georss_polygon_s": "19.058081818 -166.5565 71.295692804 -166.5565 71.295692804 -66.979672 19.058081818 -66.979672 19.058081818 -166.5565",
   "solr_geom": "ENVELOPE(-166.5565, -66.979672, 71.295692804, 19.058081818)",
-  "solr_year_i": 2010
+  "solr_year_i": 2010,
+  "geoblacklight_version": "1.0"
 }

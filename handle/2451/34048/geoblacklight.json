@@ -1,5 +1,4 @@
 {
-  "uuid": "http://hdl.handle.net/2451/34048",
   "dc_identifier_s": "http://hdl.handle.net/2451/34048",
   "dc_title_s": "2010 U.S. and Canada City Areas",
   "dc_description_s": "U.S. and Canada City Areas represents the city limits of cities in the United States and Canada. This data set provides six feature classes for displaying the data at different scales. Everything about the feature classes is the same but the level of generalization and its name. The base feature class is called and isn't generalized. The least generalized feature class is called _1, the next more generalized feature class is called _2, and so on. For best performance, use the most appropriate feature class when displaying or printing.",
@@ -37,12 +36,7 @@
     "United States of America",
     "Canada"
   ],
-  "dc_relation_sm": [
-    "http://sws.geonames.org/6252001/about/rdf",
-    "http://sws.geonames.org/6251999/about/rdf"
-  ],
-  "georss_box_s": "17.874565 -176.810434 71.338727049 173.429928",
-  "georss_polygon_s": "17.874565 -176.810434 71.338727049 -176.810434 71.338727049 173.429928 17.874565 173.429928 17.874565 -176.810434",
   "solr_geom": "ENVELOPE(-176.810434, 173.429928, 71.338727049, 17.874565)",
-  "solr_year_i": 2010
+  "solr_year_i": 2010,
+  "geoblacklight_version": "1.0"
 }

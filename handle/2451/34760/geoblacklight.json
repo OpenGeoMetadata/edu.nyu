@@ -1,5 +1,4 @@
 {
-  "uuid": "http://hdl.handle.net/2451/34760",
   "dc_identifier_s": "http://hdl.handle.net/2451/34760",
   "dc_title_s": "2016 (May) New York City Subway Station Entrances",
   "dc_description_s": "This point layer was created using the data feeds from the Metropolitan Transportation Authority (MTA). It represents the subway station entrance locations for the MTA NYC Transit Subway, where an entrance represents a physical entryway or exit from a subway station to a street or building. The data originally came in a CSV format, and was plotted using the coordinates for the entrances and saved as a spatial layer in the local state plane coordinate system. The features include several attributes that describe the physical details of the entrances (nearest street or corner, whether they are entrance or exit only, whether they have stairs, escalators, or elevators, etc) and of the stations (lines served and trains that stop there). The station entrances for the Staten Island Railway are not included. The features do not have a unique identifier. This dataset is intended for researchers, policy makers, students, and educators for basic geographic analysis and mapping purposes. It was created by the GIS Lab at the Newman Library at Baruch College CUNY as part of the NYC Mass Transit Spatial Layers series, so that members of the public could have access to well-documented and readily-usable GIS layers of NYC mass transit features. ",
@@ -40,19 +39,7 @@
     "Borough of Manhattan, New York, United States",
     "Borough of Queens, New York, United States"
   ],
-  "dc_relation_sm": [
-    "http://sws.geonames.org/5128581/about/rdf",
-    "http://sws.geonames.org/5110253/about/rdf",
-    "http://sws.geonames.org/6941775/about/rdf",
-    "http://sws.geonames.org/5128594/about/rdf",
-    "http://sws.geonames.org/5133268/about/rdf",
-    "http://sws.geonames.org/5110266/about/rdf",
-    "http://sws.geonames.org/5110302/about/rdf",
-    "http://sws.geonames.org/5125771/about/rdf",
-    "http://sws.geonames.org/5133273/about/rdf"
-  ],
-  "georss_box_s": "40.343124414571 -74.498383114354 41.085413785429 -73.513562685646",
-  "georss_polygon_s": "40.343124414571 -74.498383114354 41.085413785429 -74.498383114354 41.085413785429 -73.513562685646 40.343124414571 -73.513562685646 40.343124414571 -74.498383114354",
   "solr_geom": "ENVELOPE(-74.498383114354, -73.513562685646, 41.085413785429, 40.343124414571)",
-  "solr_year_i": 2016
+  "solr_year_i": 2016,
+  "geoblacklight_version": "1.0"
 }

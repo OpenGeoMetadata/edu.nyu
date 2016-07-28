@@ -1,5 +1,4 @@
 {
-  "uuid": "http://hdl.handle.net/2451/34176",
   "dc_identifier_s": "http://hdl.handle.net/2451/34176",
   "dc_title_s": "2010 U.S. National Transportation Atlas Interstate Highways",
   "dc_description_s": "U.S. National Transportation Atlas Interstate Highways represents rural and urban interstate highways. U.S. National Transportation Atlas Interstate Highways is part of the National Highway Planning Network, published by the Federal Highway Administration as part of the National Transportation Atlas Databases for the United States.",
@@ -34,11 +33,7 @@
   "dct_spatial_sm": [
     "United States of America"
   ],
-  "dc_relation_sm": [
-    "http://sws.geonames.org/6252001/about/rdf"
-  ],
-  "georss_box_s": "21.273109091 -158.090072727 64.888216072 -67.781192727",
-  "georss_polygon_s": "21.273109091 -158.090072727 64.888216072 -158.090072727 64.888216072 -67.781192727 21.273109091 -67.781192727 21.273109091 -158.090072727",
   "solr_geom": "ENVELOPE(-158.090072727, -67.781192727, 64.888216072, 21.273109091)",
-  "solr_year_i": 2010
+  "solr_year_i": 2010,
+  "geoblacklight_version": "1.0"
 }
