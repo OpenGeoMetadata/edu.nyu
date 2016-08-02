@@ -6,7 +6,7 @@
   ],
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "NYU",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34606\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/74792/nyu_2451_34606.zip\",\"http://schema.org/additionalType\":\"https://archive.nyu.edu/retrieve/74793/nyu_2451_34606_doc.zip\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34606\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/74792/nyu_2451_34606.zip\",\"http://lccn.loc.gov/sh85035852\":\"https://archive.nyu.edu/retrieve/74793/nyu_2451_34606_doc.zip\"}",
   "layer_id_s": "sdr:nyu_2451_34606",
   "layer_slug_s": "nyu_2451_34606",
   "layer_geom_type_s": "Polygon",

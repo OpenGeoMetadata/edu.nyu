@@ -4,7 +4,7 @@
   "dc_description_s": "This Esri geodatabase contains data from the 2010 U.S. Census, as well as additional data from the Office of Management and Budget (OMB) and Neilson Media Research. Esri’s compilation of census data allows for easy analysis of population, income, race, and ethnicity. The geodatabase splits all indicators into subcategories, and a full roster of population data variables in a variety of geographies are included in Esri's Census 2010 data documentation file. The data categories include population, household, housing mortgage status, tenure, family, age, race, and ethnicity. The geodatabase presents this data at the level of nation, state, county, census tract, block group, place, zip code, county subdivision, core-based statistical area, designated market area, and congressional district. Multiple files in NYU’s collection have been derived from this geodatabase.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "NYU",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34602\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/74786/nyu_2451_34602.zip\",\"http://schema.org/additionalType\":\"https://archive.nyu.edu/retrieve/74787/nyu_2451_34602_doc.zip\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34602\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/74786/nyu_2451_34602.zip\",\"http://lccn.loc.gov/sh85035852\":\"https://archive.nyu.edu/retrieve/74787/nyu_2451_34602_doc.zip\"}",
   "layer_id_s": "sdr:nyu_2451_34602",
   "layer_slug_s": "nyu_2451_34602",
   "layer_geom_type_s": "Polygon",
