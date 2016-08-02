@@ -4,7 +4,7 @@
   "dc_description_s": "This point shapefile complements the LION street base map representing New York City's streets and other linear geographic features, such as shorelines, surface rail lines and boardwalks, along with feature names and address ranges for each addressable street segment. This is Version 16 A, released in February 2016.",
   "dc_rights_s": "Public",
   "dct_provenance_s": "NYU",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34574\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/74589/nyu_2451_34574.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://maps-public.geo.nyu.edu/geoserver/sdr/wms\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34574\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/74589/nyu_2451_34574.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\"}",
   "layer_id_s": "sdr:nyu_2451_34574",
   "layer_slug_s": "nyu_2451_34574",
   "layer_geom_type_s": "Point",

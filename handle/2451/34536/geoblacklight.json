@@ -4,7 +4,7 @@
   "dc_description_s": "This polygon shapefile layer represents all existing Waterfont Access Plan areas in NYC. A Waterfront Access Plan is a detailed framework set forth in the Zoning Resolution, that tailors waterfront bulk regulations and public access requirements to the specific conditions of a particular waterfront. Development of individual waterfront parcels governed by the plan triggers a requirement to build and maintain public access areas in accordance with the WAP.",
   "dc_rights_s": "Public",
   "dct_provenance_s": "NYU",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34536\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/74494/nyu_2451_34536.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://maps-public.geo.nyu.edu/geoserver/sdr/wms\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34536\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/74494/nyu_2451_34536.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\"}",
   "layer_id_s": "sdr:nyu_2451_34536",
   "layer_slug_s": "nyu_2451_34536",
   "layer_geom_type_s": "Polygon",

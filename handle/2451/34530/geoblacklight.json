@@ -4,7 +4,7 @@
   "dc_description_s": "This polygon shapefile layer represents the boundaries for all rezonings adopted since January 1, 2002 (STATUS = \"Adopted\") and current proposed rezonings (STATUS = \"Certified\"). Selected city-initiated text amendments to the Zoning Resolution since 2002 that have discrete geographical boundaries may be included.",
   "dc_rights_s": "Public",
   "dct_provenance_s": "NYU",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34530\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/74474/nyu_2451_34530.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://maps-public.geo.nyu.edu/geoserver/sdr/wms\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34530\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/74474/nyu_2451_34530.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\"}",
   "layer_id_s": "sdr:nyu_2451_34530",
   "layer_slug_s": "nyu_2451_34530",
   "layer_geom_type_s": "Polygon",

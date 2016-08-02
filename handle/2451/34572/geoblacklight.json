@@ -4,7 +4,7 @@
   "dc_description_s": "This New York City Neighborhood Names point file was created as a guide to New York City’s neighborhoods that appear  on the web resource, “New York: A City of Neighborhoods.” Best estimates of label centroids were established at a 1:1,000 scale, but are ideally viewed at a 1:50,000 scale.",
   "dc_rights_s": "Public",
   "dct_provenance_s": "NYU",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34572\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/74586/nyu_2451_34572.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://maps-public.geo.nyu.edu/geoserver/sdr/wms\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34572\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/74586/nyu_2451_34572.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\"}",
   "layer_id_s": "sdr:nyu_2451_34572",
   "layer_slug_s": "nyu_2451_34572",
   "layer_geom_type_s": "Point",
