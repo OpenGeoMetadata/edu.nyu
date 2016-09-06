@@ -4,7 +4,7 @@
   "dc_description_s": "This ESRI Geodatabase contains polygon features and attribute data tables for census data for the country of Honduras. The data is derived from the Proyectado - Instituto Nactional de Estadistica and was released in 2001. The data contain 30,814 census boundary polygons that each have 154 attributes, and the lowest administrative boundary level represented is Barrios. Refer to the documentation for a list of variables and a translation of variable titles into English. For more information on the census methodology and a glossary of variable categories, go to the INE website at http://www.ine.gob.hn/.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "NYU",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34924\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/75753/nyu_2451_34924.zip\",\"http://schema.org/additionalType\":\"https://archive.nyu.edu/retrieve/75752/nyu_2451_34924_doc.zip\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34924\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/75753/nyu_2451_34924.zip\",\"http://lccn.loc.gov/sh85035852\":\"https://archive.nyu.edu/retrieve/75752/nyu_2451_34924_doc.zip\"}",
   "layer_id_s": "sdr:nyu_2451_34924",
   "layer_slug_s": "nyu_2451_34924",
   "layer_geom_type_s": "Polygon",

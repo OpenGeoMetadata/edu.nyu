@@ -4,7 +4,7 @@
   "dc_description_s": "This ESRI Geodatabase contains polygon features and attribute data tables for census data for the country of El Salvador. The data is derived from the Direccion General de Estadistica y Censos (DIGESTYC) and was released in 2007. The data contain 280 census boundary polygons that each have 485 attributes, and the lowest administrative boundary level represented is Municipios. Refer to the documentation for a list of variables and a translation of variable titles into English. For more information on the census methodology and a glossary of variable categories, go to the DIGESTYC website at http://www.digestyc.gob.sv/.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "NYU",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34923\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/75751/nyu_2451_34923.zip\",\"http://schema.org/additionalType\":\"https://archive.nyu.edu/retrieve/75750/nyu_2451_34923_doc.zip\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34923\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/75751/nyu_2451_34923.zip\",\"http://lccn.loc.gov/sh85035852\":\"https://archive.nyu.edu/retrieve/75750/nyu_2451_34923_doc.zip\"}",
   "layer_id_s": "sdr:nyu_2451_34923",
   "layer_slug_s": "nyu_2451_34923",
   "layer_geom_type_s": "Polygon",
