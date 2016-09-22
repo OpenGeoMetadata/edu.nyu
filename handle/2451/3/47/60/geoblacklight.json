@@ -39,7 +39,7 @@
     "Borough of Manhattan, New York, United States",
     "Borough of Queens, New York, United States"
   ],
-  "solr_geom": "ENVELOPE(-74.498383114354, -73.513562685646, 41.085413785429, 40.343124414571)",
+  "solr_geom": "ENVELOPE(-74.031383, -73.754178, 40.9035969999998, 40.5754989999998)",
   "solr_year_i": 2016,
   "geoblacklight_version": "1.0"
 }
