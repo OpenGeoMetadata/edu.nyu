@@ -4,7 +4,7 @@
   "dc_description_s": "This polygon shapefile represents Servicios con Información complementaria de tipo Área (Áreas Verdes, Camellones, glorietas) (Locations of Green Areas, Cemeteries, Sports and Recreation Areas) for the Mexican state of Sonora. This file was released by the Instituto Nacional de EstadÌstica y GeografÌa (INEGI) as part of the 2015 Population Survey, Encuesta Intercensal. This layer does not include socio-demographic data and was downloaded, cleaned, and released by Diego Valle-Jones (diego@diegovalle.net). Refer to the documentation for methodologies and variable names (in Spanish). Original information on this survey is available at http://www.inegi.org.mx/est/contenidos/proyectos/encuestas/hogares/especiales/ei2015/default.aspx",
   "dc_rights_s": "Public",
   "dct_provenance_s": "NYU",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/37071\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/bitstream/2451/37071/4/nyu_2451_37071.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/37071\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/77792/nyu_2451_37071.zip\"}",
   "layer_id_s": "sdr:nyu_2451_37071",
   "layer_slug_s": "nyu_2451_37071",
   "layer_geom_type_s": "Polygon",
@@ -30,12 +30,15 @@
     "2015"
   ],
   "dct_spatial_sm": [
-
+    "Sonora, Mexico",
+    "Mexico"
   ],
   "dc_relation_sm": [
 
   ],
-  "solr_geom": "ENVELOPE(0, 0, 0, 0)",
+  "solr_geom": "ENVELOPE(-115.00005349, -108.61723237, 32.4919557699996, 26.4311784799993)",
   "solr_year_i": 2015,
-  "geoblacklight_version": "1.0"
+  "geoblacklight_version": "1.0",
+  "georss_box_s": "26.4311784799993 -115.00005349 32.4919557699996 -108.61723237",
+  "georss_polygon_s": "26.4311784799993 -115.00005349 32.4919557699996 -115.00005349 32.4919557699996 -108.61723237 26.4311784799993 -108.61723237 26.4311784799993 -115.00005349"
 }

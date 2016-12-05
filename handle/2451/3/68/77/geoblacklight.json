@@ -4,7 +4,7 @@
   "dc_description_s": "This polygon shapefile represents Área Geoestadística Básica (AGEB) (Urban Census Tracts) for the Mexican state of Guerrero. This file was released by the Instituto Nacional de EstadÌstica y GeografÌa (INEGI) as part of the 2015 Population Survey, Encuesta Intercensal. This layer does not include socio-demographic data and was downloaded, cleaned, and released by Diego Valle-Jones (diego@diegovalle.net). Refer to the documentation for methodologies and variable names (in Spanish). Original information on this survey is available at http://www.inegi.org.mx/est/contenidos/proyectos/encuestas/hogares/especiales/ei2015/default.aspx",
   "dc_rights_s": "Public",
   "dct_provenance_s": "NYU",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/36877\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/bitstream/2451/36877/4/nyu_2451_36877.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/36877\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/77598/nyu_2451_36877.zip\"}",
   "layer_id_s": "sdr:nyu_2451_36877",
   "layer_slug_s": "nyu_2451_36877",
   "layer_geom_type_s": "Polygon",
@@ -30,12 +30,15 @@
     "2015"
   ],
   "dct_spatial_sm": [
-
+    "Guerrero, Mexico",
+    "Mexico"
   ],
   "dc_relation_sm": [
 
   ],
-  "solr_geom": "ENVELOPE(0, 0, 0, 0)",
+  "solr_geom": "ENVELOPE(-102.11463185, -98.1754145199999, 18.7578632199992, 16.4095723099991)",
   "solr_year_i": 2015,
-  "geoblacklight_version": "1.0"
+  "geoblacklight_version": "1.0",
+  "georss_box_s": "16.4095723099991 -102.11463185 18.7578632199992 -98.1754145199999",
+  "georss_polygon_s": "16.4095723099991 -102.11463185 18.7578632199992 -102.11463185 18.7578632199992 -98.1754145199999 16.4095723099991 -98.1754145199999 16.4095723099991 -102.11463185"
 }

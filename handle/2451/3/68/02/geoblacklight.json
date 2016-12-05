@@ -4,7 +4,7 @@
   "dc_description_s": "This polygon shapefile represents Territorio Insular (Isolated Areas) for the Mexican state of Campeche. This file was released by the Instituto Nacional de EstadÌstica y GeografÌa (INEGI) as part of the 2015 Population Survey, Encuesta Intercensal. This layer does not include socio-demographic data and was downloaded, cleaned, and released by Diego Valle-Jones (diego@diegovalle.net). Refer to the documentation for methodologies and variable names (in Spanish). Original information on this survey is available at http://www.inegi.org.mx/est/contenidos/proyectos/encuestas/hogares/especiales/ei2015/default.aspx",
   "dc_rights_s": "Public",
   "dct_provenance_s": "NYU",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/36802\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/bitstream/2451/36802/4/nyu_2451_36802.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/36802\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/77523/nyu_2451_36802.zip\"}",
   "layer_id_s": "sdr:nyu_2451_36802",
   "layer_slug_s": "nyu_2451_36802",
   "layer_geom_type_s": "Polygon",
@@ -35,7 +35,9 @@
   "dc_relation_sm": [
 
   ],
-  "solr_geom": "ENVELOPE(0, 0, 0, 0)",
+  "solr_geom": "ENVELOPE(-91.9789624871481, -90.4512025941812, 20.6937443282097, 20.1959264026754)",
   "solr_year_i": 2015,
-  "geoblacklight_version": "1.0"
+  "geoblacklight_version": "1.0",
+  "georss_box_s": "20.1959264026754 -91.9789624871481 20.6937443282097 -90.4512025941812",
+  "georss_polygon_s": "20.1959264026754 -91.9789624871481 20.6937443282097 -91.9789624871481 20.6937443282097 -90.4512025941812 20.1959264026754 -90.4512025941812 20.1959264026754 -91.9789624871481"
 }

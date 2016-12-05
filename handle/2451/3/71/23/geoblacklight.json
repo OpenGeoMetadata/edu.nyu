@@ -4,7 +4,7 @@
   "dc_description_s": "This polygon shapefile represents Territorio Insular (Isolated Areas) for the Mexican state of Veracruz de Ignacio de la Llave. This file was released by the Instituto Nacional de EstadÌstica y GeografÌa (INEGI) as part of the 2015 Population Survey, Encuesta Intercensal. This layer does not include socio-demographic data and was downloaded, cleaned, and released by Diego Valle-Jones (diego@diegovalle.net). Refer to the documentation for methodologies and variable names (in Spanish). Original information on this survey is available at http://www.inegi.org.mx/est/contenidos/proyectos/encuestas/hogares/especiales/ei2015/default.aspx",
   "dc_rights_s": "Public",
   "dct_provenance_s": "NYU",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/37123\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/bitstream/2451/37123/4/nyu_2451_37123.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/37123\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/77844/nyu_2451_37123.zip\"}",
   "layer_id_s": "sdr:nyu_2451_37123",
   "layer_slug_s": "nyu_2451_37123",
   "layer_geom_type_s": "Polygon",
@@ -30,12 +30,15 @@
     "2015"
   ],
   "dct_spatial_sm": [
-
+    "Veracruz, Mexico",
+    "Mexico"
   ],
   "dc_relation_sm": [
 
   ],
-  "solr_geom": "ENVELOPE(0, 0, 0, 0)",
+  "solr_geom": "ENVELOPE(-97.2315739201335, -96.0909826351949, 21.4767320997376, 19.1736925207693)",
   "solr_year_i": 2015,
-  "geoblacklight_version": "1.0"
+  "geoblacklight_version": "1.0",
+  "georss_box_s": "19.1736925207693 -97.2315739201335 21.4767320997376 -96.0909826351949",
+  "georss_polygon_s": "19.1736925207693 -97.2315739201335 21.4767320997376 -97.2315739201335 21.4767320997376 -96.0909826351949 19.1736925207693 -96.0909826351949 19.1736925207693 -97.2315739201335"
 }
