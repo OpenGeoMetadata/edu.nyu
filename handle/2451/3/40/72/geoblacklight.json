@@ -4,7 +4,7 @@
   "dc_description_s": "U.S. Drainage Systems (Generalized) represents the major drainage systems within United States.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "NYU",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34072\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/bitstream/2451/34072/4/nyu_2451_34072.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34072\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/72246/nyu_2451_34072.zip\"}",
   "layer_id_s": "sdr:nyu_2451_34072",
   "layer_slug_s": "nyu_2451_34072",
   "layer_geom_type_s": "Polygon",
