@@ -12,9 +12,7 @@
   "dc_format_s": "Shapefile",
   "dc_language_s": "English",
   "dc_type_s": "Dataset",
-  "dc_publisher_s": [
-
-  ],
+  "dc_publisher_s": [],
   "dc_creator_sm": "Holly Orr",
   "dc_subject_sm": [
     "Art",
@@ -23,10 +21,11 @@
     "Urban anthropology",
     "Public art"
   ],
-  "dct_isPartOf_sm": "Art and Politics in the City",
-  "dct_issued_s": [
-
+  "dct_isPartOf_sm": [
+    "Art and Politics in the City",
+    "NYU Research Data"
   ],
+  "dct_issued_s": [],
   "dct_temporal_sm": [
     "2015"
   ],

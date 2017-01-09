@@ -26,7 +26,10 @@
     "Public spaces",
     "Vandalism"
   ],
-  "dct_isPartOf_sm": "Art and Politics in the City",
+  "dct_isPartOf_sm": [
+    "Art and Politics in the City",
+    "NYU Research Data"
+  ],
   "dct_issued_s": "2016",
   "dct_temporal_sm": [
     "2016"

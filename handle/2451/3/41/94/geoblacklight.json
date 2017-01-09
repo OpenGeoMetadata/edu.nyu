@@ -21,7 +21,10 @@
   "dc_subject_sm": [
     "Boundaries"
   ],
-  "dct_isPartOf_sm": "Art and Politics in the City",
+  "dct_isPartOf_sm": [
+    "Art and Politics in the City",
+    "NYU Research Data"
+  ],
   "dct_issued_s": [
 
   ],
