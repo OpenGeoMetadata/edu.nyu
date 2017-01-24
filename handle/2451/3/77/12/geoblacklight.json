@@ -42,5 +42,6 @@
   ],
   "solr_geom": "ENVELOPE(42.97876220975057, 43.52476470346708, 30.35288736795808, 29.94735881400705)",
   "solr_year_i": 1978,
-  "geoblacklight_version": "1.0"
+  "geoblacklight_version": "1.0",
+  "dct_refrences_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/37712\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/79054/nyu_2451_37712.zip\",\"http://lccn.loc.gov/sh85035852\":\"https://archive.nyu.edu/retrieve/79186/nyu_soviet_topo_documentation.zip\"}"
 }

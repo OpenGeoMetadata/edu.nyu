@@ -24,7 +24,10 @@
     "Soviet Union--Military policy",
     "Espionage"
   ],
-  "dct_isPartOf_sm": "Soviet 1:100k of UAE",
+  "dct_isPartOf_sm": [
+    "Soviet 1:100k of UAE",
+    "Soviet Military Topographic Maps"
+  ],
   "dct_issued_s": [
 
   ],
@@ -45,5 +48,6 @@
   ],
   "solr_geom": "ENVELOPE(55.5, 56.0, 25.333, 25.0)",
   "solr_year_i": 1978,
-  "geoblacklight_version": "1.0"
+  "geoblacklight_version": "1.0",
+  "dct_refrences_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34733\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/75122/nyu_2451_34733.jpg\",\"http://lccn.loc.gov/sh85035852\":\"https://archive.nyu.edu/retrieve/79186/nyu_soviet_topo_documentation.zip\"}"
 }
