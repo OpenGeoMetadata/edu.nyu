@@ -1,0 +1,44 @@
+{
+  "dc_identifier_s": "http://hdl.handle.net/2451/40749",
+  "dc_title_s": "Global 30 Arc-Second Elevation, Sheet W060N40",
+  "dc_description_s": "This raster layer is part of a digital elevation model (DEM) that offers global coverage at 30-arc seconds, or approximately 1 kilometer pixel spacing. The United States Geological Survey (USGS) originally published the model after deriving content from eight raster and vector sources comprising Digital Terrain Elevation Data, Digital Chart of the World, USGS 1-Degree DEMs, Army Map Service Maps, International Map of the World, Peru Map, New Zealand DEM, and the Antarctic Digital Database. In addition to electronic archiving, Eastview Cartographic, Inc. has completed data conversion and verification services. To see the map index for this set, refer to the Derived Data shapefile layer.  Another version of this data is available directly from the US Geological Survey at https://lta.cr.usgs.gov/GTOPO30. See the documentation for details on the data.",
+  "dc_rights_s": "Restricted",
+  "dct_provenance_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/40749\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/83159/nyu_2451_40749.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\"}",
+  "layer_id_s": "sdr:nyu_2451_40749",
+  "layer_slug_s": "nyu_2451_40749",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2018-01-16T15:11:26Z",
+  "dc_format_s": "WorldImage TIFF",
+  "dc_language_s": "English",
+  "dc_type_s": "Dataset",
+  "dc_publisher_s": "East View Cartographic, Inc.",
+  "dc_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dc_subject_sm": [
+    "Digital elevation models",
+    "Topographic maps",
+    "Elevation"
+  ],
+  "dct_isPartOf_sm": [
+    "EVG Open Data Package"
+  ],
+  "dct_issued_s": "5/31/2016",
+  "dct_temporal_sm": [
+    "2016"
+  ],
+  "dct_spatial_sm": [
+
+  ],
+  "solr_geom": "ENVELOPE(-60.0, -20.000000000000007, 40.0, -9.999999999999986)",
+  "solr_year_i": 2016,
+  "dct_source_sm": [
+    "nyu_2451_38716"
+  ],
+  "geoblacklight_version": "1.0",
+  "nyu_addl_format_sm": [
+    "WorldImage TIFF"
+  ],
+  "nyu_addl_dspace_s": "41809"
+}
