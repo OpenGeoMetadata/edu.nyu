@@ -6,15 +6,13 @@
   "dct_provenance_s": "NYU",
   "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/37493\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/78835/nyu_2451_37493.zip\"}",
   "layer_id_s": "sdr:nyu_2451_37493",
-  "layer_slug_s": "nyu_2451_37493",
+  "layer_slug_s": "nyu-2451-37493",
   "layer_geom_type_s": "Raster",
-  "layer_modified_dt": "2017-1-23T17:32:28Z",
+  "layer_modified_dt": "2017-01-23T17:32:28Z",
   "dc_format_s": "GeoTIFF",
   "dc_language_s": "Russian",
   "dc_type_s": "Dataset",
-  "dc_publisher_s": [
-    "Omni Resources (Firm)"
-  ],
+  "dc_publisher_s": "Omni Resources (Firm)",
   "dc_creator_sm": [
 
   ],

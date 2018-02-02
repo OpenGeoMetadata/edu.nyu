@@ -6,22 +6,24 @@
   "dct_provenance_s": "Baruch CUNY",
   "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34671\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/75042/nyu_2451_34671.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\",\"http://lccn.loc.gov/sh85035852\":\"https://archive.nyu.edu/retrieve/75028/nyu_2451_34671_doc.zip\"}",
   "layer_id_s": "sdr:nyu_2451_34671",
-  "layer_slug_s": "nyu_2451_34671",
+  "layer_slug_s": "nyu-2451-34671",
   "layer_geom_type_s": "Point",
-  "layer_modified_dt": "2016-6-13T15:21:28Z",
+  "layer_modified_dt": "2016-06-13T15:21:28Z",
   "dc_format_s": "Shapefile",
   "dc_language_s": "English",
   "dc_type_s": "Dataset",
-  "dc_publisher_s": [
-    "Newman Library (Bernard M. Baruch College)"
+  "dc_publisher_s": "Newman Library (Bernard M. Baruch College)",
+  "dc_creator_sm": [
+    "GIS Lab, Newman Library, Baruch CUNY"
   ],
-  "dc_creator_sm": "GIS Lab, Newman Library, Baruch CUNY",
   "dc_subject_sm": [
     "Real property",
     "Property",
     "Real estate business"
   ],
-  "dct_isPartOf_sm": "NYC Geocoded Real Estate Sales",
+  "dct_isPartOf_sm": [
+    "NYC Geocoded Real Estate Sales"
+  ],
   "dct_issued_s": "5/31/2016",
   "dct_temporal_sm": [
     "2008"

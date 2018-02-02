@@ -6,17 +6,12 @@
   "dct_provenance_s": "NYU",
   "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34052\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/73373/nyu_2451_34052.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\"}",
   "layer_id_s": "sdr:nyu_2451_34052",
-  "layer_slug_s": "nyu_2451_34052",
+  "layer_slug_s": "nyu-2451-34052",
   "layer_geom_type_s": "Line",
-  "layer_modified_dt": "2016-1-30T4:4:4Z",
+  "layer_modified_dt": "2016-01-30T04:04:04Z",
   "dc_format_s": "Shapefile",
   "dc_language_s": "English",
-  "dc_type_s": [
-
-  ],
-  "dc_publisher_s": [
-    "Environmental Systems Research Institute (Redlands, Calif.)"
-  ],
+  "dc_publisher_s": "Environmental Systems Research Institute (Redlands, Calif.)",
   "dc_creator_sm": [
 
   ],
@@ -24,9 +19,8 @@
     "Roads",
     "Transportation"
   ],
-  "dct_isPartOf_sm": "ESRI 10 StreetMap",
-  "dct_issued_s": [
-
+  "dct_isPartOf_sm": [
+    "ESRI 10 StreetMap"
   ],
   "dct_temporal_sm": [
     "2010"

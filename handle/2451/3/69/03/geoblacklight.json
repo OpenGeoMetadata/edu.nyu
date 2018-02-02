@@ -6,17 +6,13 @@
   "dct_provenance_s": "NYU",
   "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/36903\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/77624/nyu_2451_36903.zip\",\"http://lccn.loc.gov/sh85035852\":\"https://archive.nyu.edu/retrieve/78311/nyu_2451_36903_doc.zip\"}",
   "layer_id_s": "sdr:nyu_2451_36903",
-  "layer_slug_s": "nyu_2451_36903",
+  "layer_slug_s": "nyu-2451-36903",
   "layer_geom_type_s": "Line",
   "layer_modified_dt": "2016-11-30T21:39:21Z",
   "dc_format_s": "Shapefile",
-  "dc_language_s": [
-    "Spanish"
-  ],
+  "dc_language_s": "Spanish",
   "dc_type_s": "Dataset",
-  "dc_publisher_s": [
-    "Instituto Nacional de Estadística y Geografía (Mexico)"
-  ],
+  "dc_publisher_s": "Instituto Nacional de Estadística y Geografía (Mexico)",
   "dc_creator_sm": [
 
   ],
@@ -25,7 +21,9 @@
     "Roads",
     "Transportation"
   ],
-  "dct_isPartOf_sm": "Encuesta Intercensal 2015",
+  "dct_isPartOf_sm": [
+    "Encuesta Intercensal 2015"
+  ],
   "dct_issued_s": "2016",
   "dct_temporal_sm": [
     "2015"

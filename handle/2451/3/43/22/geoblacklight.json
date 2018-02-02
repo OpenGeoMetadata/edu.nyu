@@ -6,15 +6,13 @@
   "dct_provenance_s": "NYU",
   "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34322\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/73596/nyu_2451_34322.zip\",\"http://lccn.loc.gov/sh85035852\":\"https://archive.nyu.edu/retrieve/78584/nyu_2451_34322_doc.zip\"}",
   "layer_id_s": "sdr:nyu_2451_34322",
-  "layer_slug_s": "nyu_2451_34322",
+  "layer_slug_s": "nyu-2451-34322",
   "layer_geom_type_s": "Point",
-  "layer_modified_dt": "2016-1-30T3:46:29Z",
+  "layer_modified_dt": "2016-01-30T03:46:29Z",
   "dc_format_s": "Shapefile",
   "dc_language_s": "English",
   "dc_type_s": "Dataset",
-  "dc_publisher_s": [
-    "ML InfoMap (Firm)"
-  ],
+  "dc_publisher_s": "ML InfoMap (Firm)",
   "dc_creator_sm": [
 
   ],
@@ -35,7 +33,9 @@
     "Health",
     "Infrastructure (Economics)--India"
   ],
-  "dct_isPartOf_sm": "VillageMap of India",
+  "dct_isPartOf_sm": [
+    "VillageMap of India"
+  ],
   "dct_issued_s": "2013",
   "dct_temporal_sm": [
     "2001"

@@ -1,29 +1,26 @@
 {
   "dc_identifier_s": "http://hdl.handle.net/2451/34606",
   "dc_title_s": "2015 ESRI Updated Demographic Data Geodatabase",
-  "dc_description_s": [
-
-  ],
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "NYU",
   "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34606\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/74792/nyu_2451_34606.zip\",\"http://lccn.loc.gov/sh85035852\":\"https://archive.nyu.edu/retrieve/74793/nyu_2451_34606_doc.zip\"}",
   "layer_id_s": "sdr:nyu_2451_34606",
-  "layer_slug_s": "nyu_2451_34606",
+  "layer_slug_s": "nyu-2451-34606",
   "layer_geom_type_s": "Polygon",
-  "layer_modified_dt": "2016-5-13T20:29:12Z",
+  "layer_modified_dt": "2016-05-13T20:29:12Z",
   "dc_format_s": "ESRI Geodatabase",
   "dc_language_s": "English",
   "dc_type_s": "Dataset",
-  "dc_publisher_s": [
-    "Environmental Systems Research Institute (Redlands, Calif.)"
-  ],
+  "dc_publisher_s": "Environmental Systems Research Institute (Redlands, Calif.)",
   "dc_creator_sm": [
 
   ],
   "dc_subject_sm": [
     "Demographic surveys--United States"
   ],
-  "dct_isPartOf_sm": "ESRI 2015 Educational Data",
+  "dct_isPartOf_sm": [
+    "ESRI 2015 Educational Data"
+  ],
   "dct_issued_s": "2015",
   "dct_temporal_sm": [
     "2015"

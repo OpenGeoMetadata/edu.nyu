@@ -6,15 +6,13 @@
   "dct_provenance_s": "NYU",
   "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34602\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/74786/nyu_2451_34602.zip\",\"http://lccn.loc.gov/sh85035852\":\"https://archive.nyu.edu/retrieve/74787/nyu_2451_34602_doc.zip\"}",
   "layer_id_s": "sdr:nyu_2451_34602",
-  "layer_slug_s": "nyu_2451_34602",
+  "layer_slug_s": "nyu-2451-34602",
   "layer_geom_type_s": "Polygon",
-  "layer_modified_dt": "2016-5-13T20:29:13Z",
+  "layer_modified_dt": "2016-05-13T20:29:13Z",
   "dc_format_s": "ESRI Geodatabase",
   "dc_language_s": "English",
   "dc_type_s": "Dataset",
-  "dc_publisher_s": [
-    "Environmental Systems Research Institute (Redlands, Calif.)"
-  ],
+  "dc_publisher_s": "Environmental Systems Research Institute (Redlands, Calif.)",
   "dc_creator_sm": [
 
   ],
@@ -26,7 +24,9 @@
     "Income",
     "Housing"
   ],
-  "dct_isPartOf_sm": "ESRI 2015 Educational Data",
+  "dct_isPartOf_sm": [
+    "ESRI 2015 Educational Data"
+  ],
   "dct_issued_s": "2015",
   "dct_temporal_sm": [
     "2010"

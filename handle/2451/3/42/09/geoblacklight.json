@@ -6,15 +6,12 @@
   "dct_provenance_s": "NYU",
   "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34209\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/71928/nyu_2451_34209.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\"}",
   "layer_id_s": "sdr:nyu_2451_34209",
-  "layer_slug_s": "nyu_2451_34209",
+  "layer_slug_s": "nyu-2451-34209",
   "layer_geom_type_s": "Point",
   "layer_modified_dt": "2015-11-23T18:57:37Z",
   "dc_format_s": "Shapefile",
   "dc_language_s": "Chinese",
   "dc_type_s": "Dataset",
-  "dc_publisher_s": [
-
-  ],
   "dc_creator_sm": [
 
   ],
@@ -24,9 +21,8 @@
     "Demographic surveys",
     "Census"
   ],
-  "dct_isPartOf_sm": "2010 China Data Center Township Census Files",
-  "dct_issued_s": [
-
+  "dct_isPartOf_sm": [
+    "2010 China Data Center Township Census Files"
   ],
   "dct_temporal_sm": [
     "2010"
