@@ -6,15 +6,13 @@
   "dct_provenance_s": "NYU",
   "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34922\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/75749/nyu_2451_34922.zip\",\"http://lccn.loc.gov/sh85035852\":\"https://archive.nyu.edu/retrieve/75748/nyu_2451_34922_doc.zip\"}",
   "layer_id_s": "sdr:nyu_2451_34922",
-  "layer_slug_s": "nyu_2451_34922",
+  "layer_slug_s": "nyu-2451-34922",
   "layer_geom_type_s": "Polygon",
-  "layer_modified_dt": "2016-9-6T18:25:2Z",
+  "layer_modified_dt": "2016-09-06T18:25:02Z",
   "dc_format_s": "ESRI Geodatabase",
   "dc_language_s": "English",
   "dc_type_s": "Dataset",
-  "dc_publisher_s": [
-    "East View Cartographic, Inc."
-  ],
+  "dc_publisher_s": "East View Cartographic, Inc.",
   "dc_creator_sm": [
 
   ],
@@ -24,7 +22,9 @@
     "demographic surveys",
     "Demography"
   ],
-  "dct_isPartOf_sm": "Latin American Census Data",
+  "dct_isPartOf_sm": [
+    "Latin American Census Data"
+  ],
   "dct_issued_s": "2016",
   "dct_temporal_sm": [
     "2010"

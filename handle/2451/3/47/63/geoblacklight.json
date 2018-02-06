@@ -7,23 +7,25 @@
   "dct_provenance_s": "Baruch CUNY",
   "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34763\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\"}",
   "layer_id_s": "sdr:nyu_2451_34763",
-  "layer_slug_s": "nyu_2451_34763",
+  "layer_slug_s": "nyu-2451-34763",
   "layer_geom_type_s": "Mixed",
-  "layer_modified_dt": "2016-6-27T14:58:39Z",
+  "layer_modified_dt": "2016-06-27T14:58:39Z",
   "dc_format_s": "SQLite Databse",
   "dc_language_s": "English",
   "dc_type_s": "Dataset",
-  "dc_publisher_s": [
+  "dc_publisher_s": "Newman Library (Bernard M. Baruch College)",
+  "dc_creator_sm": [
     "Newman Library (Bernard M. Baruch College)"
   ],
-  "dc_creator_sm": "Newman Library (Bernard M. Baruch College)",
   "dc_subject_sm": [
     "Buses",
     "Transportation",
     "Commuting",
     "Local transit"
   ],
-  "dct_isPartOf_sm": "NYC Mass Transit Spatial Layers",
+  "dct_isPartOf_sm": [
+    "NYC Mass Transit Spatial Layers"
+  ],
   "dct_issued_s": "05/31/2016",
   "dct_temporal_sm": [
     "2016"

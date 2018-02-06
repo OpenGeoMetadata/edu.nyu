@@ -6,16 +6,15 @@
   "dct_provenance_s": "NYU",
   "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/33888\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/71932/nyu_2451_33888.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\"}",
   "layer_id_s": "sdr:nyu_2451_33888",
-  "layer_slug_s": "nyu_2451_33888",
+  "layer_slug_s": "nyu-2451-33888",
   "layer_geom_type_s": "Point",
   "layer_modified_dt": "2015-11-23T20:57:44Z",
   "dc_format_s": "Shapefile",
   "dc_language_s": "English",
   "dc_type_s": "Dataset",
-  "dc_publisher_s": [
-
+  "dc_creator_sm": [
+    "Michelle Thompson"
   ],
-  "dc_creator_sm": "Michelle Thompson",
   "dc_subject_sm": [
     "Restaurants",
     "Inspection",
@@ -24,9 +23,6 @@
   ],
   "dct_isPartOf_sm": [
     "NYU Research Data"
-  ],
-  "dct_issued_s": [
-
   ],
   "dct_temporal_sm": [
     "2013",

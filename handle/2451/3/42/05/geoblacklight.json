@@ -6,15 +6,13 @@
   "dct_provenance_s": "NYU",
   "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34205\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/73703/nyu_2451_34205.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\"}",
   "layer_id_s": "sdr:nyu_2451_34205",
-  "layer_slug_s": "nyu_2451_34205",
+  "layer_slug_s": "nyu-2451-34205",
   "layer_geom_type_s": "Polygon",
-  "layer_modified_dt": "2016-3-11T19:7:59Z",
+  "layer_modified_dt": "2016-03-11T19:07:59Z",
   "dc_format_s": "Shapefile",
   "dc_language_s": "English",
   "dc_type_s": "Dataset",
-  "dc_publisher_s": [
-    "U.S. Census Bureau"
-  ],
+  "dc_publisher_s": "U.S. Census Bureau",
   "dc_creator_sm": [
 
   ],
@@ -22,9 +20,8 @@
     "Census",
     "Population"
   ],
-  "dct_isPartOf_sm": "Art and Politics in the City",
-  "dct_issued_s": [
-
+  "dct_isPartOf_sm": [
+    "Art and Politics in the City"
   ],
   "dct_temporal_sm": [
     "2010"
