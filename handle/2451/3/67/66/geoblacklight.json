@@ -36,7 +36,7 @@
   "dc_relation_sm": [
 
   ],
-  "solr_geom": "ENVELOPE(0, 0, 0, 0)",
+  "solr_geom": "ENVELOPE(-118.40764955, -112.65424029, 32.7186535699996, 27.9999999799994)",
   "solr_year_i": 2015,
   "geoblacklight_version": "1.0"
 }
