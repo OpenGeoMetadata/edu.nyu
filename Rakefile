@@ -5,6 +5,7 @@ task :validate_all do
   paths = Find.find(Dir.pwd).select{ |x| x.include?("geoblacklight.json")}
   records_invalid = 0
   records_valid = 0
+  invalid_paths = []
   puts "Validating #{paths.count} Geoblacklight records:"
   paths.each_with_index do |path, idx|
     rec = GeoCombine::Geoblacklight.new(File.read(path))
@@ -18,12 +19,13 @@ task :validate_all do
       end
     rescue
       records_invalid += 1
+      invalid_paths << path
       print("X")
     end
   end
 
   if records_invalid > 0
-    raise "Contains #{records_invalid} invalid records"
+    raise "Contains #{records_invalid} invalid records:\n#{invalid_paths}"
   end
 end
 
