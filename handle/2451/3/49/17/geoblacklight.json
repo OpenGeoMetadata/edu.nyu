@@ -24,7 +24,7 @@
   ],
   "dct_issued_s": "2016",
   "dct_provenance_s": "NYU",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34917\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/75739/nyu_2451_34917.zip\",\"http://lccn.loc.gov/sh85035852\":\"https://archive.nyu.edu/retrieve/75738/nyu_2451_34917_doc.zip\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34917\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/75739/nyu_2451_34917.zip\",\"http://lccn.loc.gov/sh85035852\":\"https://archive.nyu.edu/retrieve/78725/nyu_2451_34917_doc.zip\"}",
   "dct_spatial_sm": [
     "Ecuador"
   ],
@@ -36,6 +36,7 @@
   "layer_id_s": "sdr:nyu_2451_34917",
   "layer_modified_dt": "2016-09-06T18:25:03Z",
   "layer_slug_s": "nyu-2451-34917",
+  "nyu_addl_dspace_s": "35883",
   "solr_geom": "ENVELOPE(-92.012918889569, -75.184586, 1.6872511972518, -4.998823)",
   "solr_year_i": 2010
 }

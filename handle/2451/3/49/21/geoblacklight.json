@@ -24,7 +24,7 @@
   ],
   "dct_issued_s": "2016",
   "dct_provenance_s": "NYU",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34921\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/75745/nyu_2451_34921.zip\",\"http://lccn.loc.gov/sh85035852\":\"https://archive.nyu.edu/retrieve/75744/nyu_2451_34921_doc.zip\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34921\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/75745/nyu_2451_34921.zip\",\"http://lccn.loc.gov/sh85035852\":\"https://archive.nyu.edu/retrieve/78724/nyu_2451_34921_doc.zip\"}",
   "dct_spatial_sm": [
     "Dominican Republic"
   ],
@@ -36,6 +36,7 @@
   "layer_id_s": "sdr:nyu_2451_34921",
   "layer_modified_dt": "2016-09-06T18:25:02Z",
   "layer_slug_s": "nyu-2451-34921",
+  "nyu_addl_dspace_s": "35887",
   "solr_geom": "ENVELOPE(-72.003487, -68.32, 19.929859, 17.470091)",
   "solr_year_i": 2010
 }

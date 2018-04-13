@@ -41,6 +41,7 @@
   "layer_id_s": "sdr:nyu_2451_37122",
   "layer_modified_dt": "2016-11-30T21:39:21Z",
   "layer_slug_s": "nyu-2451-37122",
+  "nyu_addl_dspace_s": "38093",
   "solr_geom": "ENVELOPE(-98.6012385699999, -93.64297014, 22.4681644499992, 17.1587460299991)",
   "solr_year_i": 2015
 }
