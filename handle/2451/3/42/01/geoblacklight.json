@@ -1,35 +1,35 @@
 {
-  "dc_identifier_s": "http://hdl.handle.net/2451/34201",
-  "dc_title_s": "2014 Population Statistics in Buenos Aires",
-  "dc_description_s": "This layer represents Buenos Aires 2014 population by comunas and barrios. Downloaded from http://www.estadistica.buenosaires.gob.ar/areas/hacienda/sis_estadistico/banco_datos/buscador.php?menu_id=34691",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "NYU",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34201\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/73706/nyu_2451_34201.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\"}",
-  "layer_id_s": "sdr:nyu_2451_34201",
-  "layer_slug_s": "nyu-2451-34201",
-  "layer_geom_type_s": "Polygon",
-  "layer_modified_dt": "2016-03-11T19:08:00Z",
-  "dc_format_s": "Shapefile",
-  "dc_language_s": "Spanish",
-  "dc_type_s": "Dataset",
-  "dc_publisher_s": "Buenos Aires (Argentina)",
   "dc_creator_sm": [
 
   ],
+  "dc_description_s": "This layer represents Buenos Aires 2014 population by comunas and barrios. Downloaded from http://www.estadistica.buenosaires.gob.ar/areas/hacienda/sis_estadistico/banco_datos/buscador.php?menu_id=34691",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "http://hdl.handle.net/2451/34201",
+  "dc_language_s": "Spanish",
+  "dc_publisher_s": "Buenos Aires (Argentina)",
+  "dc_rights_s": "Public",
   "dc_subject_sm": [
     "Population",
     "Demographic surveys"
   ],
+  "dc_title_s": "2014 Population Statistics in Buenos Aires",
+  "dc_type_s": "Dataset",
   "dct_isPartOf_sm": [
     "Art and Politics in the City"
+  ],
+  "dct_provenance_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34201\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/73706/nyu_2451_34201.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\"}",
+  "dct_spatial_sm": [
+    "Buenos Aires, Buenos Aires F.D., Argentina"
   ],
   "dct_temporal_sm": [
     "2014"
   ],
-  "dct_spatial_sm": [
-    "Buenos Aires, Buenos Aires F.D., Argentina"
-  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "sdr:nyu_2451_34201",
+  "layer_modified_dt": "2016-03-11T19:08:00Z",
+  "layer_slug_s": "nyu-2451-34201",
   "solr_geom": "ENVELOPE(-58.531518740591, -58.3351430067124, -34.5275410741021, -34.7052931351596)",
-  "solr_year_i": 2014,
-  "geoblacklight_version": "1.0"
+  "solr_year_i": 2014
 }

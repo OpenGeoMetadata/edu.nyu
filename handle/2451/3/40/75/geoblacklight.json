@@ -1,21 +1,13 @@
 {
-  "dc_identifier_s": "http://hdl.handle.net/2451/34075",
-  "dc_title_s": "2010 U.S. National Atlas Water Feature Lines",
-  "dc_description_s": "U.S. National Atlas Water Feature Lines represents the linear water features (for example, aqueducts, canals, intracoastal waterways, and streams) of the United States.",
-  "dc_rights_s": "Restricted",
-  "dct_provenance_s": "NYU",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34075\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/71994/nyu_2451_34075.zip\"}",
-  "layer_id_s": "sdr:nyu_2451_34075",
-  "layer_slug_s": "nyu-2451-34075",
-  "layer_geom_type_s": "Line",
-  "layer_modified_dt": "2016-01-30T04:03:59Z",
-  "dc_format_s": "Shapefile",
-  "dc_language_s": "English",
-  "dc_type_s": "Dataset",
-  "dc_publisher_s": "Environmental Systems Research Institute (Redlands, Calif.)",
   "dc_creator_sm": [
 
   ],
+  "dc_description_s": "U.S. National Atlas Water Feature Lines represents the linear water features (for example, aqueducts, canals, intracoastal waterways, and streams) of the United States.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "http://hdl.handle.net/2451/34075",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Environmental Systems Research Institute (Redlands, Calif.)",
+  "dc_rights_s": "Restricted",
   "dc_subject_sm": [
     "Water",
     "Aqueducts",
@@ -23,16 +15,24 @@
     "Stream channelization",
     "Intracoastal waterways"
   ],
+  "dc_title_s": "2010 U.S. National Atlas Water Feature Lines",
+  "dc_type_s": "Dataset",
   "dct_isPartOf_sm": [
     "ESRI 10 USA Hydro"
+  ],
+  "dct_provenance_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34075\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/71994/nyu_2451_34075.zip\"}",
+  "dct_spatial_sm": [
+    "United States of America"
   ],
   "dct_temporal_sm": [
     "2010"
   ],
-  "dct_spatial_sm": [
-    "United States of America"
-  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Line",
+  "layer_id_s": "sdr:nyu_2451_34075",
+  "layer_modified_dt": "2016-01-30T04:03:59Z",
+  "layer_slug_s": "nyu-2451-34075",
   "solr_geom": "ENVELOPE(-178.065719534, -65.387969429, 71.222236637, 17.958973573)",
-  "solr_year_i": 2010,
-  "geoblacklight_version": "1.0"
+  "solr_year_i": 2010
 }

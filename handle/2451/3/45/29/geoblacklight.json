@@ -1,37 +1,37 @@
 {
-  "dc_identifier_s": "http://hdl.handle.net/2451/34529",
-  "dc_title_s": "2016 NYC Zoning Districts",
-  "dc_description_s": "This polygon shapefile layer represents NYC zoning districts. These features are continuous over the entire city. They extend to the city limits on land and out to the US Army Corps of Engineers Pierhead lines over water. Zoning district designations are indicated in the ZONEDIST attribute. Note that these zones change frequently, and users may want to consult more recent releases at Bytes of the Big Apple.",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "NYU",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34529\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/74471/nyu_2451_34529.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\"}",
-  "layer_id_s": "sdr:nyu_2451_34529",
-  "layer_slug_s": "nyu-2451-34529",
-  "layer_geom_type_s": "Polygon",
-  "layer_modified_dt": "2016-04-20T21:31:21Z",
-  "dc_format_s": "Shapefile",
-  "dc_language_s": "English",
-  "dc_type_s": "Dataset",
-  "dc_publisher_s": "New York (City). Department of City Planning",
   "dc_creator_sm": [
 
   ],
+  "dc_description_s": "This polygon shapefile layer represents NYC zoning districts. These features are continuous over the entire city. They extend to the city limits on land and out to the US Army Corps of Engineers Pierhead lines over water. Zoning district designations are indicated in the ZONEDIST attribute. Note that these zones change frequently, and users may want to consult more recent releases at Bytes of the Big Apple.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "http://hdl.handle.net/2451/34529",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York (City). Department of City Planning",
+  "dc_rights_s": "Public",
   "dc_subject_sm": [
     "Zoning",
     "Special districts",
     "Districts"
   ],
+  "dc_title_s": "2016 NYC Zoning Districts",
+  "dc_type_s": "Dataset",
   "dct_isPartOf_sm": [
     "Bytes of the Big Apple"
   ],
   "dct_issued_s": "2016",
-  "dct_temporal_sm": [
-    "2016"
-  ],
+  "dct_provenance_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34529\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/74471/nyu_2451_34529.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\"}",
   "dct_spatial_sm": [
     "New York, New York, United States"
   ],
+  "dct_temporal_sm": [
+    "2016"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "sdr:nyu_2451_34529",
+  "layer_modified_dt": "2016-04-20T21:31:21Z",
+  "layer_slug_s": "nyu-2451-34529",
   "solr_geom": "ENVELOPE(-74.2562523539887, -73.7001534315768, 40.916513336576, 40.4911128857581)",
-  "solr_year_i": 2016,
-  "geoblacklight_version": "1.0"
+  "solr_year_i": 2016
 }

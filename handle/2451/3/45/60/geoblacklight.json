@@ -1,38 +1,38 @@
 {
-  "dc_identifier_s": "http://hdl.handle.net/2451/34560",
-  "dc_title_s": "2015 New York City Selected Facilities and Program Sites",
-  "dc_description_s": "This polygon shapefile layer represents the location, type and capacity of public and private community facilities in New York City. This data was developed with the cooperation and assistance of numerous governmental and non-profit agencies. Users can access the location, type, capacity and oversight agency of public and private educational, recreational, cultural, public safety, criminal justice, health, mental health, chemical dependency, developmental disabilities, day care, foster care, senior citizen, homeless facilities and programs. Data related to the location of transportation and waste management facilities have also been included. These facilities and programs are, with few exceptions, operated, funded, licensed, or certified by a government agency. Each facility or program site is geocoded for tax block, tax lot, 2010 census tract, city council district, community district, school district, police precinct, health area, zip code, borough, and x and y coordinates, provided by the Department of City Planning's Geosupport Information System (GIS). Parkland properties are coded for borough, community district, tax block, taxt lot, and x and y coordinates only. The features in the shapefile are represented by points created with ArcGIS tool using the x and y coordinates mostly derived from the centroids of the tax lots where facilities, programs or parkland properties are located.",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "NYU",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34560\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/74552/nyu_2451_34560.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\"}",
-  "layer_id_s": "sdr:nyu_2451_34560",
-  "layer_slug_s": "nyu-2451-34560",
-  "layer_geom_type_s": "Polygon",
-  "layer_modified_dt": "2016-04-20T21:31:15Z",
-  "dc_format_s": "Shapefile",
-  "dc_language_s": "English",
-  "dc_type_s": "Dataset",
-  "dc_publisher_s": "New York (City). Department of City Planning",
   "dc_creator_sm": [
 
   ],
+  "dc_description_s": "This polygon shapefile layer represents the location, type and capacity of public and private community facilities in New York City. This data was developed with the cooperation and assistance of numerous governmental and non-profit agencies. Users can access the location, type, capacity and oversight agency of public and private educational, recreational, cultural, public safety, criminal justice, health, mental health, chemical dependency, developmental disabilities, day care, foster care, senior citizen, homeless facilities and programs. Data related to the location of transportation and waste management facilities have also been included. These facilities and programs are, with few exceptions, operated, funded, licensed, or certified by a government agency. Each facility or program site is geocoded for tax block, tax lot, 2010 census tract, city council district, community district, school district, police precinct, health area, zip code, borough, and x and y coordinates, provided by the Department of City Planning's Geosupport Information System (GIS). Parkland properties are coded for borough, community district, tax block, taxt lot, and x and y coordinates only. The features in the shapefile are represented by points created with ArcGIS tool using the x and y coordinates mostly derived from the centroids of the tax lots where facilities, programs or parkland properties are located.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "http://hdl.handle.net/2451/34560",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York (City). Department of City Planning",
+  "dc_rights_s": "Public",
   "dc_subject_sm": [
     "Facilities",
     "Education",
     "Public services",
     "Homelessness"
   ],
+  "dc_title_s": "2015 New York City Selected Facilities and Program Sites",
+  "dc_type_s": "Dataset",
   "dct_isPartOf_sm": [
     "Bytes of the Big Apple"
   ],
   "dct_issued_s": "2015",
-  "dct_temporal_sm": [
-    "2015"
-  ],
+  "dct_provenance_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34560\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/74552/nyu_2451_34560.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\"}",
   "dct_spatial_sm": [
     "New York, New York, United States"
   ],
+  "dct_temporal_sm": [
+    "2015"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "sdr:nyu_2451_34560",
+  "layer_modified_dt": "2016-04-20T21:31:15Z",
+  "layer_slug_s": "nyu-2451-34560",
   "solr_geom": "ENVELOPE(-74.017453288784, -73.829092677263, 40.8829340346332, 40.7063710908644)",
-  "solr_year_i": 2015,
-  "geoblacklight_version": "1.0"
+  "solr_year_i": 2015
 }

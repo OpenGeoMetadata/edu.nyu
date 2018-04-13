@@ -1,34 +1,34 @@
 {
-  "dc_identifier_s": "http://hdl.handle.net/2451/34194",
-  "dc_title_s": "2015 Buenos Aires Beats",
-  "dc_description_s": "This map represents ares in Buenos Aires  where students collected images and attribute information about graffiti and urban spaces. The beats, or informally designated areas, were designated by the professors of the class and do not adhere to any established political boundaries or administrative divisions.",
-  "dc_rights_s": "Restricted",
-  "dct_provenance_s": "NYU",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34194\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/72424/nyu_2451_34194.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\"}",
-  "layer_id_s": "sdr:nyu_2451_34194",
-  "layer_slug_s": "nyu-2451-34194",
-  "layer_geom_type_s": "Polygon",
-  "layer_modified_dt": "2016-03-11T19:08:01Z",
-  "dc_format_s": "Shapefile",
-  "dc_language_s": "English",
-  "dc_type_s": "Dataset",
   "dc_creator_sm": [
 
   ],
+  "dc_description_s": "This map represents ares in Buenos Aires  where students collected images and attribute information about graffiti and urban spaces. The beats, or informally designated areas, were designated by the professors of the class and do not adhere to any established political boundaries or administrative divisions.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "http://hdl.handle.net/2451/34194",
+  "dc_language_s": "English",
+  "dc_rights_s": "Restricted",
   "dc_subject_sm": [
     "Boundaries"
   ],
+  "dc_title_s": "2015 Buenos Aires Beats",
+  "dc_type_s": "Dataset",
   "dct_isPartOf_sm": [
     "Art and Politics in the City",
     "NYU Research Data"
   ],
-  "dct_temporal_sm": [
-    "2015"
-  ],
+  "dct_provenance_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34194\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/72424/nyu_2451_34194.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\"}",
   "dct_spatial_sm": [
     "Buenos Aires, Buenos Aires F.D., Argentina"
   ],
+  "dct_temporal_sm": [
+    "2015"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "sdr:nyu_2451_34194",
+  "layer_modified_dt": "2016-03-11T19:08:01Z",
+  "layer_slug_s": "nyu-2451-34194",
   "solr_geom": "ENVELOPE(-58.4468849797608, -58.3693316354319, -34.5754016411022, -34.6221012535782)",
-  "solr_year_i": 2015,
-  "geoblacklight_version": "1.0"
+  "solr_year_i": 2015
 }

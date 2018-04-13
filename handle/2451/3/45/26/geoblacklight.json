@@ -1,37 +1,37 @@
 {
-  "dc_identifier_s": "http://hdl.handle.net/2451/34526",
-  "dc_title_s": "2016 NYC Commercial Overlay District",
-  "dc_description_s": "This polygon shapefile layer contains features representing the within-tax-block limits for commercial overlay districts, as shown on the DCP zoning maps. Commercial overlay district designations are indicated in the OVERLAY attribute. Note that these zones change frequently, and users may want to consult more recent releases at Bytes of the Big Apple.",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "NYU",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34526\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/74462/nyu_2451_34526.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\"}",
-  "layer_id_s": "sdr:nyu_2451_34526",
-  "layer_slug_s": "nyu-2451-34526",
-  "layer_geom_type_s": "Polygon",
-  "layer_modified_dt": "2016-04-20T21:31:21Z",
-  "dc_format_s": "Shapefile",
-  "dc_language_s": "English",
-  "dc_type_s": "Dataset",
-  "dc_publisher_s": "New York (City). Department of City Planning",
   "dc_creator_sm": [
 
   ],
+  "dc_description_s": "This polygon shapefile layer contains features representing the within-tax-block limits for commercial overlay districts, as shown on the DCP zoning maps. Commercial overlay district designations are indicated in the OVERLAY attribute. Note that these zones change frequently, and users may want to consult more recent releases at Bytes of the Big Apple.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "http://hdl.handle.net/2451/34526",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York (City). Department of City Planning",
+  "dc_rights_s": "Public",
   "dc_subject_sm": [
     "Zoning",
     "Urban planning",
     "Urban development"
   ],
+  "dc_title_s": "2016 NYC Commercial Overlay District",
+  "dc_type_s": "Dataset",
   "dct_isPartOf_sm": [
     "Bytes of the Big Apple"
   ],
   "dct_issued_s": "2016",
-  "dct_temporal_sm": [
-    "2016"
-  ],
+  "dct_provenance_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34526\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/74462/nyu_2451_34526.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\"}",
   "dct_spatial_sm": [
     "New York, New York, United States"
   ],
+  "dct_temporal_sm": [
+    "2016"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "sdr:nyu_2451_34526",
+  "layer_modified_dt": "2016-04-20T21:31:21Z",
+  "layer_slug_s": "nyu-2451-34526",
   "solr_geom": "ENVELOPE(-74.2503962847784, -73.7001760541387, 40.9116199378893, 40.5067526622558)",
-  "solr_year_i": 2016,
-  "geoblacklight_version": "1.0"
+  "solr_year_i": 2016
 }

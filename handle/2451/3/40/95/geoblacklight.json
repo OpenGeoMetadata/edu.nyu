@@ -1,36 +1,36 @@
 {
-  "dc_identifier_s": "http://hdl.handle.net/2451/34095",
-  "dc_title_s": "2010 U.S. Census Tracts",
-  "dc_description_s": "U.S. Census Tracts represents the U.S. Census tracts of the United States in the 50 states, the District of Columbia, and Puerto Rico.",
-  "dc_rights_s": "Restricted",
-  "dct_provenance_s": "NYU",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34095\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/73317/nyu_2451_34095.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\"}",
-  "layer_id_s": "sdr:nyu_2451_34095",
-  "layer_slug_s": "nyu-2451-34095",
-  "layer_geom_type_s": "Polygon",
-  "layer_modified_dt": "2016-01-30T04:03:55Z",
-  "dc_format_s": "Shapefile",
-  "dc_language_s": "English",
-  "dc_type_s": "Dataset",
-  "dc_publisher_s": "Environmental Systems Research Institute (Redlands, Calif.)",
   "dc_creator_sm": [
 
   ],
+  "dc_description_s": "U.S. Census Tracts represents the U.S. Census tracts of the United States in the 50 states, the District of Columbia, and Puerto Rico.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "http://hdl.handle.net/2451/34095",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Environmental Systems Research Institute (Redlands, Calif.)",
+  "dc_rights_s": "Restricted",
   "dc_subject_sm": [
     "Census districts",
     "United States--Administrative and political divisions",
     "Boundaries"
   ],
+  "dc_title_s": "2010 U.S. Census Tracts",
+  "dc_type_s": "Dataset",
   "dct_isPartOf_sm": [
     "ESRI 10 USA Census"
+  ],
+  "dct_provenance_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34095\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/73317/nyu_2451_34095.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\"}",
+  "dct_spatial_sm": [
+    "United States of America"
   ],
   "dct_temporal_sm": [
     "2010"
   ],
-  "dct_spatial_sm": [
-    "United States of America"
-  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "sdr:nyu_2451_34095",
+  "layer_modified_dt": "2016-01-30T04:03:55Z",
+  "layer_slug_s": "nyu-2451-34095",
   "solr_geom": "ENVELOPE(-179.14734, 179.778465, 71.390482064, 17.881242)",
-  "solr_year_i": 2010,
-  "geoblacklight_version": "1.0"
+  "solr_year_i": 2010
 }

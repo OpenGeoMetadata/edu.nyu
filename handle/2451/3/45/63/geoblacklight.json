@@ -1,36 +1,36 @@
 {
-  "dc_identifier_s": "http://hdl.handle.net/2451/34563",
-  "dc_title_s": "2016 New York City Atomic Polygons",
-  "dc_description_s": "This polygon shapefile layer represents New York City Atomic Polygons. Formerly known as a dynamic block, an Atomic Polygon is a minimal polygon formed by most LION file segments (exceptions include ‘paper street’ and ‘alley’ segments). ‘Minimal’ means the polygon is not subdivided by LION segments (other than the noted exceptions) into smaller polygons.  An Atomic Polygon can contain segments of various types in its interior: paper street segments (FEATURE TYPE = ‘5’), dead end segments (SEGMENT LOCATIONAL STATUS = ‘I’), ‘land-hooked’ segments (SEGMENT LOCATIONAL STATUS = ‘H’), and alley segments (FEATURE TYPE = ‘A’).  Atomic Polygon numbers are unique within 2010 Census tracts.",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "NYU",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34563\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/74560/nyu_2451_34563.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\"}",
-  "layer_id_s": "sdr:nyu_2451_34563",
-  "layer_slug_s": "nyu-2451-34563",
-  "layer_geom_type_s": "Polygon",
-  "layer_modified_dt": "2016-04-20T21:31:14Z",
-  "dc_format_s": "Shapefile",
-  "dc_language_s": "English",
-  "dc_type_s": "Dataset",
-  "dc_publisher_s": "New York (City). Department of City Planning",
   "dc_creator_sm": [
 
   ],
+  "dc_description_s": "This polygon shapefile layer represents New York City Atomic Polygons. Formerly known as a dynamic block, an Atomic Polygon is a minimal polygon formed by most LION file segments (exceptions include ‘paper street’ and ‘alley’ segments). ‘Minimal’ means the polygon is not subdivided by LION segments (other than the noted exceptions) into smaller polygons.  An Atomic Polygon can contain segments of various types in its interior: paper street segments (FEATURE TYPE = ‘5’), dead end segments (SEGMENT LOCATIONAL STATUS = ‘I’), ‘land-hooked’ segments (SEGMENT LOCATIONAL STATUS = ‘H’), and alley segments (FEATURE TYPE = ‘A’).  Atomic Polygon numbers are unique within 2010 Census tracts.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "http://hdl.handle.net/2451/34563",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York (City). Department of City Planning",
+  "dc_rights_s": "Public",
   "dc_subject_sm": [
     "Streets",
     "Alleys"
   ],
+  "dc_title_s": "2016 New York City Atomic Polygons",
+  "dc_type_s": "Dataset",
   "dct_isPartOf_sm": [
     "Bytes of the Big Apple"
   ],
   "dct_issued_s": "2016",
-  "dct_temporal_sm": [
-    "2016"
-  ],
+  "dct_provenance_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34563\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/74560/nyu_2451_34563.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\"}",
   "dct_spatial_sm": [
     "New York, New York, United States"
   ],
+  "dct_temporal_sm": [
+    "2016"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "sdr:nyu_2451_34563",
+  "layer_modified_dt": "2016-04-20T21:31:14Z",
+  "layer_slug_s": "nyu-2451-34563",
   "solr_geom": "ENVELOPE(-74.2587474598416, -73.7000090638735, 40.9176618088593, 40.4860830762555)",
-  "solr_year_i": 2016,
-  "geoblacklight_version": "1.0"
+  "solr_year_i": 2016
 }

@@ -1,38 +1,38 @@
 {
-  "dc_identifier_s": "http://hdl.handle.net/2451/33987",
-  "dc_title_s": "2015 New York City Inclusionary Housing Designated Areas",
-  "dc_description_s": "This polygon shapefile layer represents the relevant areas of the Inclusionary Housing Program in New York City. The Inclusionary Housing Designated Areas Program was created in 2005 to encourage the creation and preservation of affordable housing in medium and high-density neighborhoods being rezoned to create new housing opportunities. The program modifies the base floor area ratio (FAR) available for developments and offers a floor area bonus for developments that provide affordable housing either on-site or within the surrounding community.",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "NYU",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/33987\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/71934/nyu_2451_33987.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\"}",
-  "layer_id_s": "sdr:nyu_2451_33987",
-  "layer_slug_s": "nyu-2451-33987",
-  "layer_geom_type_s": "Polygon",
-  "layer_modified_dt": "2015-11-23T20:57:44Z",
-  "dc_format_s": "Shapefile",
-  "dc_language_s": "English",
-  "dc_type_s": "Dataset",
-  "dc_publisher_s": "New York (City). Department of City Planning",
   "dc_creator_sm": [
 
   ],
+  "dc_description_s": "This polygon shapefile layer represents the relevant areas of the Inclusionary Housing Program in New York City. The Inclusionary Housing Designated Areas Program was created in 2005 to encourage the creation and preservation of affordable housing in medium and high-density neighborhoods being rezoned to create new housing opportunities. The program modifies the base floor area ratio (FAR) available for developments and offers a floor area bonus for developments that provide affordable housing either on-site or within the surrounding community.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "http://hdl.handle.net/2451/33987",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York (City). Department of City Planning",
+  "dc_rights_s": "Public",
   "dc_subject_sm": [
     "Housing",
     "Urban density",
     "Buildings",
     "Zoning law"
   ],
+  "dc_title_s": "2015 New York City Inclusionary Housing Designated Areas",
+  "dc_type_s": "Dataset",
   "dct_isPartOf_sm": [
     "Bytes of the Big Apple"
   ],
   "dct_issued_s": "04/01/2015",
-  "dct_temporal_sm": [
-    "2015"
-  ],
+  "dct_provenance_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/33987\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/71934/nyu_2451_33987.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\"}",
   "dct_spatial_sm": [
     "New York City, New York, United States"
   ],
+  "dct_temporal_sm": [
+    "2015"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "sdr:nyu_2451_33987",
+  "layer_modified_dt": "2015-11-23T20:57:44Z",
+  "layer_slug_s": "nyu-2451-33987",
   "solr_geom": "ENVELOPE(-74.0213449896564, -73.7816195024446, 40.8737716294098, 40.5721277990368)",
-  "solr_year_i": 2015,
-  "geoblacklight_version": "1.0"
+  "solr_year_i": 2015
 }

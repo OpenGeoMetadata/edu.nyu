@@ -1,33 +1,30 @@
 {
-  "dc_identifier_s": "http://hdl.handle.net/2451/34498",
-  "dc_title_s": "2010 New York City Public Use Microdata Areas (PUMAs)",
-  "dc_description_s": "This polygon layer is a subset of the Census TIGER PUMA file, re-projected to local state plane and modified by subtracting a subset of the Census TIGER water layer (nyu_2451_34507) from it to create land-based boundaries. PUMAs are statistical areas built from census tracts that are designed to have approximately 100k residents. PUMA boundaries from the 2010 Census were first used in the American Community Survey (ACS) 2012 series; earlier series used the 2000 Census boundaries. The Census began assigning official names (in addition to numbers) to PUMAs based on state and local government input beginning in 2010. The unique ID is geoid10; the FIPS state-puma code. This layer was created as part of the NYC Geodatabase (NYC GDB) project, a resource designed for basic geographic analysis and thematic mapping within the five boroughs of New York City.",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Baruch CUNY",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34498\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"http://metadata.geo.nyu.edu/records/edu.nyu/handle/2451/34498/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/74697/nyu_2451_34498.zip\",\"http://lccn.loc.gov/sh85035852\":\"https://archive.nyu.edu/retrieve/74751/nyu_2451_34498_doc.zip\"}",
-  "layer_id_s": "sdr:nyu_2451_34498",
-  "layer_slug_s": "nyu-2451-34498",
-  "layer_geom_type_s": "Polygon",
-  "layer_modified_dt": "2016-05-02T18:21:05Z",
-  "dc_format_s": "Shapefile",
-  "dc_language_s": "English",
-  "dc_type_s": "Dataset",
-  "dc_publisher_s": "Newman Library (Bernard M. Baruch College)",
   "dc_creator_sm": [
     "GIS Lab, Newman Library, Baruch CUNY"
   ],
+  "dc_description_s": "This polygon layer is a subset of the Census TIGER PUMA file, re-projected to local state plane and modified by subtracting a subset of the Census TIGER water layer (nyu_2451_34507) from it to create land-based boundaries. PUMAs are statistical areas built from census tracts that are designed to have approximately 100k residents. PUMA boundaries from the 2010 Census were first used in the American Community Survey (ACS) 2012 series; earlier series used the 2000 Census boundaries. The Census began assigning official names (in addition to numbers) to PUMAs based on state and local government input beginning in 2010. The unique ID is geoid10; the FIPS state-puma code. This layer was created as part of the NYC Geodatabase (NYC GDB) project, a resource designed for basic geographic analysis and thematic mapping within the five boroughs of New York City.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "http://hdl.handle.net/2451/34498",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Newman Library (Bernard M. Baruch College)",
+  "dc_rights_s": "Public",
   "dc_subject_sm": [
     "Census districts",
     "Demography",
     "Neighborhoods",
     "Population geography"
   ],
+  "dc_title_s": "2010 New York City Public Use Microdata Areas (PUMAs)",
+  "dc_type_s": "Dataset",
   "dct_isPartOf_sm": [
     "NYC Geodatabase (version jan2016)"
   ],
   "dct_issued_s": "1/15/2016",
-  "dct_temporal_sm": [
-    "2010"
+  "dct_provenance_s": "Baruch CUNY",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34498\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"http://metadata.geo.nyu.edu/records/edu.nyu/handle/2451/34498/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/74697/nyu_2451_34498.zip\",\"http://lccn.loc.gov/sh85035852\":\"https://archive.nyu.edu/retrieve/74751/nyu_2451_34498_doc.zip\"}",
+  "dct_source_sm": [
+    "nyu_2451_34635",
+    "nyu_2451_34636"
   ],
   "dct_spatial_sm": [
     "New York, New York, United States",
@@ -42,11 +39,14 @@
     "Borough of Queens, New York, United States",
     "Borough of Staten Island, New York, United States"
   ],
-  "solr_geom": "ENVELOPE(-74.255895, -73.700272, 40.9152819999998, 40.4959289999998)",
-  "solr_year_i": 2010,
-  "dct_source_sm": [
-    "nyu_2451_34635",
-    "nyu_2451_34636"
+  "dct_temporal_sm": [
+    "2010"
   ],
-  "geoblacklight_version": "1.0"
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "sdr:nyu_2451_34498",
+  "layer_modified_dt": "2016-05-02T18:21:05Z",
+  "layer_slug_s": "nyu-2451-34498",
+  "solr_geom": "ENVELOPE(-74.255895, -73.700272, 40.9152819999998, 40.4959289999998)",
+  "solr_year_i": 2010
 }

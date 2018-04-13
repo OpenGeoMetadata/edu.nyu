@@ -1,36 +1,36 @@
 {
-  "dc_identifier_s": "http://hdl.handle.net/2451/34177",
-  "dc_title_s": "2010 U.S. Major Highways",
-  "dc_description_s": "U.S. Major Highways represents the major highways of the United States. These include interstates, U.S. highways, state highways, and major roads. This dataset is from the Census 2000 TIGER/Line files. It contains all Class 1 and 2 roads segments plus any other road segments necessary to provide network connectivity for the Class_Rte field.",
-  "dc_rights_s": "Restricted",
-  "dct_provenance_s": "NYU",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34177\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/73131/nyu_2451_34177.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\"}",
-  "layer_id_s": "sdr:nyu_2451_34177",
-  "layer_slug_s": "nyu-2451-34177",
-  "layer_geom_type_s": "Line",
-  "layer_modified_dt": "2016-01-30T04:03:39Z",
-  "dc_format_s": "Shapefile",
-  "dc_language_s": "English",
-  "dc_type_s": "Dataset",
-  "dc_publisher_s": "Environmental Systems Research Institute (Redlands, Calif.)",
   "dc_creator_sm": [
 
   ],
+  "dc_description_s": "U.S. Major Highways represents the major highways of the United States. These include interstates, U.S. highways, state highways, and major roads. This dataset is from the Census 2000 TIGER/Line files. It contains all Class 1 and 2 roads segments plus any other road segments necessary to provide network connectivity for the Class_Rte field.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "http://hdl.handle.net/2451/34177",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Environmental Systems Research Institute (Redlands, Calif.)",
+  "dc_rights_s": "Restricted",
   "dc_subject_sm": [
     "Roads",
     "Roads--United States",
     "Transportation"
   ],
+  "dc_title_s": "2010 U.S. Major Highways",
+  "dc_type_s": "Dataset",
   "dct_isPartOf_sm": [
     "ESRI 10 USA Trans"
+  ],
+  "dct_provenance_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34177\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/73131/nyu_2451_34177.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\"}",
+  "dct_spatial_sm": [
+    "United States of America"
   ],
   "dct_temporal_sm": [
     "2010"
   ],
-  "dct_spatial_sm": [
-    "United States of America"
-  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Line",
+  "layer_id_s": "sdr:nyu_2451_34177",
+  "layer_modified_dt": "2016-01-30T04:03:39Z",
+  "layer_slug_s": "nyu-2451-34177",
   "solr_geom": "ENVELOPE(-159.779918182, -66.981845095, 65.826905856, 19.058081818)",
-  "solr_year_i": 2010,
-  "geoblacklight_version": "1.0"
+  "solr_year_i": 2010
 }

@@ -1,34 +1,34 @@
 {
-  "dc_identifier_s": "http://hdl.handle.net/2451/34189",
-  "dc_title_s": "Map of the Borough of Brooklyn Published for the Brooklyn Directory",
-  "dc_description_s": "This georeferenced map of Brooklyn was published for the Brooklyn Directory. It is held by the Lionel Pincus & Princess Firyal Map Division, The New York Public Library and was georeferenced via the NYPL's MapWarper tool.",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "NYU",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34189\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/71884/nyu_2451_34189.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\"}",
-  "layer_id_s": "sdr:nyu_2451_34189",
-  "layer_slug_s": "nyu-2451-34189",
-  "layer_geom_type_s": "Raster",
-  "layer_modified_dt": "2016-03-11T21:04:16Z",
-  "dc_format_s": "GeoTIFF",
-  "dc_language_s": "English",
-  "dc_type_s": "Image",
-  "dc_publisher_s": "New York Public Library",
   "dc_creator_sm": [
 
   ],
+  "dc_description_s": "This georeferenced map of Brooklyn was published for the Brooklyn Directory. It is held by the Lionel Pincus & Princess Firyal Map Division, The New York Public Library and was georeferenced via the NYPL's MapWarper tool.",
+  "dc_format_s": "GeoTIFF",
+  "dc_identifier_s": "http://hdl.handle.net/2451/34189",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York Public Library",
+  "dc_rights_s": "Public",
   "dc_subject_sm": [
     "Boroughs (Municipal subdivision)"
   ],
+  "dc_title_s": "Map of the Borough of Brooklyn Published for the Brooklyn Directory",
+  "dc_type_s": "Image",
   "dct_isPartOf_sm": [
 
+  ],
+  "dct_provenance_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34189\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/71884/nyu_2451_34189.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\"}",
+  "dct_spatial_sm": [
+    "Brooklyn, New York, United States"
   ],
   "dct_temporal_sm": [
     "1898"
   ],
-  "dct_spatial_sm": [
-    "Brooklyn, New York, United States"
-  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Raster",
+  "layer_id_s": "sdr:nyu_2451_34189",
+  "layer_modified_dt": "2016-03-11T21:04:16Z",
+  "layer_slug_s": "nyu-2451-34189",
   "solr_geom": "ENVELOPE(-74.209856828436, -73.689307771564, 40.846990773379, 40.453216826621)",
-  "solr_year_i": 1898,
-  "geoblacklight_version": "1.0"
+  "solr_year_i": 1898
 }

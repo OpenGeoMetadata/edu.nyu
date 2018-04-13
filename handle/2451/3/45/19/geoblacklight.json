@@ -1,36 +1,36 @@
 {
-  "dc_identifier_s": "http://hdl.handle.net/2451/34519",
-  "dc_title_s": "2013 New York City Mayoral Election Returns",
-  "dc_description_s": "New York City 2013 mayoral election returns contiguous with the beats.",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "NYU",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34519\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/73716/nyu_2451_34519.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\"}",
-  "layer_id_s": "sdr:nyu_2451_34519",
-  "layer_slug_s": "nyu-2451-34519",
-  "layer_geom_type_s": "Polygon",
-  "layer_modified_dt": "2016-03-11T19:07:58Z",
-  "dc_format_s": "Shapefile",
-  "dc_language_s": "English",
-  "dc_type_s": "Dataset",
   "dc_creator_sm": [
 
   ],
+  "dc_description_s": "New York City 2013 mayoral election returns contiguous with the beats.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "http://hdl.handle.net/2451/34519",
+  "dc_language_s": "English",
+  "dc_rights_s": "Public",
   "dc_subject_sm": [
     "Elections",
     "Election districts",
     "Politics and culture",
     "New York (N.Y.)--Politics and government"
   ],
+  "dc_title_s": "2013 New York City Mayoral Election Returns",
+  "dc_type_s": "Dataset",
   "dct_isPartOf_sm": [
     "Art and Politics in the City"
+  ],
+  "dct_provenance_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34519\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/73716/nyu_2451_34519.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\"}",
+  "dct_spatial_sm": [
+    "New York, New York, United States"
   ],
   "dct_temporal_sm": [
     "2013"
   ],
-  "dct_spatial_sm": [
-    "New York, New York, United States"
-  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "sdr:nyu_2451_34519",
+  "layer_modified_dt": "2016-03-11T19:07:58Z",
+  "layer_slug_s": "nyu-2451-34519",
   "solr_geom": "ENVELOPE(-74.0126607344216, -73.890960487642, 40.8006164757006, 40.6597536030713)",
-  "solr_year_i": 2013,
-  "geoblacklight_version": "1.0"
+  "solr_year_i": 2013
 }

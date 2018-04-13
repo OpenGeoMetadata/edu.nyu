@@ -1,36 +1,36 @@
 {
-  "dc_identifier_s": "http://hdl.handle.net/2451/34190",
-  "dc_title_s": "2010 U.S. and Canada City Points",
-  "dc_description_s": "U.S. and Canada City Points represents cities of the United States and Canada including national, state, and provincial capitals.",
-  "dc_rights_s": "Restricted",
-  "dct_provenance_s": "NYU",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34190\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/73108/nyu_2451_34190.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\"}",
-  "layer_id_s": "sdr:nyu_2451_34190",
-  "layer_slug_s": "nyu-2451-34190",
-  "layer_geom_type_s": "Point",
-  "layer_modified_dt": "2016-01-30T04:03:37Z",
-  "dc_format_s": "Shapefile",
-  "dc_language_s": "English",
-  "dc_type_s": "Dataset",
-  "dc_publisher_s": "Environmental Systems Research Institute (Redlands, Calif.)",
   "dc_creator_sm": [
 
   ],
+  "dc_description_s": "U.S. and Canada City Points represents cities of the United States and Canada including national, state, and provincial capitals.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "http://hdl.handle.net/2451/34190",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Environmental Systems Research Institute (Redlands, Calif.)",
+  "dc_rights_s": "Restricted",
   "dc_subject_sm": [
     "Cities and towns",
     "Capitals (Cities)"
   ],
+  "dc_title_s": "2010 U.S. and Canada City Points",
+  "dc_type_s": "Dataset",
   "dct_isPartOf_sm": [
     "ESRI 10 StreetMap"
   ],
-  "dct_temporal_sm": [
-    "2010"
-  ],
+  "dct_provenance_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34190\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/73108/nyu_2451_34190.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\"}",
   "dct_spatial_sm": [
     "United States of America",
     "Canada"
   ],
+  "dct_temporal_sm": [
+    "2010"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Point",
+  "layer_id_s": "sdr:nyu_2451_34190",
+  "layer_modified_dt": "2016-01-30T04:03:37Z",
+  "layer_slug_s": "nyu-2451-34190",
   "solr_geom": "ENVELOPE(-176.621558, 173.19047, 82.5, 17.956864)",
-  "solr_year_i": 2010,
-  "geoblacklight_version": "1.0"
+  "solr_year_i": 2010
 }

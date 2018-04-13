@@ -1,21 +1,13 @@
 {
-  "dc_identifier_s": "http://hdl.handle.net/2451/34521",
-  "dc_title_s": "2015 MapPLUTO Brooklyn V. 1",
-  "dc_description_s": "This polygon shapefile layer represents the tax and lot information for all parcels in Brooklyn. The data is a compilation from various government agencies throughout the City of New York. The underlying geography is derived from the Tax Lot Polygon feature class which is part of the Department of Finance's Digital Tax Map (DTM).The tax lots have been clipped to the shoreline, as defined by NYCMap planimetric features. The attribute information is from the Department of City Planning's PLUTO data. The attribute data pertains to tax lot and building characteristics and geographic, political and administrative information for each tax lot in New York City. The Tax Lot Polygon feature class and PLUTO are derived from different sources. As a result, some PLUTO records did not have a corresponding tax lot in the Tax Lot polygon feature class at the time of release. These records are included in a separate non-geographic PLUTO Only DBase (.dbf) table (available on the Bytes of the Big Apple website). There are a number of reasons why there can be a tax lot in PLUTO that does not match the DTM; the most common reason is that the various source files are maintained by different departments and divisions with varying update cycles and criteria for adding and removing records. The attribute definitions for the PLUTO Only table are the same as those for MapPLUTO. DCP Mapping Lots includes some features that are not on the tax maps.They have been added by DCP for cartographic purposes. They include street center 'malls', traffic islands and some built streets through parks. These features have very few associated attributes. Refer to the PLUTO Data Dictionary in the Archival Copy.",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "NYU",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34521\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/74810/nyu_2451_34521.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\"}",
-  "layer_id_s": "sdr:nyu_2451_34521",
-  "layer_slug_s": "nyu-2451-34521",
-  "layer_geom_type_s": "Polygon",
-  "layer_modified_dt": "2016-04-20T21:31:23Z",
-  "dc_format_s": "Shapefile",
-  "dc_language_s": "English",
-  "dc_type_s": "Dataset",
-  "dc_publisher_s": "New York (City). Department of City Planning",
   "dc_creator_sm": [
 
   ],
+  "dc_description_s": "This polygon shapefile layer represents the tax and lot information for all parcels in Brooklyn. The data is a compilation from various government agencies throughout the City of New York. The underlying geography is derived from the Tax Lot Polygon feature class which is part of the Department of Finance's Digital Tax Map (DTM).The tax lots have been clipped to the shoreline, as defined by NYCMap planimetric features. The attribute information is from the Department of City Planning's PLUTO data. The attribute data pertains to tax lot and building characteristics and geographic, political and administrative information for each tax lot in New York City. The Tax Lot Polygon feature class and PLUTO are derived from different sources. As a result, some PLUTO records did not have a corresponding tax lot in the Tax Lot polygon feature class at the time of release. These records are included in a separate non-geographic PLUTO Only DBase (.dbf) table (available on the Bytes of the Big Apple website). There are a number of reasons why there can be a tax lot in PLUTO that does not match the DTM; the most common reason is that the various source files are maintained by different departments and divisions with varying update cycles and criteria for adding and removing records. The attribute definitions for the PLUTO Only table are the same as those for MapPLUTO. DCP Mapping Lots includes some features that are not on the tax maps.They have been added by DCP for cartographic purposes. They include street center 'malls', traffic islands and some built streets through parks. These features have very few associated attributes. Refer to the PLUTO Data Dictionary in the Archival Copy.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "http://hdl.handle.net/2451/34521",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York (City). Department of City Planning",
+  "dc_rights_s": "Public",
   "dc_subject_sm": [
     "Tax assessment",
     "Land use",
@@ -24,19 +16,27 @@
     "Land value taxation",
     "Property"
   ],
+  "dc_title_s": "2015 MapPLUTO Brooklyn V. 1",
+  "dc_type_s": "Dataset",
   "dct_isPartOf_sm": [
     "Bytes of the Big Apple"
   ],
   "dct_issued_s": "2015",
-  "dct_temporal_sm": [
-    "2015"
-  ],
+  "dct_provenance_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34521\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/74810/nyu_2451_34521.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\"}",
   "dct_spatial_sm": [
     "Brooklyn, New York, United States",
     "Kings County, New York, United States",
     "New York, New York, United States"
   ],
+  "dct_temporal_sm": [
+    "2015"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "sdr:nyu_2451_34521",
+  "layer_modified_dt": "2016-04-20T21:31:23Z",
+  "layer_slug_s": "nyu-2451-34521",
   "solr_geom": "ENVELOPE(-74.0419007626817, -73.8331558952603, 40.7391282590913, 40.5695404264174)",
-  "solr_year_i": 2015,
-  "geoblacklight_version": "1.0"
+  "solr_year_i": 2015
 }

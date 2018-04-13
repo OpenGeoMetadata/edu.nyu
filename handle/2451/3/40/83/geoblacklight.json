@@ -1,37 +1,37 @@
 {
-  "dc_identifier_s": "http://hdl.handle.net/2451/34083",
-  "dc_title_s": "2008 U.S. 110th Congressional Districts",
-  "dc_description_s": "U.S. 110th Congressional Districts represents the political boundaries for the U.S. 110th Congressional Districts. The membership is current as of May 1, 2008.",
-  "dc_rights_s": "Restricted",
-  "dct_provenance_s": "NYU",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34083\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\"}",
-  "layer_id_s": "sdr:nyu_2451_34083",
-  "layer_slug_s": "nyu-2451-34083",
-  "layer_geom_type_s": "Polygon",
-  "layer_modified_dt": "2016-01-30T04:03:58Z",
-  "dc_format_s": "Shapefile",
-  "dc_language_s": "English",
-  "dc_type_s": "Dataset",
-  "dc_publisher_s": "Environmental Systems Research Institute (Redlands, Calif.)",
   "dc_creator_sm": [
 
   ],
+  "dc_description_s": "U.S. 110th Congressional Districts represents the political boundaries for the U.S. 110th Congressional Districts. The membership is current as of May 1, 2008.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "http://hdl.handle.net/2451/34083",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Environmental Systems Research Institute (Redlands, Calif.)",
+  "dc_rights_s": "Restricted",
   "dc_subject_sm": [
     "United States--Administrative and political divisions",
     "Districts",
     "United States. Congress",
     "Boundaries"
   ],
+  "dc_title_s": "2008 U.S. 110th Congressional Districts",
+  "dc_type_s": "Dataset",
   "dct_isPartOf_sm": [
     "ESRI 10 USA Census"
+  ],
+  "dct_provenance_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34083\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\"}",
+  "dct_spatial_sm": [
+    "United States of America"
   ],
   "dct_temporal_sm": [
     "2008"
   ],
-  "dct_spatial_sm": [
-    "United States of America"
-  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "sdr:nyu_2451_34083",
+  "layer_modified_dt": "2016-01-30T04:03:58Z",
+  "layer_slug_s": "nyu-2451-34083",
   "solr_geom": "ENVELOPE(-179.147336364, -65.221109258, 71.352563166, 17.884809091)",
-  "solr_year_i": 2008,
-  "geoblacklight_version": "1.0"
+  "solr_year_i": 2008
 }

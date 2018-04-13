@@ -1,21 +1,13 @@
 {
-  "dc_identifier_s": "http://hdl.handle.net/2451/34066",
-  "dc_title_s": "2010 U.S. State and Canada Province Boundaries",
-  "dc_description_s": "U.S. State and Canada Province Boundaries represents the boundary lines between the states of the United States and the provinces of Canada. This data set provides six feature classes for displaying the data at different scales. Everything about the feature classes is the same but the level of generalization and its name. The base feature class is called and isn't generalized. The least generalized feature class is called _1, the next more generalized feature class is called _2, and so on. For best performance, use the most appropriate feature class when displaying or printing.",
-  "dc_rights_s": "Restricted",
-  "dct_provenance_s": "NYU",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34066\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/73344/nyu_2451_34066.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\"}",
-  "layer_id_s": "sdr:nyu_2451_34066",
-  "layer_slug_s": "nyu-2451-34066",
-  "layer_geom_type_s": "Line",
-  "layer_modified_dt": "2016-01-30T04:04:01Z",
-  "dc_format_s": "Shapefile",
-  "dc_language_s": "English",
-  "dc_type_s": "Dataset",
-  "dc_publisher_s": "Environmental Systems Research Institute (Redlands, Calif.)",
   "dc_creator_sm": [
 
   ],
+  "dc_description_s": "U.S. State and Canada Province Boundaries represents the boundary lines between the states of the United States and the provinces of Canada. This data set provides six feature classes for displaying the data at different scales. Everything about the feature classes is the same but the level of generalization and its name. The base feature class is called and isn't generalized. The least generalized feature class is called _1, the next more generalized feature class is called _2, and so on. For best performance, use the most appropriate feature class when displaying or printing.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "http://hdl.handle.net/2451/34066",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Environmental Systems Research Institute (Redlands, Calif.)",
+  "dc_rights_s": "Restricted",
   "dc_subject_sm": [
     "United States--Administrative and political divisions",
     "Canada--Administrative and political divisions",
@@ -23,17 +15,25 @@
     "Provinces",
     "States"
   ],
+  "dc_title_s": "2010 U.S. State and Canada Province Boundaries",
+  "dc_type_s": "Dataset",
   "dct_isPartOf_sm": [
     "ESRI 10 StreetMap"
   ],
-  "dct_temporal_sm": [
-    "2010"
-  ],
+  "dct_provenance_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34066\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/73344/nyu_2451_34066.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\"}",
   "dct_spatial_sm": [
     "United States of America",
     "Canada"
   ],
+  "dct_temporal_sm": [
+    "2010"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Line",
+  "layer_id_s": "sdr:nyu_2451_34066",
+  "layer_modified_dt": "2016-01-30T04:04:01Z",
+  "layer_slug_s": "nyu-2451-34066",
   "solr_geom": "ENVELOPE(-141.004096, -57.100241, 85.294574, 29.596577)",
-  "solr_year_i": 2010,
-  "geoblacklight_version": "1.0"
+  "solr_year_i": 2010
 }

@@ -1,20 +1,12 @@
 {
-  "dc_identifier_s": "http://hdl.handle.net/2451/34196",
-  "dc_title_s": "2015 Spring Semester Student Data in Art and Politics in the City",
-  "dc_description_s": "This layer represents objects of grafitti, public art, and other data collected by students in Art and Politics in the Street for Spring 2015 semester. The layer covers locations in New York City and Buenos Aires.",
-  "dc_rights_s": "Restricted",
-  "dct_provenance_s": "NYU",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34196\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/73975/nyu_2451_34196.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\"}",
-  "layer_id_s": "sdr:nyu_2451_34196",
-  "layer_slug_s": "nyu-2451-34196",
-  "layer_geom_type_s": "Polygon",
-  "layer_modified_dt": "2016-03-11T19:07:58Z",
-  "dc_format_s": "Shapefile",
-  "dc_language_s": "English",
-  "dc_type_s": "Dataset",
   "dc_creator_sm": [
     "Holly Orr"
   ],
+  "dc_description_s": "This layer represents objects of grafitti, public art, and other data collected by students in Art and Politics in the Street for Spring 2015 semester. The layer covers locations in New York City and Buenos Aires.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "http://hdl.handle.net/2451/34196",
+  "dc_language_s": "English",
+  "dc_rights_s": "Restricted",
   "dc_subject_sm": [
     "Art",
     "Graffiti",
@@ -22,18 +14,26 @@
     "Urban anthropology",
     "Public art"
   ],
+  "dc_title_s": "2015 Spring Semester Student Data in Art and Politics in the City",
+  "dc_type_s": "Dataset",
   "dct_isPartOf_sm": [
     "Art and Politics in the City",
     "NYU Research Data"
   ],
-  "dct_temporal_sm": [
-    "2015"
-  ],
+  "dct_provenance_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34196\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/73975/nyu_2451_34196.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\"}",
   "dct_spatial_sm": [
     "Buenos Aires, Buenos Aires F.D., Argentina",
     "New York City, New York, United States"
   ],
+  "dct_temporal_sm": [
+    "2015"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "sdr:nyu_2451_34196",
+  "layer_modified_dt": "2016-03-11T19:07:58Z",
+  "layer_slug_s": "nyu-2451-34196",
   "solr_geom": "ENVELOPE(-74.013008, 43.0031189, 40.804435, -76.9638548)",
-  "solr_year_i": 2015,
-  "geoblacklight_version": "1.0"
+  "solr_year_i": 2015
 }

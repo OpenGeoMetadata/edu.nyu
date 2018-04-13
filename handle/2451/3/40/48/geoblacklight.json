@@ -1,36 +1,36 @@
 {
-  "dc_identifier_s": "http://hdl.handle.net/2451/34048",
-  "dc_title_s": "2010 U.S. and Canada City Areas",
-  "dc_description_s": "U.S. and Canada City Areas represents the city limits of cities in the United States and Canada. This data set provides six feature classes for displaying the data at different scales. Everything about the feature classes is the same but the level of generalization and its name. The base feature class is called and isn't generalized. The least generalized feature class is called _1, the next more generalized feature class is called _2, and so on. For best performance, use the most appropriate feature class when displaying or printing.",
-  "dc_rights_s": "Restricted",
-  "dct_provenance_s": "NYU",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34048\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/73375/nyu_2451_34048.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\"}",
-  "layer_id_s": "sdr:nyu_2451_34048",
-  "layer_slug_s": "nyu-2451-34048",
-  "layer_geom_type_s": "Polygon",
-  "layer_modified_dt": "2016-01-30T04:04:05Z",
-  "dc_format_s": "Shapefile",
-  "dc_language_s": "English",
-  "dc_publisher_s": "Environmental Systems Research Institute (Redlands, Calif.)",
   "dc_creator_sm": [
 
   ],
+  "dc_description_s": "U.S. and Canada City Areas represents the city limits of cities in the United States and Canada. This data set provides six feature classes for displaying the data at different scales. Everything about the feature classes is the same but the level of generalization and its name. The base feature class is called and isn't generalized. The least generalized feature class is called _1, the next more generalized feature class is called _2, and so on. For best performance, use the most appropriate feature class when displaying or printing.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "http://hdl.handle.net/2451/34048",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Environmental Systems Research Institute (Redlands, Calif.)",
+  "dc_rights_s": "Restricted",
   "dc_subject_sm": [
     "Cities and towns",
     "Metropolitan areas",
     "Boundaries"
   ],
+  "dc_title_s": "2010 U.S. and Canada City Areas",
   "dct_isPartOf_sm": [
     "ESRI 10 StreetMap"
   ],
-  "dct_temporal_sm": [
-    "2010"
-  ],
+  "dct_provenance_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34048\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/73375/nyu_2451_34048.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\"}",
   "dct_spatial_sm": [
     "United States of America",
     "Canada"
   ],
+  "dct_temporal_sm": [
+    "2010"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "sdr:nyu_2451_34048",
+  "layer_modified_dt": "2016-01-30T04:04:05Z",
+  "layer_slug_s": "nyu-2451-34048",
   "solr_geom": "ENVELOPE(-176.810434, 173.429928, 71.338727049, 17.874565)",
-  "solr_year_i": 2010,
-  "geoblacklight_version": "1.0"
+  "solr_year_i": 2010
 }

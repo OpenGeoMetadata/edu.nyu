@@ -1,37 +1,37 @@
 {
-  "dc_identifier_s": "http://hdl.handle.net/2451/34057",
-  "dc_title_s": "2010 U.S. and Canada Maneuvers",
-  "dc_description_s": "U.S. and Canada Maneuvers represents street and highway maneuvers in the United States and Canada.",
-  "dc_rights_s": "Restricted",
-  "dct_provenance_s": "NYU",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34057\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/73360/nyu_2451_34057.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\"}",
-  "layer_id_s": "sdr:nyu_2451_34057",
-  "layer_slug_s": "nyu-2451-34057",
-  "layer_geom_type_s": "Point",
-  "layer_modified_dt": "2016-01-30T04:04:03Z",
-  "dc_format_s": "Shapefile",
-  "dc_language_s": "English",
-  "dc_type_s": "Dataset",
-  "dc_publisher_s": "Environmental Systems Research Institute (Redlands, Calif.)",
   "dc_creator_sm": [
 
   ],
+  "dc_description_s": "U.S. and Canada Maneuvers represents street and highway maneuvers in the United States and Canada.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "http://hdl.handle.net/2451/34057",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Environmental Systems Research Institute (Redlands, Calif.)",
+  "dc_rights_s": "Restricted",
   "dc_subject_sm": [
     "Roads",
     "Transportation--Canada",
     "Transportation--United States"
   ],
+  "dc_title_s": "2010 U.S. and Canada Maneuvers",
+  "dc_type_s": "Dataset",
   "dct_isPartOf_sm": [
     "ESRI 10 StreetMap"
   ],
-  "dct_temporal_sm": [
-    "2010"
-  ],
+  "dct_provenance_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34057\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/73360/nyu_2451_34057.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\"}",
   "dct_spatial_sm": [
     "United States of America",
     "Canada"
   ],
+  "dct_temporal_sm": [
+    "2010"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Point",
+  "layer_id_s": "sdr:nyu_2451_34057",
+  "layer_modified_dt": "2016-01-30T04:04:03Z",
+  "layer_slug_s": "nyu-2451-34057",
   "solr_geom": "ENVELOPE(-158.182763, -64.258109, 53.819133, 21.269086)",
-  "solr_year_i": 2010,
-  "geoblacklight_version": "1.0"
+  "solr_year_i": 2010
 }

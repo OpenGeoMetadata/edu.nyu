@@ -1,36 +1,36 @@
 {
-  "dc_identifier_s": "http://hdl.handle.net/2451/34207",
-  "dc_title_s": "2015 Graffiti Complaints in New York City",
-  "dc_description_s": "This layer identifies Graffiti complaints called into NYC 311 from 1/2015 to 4/9/2015. Downloaded from https://nycopendata.socrata.com/",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "NYU",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34207\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/73709/nyu_2451_34207.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\"}",
-  "layer_id_s": "sdr:nyu_2451_34207",
-  "layer_slug_s": "nyu-2451-34207",
-  "layer_geom_type_s": "Point",
-  "layer_modified_dt": "2016-03-11T19:07:58Z",
-  "dc_format_s": "Shapefile",
-  "dc_language_s": "English",
-  "dc_type_s": "Dataset",
   "dc_creator_sm": [
 
   ],
+  "dc_description_s": "This layer identifies Graffiti complaints called into NYC 311 from 1/2015 to 4/9/2015. Downloaded from https://nycopendata.socrata.com/",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "http://hdl.handle.net/2451/34207",
+  "dc_language_s": "English",
+  "dc_rights_s": "Public",
   "dc_subject_sm": [
     "Graffiti",
     "Graffiti artists",
     "Complaints (Civil procedure)",
     "Public art"
   ],
+  "dc_title_s": "2015 Graffiti Complaints in New York City",
+  "dc_type_s": "Dataset",
   "dct_isPartOf_sm": [
     "Art and Politics in the City"
+  ],
+  "dct_provenance_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34207\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/73709/nyu_2451_34207.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\"}",
+  "dct_spatial_sm": [
+    "New York, New York, United States"
   ],
   "dct_temporal_sm": [
     "2015"
   ],
-  "dct_spatial_sm": [
-    "New York, New York, United States"
-  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Point",
+  "layer_id_s": "sdr:nyu_2451_34207",
+  "layer_modified_dt": "2016-03-11T19:07:58Z",
+  "layer_slug_s": "nyu-2451-34207",
   "solr_geom": "ENVELOPE(-74.21363472, -73.70719243, 40.91047872, 40.53306829)",
-  "solr_year_i": 2015,
-  "geoblacklight_version": "1.0"
+  "solr_year_i": 2015
 }

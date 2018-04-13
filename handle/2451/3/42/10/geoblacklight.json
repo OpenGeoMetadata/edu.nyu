@@ -1,36 +1,36 @@
 {
-  "dc_identifier_s": "http://hdl.handle.net/2451/34210",
-  "dc_title_s": "2010 China Rivers",
-  "dc_description_s": "This layer represents the rivers of China.",
-  "dc_rights_s": "Restricted",
-  "dct_provenance_s": "NYU",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34210\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/71937/nyu_2451_34210.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\"}",
-  "layer_id_s": "sdr:nyu_2451_34210",
-  "layer_slug_s": "nyu-2451-34210",
-  "layer_geom_type_s": "Line",
-  "layer_modified_dt": "2015-11-23T18:57:37Z",
-  "dc_format_s": "Shapefile",
-  "dc_language_s": "Chinese",
-  "dc_type_s": "Dataset",
-  "dc_publisher_s": "Beijing Hua tong ren shi chang xin xi you xian ze ren gong si",
   "dc_creator_sm": [
 
   ],
+  "dc_description_s": "This layer represents the rivers of China.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "http://hdl.handle.net/2451/34210",
+  "dc_language_s": "Chinese",
+  "dc_publisher_s": "Beijing Hua tong ren shi chang xin xi you xian ze ren gong si",
+  "dc_rights_s": "Restricted",
   "dc_subject_sm": [
     "China--Maps",
     "Rivers",
     "Bodies of water"
   ],
+  "dc_title_s": "2010 China Rivers",
+  "dc_type_s": "Dataset",
   "dct_isPartOf_sm": [
     "2010 China Data Center Township Census Files"
+  ],
+  "dct_provenance_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34210\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/71937/nyu_2451_34210.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\"}",
+  "dct_spatial_sm": [
+    "People's Republic of China, China"
   ],
   "dct_temporal_sm": [
     "2010"
   ],
-  "dct_spatial_sm": [
-    "People's Republic of China, China"
-  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Line",
+  "layer_id_s": "sdr:nyu_2451_34210",
+  "layer_modified_dt": "2015-11-23T18:57:37Z",
+  "layer_slug_s": "nyu-2451-34210",
   "solr_geom": "ENVELOPE(73.450384293399, 134.541197910336, 53.458984308088, 18.7507038116455)",
-  "solr_year_i": 2010,
-  "geoblacklight_version": "1.0"
+  "solr_year_i": 2010
 }

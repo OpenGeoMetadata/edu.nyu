@@ -1,34 +1,34 @@
 {
-  "dc_identifier_s": "http://hdl.handle.net/2451/34118",
-  "dc_title_s": "2010 World Latitude and Longitude Grids",
-  "dc_description_s": "World Latitude and Longitude Grids represents a 5 by 5 degree latitude/longitude grid covering the world with attributes that allow it to display grids at intervals of 5, 10, 15, 20, and 30 degrees. To display a grid with a 5-degree interval, simply display all of the lines. To display a coarser grid (e.g., a 15-degree interval), in the Layer Properties dialog box, set the DEGREE15 attribute value equal to Y.",
-  "dc_rights_s": "Restricted",
-  "dct_provenance_s": "NYU",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34118\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/73264/nyu_2451_34118.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\"}",
-  "layer_id_s": "sdr:nyu_2451_34118",
-  "layer_slug_s": "nyu-2451-34118",
-  "layer_geom_type_s": "Line",
-  "layer_modified_dt": "2016-01-30T04:03:51Z",
-  "dc_format_s": "Shapefile",
-  "dc_language_s": "English",
-  "dc_type_s": "Dataset",
-  "dc_publisher_s": "Environmental Systems Research Institute (Redlands, Calif.)",
   "dc_creator_sm": [
 
   ],
+  "dc_description_s": "World Latitude and Longitude Grids represents a 5 by 5 degree latitude/longitude grid covering the world with attributes that allow it to display grids at intervals of 5, 10, 15, 20, and 30 degrees. To display a grid with a 5-degree interval, simply display all of the lines. To display a coarser grid (e.g., a 15-degree interval), in the Layer Properties dialog box, set the DEGREE15 attribute value equal to Y.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "http://hdl.handle.net/2451/34118",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Environmental Systems Research Institute (Redlands, Calif.)",
+  "dc_rights_s": "Restricted",
   "dc_subject_sm": [
     "Grids (Cartography)"
   ],
+  "dc_title_s": "2010 World Latitude and Longitude Grids",
+  "dc_type_s": "Dataset",
   "dct_isPartOf_sm": [
     "ESRI 10 World"
+  ],
+  "dct_provenance_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34118\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/73264/nyu_2451_34118.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\"}",
+  "dct_spatial_sm": [
+    "World"
   ],
   "dct_temporal_sm": [
     "2010"
   ],
-  "dct_spatial_sm": [
-    "World"
-  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Line",
+  "layer_id_s": "sdr:nyu_2451_34118",
+  "layer_modified_dt": "2016-01-30T04:03:51Z",
+  "layer_slug_s": "nyu-2451-34118",
   "solr_geom": "ENVELOPE(-180.0, 180.0, 89.999999916, -90.0)",
-  "solr_year_i": 2010,
-  "geoblacklight_version": "1.0"
+  "solr_year_i": 2010
 }

@@ -1,35 +1,35 @@
 {
-  "dc_identifier_s": "http://hdl.handle.net/2451/34181",
-  "dc_title_s": "2010 U.S. National Atlas Public Land Survey",
-  "dc_description_s": "U.S. National Atlas Public Land Survey represents the Public Land Surveys (for example, donation lands, land grants, and public and private surveys of public lands) of the United States.",
-  "dc_rights_s": "Restricted",
-  "dct_provenance_s": "NYU",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34181\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/73120/nyu_2451_34181.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\"}",
-  "layer_id_s": "sdr:nyu_2451_34181",
-  "layer_slug_s": "nyu-2451-34181",
-  "layer_geom_type_s": "Polygon",
-  "layer_modified_dt": "2016-01-30T04:03:38Z",
-  "dc_format_s": "Shapefile",
-  "dc_language_s": "English",
-  "dc_publisher_s": "Environmental Systems Research Institute (Redlands, Calif.)",
   "dc_creator_sm": [
 
   ],
+  "dc_description_s": "U.S. National Atlas Public Land Survey represents the Public Land Surveys (for example, donation lands, land grants, and public and private surveys of public lands) of the United States.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "http://hdl.handle.net/2451/34181",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Environmental Systems Research Institute (Redlands, Calif.)",
+  "dc_rights_s": "Restricted",
   "dc_subject_sm": [
     "Public lands",
     "Public land records",
     "Public lands--United States"
   ],
+  "dc_title_s": "2010 U.S. National Atlas Public Land Survey",
   "dct_isPartOf_sm": [
 
+  ],
+  "dct_provenance_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34181\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/73120/nyu_2451_34181.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\"}",
+  "dct_spatial_sm": [
+    "United States of America"
   ],
   "dct_temporal_sm": [
     "2010"
   ],
-  "dct_spatial_sm": [
-    "United States of America"
-  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "sdr:nyu_2451_34181",
+  "layer_modified_dt": "2016-01-30T04:03:38Z",
+  "layer_slug_s": "nyu-2451-34181",
   "solr_geom": "ENVELOPE(-179.133392334, 179.788209666, 71.398185154, 17.674692154)",
-  "solr_year_i": 2010,
-  "geoblacklight_version": "1.0"
+  "solr_year_i": 2010
 }
