@@ -1,35 +1,36 @@
 {
-  "dc_identifier_s": "http://hdl.handle.net/2451/34100",
-  "dc_title_s": "2010 U.S. ZIP Code Points",
-  "dc_description_s": "U.S. ZIP Code Points represents the five-digit U.S. ZIP Code areas as points, plus all ZIP Codes that have no area and are represented as points rather than areas such as Post-Office-Box ZIP Codes and unique ZIP Codes (for example, defining an organization).",
-  "dc_rights_s": "Restricted",
-  "dct_provenance_s": "NYU",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34100\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/73304/nyu_2451_34100.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\"}",
-  "layer_id_s": "sdr:nyu_2451_34100",
-  "layer_slug_s": "nyu-2451-34100",
-  "layer_geom_type_s": "Point",
-  "layer_modified_dt": "2016-01-30T04:03:54Z",
-  "dc_format_s": "Shapefile",
-  "dc_language_s": "English",
-  "dc_type_s": "Dataset",
-  "dc_publisher_s": "Environmental Systems Research Institute (Redlands, Calif.)",
   "dc_creator_sm": [
 
   ],
+  "dc_description_s": "U.S. ZIP Code Points represents the five-digit U.S. ZIP Code areas as points, plus all ZIP Codes that have no area and are represented as points rather than areas such as Post-Office-Box ZIP Codes and unique ZIP Codes (for example, defining an organization).",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "http://hdl.handle.net/2451/34100",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Environmental Systems Research Institute (Redlands, Calif.)",
+  "dc_rights_s": "Restricted",
   "dc_subject_sm": [
     "Zip codes",
     "United States--Administrative and political divisions"
   ],
+  "dc_title_s": "2010 U.S. ZIP Code Points",
+  "dc_type_s": "Dataset",
   "dct_isPartOf_sm": [
     "ESRI 10 USA Census"
+  ],
+  "dct_provenance_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34100\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/73304/nyu_2451_34100.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\"}",
+  "dct_spatial_sm": [
+    "United States of America"
   ],
   "dct_temporal_sm": [
     "2010"
   ],
-  "dct_spatial_sm": [
-    "United States of America"
-  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Point",
+  "layer_id_s": "sdr:nyu_2451_34100",
+  "layer_modified_dt": "2016-01-30T04:03:54Z",
+  "layer_slug_s": "nyu-2451-34100",
+  "nyu_addl_dspace_s": "34944",
   "solr_geom": "ENVELOPE(-176.760205, -65.285718, 70.741890024, 17.967202)",
-  "solr_year_i": 2010,
-  "geoblacklight_version": "1.0"
+  "solr_year_i": 2010
 }

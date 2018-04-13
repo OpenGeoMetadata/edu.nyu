@@ -1,38 +1,39 @@
 {
-  "dc_identifier_s": "http://hdl.handle.net/2451/33888",
-  "dc_title_s": "Grade \"A\" Restaurants in Manhattan",
-  "dc_description_s": "This point shapefile displays restaurants in Manhattan that received a grade of \"A\" from the Department of Health and Mental Hygiene Restaurant Inspection. The points were extracted from the DOHMH New York City Restaurant Inspection Results dataset as current on 3/6/2015. Note that the locations were established with the LION geocoder in ArcMap, and some locations, espcially those in parks, piers, and side streets, on the dataset are not reflected in this file.",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "NYU",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/33888\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/71932/nyu_2451_33888.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\"}",
-  "layer_id_s": "sdr:nyu_2451_33888",
-  "layer_slug_s": "nyu-2451-33888",
-  "layer_geom_type_s": "Point",
-  "layer_modified_dt": "2015-11-23T20:57:44Z",
-  "dc_format_s": "Shapefile",
-  "dc_language_s": "English",
-  "dc_type_s": "Dataset",
   "dc_creator_sm": [
     "Michelle Thompson"
   ],
+  "dc_description_s": "This point shapefile displays restaurants in Manhattan that received a grade of \"A\" from the Department of Health and Mental Hygiene Restaurant Inspection. The points were extracted from the DOHMH New York City Restaurant Inspection Results dataset as current on 3/6/2015. Note that the locations were established with the LION geocoder in ArcMap, and some locations, espcially those in parks, piers, and side streets, on the dataset are not reflected in this file.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "http://hdl.handle.net/2451/33888",
+  "dc_language_s": "English",
+  "dc_rights_s": "Public",
   "dc_subject_sm": [
     "Restaurants",
     "Inspection",
     "Health and hygiene",
     "Urban health"
   ],
+  "dc_title_s": "Grade \"A\" Restaurants in Manhattan",
+  "dc_type_s": "Dataset",
   "dct_isPartOf_sm": [
     "NYU Research Data"
+  ],
+  "dct_provenance_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/33888\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/71932/nyu_2451_33888.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\"}",
+  "dct_spatial_sm": [
+    "Manhattan, New York, United States",
+    "New York County, New York, United States"
   ],
   "dct_temporal_sm": [
     "2013",
     "2015"
   ],
-  "dct_spatial_sm": [
-    "Manhattan, New York, United States",
-    "New York County, New York, United States"
-  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Point",
+  "layer_id_s": "sdr:nyu_2451_33888",
+  "layer_modified_dt": "2015-11-23T20:57:44Z",
+  "layer_slug_s": "nyu-2451-33888",
+  "nyu_addl_dspace_s": "34696",
   "solr_geom": "ENVELOPE(-142.79870371803, -73.8935141122246, 40.8874611172832, -90.0)",
-  "solr_year_i": 2013,
-  "geoblacklight_version": "1.0"
+  "solr_year_i": 2013
 }

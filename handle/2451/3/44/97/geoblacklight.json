@@ -1,44 +1,45 @@
 {
-  "dc_identifier_s": "http://hdl.handle.net/2451/34497",
-  "dc_title_s": "2015 New York City PATH Stations and Ridership",
-  "dc_description_s": "This point layer is a subset of the NJ Transit passenger railroad stations shapefile file that has been combined with ridership data from the Port Authority of NY and NJ. The data was re-projected to NY state plane and contains just the PATH train stations that are in NYC. Annual, average weekday, and average weekend ridership is provided for 2012 to 2014. The unique ID is atis_id, a field created by NJ Transit. This layer was created as part of the NYC Geodatabase (NYC GDB) project, a resource designed for basic geographic analysis and thematic mapping within the five boroughs of New York City.",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Baruch CUNY",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34497\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"http://metadata.geo.nyu.edu/records/edu.nyu/handle/2451/34497/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/74696/nyu_2451_34497.zip\",\"http://lccn.loc.gov/sh85035852\":\"https://archive.nyu.edu/retrieve/74750/nyu_2451_34497_doc.zip\"}",
-  "layer_id_s": "sdr:nyu_2451_34497",
-  "layer_slug_s": "nyu-2451-34497",
-  "layer_geom_type_s": "Point",
-  "layer_modified_dt": "2016-05-02T18:21:06Z",
-  "dc_format_s": "Shapefile",
-  "dc_language_s": "English",
-  "dc_type_s": "Dataset",
-  "dc_publisher_s": "Newman Library (Bernard M. Baruch College)",
   "dc_creator_sm": [
     "GIS Lab, Newman Library, Baruch CUNY"
   ],
+  "dc_description_s": "This point layer is a subset of the NJ Transit passenger railroad stations shapefile file that has been combined with ridership data from the Port Authority of NY and NJ. The data was re-projected to NY state plane and contains just the PATH train stations that are in NYC. Annual, average weekday, and average weekend ridership is provided for 2012 to 2014. The unique ID is atis_id, a field created by NJ Transit. This layer was created as part of the NYC Geodatabase (NYC GDB) project, a resource designed for basic geographic analysis and thematic mapping within the five boroughs of New York City.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "http://hdl.handle.net/2451/34497",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Newman Library (Bernard M. Baruch College)",
+  "dc_rights_s": "Public",
   "dc_subject_sm": [
     "Subway stations",
     "Transportation",
     "Urban transportation",
     "Local transit"
   ],
+  "dc_title_s": "2015 New York City PATH Stations and Ridership",
+  "dc_type_s": "Dataset",
   "dct_isPartOf_sm": [
     "NYC Geodatabase (version jan2016)"
   ],
   "dct_issued_s": "1/15/2016",
-  "dct_temporal_sm": [
-    "2015"
+  "dct_provenance_s": "Baruch CUNY",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34497\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"http://metadata.geo.nyu.edu/records/edu.nyu/handle/2451/34497/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/74696/nyu_2451_34497.zip\",\"http://lccn.loc.gov/sh85035852\":\"https://archive.nyu.edu/retrieve/74750/nyu_2451_34497_doc.zip\"}",
+  "dct_source_sm": [
+    "nyu_2451_34635",
+    "nyu_2451_34636"
   ],
   "dct_spatial_sm": [
     "New York, New York, United States",
     "New York County, New York, United States",
     "Borough of Manhattan, New York, United States"
   ],
-  "solr_geom": "ENVELOPE(-74.01213364, -73.9882196397, 40.7491299128998, 40.7112889125998)",
-  "solr_year_i": 2015,
-  "dct_source_sm": [
-    "nyu_2451_34635",
-    "nyu_2451_34636"
+  "dct_temporal_sm": [
+    "2015"
   ],
-  "geoblacklight_version": "1.0"
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Point",
+  "layer_id_s": "sdr:nyu_2451_34497",
+  "layer_modified_dt": "2016-05-02T18:21:06Z",
+  "layer_slug_s": "nyu-2451-34497",
+  "nyu_addl_dspace_s": "35402",
+  "solr_geom": "ENVELOPE(-74.01213364, -73.9882196397, 40.7491299128998, 40.7112889125998)",
+  "solr_year_i": 2015
 }

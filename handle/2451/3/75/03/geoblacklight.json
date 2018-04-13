@@ -1,45 +1,46 @@
 {
-  "dc_identifier_s": "http://hdl.handle.net/2451/37503",
-  "dc_title_s": "1978 Soviet Military Topographic Map of Saudi Arabia, Sheet 06-38-134",
-  "dc_description_s": "This georeferenced map is a 1:100,000 scale topographic map produced by the Soviet military in 1978. The map was georeferenced by staff at NYU Data Services. Maps produced by the Soviet military were believed to be to be used as an organizing framework for knowledge about the world and were compiled through a combination of aerial intelligence and on-the-ground observation. Sheet numbering is based on the alphanumeric system adopted by the International Map of the World (IMW), in which the globe is divided into equal-sized zones based upon latitude and longitude. Each zone is further subdivided so that the position of a sheet at the full range of scales can be deduced. The date and factory of production of each map are provided in a unique code that is embedded within the outer border, usually at the bottom right. For more information, see the manual and scholarship of John M. Davies and Alexander Kent in the documentation. The download link provides both the original scan, as well as a georectified version of the scan.",
-  "dc_rights_s": "Restricted",
-  "dct_provenance_s": "NYU",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/37503\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/78845/nyu_2451_37503.zip\",\"http://lccn.loc.gov/sh85035852\":\"https://archive.nyu.edu/bitstream/2451/37402/2/nyu_2451_37402_doc.zip\"}",
-  "layer_id_s": "sdr:nyu_2451_37503",
-  "layer_slug_s": "nyu-2451-37503",
-  "layer_geom_type_s": "Raster",
-  "layer_modified_dt": "2017-01-23T17:32:28Z",
-  "dc_format_s": "GeoTIFF",
-  "dc_language_s": "Russian",
-  "dc_type_s": "Dataset",
-  "dc_publisher_s": "Omni Resources (Firm)",
   "dc_creator_sm": [
 
   ],
+  "dc_description_s": "This georeferenced map is a 1:100,000 scale topographic map produced by the Soviet military in 1978. The map was georeferenced by staff at NYU Data Services. Maps produced by the Soviet military were believed to be to be used as an organizing framework for knowledge about the world and were compiled through a combination of aerial intelligence and on-the-ground observation. Sheet numbering is based on the alphanumeric system adopted by the International Map of the World (IMW), in which the globe is divided into equal-sized zones based upon latitude and longitude. Each zone is further subdivided so that the position of a sheet at the full range of scales can be deduced. The date and factory of production of each map are provided in a unique code that is embedded within the outer border, usually at the bottom right. For more information, see the manual and scholarship of John M. Davies and Alexander Kent in the documentation. The download link provides both the original scan, as well as a georectified version of the scan.",
+  "dc_format_s": "GeoTIFF",
+  "dc_identifier_s": "http://hdl.handle.net/2451/37503",
+  "dc_language_s": "Russian",
+  "dc_publisher_s": "Omni Resources (Firm)",
+  "dc_relation_sm": [
+    "qs_woe_2346955",
+    "geonames_103369"
+  ],
+  "dc_rights_s": "Restricted",
   "dc_subject_sm": [
     "Soviet Union--Administrative and political divisions--Maps",
     "Soviet Union--Maps",
     "Soviet Union--Military policy",
     "Espionage"
   ],
+  "dc_title_s": "1978 Soviet Military Topographic Map of Saudi Arabia, Sheet 06-38-134",
+  "dc_type_s": "Dataset",
   "dct_isPartOf_sm": [
     "Soviet 1:100k of Saudi Arabia",
     "Soviet Military Topographic Maps"
   ],
   "dct_issued_s": "2003",
-  "dct_temporal_sm": [
-    "1978"
-  ],
+  "dct_provenance_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/37503\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/78845/nyu_2451_37503.zip\",\"http://lccn.loc.gov/sh85035852\":\"https://archive.nyu.edu/bitstream/2451/37402/2/nyu_2451_37402_doc.zip\"}",
+  "dct_refrences_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/37503\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/78845/nyu_2451_37503.zip\",\"http://lccn.loc.gov/sh85035852\":\"https://archive.nyu.edu/retrieve/79186/nyu_soviet_topo_documentation.zip\"}",
   "dct_spatial_sm": [
     "`Asir, Saudi Arabia",
     "Qal‘at Bīshah, Saudi Arabia"
   ],
-  "dc_relation_sm": [
-    "qs_woe_2346955",
-    "geonames_103369"
+  "dct_temporal_sm": [
+    "1978"
   ],
-  "solr_geom": "ENVELOPE(42.48060018228297, 43.02446455772565, 20.352935619816957, 19.960518847442753)",
-  "solr_year_i": 1978,
   "geoblacklight_version": "1.0",
-  "dct_refrences_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/37503\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/78845/nyu_2451_37503.zip\",\"http://lccn.loc.gov/sh85035852\":\"https://archive.nyu.edu/retrieve/79186/nyu_soviet_topo_documentation.zip\"}"
+  "layer_geom_type_s": "Raster",
+  "layer_id_s": "sdr:nyu_2451_37503",
+  "layer_modified_dt": "2017-01-23T17:32:28Z",
+  "layer_slug_s": "nyu-2451-37503",
+  "nyu_addl_dspace_s": "38484",
+  "solr_geom": "ENVELOPE(42.48060018228297, 43.02446455772565, 20.352935619816957, 19.960518847442753)",
+  "solr_year_i": 1978
 }

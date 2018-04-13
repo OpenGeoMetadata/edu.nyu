@@ -1,35 +1,36 @@
 {
-  "dc_identifier_s": "http://hdl.handle.net/2451/34170",
-  "dc_title_s": "2010 New York City Police Precincts",
-  "dc_description_s": "The service area boundaries for New York City's police precincts.",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "NYU",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34170\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/73145/nyu_2451_34170.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\"}",
-  "layer_id_s": "sdr:nyu_2451_34170",
-  "layer_slug_s": "nyu-2451-34170",
-  "layer_geom_type_s": "Polygon",
-  "layer_modified_dt": "2016-01-30T04:03:40Z",
-  "dc_format_s": "Shapefile",
-  "dc_language_s": "English",
-  "dc_publisher_s": "New York (City). Department of City Planning",
   "dc_creator_sm": [
 
   ],
+  "dc_description_s": "The service area boundaries for New York City's police precincts.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "http://hdl.handle.net/2451/34170",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York (City). Department of City Planning",
+  "dc_rights_s": "Public",
   "dc_subject_sm": [
     "Police",
     "Police dispatchers",
     "New York (N.Y.)--Social conditions"
   ],
+  "dc_title_s": "2010 New York City Police Precincts",
   "dct_isPartOf_sm": [
 
+  ],
+  "dct_provenance_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34170\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/73145/nyu_2451_34170.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\"}",
+  "dct_spatial_sm": [
+    "New York City, New York, United States"
   ],
   "dct_temporal_sm": [
     "2010"
   ],
-  "dct_spatial_sm": [
-    "New York City, New York, United States"
-  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "sdr:nyu_2451_34170",
+  "layer_modified_dt": "2016-01-30T04:03:40Z",
+  "layer_slug_s": "nyu-2451-34170",
+  "nyu_addl_dspace_s": "35019",
   "solr_geom": "ENVELOPE(-74.2556640887564, -73.700009054899, 40.9157739339836, 40.4960925239255)",
-  "solr_year_i": 2010,
-  "geoblacklight_version": "1.0"
+  "solr_year_i": 2010
 }

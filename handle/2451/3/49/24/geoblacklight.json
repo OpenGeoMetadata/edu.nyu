@@ -1,41 +1,42 @@
 {
-  "dc_identifier_s": "http://hdl.handle.net/2451/34924",
-  "dc_title_s": "2001 Honduras Census Data Geodatabase",
-  "dc_description_s": "This ESRI Geodatabase contains polygon features and attribute data tables for census data for the country of Honduras. The data is derived from the Proyectado - Instituto Nactional de Estadistica and was released in 2001. The data contain 30,814 census boundary polygons that each have 154 attributes, and the lowest administrative boundary level represented is Barrios. Refer to the documentation for a list of variables and a translation of variable titles into English. For more information on the census methodology and a glossary of variable categories, go to the INE website at http://www.ine.gob.hn/.",
-  "dc_rights_s": "Restricted",
-  "dct_provenance_s": "NYU",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34924\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/75753/nyu_2451_34924.zip\",\"http://lccn.loc.gov/sh85035852\":\"https://archive.nyu.edu/retrieve/75752/nyu_2451_34924_doc.zip\"}",
-  "layer_id_s": "sdr:nyu_2451_34924",
-  "layer_slug_s": "nyu-2451-34924",
-  "layer_geom_type_s": "Polygon",
-  "layer_modified_dt": "2016-09-06T18:25:01Z",
-  "dc_format_s": "ESRI Geodatabase",
-  "dc_language_s": "English",
-  "dc_type_s": "Dataset",
-  "dc_publisher_s": "East View Cartographic, Inc.",
   "dc_creator_sm": [
 
   ],
+  "dc_description_s": "This ESRI Geodatabase contains polygon features and attribute data tables for census data for the country of Honduras. The data is derived from the Proyectado - Instituto Nactional de Estadistica and was released in 2001. The data contain 30,814 census boundary polygons that each have 154 attributes, and the lowest administrative boundary level represented is Barrios. Refer to the documentation for a list of variables and a translation of variable titles into English. For more information on the census methodology and a glossary of variable categories, go to the INE website at http://www.ine.gob.hn/.",
+  "dc_format_s": "ESRI Geodatabase",
+  "dc_identifier_s": "http://hdl.handle.net/2451/34924",
+  "dc_language_s": "English",
+  "dc_publisher_s": "East View Cartographic, Inc.",
+  "dc_relation_sm": [
+    "http://sws.geonames.org/3608932/about/rdf"
+  ],
+  "dc_rights_s": "Restricted",
   "dc_subject_sm": [
     "Census",
     "Census districts",
     "demographic surveys",
     "Demography"
   ],
+  "dc_title_s": "2001 Honduras Census Data Geodatabase",
+  "dc_type_s": "Dataset",
   "dct_isPartOf_sm": [
     "Latin American Census Data"
   ],
   "dct_issued_s": "2016",
-  "dct_temporal_sm": [
-    "2001"
-  ],
+  "dct_provenance_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34924\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/75753/nyu_2451_34924.zip\",\"http://lccn.loc.gov/sh85035852\":\"https://archive.nyu.edu/retrieve/78720/nyu_2451_34924_doc.zip\"}",
   "dct_spatial_sm": [
     "Honduras"
   ],
-  "dc_relation_sm": [
-    "http://sws.geonames.org/3608932/about/rdf"
+  "dct_temporal_sm": [
+    "2001"
   ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "sdr:nyu_2451_34924",
+  "layer_modified_dt": "2016-09-06T18:25:01Z",
+  "layer_slug_s": "nyu-2451-34924",
+  "nyu_addl_dspace_s": "35890",
   "solr_geom": "ENVELOPE(-89.350792, -83.155403, 17.423628, 12.982411)",
-  "solr_year_i": 2001,
-  "geoblacklight_version": "1.0"
+  "solr_year_i": 2001
 }

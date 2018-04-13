@@ -1,32 +1,29 @@
 {
-  "dc_identifier_s": "http://hdl.handle.net/2451/34504",
-  "dc_title_s": "2010 New York City Census Tract Population Centers",
-  "dc_description_s": "This point layer is an extract of the 2010 Census Center of Population file that has been converted to a spatial layer and reprojected to local state plane. The population centers (aka population centroids) represent the center of a population's distribution within a census tract, which can be useful for operations like measuring the distance of a tract's population from some service or hazard. The notes field indicates whether a tract's population center falls outside the tract boundary in an adjacent tract or body of water; this can occur due to the population distribution and irregular geometric shape of some tracts. The pop2010 field contains the total population from the 2010 Census. The unique ID is tractid; the FIPS state-county-tract- number code. This layer was created as part of the NYC Geodatabase (NYC GDB) project, a resource designed for basic geographic analysis and thematic mapping within the five boroughs of New York City.",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Baruch CUNY",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34504\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/74703/nyu_2451_34504.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"http://metadata.geo.nyu.edu/records/edu.nyu/handle/2451/34504/iso19139.xml\",\"http://lccn.loc.gov/sh85035852\":\"https://archive.nyu.edu/retrieve/74757/nyu_2451_34504_doc.zip\"}",
-  "layer_id_s": "sdr:nyu_2451_34504",
-  "layer_slug_s": "nyu-2451-34504",
-  "layer_geom_type_s": "Point",
-  "layer_modified_dt": "2016-05-02T18:21:04Z",
-  "dc_format_s": "Shapefile",
-  "dc_language_s": "English",
-  "dc_type_s": "Dataset",
-  "dc_publisher_s": "Newman Library (Bernard M. Baruch College)",
   "dc_creator_sm": [
     "GIS Lab, Newman Library, Baruch CUNY"
   ],
+  "dc_description_s": "This point layer is an extract of the 2010 Census Center of Population file that has been converted to a spatial layer and reprojected to local state plane. The population centers (aka population centroids) represent the center of a population's distribution within a census tract, which can be useful for operations like measuring the distance of a tract's population from some service or hazard. The notes field indicates whether a tract's population center falls outside the tract boundary in an adjacent tract or body of water; this can occur due to the population distribution and irregular geometric shape of some tracts. The pop2010 field contains the total population from the 2010 Census. The unique ID is tractid; the FIPS state-county-tract- number code. This layer was created as part of the NYC Geodatabase (NYC GDB) project, a resource designed for basic geographic analysis and thematic mapping within the five boroughs of New York City.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "http://hdl.handle.net/2451/34504",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Newman Library (Bernard M. Baruch College)",
+  "dc_rights_s": "Public",
   "dc_subject_sm": [
     "Population",
     "Census districts",
     "Population geography"
   ],
+  "dc_title_s": "2010 New York City Census Tract Population Centers",
+  "dc_type_s": "Dataset",
   "dct_isPartOf_sm": [
     "NYC Geodatabase (version jan2016)"
   ],
   "dct_issued_s": "1/15/2016",
-  "dct_temporal_sm": [
-    "2010"
+  "dct_provenance_s": "Baruch CUNY",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34504\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/74703/nyu_2451_34504.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"http://metadata.geo.nyu.edu/records/edu.nyu/handle/2451/34504/iso19139.xml\",\"http://lccn.loc.gov/sh85035852\":\"https://archive.nyu.edu/retrieve/74757/nyu_2451_34504_doc.zip\"}",
+  "dct_source_sm": [
+    "nyu_2451_34635",
+    "nyu_2451_34636"
   ],
   "dct_spatial_sm": [
     "New York, New York, United States",
@@ -41,11 +38,15 @@
     "Borough of Queens, New York, United States",
     "Borough of Staten Island, New York, United States"
   ],
-  "solr_geom": "ENVELOPE(-74.244354, -73.704479, 40.9131229999998, 40.5024669999998)",
-  "solr_year_i": 2010,
-  "dct_source_sm": [
-    "nyu_2451_34635",
-    "nyu_2451_34636"
+  "dct_temporal_sm": [
+    "2010"
   ],
-  "geoblacklight_version": "1.0"
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Point",
+  "layer_id_s": "sdr:nyu_2451_34504",
+  "layer_modified_dt": "2016-05-02T18:21:04Z",
+  "layer_slug_s": "nyu-2451-34504",
+  "nyu_addl_dspace_s": "35411",
+  "solr_geom": "ENVELOPE(-74.244354, -73.704479, 40.9131229999998, 40.5024669999998)",
+  "solr_year_i": 2010
 }

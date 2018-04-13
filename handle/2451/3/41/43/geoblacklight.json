@@ -1,21 +1,13 @@
 {
-  "dc_identifier_s": "http://hdl.handle.net/2451/34143",
-  "dc_title_s": "2010 U.S. Large Area Landmarks",
-  "dc_description_s": "U.S. Large Area Landmarks represents common landmark areas within the United States including military territories, hospitals, educational institutions, shopping centers, industrial parks, amusement parks, stadiums, golf courses, and cemeteries.",
-  "dc_rights_s": "Restricted",
-  "dct_provenance_s": "NYU",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34143\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/73208/nyu_2451_34143.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\"}",
-  "layer_id_s": "sdr:nyu_2451_34143",
-  "layer_slug_s": "nyu-2451-34143",
-  "layer_geom_type_s": "Polygon",
-  "layer_modified_dt": "2016-01-30T04:03:46Z",
-  "dc_format_s": "Shapefile",
-  "dc_language_s": "English",
-  "dc_type_s": "Dataset",
-  "dc_publisher_s": "Environmental Systems Research Institute (Redlands, Calif.)",
   "dc_creator_sm": [
 
   ],
+  "dc_description_s": "U.S. Large Area Landmarks represents common landmark areas within the United States including military territories, hospitals, educational institutions, shopping centers, industrial parks, amusement parks, stadiums, golf courses, and cemeteries.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "http://hdl.handle.net/2451/34143",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Environmental Systems Research Institute (Redlands, Calif.)",
+  "dc_rights_s": "Restricted",
   "dc_subject_sm": [
     "Military bases",
     "Golf courses",
@@ -23,16 +15,25 @@
     "Industrial real estate",
     "Amusement parks"
   ],
+  "dc_title_s": "2010 U.S. Large Area Landmarks",
+  "dc_type_s": "Dataset",
   "dct_isPartOf_sm": [
     "ESRI 10 USA Landmarks"
+  ],
+  "dct_provenance_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34143\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/73208/nyu_2451_34143.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\"}",
+  "dct_spatial_sm": [
+    "United States of America"
   ],
   "dct_temporal_sm": [
     "2010"
   ],
-  "dct_spatial_sm": [
-    "United States of America"
-  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "sdr:nyu_2451_34143",
+  "layer_modified_dt": "2016-01-30T04:03:46Z",
+  "layer_slug_s": "nyu-2451-34143",
+  "nyu_addl_dspace_s": "34988",
   "solr_geom": "ENVELOPE(-176.810434, -65.62905, 68.870009991, 17.989248)",
-  "solr_year_i": 2010,
-  "geoblacklight_version": "1.0"
+  "solr_year_i": 2010
 }

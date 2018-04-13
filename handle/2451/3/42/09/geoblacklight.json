@@ -1,36 +1,37 @@
 {
-  "dc_identifier_s": "http://hdl.handle.net/2451/34209",
-  "dc_title_s": "2010 China Township Census Population",
-  "dc_description_s": "This layer displays locations of townships in China with population data from the 2010 Census.",
-  "dc_rights_s": "Restricted",
-  "dct_provenance_s": "NYU",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34209\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/71928/nyu_2451_34209.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\"}",
-  "layer_id_s": "sdr:nyu_2451_34209",
-  "layer_slug_s": "nyu-2451-34209",
-  "layer_geom_type_s": "Point",
-  "layer_modified_dt": "2015-11-23T18:57:37Z",
-  "dc_format_s": "Shapefile",
-  "dc_language_s": "Chinese",
-  "dc_type_s": "Dataset",
   "dc_creator_sm": [
 
   ],
+  "dc_description_s": "This layer displays locations of townships in China with population data from the 2010 Census.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "http://hdl.handle.net/2451/34209",
+  "dc_language_s": "Chinese",
+  "dc_rights_s": "Restricted",
   "dc_subject_sm": [
     "China--Maps",
     "Population",
     "Demographic surveys",
     "Census"
   ],
+  "dc_title_s": "2010 China Township Census Population",
+  "dc_type_s": "Dataset",
   "dct_isPartOf_sm": [
     "2010 China Data Center Township Census Files"
+  ],
+  "dct_provenance_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34209\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/71928/nyu_2451_34209.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\"}",
+  "dct_spatial_sm": [
+    "People's Republic of China, China"
   ],
   "dct_temporal_sm": [
     "2010"
   ],
-  "dct_spatial_sm": [
-    "People's Republic of China, China"
-  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Point",
+  "layer_id_s": "sdr:nyu_2451_34209",
+  "layer_modified_dt": "2015-11-23T18:57:37Z",
+  "layer_slug_s": "nyu-2451-34209",
+  "nyu_addl_dspace_s": "35062",
   "solr_geom": "ENVELOPE(74.0454314574372, 134.575686010908, 53.480186, 8.82798032438867)",
-  "solr_year_i": 2010,
-  "geoblacklight_version": "1.0"
+  "solr_year_i": 2010
 }

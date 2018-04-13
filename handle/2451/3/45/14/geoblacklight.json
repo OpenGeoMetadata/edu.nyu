@@ -1,21 +1,13 @@
 {
-  "dc_identifier_s": "http://hdl.handle.net/2451/34514",
-  "dc_title_s": "2010 New York City Landmarks",
-  "dc_description_s": "This polygon layer is a combination of the county Census TIGER landmark files for the five boroughs, re-projected to local state plane. Its features and attributes are unmodified from the original file. Features include parks, cemeteries, wildlife areas, airports, transit yards, and large public buildings like hospitals museums, colleges, and city government offices. The facilities (nyu_2451_34492) and greenspace (nyu_2451_34493) layers were largely created using the landmarks geometry, with additions and modifications to features and attributes. This layer is provided for users who wish to add additional features to the existing layers or to create new ones. The unique ID is areaid; created by the Census. This data was created as part of the NYC Geodatabase (NYC GDB) project, a resource designed for basic geographic analysis and thematic mapping within the five boroughs of New York City.",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Baruch CUNY",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34514\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/74713/nyu_2451_34514.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"http://metadata.geo.nyu.edu/records/edu.nyu/handle/2451/34514/iso19139.xml\",\"http://lccn.loc.gov/sh85035852\":\"https://archive.nyu.edu/retrieve/74767/nyu_2451_34514_doc.zip\"}",
-  "layer_id_s": "sdr:nyu_2451_34514",
-  "layer_slug_s": "nyu-2451-34514",
-  "layer_geom_type_s": "Polygon",
-  "layer_modified_dt": "2016-05-02T18:21:02Z",
-  "dc_format_s": "Shapefile",
-  "dc_language_s": "English",
-  "dc_type_s": "Dataset",
-  "dc_publisher_s": "Newman Library (Bernard M. Baruch College)",
   "dc_creator_sm": [
     "GIS Lab, Newman Library, Baruch CUNY"
   ],
+  "dc_description_s": "This polygon layer is a combination of the county Census TIGER landmark files for the five boroughs, re-projected to local state plane. Its features and attributes are unmodified from the original file. Features include parks, cemeteries, wildlife areas, airports, transit yards, and large public buildings like hospitals museums, colleges, and city government offices. The facilities (nyu_2451_34492) and greenspace (nyu_2451_34493) layers were largely created using the landmarks geometry, with additions and modifications to features and attributes. This layer is provided for users who wish to add additional features to the existing layers or to create new ones. The unique ID is areaid; created by the Census. This data was created as part of the NYC Geodatabase (NYC GDB) project, a resource designed for basic geographic analysis and thematic mapping within the five boroughs of New York City.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "http://hdl.handle.net/2451/34514",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Newman Library (Bernard M. Baruch College)",
+  "dc_rights_s": "Public",
   "dc_subject_sm": [
     "Parks",
     "Cemeteries",
@@ -23,12 +15,17 @@
     "Golf courses",
     "Recreation areas"
   ],
+  "dc_title_s": "2010 New York City Landmarks",
+  "dc_type_s": "Dataset",
   "dct_isPartOf_sm": [
     "NYC Geodatabase (version jan2016)"
   ],
   "dct_issued_s": "1/15/2016",
-  "dct_temporal_sm": [
-    "2010"
+  "dct_provenance_s": "Baruch CUNY",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34514\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/74713/nyu_2451_34514.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"http://metadata.geo.nyu.edu/records/edu.nyu/handle/2451/34514/iso19139.xml\",\"http://lccn.loc.gov/sh85035852\":\"https://archive.nyu.edu/retrieve/74767/nyu_2451_34514_doc.zip\"}",
+  "dct_source_sm": [
+    "nyu_2451_34635",
+    "nyu_2451_34636"
   ],
   "dct_spatial_sm": [
     "New York, New York, United States",
@@ -43,11 +40,15 @@
     "Borough of Queens, New York, United States",
     "Borough of Staten Island, New York, United States"
   ],
-  "solr_geom": "ENVELOPE(-74.231336, -73.709374, 40.9151869999998, 40.5057239999998)",
-  "solr_year_i": 2010,
-  "dct_source_sm": [
-    "nyu_2451_34635",
-    "nyu_2451_34636"
+  "dct_temporal_sm": [
+    "2010"
   ],
-  "geoblacklight_version": "1.0"
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "sdr:nyu_2451_34514",
+  "layer_modified_dt": "2016-05-02T18:21:02Z",
+  "layer_slug_s": "nyu-2451-34514",
+  "nyu_addl_dspace_s": "35421",
+  "solr_geom": "ENVELOPE(-74.231336, -73.709374, 40.9151869999998, 40.5057239999998)",
+  "solr_year_i": 2010
 }

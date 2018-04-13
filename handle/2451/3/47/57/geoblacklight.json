@@ -1,21 +1,13 @@
 {
-  "dc_identifier_s": "http://hdl.handle.net/2451/34757",
-  "dc_title_s": "2016 (May) Metro-North Bronx Shuttle Bus Stops",
-  "dc_description_s": "This point layer was created from the GTFS data feeds from the Metropolitan Transportation Authority (MTA). It represents the bus stop locations for the Hudson Rail Link, which is a weekday shuttle bus service that connects residents of the NW Bronx to the Spuyten Duyvil and Riverdale Metro North train stations. A python script was written to take the data files as input and plot and save them as a spatial layer in the local state plane coordinate reference system. The unique ID is stop_id, a field created by the MTA. This dataset is intended for researchers, policy makers, students, and educators for basic geographic analysis and mapping purposes. It was created by the GIS Lab at the Newman Library at Baruch College CUNY as part of the NYC Mass Transit Spatial Layers series, so that members of the public could have access to well-documented and readily-usable GIS layers of NYC mass transit features. ",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Baruch CUNY",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34757\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/75185/nyu_2451_34757.zip\"}",
-  "layer_id_s": "sdr:nyu_2451_34757",
-  "layer_slug_s": "nyu-2451-34757",
-  "layer_geom_type_s": "Point",
-  "layer_modified_dt": "2016-06-27T14:58:44Z",
-  "dc_format_s": "Shapefile",
-  "dc_language_s": "English",
-  "dc_type_s": "Dataset",
-  "dc_publisher_s": "Newman Library (Bernard M. Baruch College)",
   "dc_creator_sm": [
     "GIS Lab, Newman Library, Baruch CUNY"
   ],
+  "dc_description_s": "This point layer was created from the GTFS data feeds from the Metropolitan Transportation Authority (MTA). It represents the bus stop locations for the Hudson Rail Link, which is a weekday shuttle bus service that connects residents of the NW Bronx to the Spuyten Duyvil and Riverdale Metro North train stations. A python script was written to take the data files as input and plot and save them as a spatial layer in the local state plane coordinate reference system. The unique ID is stop_id, a field created by the MTA. This dataset is intended for researchers, policy makers, students, and educators for basic geographic analysis and mapping purposes. It was created by the GIS Lab at the Newman Library at Baruch College CUNY as part of the NYC Mass Transit Spatial Layers series, so that members of the public could have access to well-documented and readily-usable GIS layers of NYC mass transit features. ",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "http://hdl.handle.net/2451/34757",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Newman Library (Bernard M. Baruch College)",
+  "dc_rights_s": "Public",
   "dc_subject_sm": [
     "Transportation",
     "Local transit",
@@ -25,19 +17,28 @@
     "Railroads",
     "Railroad stations"
   ],
+  "dc_title_s": "2016 (May) Metro-North Bronx Shuttle Bus Stops",
+  "dc_type_s": "Dataset",
   "dct_isPartOf_sm": [
     "NYC Mass Transit Spatial Layers"
   ],
   "dct_issued_s": "05/31/2016",
-  "dct_temporal_sm": [
-    "2016"
-  ],
+  "dct_provenance_s": "Baruch CUNY",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34757\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/75185/nyu_2451_34757.zip\"}",
   "dct_spatial_sm": [
     "Bronx County, New York, United States",
     "Borough of Bronx, New York, United States",
     "New York, New York, United States"
   ],
+  "dct_temporal_sm": [
+    "2016"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Point",
+  "layer_id_s": "sdr:nyu_2451_34757",
+  "layer_modified_dt": "2016-06-27T14:58:44Z",
+  "layer_slug_s": "nyu-2451-34757",
+  "nyu_addl_dspace_s": "35707",
   "solr_geom": "ENVELOPE(-73.921455, -73.896435, 40.9124829999998, 40.8782449999998)",
-  "solr_year_i": 2016,
-  "geoblacklight_version": "1.0"
+  "solr_year_i": 2016
 }

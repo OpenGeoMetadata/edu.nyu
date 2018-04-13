@@ -1,34 +1,35 @@
 {
-  "dc_identifier_s": "http://hdl.handle.net/2451/34208",
-  "dc_title_s": "2015 New York City Subway Entrances",
-  "dc_description_s": "This layer represents the location of NYC Subway entrances. Downloaded from https://nycopendata.socrata.com/. ",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "NYU",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34208\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/73717/nyu_2451_34208.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\"}",
-  "layer_id_s": "sdr:nyu_2451_34208",
-  "layer_slug_s": "nyu-2451-34208",
-  "layer_geom_type_s": "Point",
-  "layer_modified_dt": "2016-03-11T19:07:58Z",
-  "dc_format_s": "Shapefile",
-  "dc_language_s": "English",
-  "dc_type_s": "Dataset",
   "dc_creator_sm": [
 
   ],
+  "dc_description_s": "This layer represents the location of NYC Subway entrances. Downloaded from https://nycopendata.socrata.com/. ",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "http://hdl.handle.net/2451/34208",
+  "dc_language_s": "English",
+  "dc_rights_s": "Public",
   "dc_subject_sm": [
     "Subway stations",
     "Transportation"
   ],
+  "dc_title_s": "2015 New York City Subway Entrances",
+  "dc_type_s": "Dataset",
   "dct_isPartOf_sm": [
     "Art and Politics in the City"
+  ],
+  "dct_provenance_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34208\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/73717/nyu_2451_34208.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\"}",
+  "dct_spatial_sm": [
+    "New York City, New York, United States"
   ],
   "dct_temporal_sm": [
     "2015"
   ],
-  "dct_spatial_sm": [
-    "New York City, New York, United States"
-  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Point",
+  "layer_id_s": "sdr:nyu_2451_34208",
+  "layer_modified_dt": "2016-03-11T19:07:58Z",
+  "layer_slug_s": "nyu-2451-34208",
+  "nyu_addl_dspace_s": "35061",
   "solr_geom": "ENVELOPE(-74.2528325183404, -73.7541728188225, 40.9035783323142, 40.5121140432397)",
-  "solr_year_i": 2015,
-  "geoblacklight_version": "1.0"
+  "solr_year_i": 2015
 }

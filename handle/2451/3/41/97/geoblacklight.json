@@ -1,35 +1,36 @@
 {
-  "dc_identifier_s": "http://hdl.handle.net/2451/34197",
-  "dc_title_s": "2015 Buenos Aires Election Circuit Areas",
-  "dc_description_s": "This layer represents the boundaries of election circuit areas in Buenos Aires. Downloaded from http://data.buenosaires.gob.ar/dataset/circuitos-electorales. Authored by Directorate General of Planning - Ministry of Urban Development.",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "NYU",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34197\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/73708/nyu_2451_34197.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\"}",
-  "layer_id_s": "sdr:nyu_2451_34197",
-  "layer_slug_s": "nyu-2451-34197",
-  "layer_geom_type_s": "Polygon",
-  "layer_modified_dt": "2016-03-11T19:08:00Z",
-  "dc_format_s": "Shapefile",
-  "dc_language_s": "Spanish",
-  "dc_type_s": "Dataset",
-  "dc_publisher_s": "Buenos Aires (Argentina)",
   "dc_creator_sm": [
 
   ],
+  "dc_description_s": "This layer represents the boundaries of election circuit areas in Buenos Aires. Downloaded from http://data.buenosaires.gob.ar/dataset/circuitos-electorales. Authored by Directorate General of Planning - Ministry of Urban Development.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "http://hdl.handle.net/2451/34197",
+  "dc_language_s": "Spanish",
+  "dc_publisher_s": "Buenos Aires (Argentina)",
+  "dc_rights_s": "Public",
   "dc_subject_sm": [
     "Elections",
     "Elections--Argentina"
   ],
+  "dc_title_s": "2015 Buenos Aires Election Circuit Areas",
+  "dc_type_s": "Dataset",
   "dct_isPartOf_sm": [
     "Art and Politics in the City"
+  ],
+  "dct_provenance_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34197\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/73708/nyu_2451_34197.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\"}",
+  "dct_spatial_sm": [
+    "Buenos Aires, Buenos Aires F.D., Argentina"
   ],
   "dct_temporal_sm": [
     "2015"
   ],
-  "dct_spatial_sm": [
-    "Buenos Aires, Buenos Aires F.D., Argentina"
-  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "sdr:nyu_2451_34197",
+  "layer_modified_dt": "2016-03-11T19:08:00Z",
+  "layer_slug_s": "nyu-2451-34197",
+  "nyu_addl_dspace_s": "35050",
   "solr_geom": "ENVELOPE(-58.5315187721333, -58.3351430047738, -34.5275410783547, -34.7052931489258)",
-  "solr_year_i": 2015,
-  "geoblacklight_version": "1.0"
+  "solr_year_i": 2015
 }

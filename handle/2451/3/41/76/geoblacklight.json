@@ -1,36 +1,37 @@
 {
-  "dc_identifier_s": "http://hdl.handle.net/2451/34176",
-  "dc_title_s": "2010 U.S. National Transportation Atlas Interstate Highways",
-  "dc_description_s": "U.S. National Transportation Atlas Interstate Highways represents rural and urban interstate highways. U.S. National Transportation Atlas Interstate Highways is part of the National Highway Planning Network, published by the Federal Highway Administration as part of the National Transportation Atlas Databases for the United States.",
-  "dc_rights_s": "Restricted",
-  "dct_provenance_s": "NYU",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34176\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/73133/nyu_2451_34176.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\"}",
-  "layer_id_s": "sdr:nyu_2451_34176",
-  "layer_slug_s": "nyu-2451-34176",
-  "layer_geom_type_s": "Line",
-  "layer_modified_dt": "2016-01-30T04:03:39Z",
-  "dc_format_s": "Shapefile",
-  "dc_language_s": "English",
-  "dc_type_s": "Dataset",
-  "dc_publisher_s": "Environmental Systems Research Institute (Redlands, Calif.)",
   "dc_creator_sm": [
 
   ],
+  "dc_description_s": "U.S. National Transportation Atlas Interstate Highways represents rural and urban interstate highways. U.S. National Transportation Atlas Interstate Highways is part of the National Highway Planning Network, published by the Federal Highway Administration as part of the National Transportation Atlas Databases for the United States.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "http://hdl.handle.net/2451/34176",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Environmental Systems Research Institute (Redlands, Calif.)",
+  "dc_rights_s": "Restricted",
   "dc_subject_sm": [
     "Interstate Highway System",
     "Transportation",
     "Roads--America"
   ],
+  "dc_title_s": "2010 U.S. National Transportation Atlas Interstate Highways",
+  "dc_type_s": "Dataset",
   "dct_isPartOf_sm": [
     "ESRI 10 USA Trans"
+  ],
+  "dct_provenance_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34176\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/73133/nyu_2451_34176.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\"}",
+  "dct_spatial_sm": [
+    "United States of America"
   ],
   "dct_temporal_sm": [
     "2010"
   ],
-  "dct_spatial_sm": [
-    "United States of America"
-  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Line",
+  "layer_id_s": "sdr:nyu_2451_34176",
+  "layer_modified_dt": "2016-01-30T04:03:39Z",
+  "layer_slug_s": "nyu-2451-34176",
+  "nyu_addl_dspace_s": "35025",
   "solr_geom": "ENVELOPE(-158.090072727, -67.781192727, 64.888216072, 21.273109091)",
-  "solr_year_i": 2010,
-  "geoblacklight_version": "1.0"
+  "solr_year_i": 2010
 }

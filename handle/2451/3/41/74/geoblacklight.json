@@ -1,38 +1,39 @@
 {
-  "dc_identifier_s": "http://hdl.handle.net/2451/34174",
-  "dc_title_s": "2010 U.S. National Atlas Airports",
-  "dc_description_s": "U.S. National Atlas Airports represents airports in the United States, Puerto Rico, U.S. Virgin Islands, and U.S. Possessions with airport passenger enplanements of greater than or equal to 100 passengers per year.",
-  "dc_rights_s": "Restricted",
-  "dct_provenance_s": "NYU",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34174\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/73137/nyu_2451_34174.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\"}",
-  "layer_id_s": "sdr:nyu_2451_34174",
-  "layer_slug_s": "nyu-2451-34174",
-  "layer_geom_type_s": "Point",
-  "layer_modified_dt": "2016-01-30T04:03:39Z",
-  "dc_format_s": "Shapefile",
-  "dc_language_s": "English",
-  "dc_type_s": "Dataset",
-  "dc_publisher_s": "Environmental Systems Research Institute (Redlands, Calif.)",
   "dc_creator_sm": [
 
   ],
+  "dc_description_s": "U.S. National Atlas Airports represents airports in the United States, Puerto Rico, U.S. Virgin Islands, and U.S. Possessions with airport passenger enplanements of greater than or equal to 100 passengers per year.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "http://hdl.handle.net/2451/34174",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Environmental Systems Research Institute (Redlands, Calif.)",
+  "dc_rights_s": "Restricted",
   "dc_subject_sm": [
     "Transportation",
     "Airports",
     "Airplanes"
   ],
+  "dc_title_s": "2010 U.S. National Atlas Airports",
+  "dc_type_s": "Dataset",
   "dct_isPartOf_sm": [
     "ESRI 10 USA Trans"
   ],
-  "dct_temporal_sm": [
-    "2010"
-  ],
+  "dct_provenance_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34174\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/73137/nyu_2451_34174.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\"}",
   "dct_spatial_sm": [
     "United States of America",
     "U.S. Virgin Islands",
     "Puerto Rico"
   ],
+  "dct_temporal_sm": [
+    "2010"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Point",
+  "layer_id_s": "sdr:nyu_2451_34174",
+  "layer_modified_dt": "2016-01-30T04:03:39Z",
+  "layer_slug_s": "nyu-2451-34174",
+  "nyu_addl_dspace_s": "35023",
   "solr_geom": "ENVELOPE(-177.37, 166.641662, 71.285436, -14.334444)",
-  "solr_year_i": 2010,
-  "geoblacklight_version": "1.0"
+  "solr_year_i": 2010
 }

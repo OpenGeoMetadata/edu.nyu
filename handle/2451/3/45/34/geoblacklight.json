@@ -1,36 +1,37 @@
 {
-  "dc_identifier_s": "http://hdl.handle.net/2451/34534",
-  "dc_title_s": "2014 Publicly Accessible Waterfront Spaces (PAWS) in New York City",
-  "dc_description_s": "This is a polygon shapefile of publicly accessible waterfront spaces in NYC containing jurisdictional and construction status information. The majority of these spaces were constructed in conjunction with private waterfront developments, pursuant to the NYC Zoning Resolution. This shapefile also includes spaces that are under construction (in progress), or have been approved through ULURP (Uniform Land Use Review Procedure) but construction of the waterfront spaces has not commenced. The publicly owned spaces in this shapefile do not include parks or open spaces under the jurisdiction of NYC Department of Parks and Recreation, NYS Office of Parks, Recreation & Historic Preservation, or the National Park Service. Consult the archival copy for a PAWS database, which can be joined with this file.",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "NYU",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34534\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/74488/nyu_2451_34534.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\"}",
-  "layer_id_s": "sdr:nyu_2451_34534",
-  "layer_slug_s": "nyu-2451-34534",
-  "layer_geom_type_s": "Polygon",
-  "layer_modified_dt": "2016-04-20T21:31:20Z",
-  "dc_format_s": "Shapefile",
-  "dc_language_s": "English",
-  "dc_type_s": "Dataset",
-  "dc_publisher_s": "New York (City). Department of City Planning",
   "dc_creator_sm": [
 
   ],
+  "dc_description_s": "This is a polygon shapefile of publicly accessible waterfront spaces in NYC containing jurisdictional and construction status information. The majority of these spaces were constructed in conjunction with private waterfront developments, pursuant to the NYC Zoning Resolution. This shapefile also includes spaces that are under construction (in progress), or have been approved through ULURP (Uniform Land Use Review Procedure) but construction of the waterfront spaces has not commenced. The publicly owned spaces in this shapefile do not include parks or open spaces under the jurisdiction of NYC Department of Parks and Recreation, NYS Office of Parks, Recreation & Historic Preservation, or the National Park Service. Consult the archival copy for a PAWS database, which can be joined with this file.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "http://hdl.handle.net/2451/34534",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York (City). Department of City Planning",
+  "dc_rights_s": "Public",
   "dc_subject_sm": [
     "Waterfronts",
     "Zoning"
   ],
+  "dc_title_s": "2014 Publicly Accessible Waterfront Spaces (PAWS) in New York City",
+  "dc_type_s": "Dataset",
   "dct_isPartOf_sm": [
     "Bytes of the Big Apple"
   ],
   "dct_issued_s": "2014",
-  "dct_temporal_sm": [
-    "2014"
-  ],
+  "dct_provenance_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34534\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/74488/nyu_2451_34534.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\"}",
   "dct_spatial_sm": [
     "New York, New York, United States"
   ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "sdr:nyu_2451_34534",
+  "layer_modified_dt": "2016-04-20T21:31:20Z",
+  "layer_slug_s": "nyu-2451-34534",
+  "nyu_addl_dspace_s": "35459",
   "solr_geom": "ENVELOPE(-74.2428103762222, -73.7814197364776, 40.874508009144, 40.5097467201395)",
-  "solr_year_i": 2014,
-  "geoblacklight_version": "1.0"
+  "solr_year_i": 2014
 }

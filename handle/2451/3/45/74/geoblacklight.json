@@ -1,37 +1,38 @@
 {
-  "dc_identifier_s": "http://hdl.handle.net/2451/34574",
-  "dc_title_s": "2016 LION Nodes for New York City, V. 16A",
-  "dc_description_s": "This point shapefile complements the LION street base map representing New York City's streets and other linear geographic features, such as shorelines, surface rail lines and boardwalks, along with feature names and address ranges for each addressable street segment. This is Version 16 A, released in February 2016.",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "NYU",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34574\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/74589/nyu_2451_34574.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\"}",
-  "layer_id_s": "sdr:nyu_2451_34574",
-  "layer_slug_s": "nyu-2451-34574",
-  "layer_geom_type_s": "Point",
-  "layer_modified_dt": "2016-04-20T21:31:13Z",
-  "dc_format_s": "Shapefile",
-  "dc_language_s": "English",
-  "dc_type_s": "Dataset",
-  "dc_publisher_s": "New York (City). Department of City Planning",
   "dc_creator_sm": [
 
   ],
+  "dc_description_s": "This point shapefile complements the LION street base map representing New York City's streets and other linear geographic features, such as shorelines, surface rail lines and boardwalks, along with feature names and address ranges for each addressable street segment. This is Version 16 A, released in February 2016.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "http://hdl.handle.net/2451/34574",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York (City). Department of City Planning",
+  "dc_rights_s": "Public",
   "dc_subject_sm": [
     "Streets",
     "Bridges",
     "Roads"
   ],
+  "dc_title_s": "2016 LION Nodes for New York City, V. 16A",
+  "dc_type_s": "Dataset",
   "dct_isPartOf_sm": [
     "Bytes of the Big Apple"
   ],
   "dct_issued_s": "2016",
-  "dct_temporal_sm": [
-    "2016"
-  ],
+  "dct_provenance_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34574\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/74589/nyu_2451_34574.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\",\"http://lccn.loc.gov/sh85035852\":\"https://archive.nyu.edu/retrieve/79734/nyu_2451_34574_doc.zip\"}",
   "dct_spatial_sm": [
     "New York, New York, United States"
   ],
+  "dct_temporal_sm": [
+    "2016"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Point",
+  "layer_id_s": "sdr:nyu_2451_34574",
+  "layer_modified_dt": "2016-04-20T21:31:13Z",
+  "layer_slug_s": "nyu-2451-34574",
+  "nyu_addl_dspace_s": "35502",
   "solr_geom": "ENVELOPE(-74.2587474597235, -73.7000090649133, 40.9176618090157, 40.4860830768417)",
-  "solr_year_i": 2016,
-  "geoblacklight_version": "1.0"
+  "solr_year_i": 2016
 }

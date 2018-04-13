@@ -1,36 +1,37 @@
 {
-  "dc_identifier_s": "http://hdl.handle.net/2451/34104",
-  "dc_title_s": "2010 World Airports",
-  "dc_description_s": "World Airports represents the airports of the world.",
-  "dc_rights_s": "Restricted",
-  "dct_provenance_s": "NYU",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34104\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/73298/nyu_2451_34104.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\"}",
-  "layer_id_s": "sdr:nyu_2451_34104",
-  "layer_slug_s": "nyu-2451-34104",
-  "layer_geom_type_s": "Point",
-  "layer_modified_dt": "2016-01-30T04:03:54Z",
-  "dc_format_s": "Shapefile",
-  "dc_language_s": "English",
-  "dc_type_s": "Dataset",
-  "dc_publisher_s": "Environmental Systems Research Institute (Redlands, Calif.)",
   "dc_creator_sm": [
 
   ],
+  "dc_description_s": "World Airports represents the airports of the world.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "http://hdl.handle.net/2451/34104",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Environmental Systems Research Institute (Redlands, Calif.)",
+  "dc_rights_s": "Restricted",
   "dc_subject_sm": [
     "Airports",
     "Air travel",
     "Transportation"
   ],
+  "dc_title_s": "2010 World Airports",
+  "dc_type_s": "Dataset",
   "dct_isPartOf_sm": [
     "ESRI 10 World"
+  ],
+  "dct_provenance_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34104\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/73298/nyu_2451_34104.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\"}",
+  "dct_spatial_sm": [
+    "World"
   ],
   "dct_temporal_sm": [
     "2010"
   ],
-  "dct_spatial_sm": [
-    "World"
-  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Point",
+  "layer_id_s": "sdr:nyu_2451_34104",
+  "layer_modified_dt": "2016-01-30T04:03:54Z",
+  "layer_slug_s": "nyu-2451-34104",
+  "nyu_addl_dspace_s": "34948",
   "solr_geom": "ENVELOPE(-177.380635977, 178.559227943, 78.246111115, -54.843278051)",
-  "solr_year_i": 2010,
-  "geoblacklight_version": "1.0"
+  "solr_year_i": 2010
 }

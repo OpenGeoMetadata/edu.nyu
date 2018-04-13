@@ -1,36 +1,37 @@
 {
-  "dc_identifier_s": "http://hdl.handle.net/2451/34204",
-  "dc_title_s": "2010 Housing Characteristics in Manhattan and Brooklyn",
-  "dc_description_s": "This layer represents the housing characterisitics in 2010 of Manhattan and Brooklyn at the census tract level. Downloaded from American Factfinder, Table DP04, Selected Housing Characteristics",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "NYU",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34204\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/73700/nyu_2451_34204.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\"}",
-  "layer_id_s": "sdr:nyu_2451_34204",
-  "layer_slug_s": "nyu-2451-34204",
-  "layer_geom_type_s": "Polygon",
-  "layer_modified_dt": "2016-03-11T19:07:59Z",
-  "dc_format_s": "Shapefile",
-  "dc_language_s": "English",
-  "dc_type_s": "Dataset",
-  "dc_publisher_s": "U.S. Census Bureau",
   "dc_creator_sm": [
 
   ],
+  "dc_description_s": "This layer represents the housing characterisitics in 2010 of Manhattan and Brooklyn at the census tract level. Downloaded from American Factfinder, Table DP04, Selected Housing Characteristics",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "http://hdl.handle.net/2451/34204",
+  "dc_language_s": "English",
+  "dc_publisher_s": "U.S. Census Bureau",
+  "dc_rights_s": "Public",
   "dc_subject_sm": [
     "Census",
     "Housing",
     "Housing--United States"
   ],
+  "dc_title_s": "2010 Housing Characteristics in Manhattan and Brooklyn",
+  "dc_type_s": "Dataset",
   "dct_isPartOf_sm": [
     "Art and Politics in the City"
+  ],
+  "dct_provenance_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34204\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/73700/nyu_2451_34204.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\"}",
+  "dct_spatial_sm": [
+    "New York, New York, United States"
   ],
   "dct_temporal_sm": [
     "2010"
   ],
-  "dct_spatial_sm": [
-    "New York, New York, United States"
-  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "sdr:nyu_2451_34204",
+  "layer_modified_dt": "2016-03-11T19:07:59Z",
+  "layer_slug_s": "nyu-2451-34204",
+  "nyu_addl_dspace_s": "35057",
   "solr_geom": "ENVELOPE(-74.0472333882571, -73.8335583513957, 40.8792862922826, 40.5695382235533)",
-  "solr_year_i": 2010,
-  "geoblacklight_version": "1.0"
+  "solr_year_i": 2010
 }

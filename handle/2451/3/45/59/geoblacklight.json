@@ -1,36 +1,37 @@
 {
-  "dc_identifier_s": "http://hdl.handle.net/2451/34559",
-  "dc_title_s": "2016 New York City Fire Divisions (Clipped to Shoreline)",
-  "dc_description_s": "This polygon shapefile layer represents the service area boundaries for the fire divisions of the City of New York, clipped to the shoreline. This file was generated from the 16A release of the Department of City Planning's LION file.",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "NYU",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34559\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/74549/nyu_2451_34559.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\"}",
-  "layer_id_s": "sdr:nyu_2451_34559",
-  "layer_slug_s": "nyu-2451-34559",
-  "layer_geom_type_s": "Polygon",
-  "layer_modified_dt": "2016-04-20T21:31:15Z",
-  "dc_format_s": "Shapefile",
-  "dc_language_s": "English",
-  "dc_type_s": "Dataset",
-  "dc_publisher_s": "New York (City). Department of City Planning",
   "dc_creator_sm": [
 
   ],
+  "dc_description_s": "This polygon shapefile layer represents the service area boundaries for the fire divisions of the City of New York, clipped to the shoreline. This file was generated from the 16A release of the Department of City Planning's LION file.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "http://hdl.handle.net/2451/34559",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York (City). Department of City Planning",
+  "dc_rights_s": "Public",
   "dc_subject_sm": [
     "Fire stations",
     "Fire departments--Administration",
     "Fire departments"
   ],
+  "dc_title_s": "2016 New York City Fire Divisions (Clipped to Shoreline)",
+  "dc_type_s": "Dataset",
   "dct_isPartOf_sm": [
     "Bytes of the Big Apple"
+  ],
+  "dct_provenance_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34559\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/74549/nyu_2451_34559.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\"}",
+  "dct_spatial_sm": [
+    "New York, New York, United States"
   ],
   "dct_temporal_sm": [
     "2016"
   ],
-  "dct_spatial_sm": [
-    "New York, New York, United States"
-  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "sdr:nyu_2451_34559",
+  "layer_modified_dt": "2016-04-20T21:31:15Z",
+  "layer_slug_s": "nyu-2451-34559",
+  "nyu_addl_dspace_s": "35491",
   "solr_geom": "ENVELOPE(-74.2555913631541, -73.7000090632127, 40.9155327770047, 40.4961153951707)",
-  "solr_year_i": 2016,
-  "geoblacklight_version": "1.0"
+  "solr_year_i": 2016
 }

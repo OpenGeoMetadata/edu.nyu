@@ -1,37 +1,38 @@
 {
-  "dc_identifier_s": "http://hdl.handle.net/2451/34146",
-  "dc_title_s": "2010 U.S. National Atlas Historic Earthquakes",
-  "dc_description_s": "U.S. National Atlas Historic Earthquakes represents the locations of significant, historic earthquakes in United States and adjacent Canada and Mexico that caused deaths, property damage, and geological effects, or were otherwise experienced by the resident populations.",
-  "dc_rights_s": "Restricted",
-  "dct_provenance_s": "NYU",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34146\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/73202/nyu_2451_34146.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\"}",
-  "layer_id_s": "sdr:nyu_2451_34146",
-  "layer_slug_s": "nyu-2451-34146",
-  "layer_geom_type_s": "Polygon",
-  "layer_modified_dt": "2016-01-30T04:03:45Z",
-  "dc_format_s": "Shapefile",
-  "dc_language_s": "English",
-  "dc_type_s": "Dataset",
-  "dc_publisher_s": "Environmental Systems Research Institute (Redlands, Calif.)",
   "dc_creator_sm": [
 
   ],
+  "dc_description_s": "U.S. National Atlas Historic Earthquakes represents the locations of significant, historic earthquakes in United States and adjacent Canada and Mexico that caused deaths, property damage, and geological effects, or were otherwise experienced by the resident populations.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "http://hdl.handle.net/2451/34146",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Environmental Systems Research Institute (Redlands, Calif.)",
+  "dc_rights_s": "Restricted",
   "dc_subject_sm": [
     "Earthquake engineering",
     "Earthquakes",
     "Seismology",
     "Natural disasters"
   ],
+  "dc_title_s": "2010 U.S. National Atlas Historic Earthquakes",
+  "dc_type_s": "Dataset",
   "dct_isPartOf_sm": [
     "ESRI 10 USA Landmarks"
+  ],
+  "dct_provenance_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34146\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/73202/nyu_2451_34146.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\"}",
+  "dct_spatial_sm": [
+    "United States of America"
   ],
   "dct_temporal_sm": [
     "2010"
   ],
-  "dct_spatial_sm": [
-    "United States of America"
-  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "sdr:nyu_2451_34146",
+  "layer_modified_dt": "2016-01-30T04:03:45Z",
+  "layer_slug_s": "nyu-2451-34146",
+  "nyu_addl_dspace_s": "34991",
   "solr_geom": "ENVELOPE(-179.992675781, 180.0, 68.688659668, 17.25)",
-  "solr_year_i": 2010,
-  "geoblacklight_version": "1.0"
+  "solr_year_i": 2010
 }

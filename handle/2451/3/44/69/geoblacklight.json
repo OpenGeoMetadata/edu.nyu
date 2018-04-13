@@ -1,36 +1,37 @@
 {
-  "dc_identifier_s": "http://hdl.handle.net/2451/34469",
-  "dc_title_s": "2008 Global 2G Mobile Communications Network Coverage",
-  "dc_description_s": "This polygon shapefile is a representation of the coverage area for 2G mobile communications networks around the world in 2008. The data is created from submissions made directly to Collins Bartholomew or the GSMA from mobile operators, which provide roaming detail for inclusion in the online mapping application known as Collins Mobile Coverage Web. Polygons representing the network coverage have been split into country areas using the country polygons from the Collins World Explorer vector product. Polygons are supplied as multipart, and include any country ISO or FIPS codes where known. The data is supplied with a nominal resolution of approximately 1km on the ground. This map can be used to locate and analyze mobile communications coverage on a global scale.",
-  "dc_rights_s": "Restricted",
-  "dct_provenance_s": "NYU",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34469\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/73614/nyu_2451_34469.zip\"}",
-  "layer_id_s": "sdr:nyu_2451_34469",
-  "layer_slug_s": "nyu-2451-34469",
-  "layer_geom_type_s": "Polygon",
-  "layer_modified_dt": "2016-02-11T20:38:57Z",
-  "dc_format_s": "Shapefile",
-  "dc_language_s": "English",
-  "dc_type_s": "Dataset",
-  "dc_publisher_s": "Collins Bartholomew Ltd.",
   "dc_creator_sm": [
 
   ],
+  "dc_description_s": "This polygon shapefile is a representation of the coverage area for 2G mobile communications networks around the world in 2008. The data is created from submissions made directly to Collins Bartholomew or the GSMA from mobile operators, which provide roaming detail for inclusion in the online mapping application known as Collins Mobile Coverage Web. Polygons representing the network coverage have been split into country areas using the country polygons from the Collins World Explorer vector product. Polygons are supplied as multipart, and include any country ISO or FIPS codes where known. The data is supplied with a nominal resolution of approximately 1km on the ground. This map can be used to locate and analyze mobile communications coverage on a global scale.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "http://hdl.handle.net/2451/34469",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Collins Bartholomew Ltd.",
+  "dc_rights_s": "Restricted",
   "dc_subject_sm": [
     "Global system for mobile communications",
     "Utilities and Communication"
   ],
+  "dc_title_s": "2008 Global 2G Mobile Communications Network Coverage",
+  "dc_type_s": "Dataset",
   "dct_isPartOf_sm": [
     "Mobile Coverage Legacy"
   ],
   "dct_issued_s": "2010",
-  "dct_temporal_sm": [
-    "2008"
-  ],
+  "dct_provenance_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34469\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/73614/nyu_2451_34469.zip\"}",
   "dct_spatial_sm": [
     "Earth"
   ],
+  "dct_temporal_sm": [
+    "2008"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "sdr:nyu_2451_34469",
+  "layer_modified_dt": "2016-02-11T20:38:57Z",
+  "layer_slug_s": "nyu-2451-34469",
+  "nyu_addl_dspace_s": "35369",
   "solr_geom": "ENVELOPE(-179.98222, 180.0, 77.72444, -62.266667)",
-  "solr_year_i": 2008,
-  "geoblacklight_version": "1.0"
+  "solr_year_i": 2008
 }

@@ -1,35 +1,36 @@
 {
-  "dc_identifier_s": "http://hdl.handle.net/2451/34105",
-  "dc_title_s": "2010 World Cities",
-  "dc_description_s": "World Cities represents the locations of the major cities of the world.",
-  "dc_rights_s": "Restricted",
-  "dct_provenance_s": "NYU",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34105\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/73296/nyu_2451_34105.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\"}",
-  "layer_id_s": "sdr:nyu_2451_34105",
-  "layer_slug_s": "nyu-2451-34105",
-  "layer_geom_type_s": "Point",
-  "layer_modified_dt": "2016-01-30T04:03:53Z",
-  "dc_format_s": "Shapefile",
-  "dc_language_s": "English",
-  "dc_type_s": "Dataset",
-  "dc_publisher_s": "Environmental Systems Research Institute (Redlands, Calif.)",
   "dc_creator_sm": [
 
   ],
+  "dc_description_s": "World Cities represents the locations of the major cities of the world.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "http://hdl.handle.net/2451/34105",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Environmental Systems Research Institute (Redlands, Calif.)",
+  "dc_rights_s": "Restricted",
   "dc_subject_sm": [
     "Cities and towns",
     "Population"
   ],
+  "dc_title_s": "2010 World Cities",
+  "dc_type_s": "Dataset",
   "dct_isPartOf_sm": [
     "ESRI 10 World"
+  ],
+  "dct_provenance_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34105\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/73296/nyu_2451_34105.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\"}",
+  "dct_spatial_sm": [
+    "World"
   ],
   "dct_temporal_sm": [
     "2010"
   ],
-  "dct_spatial_sm": [
-    "World"
-  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Point",
+  "layer_id_s": "sdr:nyu_2451_34105",
+  "layer_modified_dt": "2016-01-30T04:03:53Z",
+  "layer_slug_s": "nyu-2451-34105",
+  "nyu_addl_dspace_s": "34949",
   "solr_geom": "ENVELOPE(-176.151563636, 179.221887695, 78.200001155, -54.792)",
-  "solr_year_i": 2010,
-  "geoblacklight_version": "1.0"
+  "solr_year_i": 2010
 }

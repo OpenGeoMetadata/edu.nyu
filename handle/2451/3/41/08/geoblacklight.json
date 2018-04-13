@@ -1,34 +1,35 @@
 {
-  "dc_identifier_s": "http://hdl.handle.net/2451/34108",
-  "dc_title_s": "2008 World Countries (Generalized)",
-  "dc_description_s": "World Countries (Generalized) represents generalized boundaries for the countries of the world as they existed in January 2008.",
-  "dc_rights_s": "Restricted",
-  "dct_provenance_s": "NYU",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34108\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/73287/nyu_2451_34108.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\"}",
-  "layer_id_s": "sdr:nyu_2451_34108",
-  "layer_slug_s": "nyu-2451-34108",
-  "layer_geom_type_s": "Polygon",
-  "layer_modified_dt": "2016-01-30T04:03:53Z",
-  "dc_format_s": "Shapefile",
-  "dc_language_s": "English",
-  "dc_type_s": "Dataset",
-  "dc_publisher_s": "Environmental Systems Research Institute (Redlands, Calif.)",
   "dc_creator_sm": [
 
   ],
+  "dc_description_s": "World Countries (Generalized) represents generalized boundaries for the countries of the world as they existed in January 2008.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "http://hdl.handle.net/2451/34108",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Environmental Systems Research Institute (Redlands, Calif.)",
+  "dc_rights_s": "Restricted",
   "dc_subject_sm": [
     "Boundaries"
   ],
+  "dc_title_s": "2008 World Countries (Generalized)",
+  "dc_type_s": "Dataset",
   "dct_isPartOf_sm": [
     "ESRI 10 World"
+  ],
+  "dct_provenance_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34108\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/73287/nyu_2451_34108.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\"}",
+  "dct_spatial_sm": [
+    "World"
   ],
   "dct_temporal_sm": [
     "2008"
   ],
-  "dct_spatial_sm": [
-    "World"
-  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "sdr:nyu_2451_34108",
+  "layer_modified_dt": "2016-01-30T04:03:53Z",
+  "layer_slug_s": "nyu-2451-34108",
+  "nyu_addl_dspace_s": "34952",
   "solr_geom": "ENVELOPE(-180.0, 180.0, 83.604154147, -90.0)",
-  "solr_year_i": 2008,
-  "geoblacklight_version": "1.0"
+  "solr_year_i": 2008
 }

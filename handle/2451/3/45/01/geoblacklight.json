@@ -1,21 +1,13 @@
 {
-  "dc_identifier_s": "http://hdl.handle.net/2451/34501",
-  "dc_title_s": "2015 New York City Public Schools",
-  "dc_description_s": "This point layer is an extract of NYC's Selected Facilities and Program Sites database that has been converted to a spatial layer. The data was take \"as is\" and was not verified for accuracy or omissions. It includes all facilities coded as public schools (factypes 1001 through 1018). The capacity field is the total enrollment for the 2013-14 school year, with two additional fields that indicate enrollment for pre-k through 8th grade and 9th through 12th grade, as reported by the NYS Dept of Education. There is an sd field that indicates school district. The unique ID is id, a field created by the City. This layer was created as part of the NYC Geodatabase (NYC GDB) project, a resource designed for basic geographic analysis and thematic mapping within the five boroughs of New York City.",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Baruch CUNY",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34501\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/74700/nyu_2451_34501.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"http://metadata.geo.nyu.edu/records/edu.nyu/handle/2451/34501/iso19139.xml\",\"http://lccn.loc.gov/sh85035852\":\"https://archive.nyu.edu/retrieve/74754/nyu_2451_34501_doc.zip\"}",
-  "layer_id_s": "sdr:nyu_2451_34501",
-  "layer_slug_s": "nyu-2451-34501",
-  "layer_geom_type_s": "Point",
-  "layer_modified_dt": "2016-05-02T18:21:05Z",
-  "dc_format_s": "Shapefile",
-  "dc_language_s": "English",
-  "dc_type_s": "Dataset",
-  "dc_publisher_s": "Newman Library (Bernard M. Baruch College)",
   "dc_creator_sm": [
     "GIS Lab, Newman Library, Baruch CUNY"
   ],
+  "dc_description_s": "This point layer is an extract of NYC's Selected Facilities and Program Sites database that has been converted to a spatial layer. The data was take \"as is\" and was not verified for accuracy or omissions. It includes all facilities coded as public schools (factypes 1001 through 1018). The capacity field is the total enrollment for the 2013-14 school year, with two additional fields that indicate enrollment for pre-k through 8th grade and 9th through 12th grade, as reported by the NYS Dept of Education. There is an sd field that indicates school district. The unique ID is id, a field created by the City. This layer was created as part of the NYC Geodatabase (NYC GDB) project, a resource designed for basic geographic analysis and thematic mapping within the five boroughs of New York City.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "http://hdl.handle.net/2451/34501",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Newman Library (Bernard M. Baruch College)",
+  "dc_rights_s": "Public",
   "dc_subject_sm": [
     "Elementary schools",
     "Middle schools",
@@ -23,12 +15,17 @@
     "Kindergarten",
     "Public schools"
   ],
+  "dc_title_s": "2015 New York City Public Schools",
+  "dc_type_s": "Dataset",
   "dct_isPartOf_sm": [
     "NYC Geodatabase (version jan2016)"
   ],
   "dct_issued_s": "1/15/2016",
-  "dct_temporal_sm": [
-    "2015"
+  "dct_provenance_s": "Baruch CUNY",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34501\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/74700/nyu_2451_34501.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"http://metadata.geo.nyu.edu/records/edu.nyu/handle/2451/34501/iso19139.xml\",\"http://lccn.loc.gov/sh85035852\":\"https://archive.nyu.edu/retrieve/74754/nyu_2451_34501_doc.zip\"}",
+  "dct_source_sm": [
+    "nyu_2451_34635",
+    "nyu_2451_34636"
   ],
   "dct_spatial_sm": [
     "New York, New York, United States",
@@ -43,11 +40,15 @@
     "Borough of Queens, New York, United States",
     "Borough of Staten Island, New York, United States"
   ],
-  "solr_geom": "ENVELOPE(-74.243950969043, -73.7086288204577, 40.9033081118142, 40.507769528921)",
-  "solr_year_i": 2015,
-  "dct_source_sm": [
-    "nyu_2451_34635",
-    "nyu_2451_34636"
+  "dct_temporal_sm": [
+    "2015"
   ],
-  "geoblacklight_version": "1.0"
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Point",
+  "layer_id_s": "sdr:nyu_2451_34501",
+  "layer_modified_dt": "2016-05-02T18:21:05Z",
+  "layer_slug_s": "nyu-2451-34501",
+  "nyu_addl_dspace_s": "35407",
+  "solr_geom": "ENVELOPE(-74.243950969043, -73.7086288204577, 40.9033081118142, 40.507769528921)",
+  "solr_year_i": 2015
 }

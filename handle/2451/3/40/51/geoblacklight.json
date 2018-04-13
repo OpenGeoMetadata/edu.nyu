@@ -1,35 +1,36 @@
 {
-  "dc_identifier_s": "http://hdl.handle.net/2451/34051",
-  "dc_title_s": "2010 U.S. and Canada Highway Exits",
-  "dc_description_s": "U.S. and Canada Highway Exits represents highway exits in the United States and Canada.",
-  "dc_rights_s": "Restricted",
-  "dct_provenance_s": "NYU",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34051\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/bitstream/2451/34051/4/nyu_2451_34051.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\"}",
-  "layer_id_s": "sdr:nyu_2451_34051",
-  "layer_slug_s": "nyu-2451-34051",
-  "layer_geom_type_s": "Point",
-  "layer_modified_dt": "2016-01-30T04:04:04Z",
-  "dc_format_s": "Shapefile",
-  "dc_language_s": "English",
-  "dc_publisher_s": "Environmental Systems Research Institute (Redlands, Calif.)",
   "dc_creator_sm": [
 
   ],
+  "dc_description_s": "U.S. and Canada Highway Exits represents highway exits in the United States and Canada.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "http://hdl.handle.net/2451/34051",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Environmental Systems Research Institute (Redlands, Calif.)",
+  "dc_rights_s": "Restricted",
   "dc_subject_sm": [
     "Roads",
     "Transportation"
   ],
+  "dc_title_s": "2010 U.S. and Canada Highway Exits",
   "dct_isPartOf_sm": [
     "ESRI 10 StreetMap"
   ],
-  "dct_temporal_sm": [
-    "2010"
-  ],
+  "dct_provenance_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34051\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/bitstream/2451/34051/4/nyu_2451_34051.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\"}",
   "dct_spatial_sm": [
     "United States of America",
     "Canada"
   ],
+  "dct_temporal_sm": [
+    "2010"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Point",
+  "layer_id_s": "sdr:nyu_2451_34051",
+  "layer_modified_dt": "2016-01-30T04:04:04Z",
+  "layer_slug_s": "nyu-2451-34051",
+  "nyu_addl_dspace_s": "34894",
   "solr_geom": "ENVELOPE(-170.1769013405, -64.5665435791, 71.6032483233, 24.7073204053)",
-  "solr_year_i": 2010,
-  "geoblacklight_version": "1.0"
+  "solr_year_i": 2010
 }

@@ -1,34 +1,35 @@
 {
-  "dc_identifier_s": "http://hdl.handle.net/2451/34182",
-  "dc_title_s": "2010 U.S. State Plane Zones (NAD 1927)",
-  "dc_description_s": "U.S. State Plane Zones (NAD 1927) represents the State Plane Coordinate System (SPCS) Zones for the 1927 North American Datum within United States. Several State Plane Coordinate System zones are not shown in this dataset, including Puerto Rico, the U.S. Virgin Islands, American Samoa, Guam, and Louisiana's offshore zone.",
-  "dc_rights_s": "Restricted",
-  "dct_provenance_s": "NYU",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34182\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/73118/nyu_2451_34182.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\"}",
-  "layer_id_s": "sdr:nyu_2451_34182",
-  "layer_slug_s": "nyu-2451-34182",
-  "layer_geom_type_s": "Polygon",
-  "layer_modified_dt": "2016-01-30T04:03:38Z",
-  "dc_format_s": "Shapefile",
-  "dc_language_s": "English",
-  "dc_type_s": "Dataset",
-  "dc_publisher_s": "Environmental Systems Research Institute (Redlands, Calif.)",
   "dc_creator_sm": [
 
   ],
+  "dc_description_s": "U.S. State Plane Zones (NAD 1927) represents the State Plane Coordinate System (SPCS) Zones for the 1927 North American Datum within United States. Several State Plane Coordinate System zones are not shown in this dataset, including Puerto Rico, the U.S. Virgin Islands, American Samoa, Guam, and Louisiana's offshore zone.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "http://hdl.handle.net/2451/34182",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Environmental Systems Research Institute (Redlands, Calif.)",
+  "dc_rights_s": "Restricted",
   "dc_subject_sm": [
     "United States--Maps"
   ],
+  "dc_title_s": "2010 U.S. State Plane Zones (NAD 1927)",
+  "dc_type_s": "Dataset",
   "dct_isPartOf_sm": [
 
+  ],
+  "dct_provenance_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34182\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/73118/nyu_2451_34182.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\"}",
+  "dct_spatial_sm": [
+    "United States of America"
   ],
   "dct_temporal_sm": [
     "2010"
   ],
-  "dct_spatial_sm": [
-    "United States of America"
-  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "sdr:nyu_2451_34182",
+  "layer_modified_dt": "2016-01-30T04:03:38Z",
+  "layer_slug_s": "nyu-2451-34182",
+  "nyu_addl_dspace_s": "35031",
   "solr_geom": "ENVELOPE(-178.215027273, -66.969843273, 71.406643818, 18.924781818)",
-  "solr_year_i": 2010,
-  "geoblacklight_version": "1.0"
+  "solr_year_i": 2010
 }

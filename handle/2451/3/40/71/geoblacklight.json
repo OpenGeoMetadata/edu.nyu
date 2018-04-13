@@ -1,36 +1,37 @@
 {
-  "dc_identifier_s": "http://hdl.handle.net/2451/34071",
-  "dc_title_s": "2010 U.S. and Canada Postal Points",
-  "dc_description_s": "U.S. and Canada Postal Points represents the five-digit ZIP Code areas of the United States and the three-character Forward Sortation Areas (FSA) of Canada as centroids.",
-  "dc_rights_s": "Restricted",
-  "dct_provenance_s": "NYU",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34071\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/72244/nyu_2451_34071.zip\"}",
-  "layer_id_s": "sdr:nyu_2451_34071",
-  "layer_slug_s": "nyu-2451-34071",
-  "layer_geom_type_s": "Point",
-  "layer_modified_dt": "2016-01-30T04:04:00Z",
-  "dc_format_s": "Shapefile",
-  "dc_language_s": "English",
-  "dc_type_s": "Dataset",
-  "dc_publisher_s": "Environmental Systems Research Institute (Redlands, Calif.)",
   "dc_creator_sm": [
 
   ],
+  "dc_description_s": "U.S. and Canada Postal Points represents the five-digit ZIP Code areas of the United States and the three-character Forward Sortation Areas (FSA) of Canada as centroids.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "http://hdl.handle.net/2451/34071",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Environmental Systems Research Institute (Redlands, Calif.)",
+  "dc_rights_s": "Restricted",
   "dc_subject_sm": [
     "Postal codes--United States",
     "Zip codes"
   ],
+  "dc_title_s": "2010 U.S. and Canada Postal Points",
+  "dc_type_s": "Dataset",
   "dct_isPartOf_sm": [
     "ESRI 10 StreetMap"
   ],
-  "dct_temporal_sm": [
-    "2010"
-  ],
+  "dct_provenance_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34071\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/72244/nyu_2451_34071.zip\"}",
   "dct_spatial_sm": [
     "United States of America",
     "Canada"
   ],
+  "dct_temporal_sm": [
+    "2010"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Point",
+  "layer_id_s": "sdr:nyu_2451_34071",
+  "layer_modified_dt": "2016-01-30T04:04:00Z",
+  "layer_slug_s": "nyu-2451-34071",
+  "nyu_addl_dspace_s": "34915",
   "solr_geom": "ENVELOPE(-176.696649, -52.702767, 70.638306, 17.975941)",
-  "solr_year_i": 2010,
-  "geoblacklight_version": "1.0"
+  "solr_year_i": 2010
 }

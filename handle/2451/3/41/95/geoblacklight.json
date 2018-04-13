@@ -1,35 +1,36 @@
 {
-  "dc_identifier_s": "http://hdl.handle.net/2451/34195",
-  "dc_title_s": "2015 New York City Beats",
-  "dc_description_s": "This map represents ares in New York City where students collected images and attribute information about graffiti and urban spaces. The beats, or informally designated areas, were designated by the professors of the class and do not adhere to any established political boundaries or administrative divisions.",
-  "dc_rights_s": "Restricted",
-  "dct_provenance_s": "NYU",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34195\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/72425/nyu_2451_34195.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\"}",
-  "layer_id_s": "sdr:nyu_2451_34195",
-  "layer_slug_s": "nyu-2451-34195",
-  "layer_geom_type_s": "Polygon",
-  "layer_modified_dt": "2016-03-11T19:07:59Z",
-  "dc_format_s": "Shapefile",
-  "dc_language_s": "English",
-  "dc_type_s": "Dataset",
   "dc_creator_sm": [
 
   ],
+  "dc_description_s": "This map represents ares in New York City where students collected images and attribute information about graffiti and urban spaces. The beats, or informally designated areas, were designated by the professors of the class and do not adhere to any established political boundaries or administrative divisions.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "http://hdl.handle.net/2451/34195",
+  "dc_language_s": "English",
+  "dc_rights_s": "Restricted",
   "dc_subject_sm": [
     "Neighborhoods",
     "Communities"
   ],
+  "dc_title_s": "2015 New York City Beats",
+  "dc_type_s": "Dataset",
   "dct_isPartOf_sm": [
     "Art and Politics in the City",
     "NYU Research Data"
   ],
-  "dct_temporal_sm": [
-    "2015"
-  ],
+  "dct_provenance_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34195\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/72425/nyu_2451_34195.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\"}",
   "dct_spatial_sm": [
     "New York, New York, United States"
   ],
+  "dct_temporal_sm": [
+    "2015"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "sdr:nyu_2451_34195",
+  "layer_modified_dt": "2016-03-11T19:07:59Z",
+  "layer_slug_s": "nyu-2451-34195",
+  "nyu_addl_dspace_s": "35048",
   "solr_geom": "ENVELOPE(-74.0109649926446, -73.8894183937195, 40.7993154617878, 40.6709360065636)",
-  "solr_year_i": 2015,
-  "geoblacklight_version": "1.0"
+  "solr_year_i": 2015
 }

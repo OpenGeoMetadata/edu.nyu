@@ -1,36 +1,37 @@
 {
-  "dc_identifier_s": "http://hdl.handle.net/2451/34149",
-  "dc_title_s": "2010 Europe NUTS 0 Demographics",
-  "dc_description_s": "Europe NUTS 0 Demographics represents areas of aggregated socioeconomic and demographic information at the NUTS 0 (country) level for Europe. NUTS (Nomenclature des UnitÃ©s Territoriales Statistiques) refers to the Nomenclature of Territorial Units for Statistics. For more information: http://ec.europa.eu/eurostat/ramon/nuts/home_regions_en.html.",
-  "dc_rights_s": "Restricted",
-  "dct_provenance_s": "NYU",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34149\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/73193/nyu_2451_34149.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\"}",
-  "layer_id_s": "sdr:nyu_2451_34149",
-  "layer_slug_s": "nyu-2451-34149",
-  "layer_geom_type_s": "Polygon",
-  "layer_modified_dt": "2016-01-30T04:03:44Z",
-  "dc_format_s": "Shapefile",
-  "dc_language_s": "English",
-  "dc_type_s": "Dataset",
-  "dc_publisher_s": "Environmental Systems Research Institute (Redlands, Calif.)",
   "dc_creator_sm": [
 
   ],
+  "dc_description_s": "Europe NUTS 0 Demographics represents areas of aggregated socioeconomic and demographic information at the NUTS 0 (country) level for Europe. NUTS (Nomenclature des UnitÃ©s Territoriales Statistiques) refers to the Nomenclature of Territorial Units for Statistics. For more information: http://ec.europa.eu/eurostat/ramon/nuts/home_regions_en.html.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "http://hdl.handle.net/2451/34149",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Environmental Systems Research Institute (Redlands, Calif.)",
+  "dc_rights_s": "Restricted",
   "dc_subject_sm": [
     "Demography",
     "Population",
     "Europe--Administrative and political divisions--Maps"
   ],
+  "dc_title_s": "2010 Europe NUTS 0 Demographics",
+  "dc_type_s": "Dataset",
   "dct_isPartOf_sm": [
     "ESRI 10 Europe"
+  ],
+  "dct_provenance_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34149\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/73193/nyu_2451_34149.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\"}",
+  "dct_spatial_sm": [
+    "Europe"
   ],
   "dct_temporal_sm": [
     "2010"
   ],
-  "dct_spatial_sm": [
-    "Europe"
-  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "sdr:nyu_2451_34149",
+  "layer_modified_dt": "2016-01-30T04:03:44Z",
+  "layer_slug_s": "nyu-2451-34149",
+  "nyu_addl_dspace_s": "34994",
   "solr_geom": "ENVELOPE(-31.268789, 69.068487, 77.001793998, 27.638029)",
-  "solr_year_i": 2010,
-  "geoblacklight_version": "1.0"
+  "solr_year_i": 2010
 }

@@ -1,21 +1,13 @@
 {
-  "dc_identifier_s": "http://hdl.handle.net/2451/34129",
-  "dc_title_s": "2010 World Wildlife Fund Terrestrial Ecoregions",
-  "dc_description_s": "World Wildlife Fund Terrestrial Ecoregions represents global terrestrial ecoregions. Ecoregions are defined as relatively large areas of land or water in the world containing a characteristic set of natural communities that share a large majority of their species, dynamics, and environmental conditions. This data set contains all terrestrial ecoregions, which include those of the Global 200. Global 200 ecoregions are a collection of the Earth's most outstanding and diverse terrestrial, freshwater, and marine habitats where the Earth's biological wealth is most distinctive and rich, where its loss will be most severely felt, and we must protect if we are to preserve the web of life. For more information, contact http://www.worldwildlife.org.",
-  "dc_rights_s": "Restricted",
-  "dct_provenance_s": "NYU",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34129\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/73239/nyu_2451_34129.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\"}",
-  "layer_id_s": "sdr:nyu_2451_34129",
-  "layer_slug_s": "nyu-2451-34129",
-  "layer_geom_type_s": "Polygon",
-  "layer_modified_dt": "2016-01-30T04:03:49Z",
-  "dc_format_s": "Shapefile",
-  "dc_language_s": "English",
-  "dc_type_s": "Dataset",
-  "dc_publisher_s": "Environmental Systems Research Institute (Redlands, Calif.)",
   "dc_creator_sm": [
 
   ],
+  "dc_description_s": "World Wildlife Fund Terrestrial Ecoregions represents global terrestrial ecoregions. Ecoregions are defined as relatively large areas of land or water in the world containing a characteristic set of natural communities that share a large majority of their species, dynamics, and environmental conditions. This data set contains all terrestrial ecoregions, which include those of the Global 200. Global 200 ecoregions are a collection of the Earth's most outstanding and diverse terrestrial, freshwater, and marine habitats where the Earth's biological wealth is most distinctive and rich, where its loss will be most severely felt, and we must protect if we are to preserve the web of life. For more information, contact http://www.worldwildlife.org.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "http://hdl.handle.net/2451/34129",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Environmental Systems Research Institute (Redlands, Calif.)",
+  "dc_rights_s": "Restricted",
   "dc_subject_sm": [
     "Ecological districts",
     "Ecology",
@@ -23,16 +15,25 @@
     "Nature",
     "Species diversity"
   ],
+  "dc_title_s": "2010 World Wildlife Fund Terrestrial Ecoregions",
+  "dc_type_s": "Dataset",
   "dct_isPartOf_sm": [
     "ESRI 10 World"
+  ],
+  "dct_provenance_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34129\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/73239/nyu_2451_34129.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\"}",
+  "dct_spatial_sm": [
+    "World"
   ],
   "dct_temporal_sm": [
     "2010"
   ],
-  "dct_spatial_sm": [
-    "World"
-  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "sdr:nyu_2451_34129",
+  "layer_modified_dt": "2016-01-30T04:03:49Z",
+  "layer_slug_s": "nyu-2451-34129",
+  "nyu_addl_dspace_s": "34974",
   "solr_geom": "ENVELOPE(-179.999988601, 179.999984399, 83.623121651, -89.891973349)",
-  "solr_year_i": 2010,
-  "geoblacklight_version": "1.0"
+  "solr_year_i": 2010
 }

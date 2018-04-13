@@ -1,36 +1,37 @@
 {
-  "dc_identifier_s": "http://hdl.handle.net/2451/34107",
-  "dc_title_s": "2010 World Contours",
-  "dc_description_s": "World Contours represents the 600-meter interval contour lines of the world.",
-  "dc_rights_s": "Restricted",
-  "dct_provenance_s": "NYU",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34107\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/73292/nyu_2451_34107.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\"}",
-  "layer_id_s": "sdr:nyu_2451_34107",
-  "layer_slug_s": "nyu-2451-34107",
-  "layer_geom_type_s": "Line",
-  "layer_modified_dt": "2016-01-30T04:03:53Z",
-  "dc_format_s": "Shapefile",
-  "dc_language_s": "English",
-  "dc_type_s": "Dataset",
-  "dc_publisher_s": "Environmental Systems Research Institute (Redlands, Calif.)",
   "dc_creator_sm": [
 
   ],
+  "dc_description_s": "World Contours represents the 600-meter interval contour lines of the world.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "http://hdl.handle.net/2451/34107",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Environmental Systems Research Institute (Redlands, Calif.)",
+  "dc_rights_s": "Restricted",
   "dc_subject_sm": [
     "Topographic maps",
     "Nature",
     "Contours (Cartography)"
   ],
+  "dc_title_s": "2010 World Contours",
+  "dc_type_s": "Dataset",
   "dct_isPartOf_sm": [
     "ESRI 10 World"
+  ],
+  "dct_provenance_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34107\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/73292/nyu_2451_34107.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\"}",
+  "dct_spatial_sm": [
+    "World"
   ],
   "dct_temporal_sm": [
     "2010"
   ],
-  "dct_spatial_sm": [
-    "World"
-  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Line",
+  "layer_id_s": "sdr:nyu_2451_34107",
+  "layer_modified_dt": "2016-01-30T04:03:53Z",
+  "layer_slug_s": "nyu-2451-34107",
+  "nyu_addl_dspace_s": "34951",
   "solr_geom": "ENVELOPE(-180.0, 180.0, 83.619458632, -59.454936147)",
-  "solr_year_i": 2010,
-  "geoblacklight_version": "1.0"
+  "solr_year_i": 2010
 }

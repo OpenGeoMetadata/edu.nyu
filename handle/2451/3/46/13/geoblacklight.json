@@ -1,41 +1,42 @@
 {
-  "dc_identifier_s": "http://hdl.handle.net/2451/34613",
-  "dc_title_s": "2015 Tapestry Market Segmentation Data by Census Designated Place",
-  "dc_description_s": "This polygon shapefile layer represents Tapestry Market Segmentation data at the Census Designated Place level. Tapestry is a geodemographic segmentation system that integrates consumer traits with residential characteristics to identify markets and classify US neighborhoods. Neighborhoods with the most similar characteristics are grouped together, while neighborhoods with divergent characteristics are separated. Internally homogenous, externally heterogeneous market segments depict consumers' lifestyles and lifestages. Tapestry Segmentation combines the \"who\" of lifestyle demography with the \"where\" of local geography to create a classification model with 67 distinct, behavioral market segments. For complete information on the methodology behind the Tapestry data and attribute definitions, see the file documentation. This layer was derived from the 2015 ESRI Tapestry Data Geodatabase (nyu_2451_34605)",
-  "dc_rights_s": "Restricted",
-  "dct_provenance_s": "NYU",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34613\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/74820/nyu_2451_34613.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\",\"http://lccn.loc.gov/sh85035852\":\"https://archive.nyu.edu/retrieve/74831/nyu_2451_34613_doc.zip\"}",
-  "layer_id_s": "sdr:nyu_2451_34613",
-  "layer_slug_s": "nyu-2451-34613",
-  "layer_geom_type_s": "Polygon",
-  "layer_modified_dt": "2016-05-13T20:29:14Z",
-  "dc_format_s": "Shapefile",
-  "dc_language_s": "English",
-  "dc_type_s": "Dataset",
-  "dc_publisher_s": "Environmental Systems Research Institute (Redlands, Calif.)",
   "dc_creator_sm": [
 
   ],
+  "dc_description_s": "This polygon shapefile layer represents Tapestry Market Segmentation data at the Census Designated Place level. Tapestry is a geodemographic segmentation system that integrates consumer traits with residential characteristics to identify markets and classify US neighborhoods. Neighborhoods with the most similar characteristics are grouped together, while neighborhoods with divergent characteristics are separated. Internally homogenous, externally heterogeneous market segments depict consumers' lifestyles and lifestages. Tapestry Segmentation combines the \"who\" of lifestyle demography with the \"where\" of local geography to create a classification model with 67 distinct, behavioral market segments. For complete information on the methodology behind the Tapestry data and attribute definitions, see the file documentation. This layer was derived from the 2015 ESRI Tapestry Data Geodatabase (nyu_2451_34605)",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "http://hdl.handle.net/2451/34613",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Environmental Systems Research Institute (Redlands, Calif.)",
+  "dc_rights_s": "Restricted",
   "dc_subject_sm": [
     "Market segmentation",
     "Market segmentation--United States",
     "Consumer behavior",
     "Lifestyles"
   ],
+  "dc_title_s": "2015 Tapestry Market Segmentation Data by Census Designated Place",
+  "dc_type_s": "Dataset",
   "dct_isPartOf_sm": [
     "ESRI 2015 Educational Data"
   ],
   "dct_issued_s": "2015",
-  "dct_temporal_sm": [
-    "2015"
+  "dct_provenance_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34613\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/74820/nyu_2451_34613.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\",\"http://lccn.loc.gov/sh85035852\":\"https://archive.nyu.edu/retrieve/74831/nyu_2451_34613_doc.zip\"}",
+  "dct_source_sm": [
+    "nyu_2451_34605"
   ],
   "dct_spatial_sm": [
     "United States of America"
   ],
-  "solr_geom": "ENVELOPE(-176.713097999444, -66.9803199993665, 71.339750662484, 19.0184849997695)",
-  "solr_year_i": 2015,
-  "dct_source_sm": [
-    "nyu_2451_34605"
+  "dct_temporal_sm": [
+    "2015"
   ],
-  "geoblacklight_version": "1.0"
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "sdr:nyu_2451_34613",
+  "layer_modified_dt": "2016-05-13T20:29:14Z",
+  "layer_slug_s": "nyu-2451-34613",
+  "nyu_addl_dspace_s": "35547",
+  "solr_geom": "ENVELOPE(-176.713097999444, -66.9803199993665, 71.339750662484, 19.0184849997695)",
+  "solr_year_i": 2015
 }

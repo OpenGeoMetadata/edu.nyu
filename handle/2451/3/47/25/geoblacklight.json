@@ -1,34 +1,28 @@
 {
-  "dc_identifier_s": "http://hdl.handle.net/2451/34725",
-  "dc_title_s": "1978 Topographic Map of UAE (1:100k), Sheet 7-40-076",
-  "dc_description_s": "This image is a 1:100,000 scale topographic map produced by the Soviet military in 1978. Maps produced by the Soviet military were believed to be used as an organizing framework for knowledge about the world and were compiled through a combination of aerial intelligence and on-the-ground observation. Sheet numbering is based on the alphanumeric system adopted by the International Map of the World (IMW), in which the globe is divided into equal-sized zones based upon latitude and longitude. Each zone is further subdivided so that the position of a sheet at the full range of scales can be deduced. The date and factory of production of each map are provided in a unique code that is embedded within the outer border, usually at the bottom right. For more information, see the manual and scholarship of John M. Davies and Alexander Kent in the documentation.",
-  "dc_rights_s": "Restricted",
-  "dct_provenance_s": "NYU",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34725\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/75114/nyu_2451_34725.jpg\",\"http://lccn.loc.gov/sh85035852\":\"https://archive.nyu.edu/bitstream/2451/37402/2/nyu_2451_37402_doc.zip\"}",
-  "layer_id_s": "sdr:nyu_2451_34725",
-  "layer_slug_s": "nyu-2451-34725",
-  "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2016-06-22T14:16:06Z",
-  "dc_format_s": "JPG",
-  "dc_language_s": "Russian",
-  "dc_type_s": "Dataset",
-  "dc_publisher_s": "Omni Resources (Firm)",
   "dc_creator_sm": [
 
   ],
+  "dc_description_s": "This image is a 1:100,000 scale topographic map produced by the Soviet military in 1978. Maps produced by the Soviet military were believed to be used as an organizing framework for knowledge about the world and were compiled through a combination of aerial intelligence and on-the-ground observation. Sheet numbering is based on the alphanumeric system adopted by the International Map of the World (IMW), in which the globe is divided into equal-sized zones based upon latitude and longitude. Each zone is further subdivided so that the position of a sheet at the full range of scales can be deduced. The date and factory of production of each map are provided in a unique code that is embedded within the outer border, usually at the bottom right. For more information, see the manual and scholarship of John M. Davies and Alexander Kent in the documentation.",
+  "dc_format_s": "JPG",
+  "dc_identifier_s": "http://hdl.handle.net/2451/34725",
+  "dc_language_s": "Russian",
+  "dc_publisher_s": "Omni Resources (Firm)",
+  "dc_rights_s": "Restricted",
   "dc_subject_sm": [
     "Soviet Union--Administrative and political divisions--Maps",
     "Soviet Union--Maps",
     "Soviet Union--Military policy",
     "Espionage"
   ],
+  "dc_title_s": "1978 Topographic Map of UAE (1:100k), Sheet 7-40-076",
+  "dc_type_s": "Dataset",
   "dct_isPartOf_sm": [
     "Soviet 1:100k of UAE",
     "Soviet Military Topographic Maps"
   ],
-  "dct_temporal_sm": [
-    "1978"
-  ],
+  "dct_provenance_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34725\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/75114/nyu_2451_34725.jpg\",\"http://lccn.loc.gov/sh85035852\":\"https://archive.nyu.edu/bitstream/2451/37402/2/nyu_2451_37402_doc.zip\"}",
+  "dct_refrences_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34725\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/75114/nyu_2451_34725.jpg\",\"http://lccn.loc.gov/sh85035852\":\"https://archive.nyu.edu/retrieve/79186/nyu_soviet_topo_documentation.zip\"}",
   "dct_spatial_sm": [
     "Ra’s al Khaymah, United Arab Emirates",
     "Ras al-Khaimah, United Arab Emirates",
@@ -51,8 +45,15 @@
     "An Nakhīl, United Arab Emirates",
     "As Sūr, United Arab Emirates"
   ],
-  "solr_geom": "ENVELOPE(55.5, 56.0, 26.0, 25.666)",
-  "solr_year_i": 1978,
+  "dct_temporal_sm": [
+    "1978"
+  ],
   "geoblacklight_version": "1.0",
-  "dct_refrences_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34725\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/75114/nyu_2451_34725.jpg\",\"http://lccn.loc.gov/sh85035852\":\"https://archive.nyu.edu/retrieve/79186/nyu_soviet_topo_documentation.zip\"}"
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "sdr:nyu_2451_34725",
+  "layer_modified_dt": "2016-06-22T14:16:06Z",
+  "layer_slug_s": "nyu-2451-34725",
+  "nyu_addl_dspace_s": "35675",
+  "solr_geom": "ENVELOPE(55.5, 56.0, 26.0, 25.666)",
+  "solr_year_i": 1978
 }
