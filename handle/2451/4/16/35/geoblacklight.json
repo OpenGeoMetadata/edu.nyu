@@ -1,0 +1,42 @@
+{
+  "dc_description_s": "This polygon shapefile layer is the representation of New York City’s Coastal Zone Boundary as defined by the WRP. The Coastal Zone Boundary defines the geographic scope of New York City's Waterfront Revitalization Program (WRP). Pursuant to federal statute, the boundary encompasses all land and water of direct and significant impact on coastal waters. Federal lands and facilities are excluded from the coastal zone and consistency review in accordance with federal legislation. Special area designations of the NYC WRP’s Coastal Zone Boundary include Special Natural Waterfront Areas (SNWA), Priority Marine Activity Zones (PMAZ), Significant Maritime and Industrial Areas (SMIA), Recognized Ecological Complexes (REC) and the Arthur Kill Ecologically Sensitive Maritime and Industrial Area (ESMIA). Information on each is included in the shapefiles. Note to Users: These features are provided for reference only and are not intended for determining the Coastal Boundary at the tax lot level. Please refer to the Zoning Resolution of the City of New York. Please refer to the Coastal Boundary maps adopted in 1982.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "http://hdl.handle.net/2451/41635",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York (City). Department of City Planning",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Zoning",
+    "Waterfronts",
+    "Coasts",
+    "Development"
+  ],
+  "dc_title_s": "2016 New York City Waterfront Revitalization Program Coastal Zone Boundary",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+    "Bytes of the Big Apple"
+  ],
+  "dct_issued_s": "2016",
+  "dct_provenance_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/41635\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/84108/nyu_2451_41635.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\",\"http://lccn.loc.gov/sh85035852\":\"https://archive.nyu.edu/retrieve/84109/nyu_2451_41635_doc.zip\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "New York, New York, United States"
+  ],
+  "dct_temporal_sm": [
+    "2016"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "sdr:nyu_2451_41635",
+  "layer_modified_dt": "2018-05-22T16:34:28Z",
+  "layer_slug_s": "nyu-2451-41635",
+  "nyu_addl_dspace_s": "42695",
+  "nyu_addl_format_sm": [
+    "Shapefile"
+  ],
+  "solr_geom": "ENVELOPE(-74.0006413059924, -73.9549275741795, 40.7866796405202, 40.6837408183463)",
+  "solr_year_i": 2016
+}
