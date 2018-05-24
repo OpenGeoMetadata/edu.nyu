@@ -21,7 +21,7 @@
   "dct_provenance_s": "NYU",
   "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/41193\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/83599/nyu_2451_41193.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\"}",
   "dct_source_sm": [
-    "nyu_2451_41104"
+    "nyu-2451-41104"
   ],
   "dct_spatial_sm": [
 

@@ -22,7 +22,7 @@
   "dct_provenance_s": "Baruch CUNY",
   "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34666\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/75037/nyu_2451_34666.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\",\"http://lccn.loc.gov/sh85035852\":\"https://archive.nyu.edu/retrieve/75023/nyu_2451_34666_doc.zip\"}",
   "dct_source_sm": [
-    "nyu_2451_34679"
+    "nyu-2451-34679"
   ],
   "dct_spatial_sm": [
     "New York City, New York, United States",
