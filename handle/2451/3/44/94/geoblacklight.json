@@ -21,8 +21,8 @@
   "dct_provenance_s": "Baruch CUNY",
   "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34494\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"http://metadata.geo.nyu.edu/records/edu.nyu/handle/2451/34494/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/74693/nyu_2451_34494.zip\",\"http://lccn.loc.gov/sh85035852\":\"https://archive.nyu.edu/retrieve/74747/nyu_2451_34494_doc.zip\"}",
   "dct_source_sm": [
-    "nyu_2451_34635",
-    "nyu_2451_34636"
+    "nyu-2451-34635",
+    "nyu-2451-34636"
   ],
   "dct_spatial_sm": [
     "New York, New York, United States",

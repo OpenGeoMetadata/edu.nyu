@@ -23,7 +23,7 @@
   "dct_provenance_s": "NYU",
   "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34616\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/74823/nyu_2451_34616.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\",\"http://lccn.loc.gov/sh85035852\":\"https://archive.nyu.edu/retrieve/74834/nyu_2451_34616_doc.zip\"}",
   "dct_source_sm": [
-    "nyu_2451_34605"
+    "nyu-2451-34605"
   ],
   "dct_spatial_sm": [
     "United States of America"
