@@ -30,7 +30,7 @@ We prefer that enhancements be consolidated into as few branches as possible. He
 * Save all new or updated files according to our naming convention
 * Create a branch that names and describes the nature of your fixes. If the scope of the changes is large, you may want to create an issue to describe your intended work
 * Submit a pull request
-* Assign the review task to Andrew Battista or Stephen Balogh
+* Assign the review task to Andrew Battista or Taylor Hixson
 
 #### Contact Information
 
