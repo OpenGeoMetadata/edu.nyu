@@ -34,4 +34,4 @@ We prefer that enhancements be consolidated into as few branches as possible. He
 
 #### Contact Information
 
-If you have any questions about remediating this metadata or would like to discuss larger-scale remediation projects, please reach out to Andrew Battista or Stephen Balogh or create an issue within this repository.
+If you have any questions about remediating this metadata or would like to discuss larger-scale remediation projects, please reach out to Andrew Battista or Taylor Hixson or create an issue within this repository.
