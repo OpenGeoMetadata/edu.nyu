@@ -1,18 +1,4 @@
 {
-  "dc_identifier_s": "http://hdl.handle.net/2451/38601",
-  "dc_title_s": "2015 LiDAR Tile 315500_234000 for Dublin City",
-  "dc_description_s": "This record contains aerial laser scanning (ALS) and photogrammetry data that corresponds to Tile 315500_234000, which is one part of data that was collected over an area of more than 2km² in Dublin, Ireland in 2015 and includes 3D point-cloud (LAZ), 3D full waveform LiDAR (LAS and Pulsewave), and ortho-rectified 2D rasters. Over 1.4 billion laser points were acquired (inclusive of partially covered areas). ALS was carried out by contractors using a TopEye system S/N 443. Imagery data was captured using a Phase One camera system. The average flying altitude was 300m with the total of 41 flight paths. This data was collected with funding from European Research Council Consolidator project RETURN – Rethinking Tunnelling  in Urban Neighbourhoods [ERC-2012- StG-307836] and additional funding from Science Foundation Ireland [12/ERC/I2534]. For more information on this data, consult the documentation. See the source dataset for a guide to the entire collection. A manifest of SHA-256 checksums are available in the nyu_2451_38601_manifest.json' file, within the preservation record. This data is released with an Attribution 4.0 International (CC BY 4.0) license.",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "NYU",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/38601\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/79848/nyu_2451_38601_pc_T_315500_234000.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\",\"http://lccn.loc.gov/sh85035852\":\"https://archive.nyu.edu/retrieve/81335/nyu_2451_38684_doc.zip\"}",
-  "layer_id_s": "sdr:nyu_2451_38601",
-  "layer_slug_s": "nyu-2451-38601",
-  "layer_geom_type_s": "Mixed",
-  "layer_modified_dt": "2017-06-06T15:21:27Z",
-  "dc_format_s": "LAZ",
-  "dc_language_s": "English",
-  "dc_type_s": "Dataset",
-  "dc_publisher_s": "New York University. Center for Urban Science and Progress",
   "dc_creator_sm": [
     "Debra F. Laefer",
     "Saleh Abuwarda",
@@ -20,36 +6,45 @@
     "Linh Truong-Hong",
     "Hamid Gharibi"
   ],
+  "dc_description_s": "This record contains aerial laser scanning (ALS) and photogrammetry data that corresponds to Tile 315500_234000, which is one part of data that was collected over an area of more than 2km² in Dublin, Ireland in 2015 and includes 3D point-cloud (LAZ), 3D full waveform LiDAR (LAS and Pulsewave), and ortho-rectified 2D rasters. Over 1.4 billion laser points were acquired (inclusive of partially covered areas). ALS was carried out by contractors using a TopEye system S/N 443. Imagery data was captured using a Phase One camera system. The average flying altitude was 300m with the total of 41 flight paths. This data was collected with funding from European Research Council Consolidator project RETURN - Rethinking Tunnelling in Urban Neighbourhoods [ERC-2012- StG-307836] and additional funding from Science Foundation Ireland [12/ERC/I2534]. For more information on this data, consult the documentation. See the source dataset for a guide to the entire collection. A manifest of SHA-256 checksums are available in the nyu_2451_38601_manifest.json file, within the preservation record. Users may also find a stable link to this collection at https://doi.org/10.17609/N8MQ0N/. This data is released with an Attribution 4.0 International (CC BY 4.0) license.",
+  "dc_format_s": "LAZ",
+  "dc_identifier_s": "http://hdl.handle.net/2451/38601",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York University. Center for Urban Science and Progress",
+  "dc_rights_s": "Public",
   "dc_subject_sm": [
     "Cities and towns",
     "Urban density",
     "Urban development"
   ],
+  "dc_title_s": "2015 LiDAR Tile 315500_234000 for Dublin City",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+    "2015 Dublin LiDAR",
+    "NYU Research Data"
+  ],
   "dct_issued_s": "2017",
-  "dct_temporal_sm": [
-    "2015"
+  "dct_provenance_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/38601\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/79848/nyu_2451_38601_pc_T_315500_234000.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\",\"http://lccn.loc.gov/sh85035852\":\"https://archive.nyu.edu/retrieve/81335/nyu_2451_38684_doc.zip\"}",
+  "dct_source_sm": [
+    "nyu-2451-38684"
   ],
   "dct_spatial_sm": [
     "Dublin City, Leinster, Ireland",
     "Dublin, Leinster, Ireland"
   ],
-  "solr_geom": "ENVELOPE(-6.266562, -6.258875, 53.348348, 53.343748)",
-  "solr_year_i": 2015,
-  "geoblacklight_version": "1.0",
-  "nyu_addl_format_sm": [
-    "LAZ (Point-cloud)",
-    "LAS (Full-waveform)",
-    "Pulsewaves (Full-waveform)",
-    "GeoTIFF (RGBi ortho-photo)"
+  "dct_temporal_sm": [
+    "2015"
   ],
-  "dct_source_sm": [
-    "nyu-2451-38684"
-  ],
+  "geoblacklight_version": "1",
+  "layer_geom_type_s": "Mixed",
+  "layer_id_s": "sdr:nyu_2451_38601",
+  "layer_modified_dt": "2017-06-06T15:21:27Z",
+  "layer_slug_s": "nyu-2451-38601",
   "nyu_addl_dspace_s": "39597",
-  "nyu_addl_license_s": "Attribution 4.0 International (CC BY 4.0)",
-  "nyu_addl_downloads_s": "{\"LAZ (Point-cloud)\":\"https://archive.nyu.edu/retrieve/79848/nyu_2451_38601_pc_T_315500_234000.zip\",\"LAS (Full-waveform)\":\"https://archive.nyu.edu/retrieve/79847/nyu_2451_38601_fwf_las_T_315500_234000.zip\",\"Pulsewaves (Full-waveform)\":\"https://archive.nyu.edu/retrieve/79850/nyu_2451_38601_fwf_plswvs_T_315500_234000.zip\",\"GeoTIFF (RGBi ortho-photo)\":\"https://archive.nyu.edu/retrieve/79851/nyu_2451_38601_orthophoto_T_315500_234000.zip\"}",
-  "dct_isPartOf_sm": [
-    "2015 Dublin LiDAR",
-    "NYU Research Data"
-  ]
+  "nyu_addl_format_sm": [
+    "LAZ"
+  ],
+  "solr_geom": "ENVELOPE(-6.266562, -6.258875, 53.348348, 53.343748)",
+  "solr_year_i": 2015
 }
