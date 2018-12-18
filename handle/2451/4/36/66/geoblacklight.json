@@ -18,7 +18,7 @@
   ],
   "dct_issued_s": "2002",
   "dct_provenance_s": "NYU",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/43666\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/87644/nyu_2451_43666.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\",\"http://lccn.loc.gov/sh85035852\":\"https://archive.nyu.edu/retrieve/87734/nyu_2451_43666_doc.zip\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/43666\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/87644/nyu_2451_43666.zip\",\"http://lccn.loc.gov/sh85035852\":\"https://archive.nyu.edu/retrieve/87734/nyu_2451_43666_doc.zip\"}",
   "dct_source_sm": [
 
   ],
