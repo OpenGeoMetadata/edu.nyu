@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>City of Bakersfield, CA(ed.)</origin>
+				<origin>City of Bakersfield, CA(comp.)</origin>
+				<pubdate>19900307</pubdate>
+				<title Sync="TRUE">GeneralPlan</title>
+				<geoform Sync="TRUE">vector digital data</geoform>
+				<serinfo></serinfo>
+				<pubinfo>
+					<pubplace>Bakersfield, CA</pubplace>
+					<publish>City of Bakersfield, CA</publish>
+				</pubinfo>
+				<onlink>www.ci.bakersfield.ca.us</onlink>
+				<ftname Sync="TRUE">GeneralPlan</ftname></citeinfo>
+		</citation>
+		<descript>
+			<abstract>
+This data set is known as Boundary Jurisdiction Planning
+General Plan abbreviated (BDPLNGPL) and
+contains the 1990 General Plan Boundary for the City of
+Bakersfield, CA.
+</abstract>
+			<purpose>
+This data set was created to aid in local GIS and mapping
+applications.
+</purpose>
+			<langdata Sync="TRUE">en</langdata></descript>
+		<timeperd>
+			<timeinfo>
+				<rngdates>
+					<begdate>19900307</begdate>
+					<enddate>Present</enddate>
+				</rngdates>
+			</timeinfo>
+			<current>publication date</current>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>As needed</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc Sync="TRUE">-119.263873</westbc>
+				<eastbc Sync="TRUE">-118.770620</eastbc>
+				<northbc Sync="TRUE">35.473160</northbc>
+				<southbc Sync="TRUE">35.205492</southbc>
+			</bounding>
+			<lboundng><leftbc Sync="TRUE">6185317.793390</leftbc><rightbc Sync="TRUE">6331467.793703</rightbc><bottombc Sync="TRUE">2263459.543005</bottombc><topbc Sync="TRUE">2359414.201394</topbc></lboundng></spdom>
+		<keywords>
+			<theme>
+				<themekt>Tri - Service Spatial Data Standard</themekt>
+				<themekey>
+Theme_Keyword  Jurisdiction
+Theme_Keyword  General
+Theme_Keyword  Plan
+</themekey>
+			</theme>
+			<place>
+				<placekt>Geographic Names Information System</placekt>
+				<placekey>Metropolitan</placekey>
+				<placekey>Bakersfield</placekey>
+				<placekey>California</placekey>
+			</place>
+		</keywords>
+		<accconst>I. Disclaimer of Liability and Warranties
+
+A. You understand and agree that it is possible that errors and omissions will occur in data input or programming done by The City of Bakersfield to provide the data in the supplied format. You further understand and agree that it is probable that errors and omissions will occur in the record keeping process, especially when large number of records are developed and maintained, and that data may not meet your standards as to accuracy or completeness. Notwithstanding, you agree to take the data "as is", fully expecting that there may be errors and omissions associated with the data.
+
+B. You further understands and agree that The City of Bakersfield makes absolutely no warranty whatsoever, whether expressed or implied, as to the accuracy, thoroughness, value, quality, validity, merchantability, suitability, condition or fitness for a particular purpose of the data or any programming used to obtain the data, nor as to whether the data are error-free, up-to-date, complete or based upon accurate or meaningful facts.
+
+C. You further understand and agree that you forever waiver any and all rights, claims, causes of action or other recourse that you might otherwise have against The City of Bakersfield for any injuries or damages of any type, whether direct, indirect, incidental, consequential or otherwise, resulting from any error or omission in the data or in any programming used to obtain the data, or in any manner arising out of or related to the data retrieved hereunder. You agree that The City of Bakersfield shall not be liable to you for any liability, claim, loss, damage, injury or expense of any kind caused or alleged to be caused, directly or indirectly, by the inadequacy of data obtained from The City of Bakersfield, by any deficiency of The City of Bakersfield or your systems, by any delay or failure to provide service, or by any other interruption, disruption or loss to your operations.
+
+II. Indemnification
+
+You agree not to provide a copy or partial copy of any data to any other party, including consultants under contract with you, without disclosing that the copy or partial copy was obtained from The City of Bakersfield and without attaching a duplicate of these Terms and Conditions</accconst>
+		<useconst>None</useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntperp></cntperp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>1501 Truxtun Avenue</address>
+					<city>Bakersfield</city>
+					<state>CA</state>
+					<postal>93301</postal>
+				</cntaddr>
+				<cntvoice>661-326-3016</cntvoice>
+				<cntfax>661-852-2062</cntfax>
+				<hours>8:00 A.M. - 5:00 P.M.</hours>
+			</cntinfo>
+		</ptcontac>
+		<browse>
+			<browsen>BDPLNGPL</browsen>
+			<browsed>GIF</browsed>
+			<browset>Portion of BDPLNGPL</browset>
+		</browse>
+		<secinfo></secinfo>
+		<native Sync="TRUE">Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 2; ESRI ArcCatalog 9.2.4.1420</native>
+		<natvform Sync="TRUE">Shapefile</natvform></idinfo>
+	<dataqual>
+		<attracc>
+			<attraccr>None</attraccr>
+		</attracc>
+		<logic>Topologically cleaned by ARC/INFO.</logic>
+		<complete>General Plan Boundary of 1990.</complete>
+		<posacc>
+			<horizpa>
+				<horizpar>
+The best expected accuracy of this data set is +/- 66 feet.
+Line work which does not border the Kern River where
+extracted from COGOed parcels, street centerlines and
+section lines.
+Line work which borders the Kern River was extracted from
+digitized coverages of the KErn River centerline and Kern
+River shoreline and flood areas. These coverages where
+created using multiple sources including 1995 USGS
+DOQQs, USGS 7.5 minute series quadrangles, and a 1997
+SPOT panchromatic image. The SPOT panchromatic
+image has a resolution of 10 meters or approximately +/- 33
+feet.
+</horizpar>
+			</horizpa>
+			<vertacc>
+				<vertaccr>None</vertaccr>
+			</vertacc>
+		</posacc>
+		<lineage>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>City of Bakersfield Planning Department</origin>
+						<pubdate>19990304</pubdate>
+						<pubtime>Unknown</pubtime>
+						<title>DXF File of General Plan Boundary</title>
+						<geoform>map</geoform>
+					</citeinfo>
+				</srccite>
+				<srcscale>Unknown</srcscale>
+				<typesrc>AutoCAD/GEOSQL/ORACLE</typesrc>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>19900000</caldate>
+							<time>unknown</time>
+						</sngdate>
+					</timeinfo>
+					<srccurr>publication date</srccurr>
+				</srctime>
+				<srccitea>None</srccitea>
+				<srccontr>General PLan Boundary</srccontr>
+			</srcinfo>
+			<procstep>
+				<procdesc>07MF - Modify features</procdesc>
+				<procdate>19980811</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>08MC - Modify cover</procdesc>
+				<procdate>19980811</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>09CI - Create item</procdesc>
+				<procdate>Process_Step Process_Description</procdate>
+Tolerance       Value
+--------------- ---------------
+Fuzzy                     0.002 Verified
+Dangle                    0.020 Verified
+Tic Match                 0.000
+Edit                   2644.247 Verified
+Node Snap                 0.002 Verified
+Weed                      0.002 Verified
+Grain                     0.002 Verified
+Snap                      0.002 Verified
+</procstep>
+			<procstep><procdesc Sync="TRUE">Metadata imported.</procdesc><srcused Sync="TRUE">C:\Temp\xml1A.tmp</srcused><date Sync="TRUE">20070108</date><time Sync="TRUE">08240000</time></procstep></lineage>
+	</dataqual>
+	<spdoinfo>
+		<direct Sync="TRUE">Vector</direct>
+		<ptvctinf><esriterm Name="GeneralPlan"><efeatyp Sync="TRUE">Simple</efeatyp><efeageom Sync="TRUE">Polygon</efeageom><esritopo Sync="TRUE">FALSE</esritopo><efeacnt Sync="TRUE">1</efeacnt><spindex Sync="TRUE">FALSE</spindex><linrefer Sync="TRUE">FALSE</linrefer></esriterm><sdtsterm Name="GeneralPlan"><sdtstype Sync="TRUE">G-polygon</sdtstype><ptvctcnt Sync="TRUE">1</ptvctcnt></sdtsterm></ptvctinf></spdoinfo>
+	<spref>
+		<horizsys>
+			<planar>
+				<planci>
+					<plance Sync="TRUE">coordinate pair</plance>
+					<coordrep>
+						<absres Sync="TRUE">0.000000</absres>
+						<ordres Sync="TRUE">0.000000</ordres>
+					</coordrep>
+					<plandu Sync="TRUE">survey feet</plandu>
+				</planci>
+				<mapproj><mapprojn Sync="TRUE">Lambert Conformal Conic</mapprojn><lambertc><stdparll Sync="TRUE">34.033333</stdparll><stdparll Sync="TRUE">35.466667</stdparll><longcm Sync="TRUE">-118.000000</longcm><latprjo Sync="TRUE">33.500000</latprjo><feast Sync="TRUE">6561666.666667</feast><fnorth Sync="TRUE">1640416.666667</fnorth></lambertc></mapproj></planar>
+			<geodetic>
+				<horizdn Sync="TRUE">North American Datum of 1983</horizdn>
+				<ellips Sync="TRUE">Geodetic Reference System 80</ellips>
+				<semiaxis Sync="TRUE">6378137.000000</semiaxis>
+				<denflat Sync="TRUE">298.257222</denflat>
+			</geodetic>
+			<cordsysn><geogcsn Sync="TRUE">GCS_North_American_1983</geogcsn><projcsn Sync="TRUE">NAD_1983_StatePlane_California_V_FIPS_0405_Feet</projcsn></cordsysn></horizsys>
+	</spref>
+	<distinfo>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>City of Bakersfield, CA</cntorg>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>1501 Truxtun Avenue</address>
+					<city>Bakersfield</city>
+					<state>CA</state>
+					<postal>93301</postal>
+				</cntaddr>
+				<cntvoice>661-326-3016</cntvoice>
+				<cntfax>661-852-2062</cntfax>
+				<hours>8:00 A.M. - 5:00 P.M.</hours>
+			</cntinfo>
+		</distrib>
+		<distliab>
+I. Disclaimer of  Liability and Warranties
+A. You understand and agree that it is possible that errors
+and omissions will occur in data input or
+programming done by The City of Bakersfield to provide the
+data in the supplied format. You further understand
+and agree that it is probable that errors and omissions will
+occur in the record keeping process, especially when
+large number of records are developed and maintained,
+and that data may not meet your standards as to
+accuracy or completeness. Notwithstanding, you agree to
+take the data "as is", fully expecting that there may be
+errors and omissions associated with the data.
+B. You further understands and agree that The City of
+Bakersfield makes absolutely no warranty whatsoever,
+whether expressed or implied, as to the accuracy,
+thoroughness, value, quality, validity, merchantability,
+suitability, condition or fitness for a particular purpose of the
+data or any programming used to obtain the data,
+nor as to whether the data are error-free, up-to-date,
+complete or based upon accurate or meaningful facts.
+C. You further understand and agree that you forever
+waiver any and all rights, claims, causes of action or other
+recourse that you might otherwise have against The City of
+Bakersfield for any injuries or damages of any type,
+whether direct, indirect, incidental, consequential or
+otherwise, resulting from any error or omission in the data or
+in any programming used to obtain the data, or in any
+manner arising out of or related to the data retrieved
+hereunder. You agree that The City of Bakersfield shall not
+be liable to you for any liability, claim, loss, damage,
+injury or expense of any kind caused or alleged to be
+caused, directly or indirectly, by the inadequacy of data
+obtained from The City of Bakersfield, by any deficiency of
+The City of Bakersfield or your systems, by any delay
+or failure to provide service, or by any other interruption,
+disruption or loss to your operations.
+II. Indemnification
+You agree not to provide a copy or partial copy of any data
+to any other party, including consultants under
+contract with you, without disclosing that the copy or partial
+copy was obtained from The City of Bakersfield and
+without attaching a duplicate of these Terms and
+Conditions.
+</distliab>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<formname>ASCII</formname>
+					<filedec>ZIP</filedec>
+					<transize Sync="TRUE">0.002</transize><dssize Sync="TRUE">0.002</dssize></digtinfo>
+				<digtopt>
+					<onlinopt>
+						<computer>
+							<networka>
+								<networkr>www.ci.bakersfield.ca.us</networkr>
+							</networka>
+						</computer>
+					</onlinopt>
+				</digtopt>
+			</digform>
+			<fees>none</fees>
+		</stdorder>
+		<resdesc Sync="TRUE">Downloadable Data</resdesc></distinfo>
+	<metainfo>
+		<metd Sync="TRUE">20071212</metd>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>City of Bakersfield, CA</cntorg>
+					<cntper>REQUIRED: The person responsible for the metadata information.</cntper></cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>1501 Truxtun Avenue</address>
+					<city>Bakersfield</city>
+					<state>CA</state>
+					<postal>93301</postal>
+				</cntaddr>
+				<cntvoice>661-326-3062</cntvoice>
+				<cntfax>661-852-2062</cntfax>
+				<hours>8:00 A.M. - 5:00 P.M.</hours>
+			</cntinfo>
+		</metc>
+		<metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+		<mettc Sync="TRUE">local time</mettc>
+		<metac>None</metac>
+		<metuc>None</metuc>
+		<langmeta Sync="TRUE">en</langmeta><metextns><onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink><metprof Sync="TRUE">ESRI Metadata Profile</metprof></metextns></metainfo>
+	<Esri><MetaID>{18851C30-7760-411E-B608-1317D5F31BDF}</MetaID><CreaDate>20070108</CreaDate><CreaTime>08240000</CreaTime><SyncOnce>FALSE</SyncOnce><SyncDate>20071212</SyncDate><SyncTime>15313300</SyncTime><ModDate>20071212</ModDate><ModTime>15313300</ModTime></Esri><dataIdInfo><envirDesc Sync="TRUE">Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 2; ESRI ArcCatalog 9.2.4.1420</envirDesc><dataLang><languageCode Sync="TRUE" value="en"></languageCode></dataLang><idCitation><resTitle Sync="TRUE">GeneralPlan</resTitle><presForm><PresFormCd Sync="TRUE" value="005"></PresFormCd></presForm></idCitation><spatRpType><SpatRepTypCd Sync="TRUE" value="001"></SpatRepTypCd></spatRpType><dataExt><geoEle><GeoBndBox esriExtentType="native"><westBL Sync="TRUE">6185317.79339</westBL><eastBL Sync="TRUE">6331467.793703</eastBL><northBL Sync="TRUE">2359414.201394</northBL><southBL Sync="TRUE">2263459.543005</southBL><exTypeCode Sync="TRUE">1</exTypeCode></GeoBndBox></geoEle></dataExt><geoBox esriExtentType="decdegrees"><westBL Sync="TRUE">-119.263873</westBL><eastBL Sync="TRUE">-118.77062</eastBL><northBL Sync="TRUE">35.47316</northBL><southBL Sync="TRUE">35.205492</southBL><exTypeCode Sync="TRUE">1</exTypeCode></geoBox></dataIdInfo><mdLang><languageCode Sync="TRUE" value="en"></languageCode></mdLang><mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName><mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer><mdChar><CharSetCd Sync="TRUE" value="004"></CharSetCd></mdChar><mdHrLv><ScopeCd Sync="TRUE" value="005"></ScopeCd></mdHrLv><mdHrLvName Sync="TRUE">dataset</mdHrLvName><distInfo><distributor><distorTran><onLineSrc><orDesc Sync="TRUE">002</orDesc><linkage Sync="TRUE">file://\\geo\public\Data\Shape_Files\Bakersfield\Boundary\Planning\GeneralPlan.shp</linkage><protocol Sync="TRUE">Local Area Network</protocol></onLineSrc><transSize Sync="TRUE">0.002</transSize></distorTran><distorFormat><formatName Sync="TRUE">Shapefile</formatName></distorFormat></distributor></distInfo><refSysInfo><RefSystem><refSysID><identCode Sync="TRUE">NAD_1983_StatePlane_California_V_FIPS_0405_Feet</identCode></refSysID></RefSystem></refSysInfo><spatRepInfo><VectSpatRep><topLvl><TopoLevCd Sync="TRUE" value="001"></TopoLevCd></topLvl><geometObjs Name="GeneralPlan"><geoObjTyp><GeoObjTypCd Sync="TRUE" value="001"></GeoObjTypCd></geoObjTyp><geoObjCnt Sync="TRUE">1</geoObjCnt></geometObjs></VectSpatRep></spatRepInfo><eainfo><detailed Name="GeneralPlan"><enttyp><enttypl Sync="TRUE">GeneralPlan</enttypl><enttypt Sync="TRUE">Feature Class</enttypt><enttypc Sync="TRUE">1</enttypc></enttyp><attr><attrlabl Sync="TRUE">FID</attrlabl><attalias Sync="TRUE">FID</attalias><attrtype Sync="TRUE">OID</attrtype><attwidth Sync="TRUE">4</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdef Sync="TRUE">Internal feature number.</attrdef><attrdefs Sync="TRUE">ESRI</attrdefs><attrdomv><udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom></attrdomv></attr><attr><attrlabl Sync="TRUE">Shape</attrlabl><attalias Sync="TRUE">Shape</attalias><attrtype Sync="TRUE">Geometry</attrtype><attwidth Sync="TRUE">0</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdef Sync="TRUE">Feature geometry.</attrdef><attrdefs Sync="TRUE">ESRI</attrdefs><attrdomv><udom Sync="TRUE">Coordinates defining the features.</udom></attrdomv></attr><attr><attrlabl Sync="TRUE">AREA</attrlabl><attalias Sync="TRUE">AREA</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">19</attwidth><atnumdec Sync="TRUE">5</atnumdec></attr><attr><attrlabl Sync="TRUE">PERIMETER</attrlabl><attalias Sync="TRUE">PERIMETER</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">19</attwidth><atnumdec Sync="TRUE">5</atnumdec></attr><attr><attrlabl Sync="TRUE">BDPLNGPL_</attrlabl><attalias Sync="TRUE">BDPLNGPL_</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">11</attwidth></attr><attr><attrlabl Sync="TRUE">BDPLNGPL_I</attrlabl><attalias Sync="TRUE">BDPLNGPL_I</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">11</attwidth></attr><attr><attrlabl Sync="TRUE">PLAN_ID</attrlabl><attalias Sync="TRUE">PLAN_ID</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">20</attwidth></attr><attr><attrlabl Sync="TRUE">USER_FLAG</attrlabl><attalias Sync="TRUE">USER_FLAG</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">20</attwidth></attr><attr><attrlabl Sync="TRUE">ACRES</attrlabl><attalias Sync="TRUE">ACRES</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">19</attwidth><atnumdec Sync="TRUE">3</atnumdec></attr><attr><attrlabl Sync="TRUE">HECTARES</attrlabl><attalias Sync="TRUE">HECTARES</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">19</attwidth><atnumdec Sync="TRUE">3</atnumdec></attr></detailed></eainfo><mdDateSt Sync="TRUE">20071212</mdDateSt></metadata>

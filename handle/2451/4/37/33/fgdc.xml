@@ -1,0 +1,512 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>City of Bakersfield, CA(ed.)</origin>
+				<origin>City of Bakersfield, CA(comp.)</origin>
+				<pubdate>Unknown</pubdate>
+				<pubtime>Unknown</pubtime>
+				<title Sync="TRUE">cntrl_x</title>
+				<geoform Sync="TRUE">vector digital data</geoform>
+				<pubinfo>
+					<pubplace>Bakersfield, CA</pubplace>
+					<publish>City of Bakersfield, CA</publish>
+				</pubinfo>
+				<onlink>www.ci.bakersfield.ca.us</onlink>
+				<ftname Sync="TRUE">cntrl_x</ftname></citeinfo>
+		</citation>
+		<descript>
+			<abstract>This data set  contains the Surveying Monuments for the City of Bakersfield, CA.</abstract>
+			<purpose>
+This data set was created to aid in local GIS and mapping
+applications.
+</purpose>
+			<langdata Sync="TRUE">en</langdata></descript>
+		<timeperd>
+			<timeinfo>
+				<rngdates>
+					<begdate>unknown</begdate>
+					<enddate>Present</enddate>
+				</rngdates>
+			</timeinfo>
+			<current>publication date</current>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>As needed</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc Sync="TRUE">-119.360545</westbc>
+				<eastbc Sync="TRUE">-118.773582</eastbc>
+				<northbc Sync="TRUE">35.506784</northbc>
+				<southbc Sync="TRUE">35.175482</southbc>
+			</bounding>
+			<lboundng><leftbc Sync="TRUE">1595017.650000</leftbc><rightbc Sync="TRUE">1768829.780000</rightbc><bottombc Sync="TRUE">612474.269000</bottombc><topbc Sync="TRUE">731224.308000</topbc></lboundng></spdom>
+		<keywords>
+			<theme>
+				<themekt>Tri - Service Spatial Data Standard</themekt>
+				<themekey>
+Theme_Keyword  Survey
+Theme_Keyword  Monuments
+</themekey>
+			</theme>
+			<place>
+				<placekt>Geographic Names Information System</placekt>
+				<placekey>Metropolitan</placekey>
+				<placekey>Bakersfield</placekey>
+				<placekey>California</placekey>
+			</place>
+		</keywords>
+		<accconst>None</accconst>
+		<useconst>None</useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>City of Bakersfield</cntorg>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>1501 Truxtun Avenue</address>
+					<city>Bakersfield</city>
+					<state>CA</state>
+					<postal>93301</postal>
+				</cntaddr>
+				<cntvoice>661-326-3016</cntvoice>
+				<cntfax>661-852-2062</cntfax>
+				<hours>8:00 A.M. - 5:00 P.M.</hours>
+			</cntinfo>
+		</ptcontac>
+		<browse>
+			<browsen>GDSRVMNT</browsen>
+			<browsed>GIF</browsed>
+			<browset>Portion of GDSRVMNT</browset>
+		</browse>
+		<native Sync="TRUE">Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 2; ESRI ArcCatalog 9.1.0.722</native>
+		<natvform Sync="TRUE">Shapefile</natvform></idinfo>
+	<dataqual>
+		<attracc>
+			<attraccr>None</attraccr>
+		</attracc>
+		<logic>Topologically cleaned by ARC/INFO.</logic>
+		<complete>Contains all the monuments within the specified spatial domain.</complete>
+		<posacc>
+			<horizpa>
+				<horizpar>
+The best expected accuracy of this data set is +/- .01
+feet.
+In rare instances multiple monuments where identified as
+representing the same section corner. These spatial errors
+where less than .00001 feet. In these cases an arbitrary
+monument was selected as the section corner until such time
+as Survey Services could verify the location.
+</horizpar>
+			</horizpa>
+			<vertacc>
+				<vertaccr>None</vertaccr>
+			</vertacc>
+		</posacc>
+		<lineage>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>Kern County Engineering and Survey Services (ed.)</origin>
+						<origin>Kern County Engineering and Survey Services (comp.)</origin>
+						<pubdate>Unknown</pubdate>
+						<pubtime>Unknown</pubtime>
+						<title>Survey Investigation and Perpetuation Maps</title>
+						<geoform>map</geoform>
+					</citeinfo>
+				</srccite>
+				<srcscale>Unknown</srcscale>
+				<typesrc>paper</typesrc>
+				<srctime>
+					<timeinfo>
+						<rngdates>
+							<begdate>Unknown</begdate>
+							<enddate>Unknown</enddate>
+						</rngdates>
+					</timeinfo>
+					<srccurr>Publication Date</srccurr>
+				</srctime>
+				<srccitea>None</srccitea>
+				<srccontr>Monuments for the City of Bakersfield</srccontr>
+			</srcinfo>
+			<procstep><procdesc/></procstep><procstep><srcused Sync="TRUE">C:\Temp\xml11E.tmp</srcused><date Sync="TRUE">20060209</date><time Sync="TRUE">10354600</time></procstep><procstep><procdesc/></procstep></lineage>
+		<lineage>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>Kern County Engineering and Survey Services (ed.)</origin>
+						<origin>Kern County Engineering and Survey Services (comp.)</origin>
+						<pubdate>Unknown</pubdate>
+						<pubtime>Unknown</pubtime>
+						<title>Kern County Surveyors File Maps</title>
+						<geoform>map</geoform>
+					</citeinfo>
+				</srccite>
+				<srcscale>Unknown</srcscale>
+				<typesrc>paper</typesrc>
+				<srctime>
+					<timeinfo>
+						<rngdates>
+							<begdate>Unknown</begdate>
+							<enddate>Unknown</enddate>
+						</rngdates>
+					</timeinfo>
+					<srccurr>Publication Date</srccurr>
+				</srctime>
+				<srccitea>None</srccitea>
+				<srccontr>Monuments for the City of Bakersfield</srccontr>
+			</srcinfo>
+			<procstep><procdesc/></procstep><procstep><srcused Sync="TRUE">C:\Temp\xml11E.tmp</srcused><date Sync="TRUE">20060209</date><time Sync="TRUE">10354600</time></procstep><procstep><procdesc/></procstep></lineage>
+		<lineage>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>Kern County Engineering and Survey Services (ed.)</origin>
+						<origin>Kern County Engineering and Survey Services (comp.)</origin>
+						<pubdate>Unknown</pubdate>
+						<pubtime>Unknown</pubtime>
+						<title>Record of Survey Maps</title>
+						<geoform>map</geoform>
+					</citeinfo>
+				</srccite>
+				<srcscale>Unknown</srcscale>
+				<typesrc>paper</typesrc>
+				<srctime>
+					<timeinfo>
+						<rngdates>
+							<begdate>Unknown</begdate>
+							<enddate>Unknown</enddate>
+						</rngdates>
+					</timeinfo>
+					<srccurr>Publication Date</srccurr>
+				</srctime>
+				<srccitea>None</srccitea>
+				<srccontr>Monuments for the City of Bakersfield</srccontr>
+			</srcinfo>
+			<procstep><procdesc/></procstep><procstep><srcused Sync="TRUE">C:\Temp\xml11E.tmp</srcused><date Sync="TRUE">20060209</date><time Sync="TRUE">10354600</time></procstep><procstep><procdesc/></procstep></lineage>
+		<lineage>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>Kern County Engineering and Survey Services (ed.)</origin>
+						<origin>Kern County Engineering and Survey Services (comp.)</origin>
+						<pubdate>Unknown</pubdate>
+						<pubtime>Unknown</pubtime>
+						<title>Parcel and Tract Maps</title>
+						<geoform>map</geoform>
+					</citeinfo>
+				</srccite>
+				<srcscale>Unknown</srcscale>
+				<typesrc>paper</typesrc>
+				<srctime>
+					<timeinfo>
+						<rngdates>
+							<begdate>Unknown</begdate>
+							<enddate>Unknown</enddate>
+						</rngdates>
+					</timeinfo>
+					<srccurr>Publication Date</srccurr>
+				</srctime>
+				<srccitea>None</srccitea>
+				<srccontr>Monuments for the City of Bakersfield</srccontr>
+			</srcinfo>
+			<procstep><procdesc/></procstep><procstep><srcused Sync="TRUE">C:\Temp\xml11E.tmp</srcused><date Sync="TRUE">20060209</date><time Sync="TRUE">10354600</time></procstep><procstep><procdesc/></procstep></lineage>
+		<lineage>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>Kern County Engineering and Survey Services (ed.)</origin>
+						<origin>Kern County Engineering and Survey Services (comp.)</origin>
+						<pubdate>Unknown</pubdate>
+						<pubtime>Unknown</pubtime>
+						<title>Construction Plans</title>
+						<geoform>map</geoform>
+					</citeinfo>
+				</srccite>
+				<srcscale>Unknown</srcscale>
+				<typesrc>paper</typesrc>
+				<srctime>
+					<timeinfo>
+						<rngdates>
+							<begdate>Unknown</begdate>
+							<enddate>Unknown</enddate>
+						</rngdates>
+					</timeinfo>
+					<srccurr>Publication Date</srccurr>
+				</srctime>
+				<srccitea>None</srccitea>
+				<srccontr>Monuments for the City of Bakersfield</srccontr>
+			</srcinfo>
+			<procstep><procdesc/></procstep><procstep><srcused Sync="TRUE">C:\Temp\xml11E.tmp</srcused><date Sync="TRUE">20060209</date><time Sync="TRUE">10354600</time></procstep><procstep><procdesc/></procstep></lineage>
+		<lineage>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>California Department of Transportation (ed.)</origin>
+						<origin>California Department of Transportation (comp.)</origin>
+						<pubdate>Unknown</pubdate>
+						<pubtime>Unknown</pubtime>
+						<title>California Department of Highways Construction Plans</title>
+						<geoform>map</geoform>
+					</citeinfo>
+				</srccite>
+				<srcscale>Unknown</srcscale>
+				<typesrc>paper</typesrc>
+				<srctime>
+					<timeinfo>
+						<rngdates>
+							<begdate>Unknown</begdate>
+							<enddate>Unknown</enddate>
+						</rngdates>
+					</timeinfo>
+					<srccurr>Publication Date</srccurr>
+				</srctime>
+				<srccitea>None</srccitea>
+				<srccontr>Monuments for the City of Bakersfield</srccontr>
+			</srcinfo>
+			<procstep><procdesc/></procstep><procstep><srcused Sync="TRUE">C:\Temp\xml11E.tmp</srcused><date Sync="TRUE">20060209</date><time Sync="TRUE">10354600</time></procstep><procstep><procdesc/></procstep></lineage>
+		<lineage>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>City of Bakersfield Public Works Department Surveying Services (ed.)</origin>
+						<origin>City of Bakersfield Public Works Department Surveying Services (comp.)</origin>
+						<pubdate>Unknown</pubdate>
+						<pubtime>Unknown</pubtime>
+						<title>City of Bakersfield Field Surveys for GIS</title>
+						<geoform>map</geoform>
+					</citeinfo>
+				</srccite>
+				<srcscale>Unknown</srcscale>
+				<typesrc>paper</typesrc>
+				<srctime>
+					<timeinfo>
+						<rngdates>
+							<begdate>Unknown</begdate>
+							<enddate>Unknown</enddate>
+						</rngdates>
+					</timeinfo>
+					<srccurr>Publication Date</srccurr>
+				</srctime>
+				<srccitea>None</srccitea>
+				<srccontr>Lineage</srccontr>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>City of Bakersfield Planning Department(ed.)</origin>
+						<origin>City of Bakersfield Planning Department(comp.)</origin>
+						<pubdate>Unknown</pubdate>
+						<pubtime>Unknown</pubtime>
+						<title>City of Bakersfield Suvery Field Books</title>
+						<geoform>map</geoform>
+					</citeinfo>
+				</srccite>
+				<srcscale>None</srcscale>
+				<typesrc>paper</typesrc>
+				<srctime>
+					<timeinfo>
+						<rngdates>
+							<begdate>Unknown</begdate>
+							<enddate>Present</enddate>
+						</rngdates>
+					</timeinfo>
+					<srccurr>Publication Date</srccurr>
+				</srctime>
+				<srccitea>None</srccitea>
+				<srccontr>Lineage</srccontr>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>City of Bakersfield Planning Department(ed.)</origin>
+						<origin>City of Bakersfield Planning Department(comp.)</origin>
+						<pubdate>Unknown</pubdate>
+						<pubtime>Unknown</pubtime>
+						<title>Seperation of Grade Construction Sheets</title>
+						<geoform>map</geoform>
+					</citeinfo>
+				</srccite>
+				<srcscale>None</srcscale>
+				<typesrc>paper</typesrc>
+				<srctime>
+					<timeinfo>
+						<rngdates>
+							<begdate>Unknown</begdate>
+							<enddate>Present</enddate>
+						</rngdates>
+					</timeinfo>
+					<srccurr>Publication Date</srccurr>
+				</srctime>
+				<srccitea>None</srccitea>
+				<srccontr>Lineage</srccontr>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>City of Bakersfield Planning Department(ed.)</origin>
+						<origin>City of Bakersfield Planning Department(comp.)</origin>
+						<pubdate>Unknown</pubdate>
+						<pubtime>Unknown</pubtime>
+						<title>DXF File of Monuments</title>
+						<geoform>map</geoform>
+					</citeinfo>
+				</srccite>
+				<srcscale>None</srcscale>
+				<typesrc>AUTOCAD, GEOSQL, ORACLE</typesrc>
+				<srctime>
+					<timeinfo>
+						<rngdates>
+							<begdate>Unknown</begdate>
+							<enddate>Present</enddate>
+						</rngdates>
+					</timeinfo>
+					<srccurr>Publication Date</srccurr>
+				</srctime>
+				<srccitea>None</srccitea>
+				<srccontr>Monuments for the City of Bakersfield</srccontr>
+			</srcinfo>
+			<procstep>
+				<procdesc>12CA - Create Attributes</procdesc>
+				<procdate>
+Process_Step Process_Description
+Process_Step Process_Description
+</procdate>
+			</procstep>
+			<procstep><procdesc Sync="TRUE">Metadata imported.</procdesc><srcused Sync="TRUE">C:\Temp\xml11E.tmp</srcused><date Sync="TRUE">20060209</date><time Sync="TRUE">10354600</time></procstep><procstep><procdesc/></procstep></lineage>
+	</dataqual>
+	<spdoinfo>
+		<direct Sync="TRUE">Vector</direct>
+		<ptvctinf><esriterm Name="cntrl_x"><efeatyp Sync="TRUE">Simple</efeatyp><efeageom Sync="TRUE">Point</efeageom><esritopo Sync="TRUE">FALSE</esritopo><efeacnt Sync="TRUE">2050</efeacnt><spindex Sync="TRUE">FALSE</spindex><linrefer Sync="TRUE">FALSE</linrefer></esriterm><sdtsterm Name="cntrl_x"><sdtstype Sync="TRUE">Entity point</sdtstype><ptvctcnt Sync="TRUE">2050</ptvctcnt></sdtsterm></ptvctinf></spdoinfo>
+	<spref>
+		<horizsys>
+			<planar>
+				<planci>
+					<plance Sync="TRUE">coordinate pair</plance>
+					<coordrep>
+						<absres Sync="TRUE">0.000256</absres>
+						<ordres Sync="TRUE">0.000256</ordres>
+					</coordrep>
+					<plandu Sync="TRUE">survey feet</plandu>
+				</planci>
+				<gridsys><gridsysn>State Plane Coordinate System</gridsysn><spcs><spcszone Sync="TRUE">405</spcszone><lambertc><stdparll Sync="TRUE">34.033333</stdparll><stdparll Sync="TRUE">35.466667</stdparll><longcm Sync="TRUE">-118.000000</longcm><latprjo Sync="TRUE">33.500000</latprjo><feast Sync="TRUE">2000000.000000</feast><fnorth Sync="TRUE">0.000000</fnorth></lambertc></spcs></gridsys></planar>
+			<geodetic>
+				<horizdn Sync="TRUE">North American Datum of 1927</horizdn>
+				<ellips Sync="TRUE">Clarke 1866</ellips>
+				<semiaxis Sync="TRUE">6378206.400000</semiaxis>
+				<denflat Sync="TRUE">294.978698</denflat>
+			</geodetic>
+			<cordsysn><geogcsn Sync="TRUE">GCS_North_American_1927</geogcsn><projcsn Sync="TRUE">NAD_1927_StatePlane_California_V_FIPS_0405</projcsn></cordsysn></horizsys>
+	</spref>
+	<distinfo>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>City of Bakersfield</cntorg>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>1501 Truxtun Avenue</address>
+					<city>Bakersfield</city>
+					<state>CA</state>
+					<postal>93301</postal>
+				</cntaddr>
+				<cntvoice>661-326-3016</cntvoice>
+				<cntfax>661-852-2062</cntfax>
+				<hours>8:00 A.M. - 5:00 P.M.</hours>
+			</cntinfo>
+		</distrib>
+		<distliab>
+I. Disclaimer of  Liability and Warranties
+A. You understand and agree that it is possible that errors
+and omissions will occur in data input or
+programming done by The City of Bakersfield to provide the
+data in the supplied format. You further understand
+and agree that it is probable that errors and omissions will
+occur in the record keeping process, especially when
+large number of records are developed and maintained,
+and that data may not meet your standards as to
+accuracy or completeness. Notwithstanding, you agree to
+take the data "as is", fully expecting that there may be
+errors and omissions associated with the data.
+B. You further understands and agree that The City of
+Bakersfield makes absolutely no warranty whatsoever,
+whether expressed or implied, as to the accuracy,
+thoroughness, value, quality, validity, merchantability,
+suitability, condition or fitness for a particular purpose of the
+data or any programming used to obtain the data,
+nor as to whether the data are error-free, up-to-date,
+complete or based upon accurate or meaningful facts.
+C. You further understand and agree that you forever
+waiver any and all rights, claims, causes of action or other
+recourse that you might otherwise have against The City of
+Bakersfield for any injuries or damages of any type,
+whether direct, indirect, incidental, consequential or
+otherwise, resulting from any error or omission in the data or
+in any programming used to obtain the data, or in any
+manner arising out of or related to the data retrieved
+hereunder. You agree that The City of Bakersfield shall not
+be liable to you for any liability, claim, loss, damage,
+injury or expense of any kind caused or alleged to be
+caused, directly or indirectly, by the inadequacy of data
+obtained from The City of Bakersfield, by any deficiency of
+The City of Bakersfield or your systems, by any delay
+or failure to provide service, or by any other interruption,
+disruption or loss to your operations.
+II. Indemnification
+You agree not to provide a copy or partial copy of any data
+to any other party, including consultants under
+contract with you, without disclosing that the copy or partial
+copy was obtained from The City of Bakersfield and
+without attaching a duplicate of these Terms and
+Conditions.
+</distliab>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<formname>ASCII</formname>
+					<filedec>ZIP</filedec>
+					<transize Sync="TRUE">0.055</transize><dssize Sync="TRUE">0.055</dssize></digtinfo>
+				<digtopt>
+					<onlinopt>
+						<computer>
+							<networka>
+								<networkr>www.ci.bakersfield.ca.us</networkr>
+							</networka>
+						</computer>
+					</onlinopt>
+				</digtopt>
+			</digform>
+			<fees>None</fees>
+		</stdorder>
+		<resdesc Sync="TRUE">Downloadable Data</resdesc></distinfo>
+	<metainfo>
+		<metd Sync="TRUE">20060502</metd>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>City of Bakersfield</cntorg>
+					<cntper>REQUIRED: The person responsible for the metadata information.</cntper></cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>1501 Truxtun Avenue</address>
+					<city>Bakersfield</city>
+					<state>CA</state>
+					<postal>93301</postal>
+				</cntaddr>
+				<cntvoice>661-326-3062</cntvoice>
+				<cntfax>661-852-2062</cntfax>
+				<hours>8:00 A.M. - 5:00 P.M.</hours>
+			</cntinfo>
+		</metc>
+		<metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+		<mettc Sync="TRUE">local time</mettc>
+		<metac>None</metac>
+		<metuc>None</metuc>
+		<langmeta Sync="TRUE">en</langmeta><metextns><onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink><metprof Sync="TRUE">ESRI Metadata Profile</metprof></metextns></metainfo>
+	<Esri><CreaDate>20060916</CreaDate><CreaTime>14101500</CreaTime><SyncOnce>FALSE</SyncOnce><SyncDate>20060502</SyncDate><SyncTime>15304100</SyncTime><ModDate>20060502</ModDate><ModTime>15325900</ModTime><DataProperties><lineage><Process ToolSource="C:\Program Files\ArcGIS\ArcToolbox\Toolboxes\Data Management Tools.tbx\DefineProjection" Date="20060317" Time="150738">DefineProjection R:\Data\Shape_Files\Bakersfield\Geodetic\Survey\Control_Point\cntrl_x.shp PROJCS['NAD_1927_StatePlane_California_V_FIPS_0405',GEOGCS['GCS_North_American_1927',DATUM['D_North_American_1927',SPHEROID['Clarke_1866',6378206.4,294.9786982]],PRIMEM['Greenwich',0.0],UNIT['Degree',0.0174532925199433]],PROJECTION['Lambert_Conformal_Conic'],PARAMETER['False_Easting',2000000.0],PARAMETER['False_Northing',0.0],PARAMETER['Central_Meridian',-118.0],PARAMETER['Standard_Parallel_1',34.03333333333333],PARAMETER['Standard_Parallel_2',35.46666666666667],PARAMETER['Latitude_Of_Origin',33.5],UNIT['Foot_US',0.3048006096012192]] R:\Data\Shape_Files\Bakersfield\Geodetic\Survey\Control_Point\cntrl_x.shp</Process><Process ToolSource="C:\Program Files\ArcGIS\ArcToolbox\Toolboxes\Data Management Tools.tbx\DefineProjection" Date="20060331" Time="092132">DefineProjection R:\Data\Shape_Files\Bakersfield\Geodetic\Survey\Control_Point\cntrl_x.shp PROJCS['NAD_1927_StatePlane_California_V_FIPS_0405',GEOGCS['GCS_North_American_1927',DATUM['D_North_American_1927',SPHEROID['Clarke_1866',6378206.4,294.9786982]],PRIMEM['Greenwich',0.0],UNIT['Degree',0.0174532925199433]],PROJECTION['Lambert_Conformal_Conic'],PARAMETER['False_Easting',2000000.0],PARAMETER['False_Northing',0.0],PARAMETER['Central_Meridian',-118.0],PARAMETER['Standard_Parallel_1',34.03333333333333],PARAMETER['Standard_Parallel_2',35.46666666666667],PARAMETER['Latitude_Of_Origin',33.5],UNIT['Foot_US',0.3048006096012192]] R:\Data\Shape_Files\Bakersfield\Geodetic\Survey\Control_Point\cntrl_x.shp</Process><Process ToolSource="C:\Program Files\ArcGIS\ArcToolbox\Toolboxes\Data Management Tools.tbx\DefineProjection" Date="20060503" Time="122754">DefineProjection R:\Data\Shape_Files\Bakersfield\Geodetic\Survey\Control_Point\cntrl_x.shp PROJCS['NAD_1927_StatePlane_California_V_FIPS_0405',GEOGCS['GCS_North_American_1927',DATUM['D_North_American_1927',SPHEROID['Clarke_1866',6378206.4,294.9786982]],PRIMEM['Greenwich',0.0],UNIT['Degree',0.0174532925199433]],PROJECTION['Lambert_Conformal_Conic'],PARAMETER['False_Easting',2000000.0],PARAMETER['False_Northing',0.0],PARAMETER['Central_Meridian',-118.0],PARAMETER['Standard_Parallel_1',34.03333333333333],PARAMETER['Standard_Parallel_2',35.46666666666667],PARAMETER['Latitude_Of_Origin',33.5],UNIT['Foot_US',0.3048006096012192]] R:\Data\Shape_Files\Bakersfield\Geodetic\Survey\Control_Point\cntrl_x.shp</Process><Process Name="Project_91" ToolSource="C:\Program Files\ArcGIS\ArcToolbox\Toolboxes\Data Management Tools.tbx\Project" Date="20060916" Time="141016">Project R:\Data\Shape_Files\Bakersfield\Geodetic\Survey\Control_Point\cntrl_x_OLD_NAD27.shp R:\Data\Shape_Files\Bakersfield\Geodetic\Survey\Control_Point\cntrl_x.shp PROJCS['NAD_1983_StatePlane_California_V_FIPS_0405_Feet',GEOGCS['GCS_North_American_1983',DATUM['D_North_American_1983',SPHEROID['GRS_1980',6378137.0,298.257222101]],PRIMEM['Greenwich',0.0],UNIT['Degree',0.0174532925199433]],PROJECTION['Lambert_Conformal_Conic'],PARAMETER['False_Easting',6561666.666666666],PARAMETER['False_Northing',1640416.666666667],PARAMETER['Central_Meridian',-118.0],PARAMETER['Standard_Parallel_1',34.03333333333333],PARAMETER['Standard_Parallel_2',35.46666666666667],PARAMETER['Latitude_Of_Origin',33.5],UNIT['Foot_US',0.3048006096012192]] NAD_1927_To_NAD_1983_NADCON</Process></lineage></DataProperties><MetaID>{5687F6FB-0A0D-47AD-B039-60EAED110E91}</MetaID></Esri><dataIdInfo><envirDesc Sync="TRUE">Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 2; ESRI ArcCatalog 9.1.0.722</envirDesc><dataLang><languageCode Sync="TRUE" value="en"></languageCode></dataLang><idCitation><resTitle Sync="TRUE">cntrl_x</resTitle><presForm><PresFormCd Sync="TRUE" value="005"></PresFormCd></presForm></idCitation><spatRpType><SpatRepTypCd Sync="TRUE" value="001"></SpatRepTypCd></spatRpType><dataExt><geoEle><GeoBndBox esriExtentType="native"><westBL Sync="TRUE">1595017.65</westBL><eastBL Sync="TRUE">1768829.78</eastBL><northBL Sync="TRUE">731224.308</northBL><southBL Sync="TRUE">612474.269</southBL><exTypeCode Sync="TRUE">1</exTypeCode></GeoBndBox></geoEle></dataExt><geoBox esriExtentType="decdegrees"><westBL Sync="TRUE">-119.360545</westBL><eastBL Sync="TRUE">-118.773582</eastBL><northBL Sync="TRUE">35.506784</northBL><southBL Sync="TRUE">35.175482</southBL><exTypeCode Sync="TRUE">1</exTypeCode></geoBox></dataIdInfo><mdLang><languageCode Sync="TRUE" value="en"></languageCode></mdLang><mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName><mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer><mdChar><CharSetCd Sync="TRUE" value="004"></CharSetCd></mdChar><mdHrLv><ScopeCd Sync="TRUE" value="005"></ScopeCd></mdHrLv><mdHrLvName Sync="TRUE">dataset</mdHrLvName><distInfo><distributor><distorTran><onLineSrc><orDesc Sync="TRUE">002</orDesc><linkage Sync="TRUE">file://</linkage><protocol Sync="TRUE">Local Area Network</protocol></onLineSrc><transSize Sync="TRUE">0.055</transSize></distorTran><distorFormat><formatName Sync="TRUE">Shapefile</formatName></distorFormat></distributor></distInfo><refSysInfo><RefSystem><refSysID><identCode Sync="TRUE">NAD_1927_StatePlane_California_V_FIPS_0405</identCode></refSysID></RefSystem></refSysInfo><spatRepInfo><VectSpatRep><topLvl><TopoLevCd Sync="TRUE" value="001"></TopoLevCd></topLvl><geometObjs Name="cntrl_x"><geoObjTyp><GeoObjTypCd Sync="TRUE" value="004"></GeoObjTypCd></geoObjTyp><geoObjCnt Sync="TRUE">2050</geoObjCnt></geometObjs></VectSpatRep></spatRepInfo><eainfo><detailed Name="cntrl_x"><enttyp><enttypl Sync="TRUE">cntrl_x</enttypl><enttypt Sync="TRUE">Feature Class</enttypt><enttypc Sync="TRUE">2050</enttypc></enttyp><attr><attrlabl Sync="TRUE">FID</attrlabl><attalias Sync="TRUE">FID</attalias><attrtype Sync="TRUE">OID</attrtype><attwidth Sync="TRUE">4</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdef Sync="TRUE">Internal feature number.</attrdef><attrdefs Sync="TRUE">ESRI</attrdefs><attrdomv><udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom></attrdomv></attr><attr><attrlabl Sync="TRUE">Shape</attrlabl><attalias Sync="TRUE">Shape</attalias><attrtype Sync="TRUE">Geometry</attrtype><attwidth Sync="TRUE">0</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdef Sync="TRUE">Feature geometry.</attrdef><attrdefs Sync="TRUE">ESRI</attrdefs><attrdomv><udom Sync="TRUE">Coordinates defining the features.</udom></attrdomv></attr><attr><attrlabl Sync="TRUE">AREA</attrlabl><attalias Sync="TRUE">AREA</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">20</attwidth><atnumdec Sync="TRUE">5</atnumdec></attr><attr><attrlabl Sync="TRUE">PERIMETER</attrlabl><attalias Sync="TRUE">PERIMETER</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">20</attwidth><atnumdec Sync="TRUE">5</atnumdec></attr><attr><attrlabl Sync="TRUE">GDSRVMNT_</attrlabl><attalias Sync="TRUE">GDSRVMNT_</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">11</attwidth></attr><attr><attrlabl Sync="TRUE">GDSRVMNT_I</attrlabl><attalias Sync="TRUE">GDSRVMNT_I</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">11</attwidth></attr><attr><attrlabl Sync="TRUE">MONUMNT_ID</attrlabl><attalias Sync="TRUE">MONUMNT_ID</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">20</attwidth><attrdef>Monument identification number</attrdef></attr><attr><attrlabl Sync="TRUE">USER_FLAG</attrlabl><attalias Sync="TRUE">USER_FLAG</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">20</attwidth></attr></detailed></eainfo><mdDateSt Sync="TRUE">20060502</mdDateSt></metadata>

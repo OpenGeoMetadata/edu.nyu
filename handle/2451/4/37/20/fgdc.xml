@@ -1,0 +1,131 @@
+<metadata xml:lang="en"><Esri><CreaDate>20100623</CreaDate><CreaTime>07140900</CreaTime><SyncOnce>FALSE</SyncOnce><DataProperties><lineage><Process Name="Create Feature Class" ToolSource="C:\Program Files\ArcGIS\ArcToolbox\Toolboxes\Data Management Tools.tbx\CreateFeatureclass" Date="20060511" Time="123354" export="">CreateFeatureclass "Database Connections\DATAloading BFLDDATA.BFLDDATA.sde\BFLDDATA.BFLDDATA.Boundary" Annex # BFLDDATA_Layer SAME_AS_TEMPLATE SAME_AS_TEMPLATE "PROJCS['NAD_1927_StatePlane_California_V_FIPS_0405',GEOGCS['GCS_North_American_1927',DATUM['D_North_American_1927',SPHEROID['Clarke_1866',6378206.4,294.9786982]],PRIMEM['Greenwich',0.0],UNIT['Degree',0.0174532925199433]],PROJECTION['Lambert_Conformal_Conic'],PARAMETER['False_Easting',2000000.0],PARAMETER['False_Northing',0.0],PARAMETER['Central_Meridian',-118.0],PARAMETER['Standard_Parallel_1',34.03333333333333],PARAMETER['Standard_Parallel_2',35.46666666666667],PARAMETER['Latitude_Of_Origin',33.5],UNIT['Foot_US',0.3048006096012192]];257511.198162628 -774983.599326164 746.229608341441;0 1;0 1" # 0 0 0 "Database Connections\DATAloading BFLDDATA.BFLDDATA.sde\BFLDDATA.BFLDDATA.Boundary\BFLDDATA.BFLDDATA.Annex"</Process><Process Name="Append" ToolSource="C:\Program Files\ArcGIS\ArcToolbox\Toolboxes\Data Management Tools.tbx\Append" Date="20060511" Time="123402" export="">Append BFLDDATA_Layer "Database Connections\DATAloading BFLDDATA.BFLDDATA.sde\BFLDDATA.BFLDDATA.Boundary\BFLDDATA.BFLDDATA.Annex" TEST "Database Connections\DATAloading BFLDDATA.BFLDDATA.sde\BFLDDATA.BFLDDATA.Boundary\BFLDDATA.BFLDDATA.Annex"</Process><Process Name="FeatureClassToFeatureClass_6" ToolSource="C:\Program Files\ArcGIS\ArcToolbox\Toolboxes\Conversion Tools.tbx\FeatureClassToFeatureClass" Date="20060511" Time="123402" export="">FeatureClassToFeatureClass "Database Connections\DATAloading BFLDDATA.BFLDDATA.sde\BFLDDATA.BFLDDATA.Annexation" "Database Connections\DATAloading BFLDDATA.BFLDDATA.sde\BFLDDATA.BFLDDATA.Boundary" Annex # "ANNEX_ID ANNEX_ID VISIBLE;FEAT_NAME FEAT_NAME VISIBLE;YEAR_ID YEAR_ID VISIBLE;FISCAL_YEAR FISCAL_YEAR VISIBLE;TRA TRA VISIBLE;FF FF VISIBLE;FF_ID FF_ID VISIBLE;SOURCE SOURCE VISIBLE;USER_FLAG USER_FLAG VISIBLE;ANNEX_NO ANNEX_NO VISIBLE;SHAPE.area SHAPE.area VISIBLE;SHAPE.len SHAPE.len VISIBLE" SAME_AS_TEMPLATE SAME_AS_TEMPLATE # 0 "Database Connections\DATAloading BFLDDATA.BFLDDATA.sde\BFLDDATA.BFLDDATA.Boundary\BFLDDATA.BFLDDATA.Annex"</Process><Process Name="Dissolve_1" ToolSource="C:\Program Files\ArcGIS\ArcToolbox\Toolboxes\Data Management Tools.tbx\Dissolve" Date="20070209" Time="142651" export="">Dissolve "Database Connections\BFLDDATA.sde\GEOVECTOR.BFLDDATA.Boundary\GEOVECTOR.BFLDDATA.Annex" "Database Connections\BFLDDATA.sde\GEOVECTOR.BFLDDATA.Boundary\geovector.BFLDDATA.CityLimits" USER_FLAG # SINGLE_PART</Process><Process ToolSource="c:\program files (x86)\arcgis\desktop10.3\ArcToolbox\Toolboxes\Conversion Tools.tbx\FeatureClassToFeatureClass" Date="20181007" Time="105600">FeatureClassToFeatureClass "\\gis\admin\Projects\Models\Connection to SQLGIS_ScriptRunner.sde\GEOVECTOR.BFLDDATA.Boundary\GEOVECTOR.BFLDDATA.CityLimits" \\gis\public\Transfer\WebPageTempFiles CityLimits.shp # "JUR "JUR" true true false 20 Text 0 0 ,First,#,\\gis\admin\Projects\Models\Connection to SQLGIS_ScriptRunner.sde\GEOVECTOR.BFLDDATA.Boundary\GEOVECTOR.BFLDDATA.CityLimits,JURISDICTION,-1,-1" #</Process></lineage><itemProps><itemLocation><linkage Sync="TRUE">file://\\gis\public\Transfer\WebPageTempFiles\CityLimits.shp</linkage><protocol Sync="TRUE">Local Area Network</protocol></itemLocation><itemName Sync="TRUE">CityLimits</itemName><imsContentType Sync="TRUE">002</imsContentType><nativeExtBox><westBL Sync="TRUE">6184123.130002</westBL><eastBL Sync="TRUE">6331467.795002</eastBL><southBL Sync="TRUE">2258282.467540</southBL><northBL Sync="TRUE">2350406.330040</northBL><exTypeCode Sync="TRUE">1</exTypeCode></nativeExtBox><itemSize Sync="TRUE">0.000</itemSize></itemProps><coordRef><type Sync="TRUE">Projected</type><geogcsn Sync="TRUE">GCS_North_American_1983</geogcsn><projcsn Sync="TRUE">NAD_1983_StatePlane_California_V_FIPS_0405_Feet</projcsn><peXml Sync="TRUE">&lt;ProjectedCoordinateSystem xsi:type='typens:ProjectedCoordinateSystem' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/10.3'&gt;&lt;WKT&gt;PROJCS[&amp;quot;NAD_1983_StatePlane_California_V_FIPS_0405_Feet&amp;quot;,GEOGCS[&amp;quot;GCS_North_American_1983&amp;quot;,DATUM[&amp;quot;D_North_American_1983&amp;quot;,SPHEROID[&amp;quot;GRS_1980&amp;quot;,6378137.0,298.257222101]],PRIMEM[&amp;quot;Greenwich&amp;quot;,0.0],UNIT[&amp;quot;Degree&amp;quot;,0.0174532925199433]],PROJECTION[&amp;quot;Lambert_Conformal_Conic&amp;quot;],PARAMETER[&amp;quot;False_Easting&amp;quot;,6561666.666666666],PARAMETER[&amp;quot;False_Northing&amp;quot;,1640416.666666667],PARAMETER[&amp;quot;Central_Meridian&amp;quot;,-118.0],PARAMETER[&amp;quot;Standard_Parallel_1&amp;quot;,34.03333333333333],PARAMETER[&amp;quot;Standard_Parallel_2&amp;quot;,35.46666666666667],PARAMETER[&amp;quot;Latitude_Of_Origin&amp;quot;,33.5],UNIT[&amp;quot;Foot_US&amp;quot;,0.3048006096012192],AUTHORITY[&amp;quot;EPSG&amp;quot;,2229]]&lt;/WKT&gt;&lt;XOrigin&gt;-117608900&lt;/XOrigin&gt;&lt;YOrigin&gt;-91881400&lt;/YOrigin&gt;&lt;XYScale&gt;36269466.692146368&lt;/XYScale&gt;&lt;ZOrigin&gt;-100000&lt;/ZOrigin&gt;&lt;ZScale&gt;10000&lt;/ZScale&gt;&lt;MOrigin&gt;-100000&lt;/MOrigin&gt;&lt;MScale&gt;10000&lt;/MScale&gt;&lt;XYTolerance&gt;0.0032808333333333331&lt;/XYTolerance&gt;&lt;ZTolerance&gt;0.001&lt;/ZTolerance&gt;&lt;MTolerance&gt;0.001&lt;/MTolerance&gt;&lt;HighPrecision&gt;true&lt;/HighPrecision&gt;&lt;WKID&gt;102645&lt;/WKID&gt;&lt;LatestWKID&gt;2229&lt;/LatestWKID&gt;&lt;/ProjectedCoordinateSystem&gt;</peXml><csUnits Sync="TRUE">Linear Unit: Foot_US (0.304801)</csUnits></coordRef></DataProperties><SyncDate>20181007</SyncDate><SyncTime>10560000</SyncTime><ModDate>20181007</ModDate><ModTime>10560000</ModTime><PublishStatus>Error publishing</PublishStatus><ArcGISFormat>1.0</ArcGISFormat><ArcGISProfile>FGDC</ArcGISProfile></Esri><idinfo><native Sync="TRUE">Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 3; ESRI ArcCatalog 9.3.0.1770</native><descript><langdata Sync="TRUE">en</langdata><abstract>This data set is known as Boundary Jurisdiction Annexations abbreviated ANNEX and contains the annexation polygons for the City of Bakersfield, CA since 1965. All annexation polygons are grouped by year into regions defining the City of Bakersfield, CA city limits.</abstract><purpose>The data set was created to aid in local GIS and mapping applications and to allow the visualizations of city growth over the years.</purpose></descript><citation><citeinfo><origin>City of Bakersfield GIS</origin><pubdate>1-1-2007</pubdate><title>GEOVECTOR.BFLDDATA.CityLimits</title><ftname Sync="TRUE">geovector.BFLDDATA.CityLimits</ftname><geoform Sync="TRUE">vector digital data</geoform><pubinfo><pubplace>Bakersfield, Ca</pubplace><publish>City of Bakersfield</publish></pubinfo><onlink>http://www.bakersfieldcity.us/gis/downloads/vectors/CityLimits.zip</onlink><onlink>SDE\GEOVECTOR.BFLDDATA.Boundary\geovector.BFLDDATA.CityLimits</onlink></citeinfo></citation><timeperd><current>publication date</current><timeinfo><sngdate><caldate>1-1-2007</caldate></sngdate></timeinfo></timeperd><status><progress>In work</progress><update>As needed</update></status><spdom><bounding><westbc Sync="TRUE">-119.268275</westbc><eastbc Sync="TRUE">-118.769253</eastbc><northbc Sync="TRUE">35.497028</northbc><southbc Sync="TRUE">35.191228</southbc></bounding><lboundng><leftbc Sync="TRUE">6184116.341502</leftbc><rightbc Sync="TRUE">6331836.377252</rightbc><bottombc Sync="TRUE">2258282.467540</bottombc><topbc Sync="TRUE">2368099.841790</topbc></lboundng></spdom><keywords><theme><themekey>annexations</themekey><themekt>City of Bakersfield Keywords</themekt></theme><theme><themekey>Boundaries</themekey><themekt>ISO 19115 Topic Category</themekt><themekey>Location</themekey></theme></keywords><accconst>none</accconst><useconst>visual tool only please see official documents be doing official plans</useconst><natvform Sync="TRUE">SDE Feature Class</natvform><ptcontac><cntinfo><cntaddr><address>1501 Truxtun Ave IT-Basement</address><addrtype>mailing address</addrtype><city>Bakersfield</city><state>CA</state><postal>93311</postal><country>US</country></cntaddr><cntperp><cntper>Matt Cieri</cntper><cntorg>City of Bakersfield - IT/GIS</cntorg></cntperp><cntpos>GIS Supervisor</cntpos><cntvoice>661-326-3062</cntvoice><cntemail>admgis@bakersfieldcity.us</cntemail><hours>8-4 M-F</hours></cntinfo></ptcontac><browse><browset>JPEG</browset></browse></idinfo><dataIdInfo><envirDesc Sync="TRUE">Microsoft Windows Server 2008 R2 Version 6.1 (Build 7601) Service Pack 1; Esri ArcGIS 10.3.1.4959</envirDesc><dataLang><languageCode Sync="TRUE" value="eng" country="USA"/><countryCode value="eng"/></dataLang><idCitation xmlns=""><resTitle Sync="TRUE">CityLimits</resTitle><presForm><PresFormCd Sync="TRUE" value="005"/></presForm><citRespParty xmlns=""><rpIndName>Matthew Cieri</rpIndName><rpOrgName>City of Bakersfield</rpOrgName><rpPosName>GIS Supervisor</rpPosName><rpCntInfo xmlns=""><cntAddress><delPoint>1501 Truxtun Ave</delPoint><city>Bakersfield</city><adminArea>CA</adminArea><postCode>93301</postCode><eMailAdd>admgis@bakersfieldcity.us</eMailAdd><country>US</country></cntAddress><cntPhone><voiceNum>661-326-3062</voiceNum></cntPhone></rpCntInfo><role><RoleCd value="007"/></role></citRespParty></idCitation><spatRpType><SpatRepTypCd Sync="TRUE" value="001"/></spatRpType><dataExt xmlns=""><geoEle><GeoBndBox esriExtentType="search"><westBL Sync="TRUE">-119.267503</westBL><eastBL Sync="TRUE">-118.770487</eastBL><northBL Sync="TRUE">35.448414</northBL><southBL Sync="TRUE">35.191229</southBL><exTypeCode Sync="TRUE">1</exTypeCode></GeoBndBox></geoEle></dataExt><geoBox esriExtentType="decdegrees"><westBL Sync="TRUE">-119.268275</westBL><eastBL Sync="TRUE">-118.769253</eastBL><northBL Sync="TRUE">35.497028</northBL><southBL Sync="TRUE">35.191228</southBL><exTypeCode Sync="TRUE">1</exTypeCode></geoBox><descKeys><thesaName uuidref="723f6998-058e-11dc-8314-0800200c9a66"/><keyword Sync="TRUE">002</keyword></descKeys><idPurp>The data set was created to aid in local GIS and mapping applications and to allow the visualizations of city growth over the years.</idPurp><idAbs>&lt;DIV STYLE="text-align:Left;"&gt;&lt;DIV&gt;&lt;DIV&gt;&lt;P&gt;&lt;SPAN&gt;This data set is known as Boundary Jurisdiction Annexations abbreviated ANNEX and contains the annexation polygons for the City of Bakersfield, CA since 1965. All annexation polygons are grouped by year into regions defining the City of Bakersfield, CA city limits.&lt;/SPAN&gt;&lt;/P&gt;&lt;/DIV&gt;&lt;/DIV&gt;&lt;/DIV&gt;</idAbs><searchKeys><keyword>Annexations</keyword><keyword>Boundaries</keyword><keyword>Location</keyword></searchKeys><resConst><Consts><useLimit>visual tool only please see official documents be doing official plans</useLimit></Consts></resConst><dataChar><CharSetCd value="004"/></dataChar><tpCat><TopicCatCd value="003"/></tpCat><tpCat><TopicCatCd value="013"/></tpCat><tpCat><TopicCatCd value="015"/></tpCat><tpCat><TopicCatCd value="016"/></tpCat></dataIdInfo><metainfo><langmeta Sync="TRUE">en</langmeta><metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn><metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv><mettc Sync="TRUE">local time</mettc><metc><cntinfo><cntaddr><addrtype>mailing address</addrtype><city>Bakersfield</city><state>CA</state><postal>93301</postal><address>1501 Truxtun Ave IT-Basement</address><country>US</country></cntaddr><cntvoice>661-326-3062</cntvoice><cntperp><cntper>Matt Cieri</cntper><cntorg>City of Bakersfield</cntorg></cntperp><cntpos>GIS Supervisor</cntpos><cntemail>admgis@bakersfieldcity.us</cntemail><hours>8-4 M-F</hours></cntinfo></metc><metd Sync="TRUE">20090708</metd></metainfo><mdLang><languageCode Sync="TRUE" value="eng"/><countryCode value="USA" Sync="TRUE"></countryCode></mdLang><mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName><mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer><mdChar><CharSetCd Sync="TRUE" value="004"/></mdChar><mdHrLv><ScopeCd Sync="TRUE" value="005"/></mdHrLv><mdHrLvName Sync="TRUE">dataset</mdHrLvName><distinfo><resdesc>Downloadable Data</resdesc><distrib><cntinfo><cntperp><cntper>IT Department</cntper><cntorg>City of Bakersfield</cntorg></cntperp><cntemail>admgis@ci.bakersfield.ca.us</cntemail></cntinfo></distrib><stdorder><digform><digtopt><onlinopt><computer><networka><networkr>Downloads/vectors/CityLimits.zip</networkr></networka></computer></onlinopt></digtopt></digform></stdorder><distliab>I. Disclaimer of  Liability and Warranties
+	A. You understand and agree that it is possible that errors
+	and omissions will occur in data input or
+	programming done by The City of Bakersfield to provide the
+	data in the supplied format. You further understand
+	and agree that it is probable that errors and omissions will
+	occur in the record keeping process, especially when
+	large number of records are developed and maintained,
+	and that data may not meet your standards as to
+	accuracy or completeness. Notwithstanding, you agree to
+	take the data "as is", fully expecting that there may be
+	errors and omissions associated with the data.
+
+	B. You further understands and agree that The City of
+	Bakersfield makes absolutely no warranty whatsoever,
+	whether expressed or implied, as to the accuracy,
+	thoroughness, value, quality, validity, merchantability,
+	suitability, condition or fitness for a particular purpose of the
+	data or any programming used to obtain the data,
+	nor as to whether the data are error-free, up-to-date,
+	complete or based upon accurate or meaningful facts.
+
+	C. You further understand and agree that you forever
+	waiver any and all rights, claims, causes of action or other
+	recourse that you might otherwise have against The City of
+	Bakersfield for any injuries or damages of any type,
+	whether direct, indirect, incidental, consequential or
+	otherwise, resulting from any error or omission in the data or
+	in any programming used to obtain the data, or in any
+	manner arising out of or related to the data retrieved
+	hereunder. You agree that The City of Bakersfield shall not
+	be liable to you for any liability, claim, loss, damage,
+	injury or expense of any kind caused or alleged to be
+	caused, directly or indirectly, by the inadequacy of data
+	obtained from The City of Bakersfield, by any deficiency of
+	The City of Bakersfield or your systems, by any delay
+	or failure to provide service, or by any other interruption,
+	disruption or loss to your operations.
+
+II. Indemnification
+You agree not to provide a copy or partial copy of any data
+to any other party, including consultants under
+contract with you, without disclosing that the copy or partial
+copy was obtained from The City of Bakersfield and
+without attaching a duplicate of these Terms and
+Conditions.</distliab></distinfo><distInfo><distributor><distorTran><onLineSrc><orDesc Sync="TRUE">002</orDesc><linkage Sync="TRUE">Server=gissql; Service=5151; Database=geovector; User=GIS_SDE; Version=sde.DEFAULT</linkage><protocol Sync="TRUE">ArcSDE Connection</protocol></onLineSrc></distorTran><distorFormat><formatName Sync="TRUE">SDE Feature Class</formatName></distorFormat></distributor><distFormat><formatName Sync="TRUE">Shapefile</formatName></distFormat><distTranOps><transSize Sync="TRUE">0.000</transSize></distTranOps></distInfo><spdoinfo><direct Sync="TRUE">Vector</direct><ptvctinf><esriterm Name="CityLimits"><efeatyp Sync="TRUE">Simple</efeatyp><efeageom code="4" Sync="TRUE"></efeageom><esritopo Sync="TRUE">FALSE</esritopo><efeacnt Sync="TRUE">0</efeacnt><spindex Sync="TRUE">FALSE</spindex><linrefer Sync="TRUE">FALSE</linrefer></esriterm></ptvctinf></spdoinfo><spref><horizsys><cordsysn><geogcsn Sync="TRUE">GCS_North_American_1983</geogcsn><projcsn Sync="TRUE">NAD_1983_StatePlane_California_V_FIPS_0405_Feet</projcsn></cordsysn><planar><planci><plance Sync="TRUE">coordinate pair</plance><plandu Sync="TRUE">survey feet</plandu><coordrep><absres Sync="TRUE">0.000250</absres><ordres Sync="TRUE">0.000250</ordres></coordrep></planci></planar><geodetic><horizdn Sync="TRUE">North American Datum of 1983</horizdn><ellips>Clarke 1866</ellips><semiaxis Sync="TRUE">6378137.000000</semiaxis><denflat Sync="TRUE">298.257222</denflat></geodetic></horizsys><vertdef><altsys><altenc Sync="TRUE">Explicit elevation coordinate included with horizontal coordinates</altenc><altres Sync="TRUE">0.000003</altres></altsys></vertdef></spref><refSysInfo><RefSystem><refSysID><identCode Sync="TRUE" code="2229">NAD_1983_StatePlane_California_V_FIPS_0405_Feet</identCode><idCodeSpace Sync="TRUE">EPSG</idCodeSpace><idVersion Sync="TRUE">8.6.2</idVersion></refSysID></RefSystem></refSysInfo><spatRepInfo><VectSpatRep><geometObjs Name="CityLimits"><geoObjTyp><GeoObjTypCd value="002" Sync="TRUE"></GeoObjTypCd></geoObjTyp><geoObjCnt Sync="TRUE">0</geoObjCnt></geometObjs><topLvl><TopoLevCd value="001" Sync="TRUE"></TopoLevCd></topLvl></VectSpatRep></spatRepInfo><eainfo><detailed Name="CityLimits"><enttyp><enttypl Sync="TRUE">CityLimits</enttypl><enttypt Sync="TRUE">Feature Class</enttypt><enttypc Sync="TRUE">0</enttypc></enttyp><attr><attrlabl Sync="TRUE">FID</attrlabl><attalias Sync="TRUE">FID</attalias><attrtype Sync="TRUE">OID</attrtype><attwidth Sync="TRUE">4</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdef Sync="TRUE">Internal feature number.</attrdef><attrdefs Sync="TRUE">Esri</attrdefs><attrdomv><udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom></attrdomv></attr><attr><attrlabl Sync="TRUE">SHAPE</attrlabl><attalias Sync="TRUE">Shape</attalias><attrtype Sync="TRUE">Geometry</attrtype><attwidth Sync="TRUE">0</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdef Sync="TRUE">Feature geometry.</attrdef><attrdefs Sync="TRUE">ESRI</attrdefs><attrdomv><udom Sync="TRUE">Coordinates defining the features.</udom></attrdomv></attr><attr><attrlabl Sync="TRUE">JUR</attrlabl><attalias Sync="TRUE">JUR</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">20</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr></detailed></eainfo><mdDateSt Sync="TRUE">20181007</mdDateSt><dataqual><lineage><procstep><procdesc Sync="TRUE">Dataset copied.</procdesc><srcused Sync="TRUE">Server=seaquail; Service=5151; Database=BFLDDATA; User=BFLDDATA; Version=sde.DEFAULT</srcused><date Sync="TRUE">20060912</date><time Sync="TRUE">07085100</time></procstep></lineage></dataqual><mdFileID Sync="TRUE">{CD014BBF-5372-4D8E-B2D8-F28042F35804}</mdFileID><Binary><Thumbnail><Data EsriPropertyType="PictureX">/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsK
+CwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQU
+FBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCACFAMgDASIA
+AhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQA
+AAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3
+ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWm
+p6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEA
+AwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSEx
+BhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElK
+U1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3
+uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD9U6KK
+KACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAoooo
+AKKKx9Tu9Rt79Uie2htXQBGlhZyz5O4EhwBxtwPrzWFetHD03Unsu2o0uZ2RsUVh/atV/wCfmz/8
+BX/+OVc0/VorqzDPNCtykKyzxbwPKzn7w6qMqwyf7p9K5cJj6GNbVF3t8ipQcdzQorj7HxvJBaRy
+6k9iMlN4ilKSRhguQY/m5Vi3AY8D14rW0/xZYXwO6T7MGZhE04KLKoIwysQAc56dfataWMw9ZLkm
+tROLRtUUUV2EhRRRQAUUUUAFFctpF1qlrAgMq3+wNDKLh9h8xGKs6kKxwxDHB6ZGMdK1NM1rz7ia
+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</Data></Thumbnail></Binary><mdMaint xmlns=""><maintFreq><MaintFreqCd value="009"/></maintFreq><maintScp><ScopeCd value="009"/></maintScp></mdMaint></metadata>
