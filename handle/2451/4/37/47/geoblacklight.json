@@ -1,0 +1,31 @@
+{
+  "dc_description_s": "City of Bakersfield Sphere of Influence was adopted in January 2006. This dataset was created to aid in mapping applications to visualize the City's sphere of influence as needed.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "http://hdl.handle.net/2451/43747",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Bakersfield (Calif.). Office of City Manager",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Environment",
+    "Urban planning and environment"
+  ],
+  "dc_title_s": "Bakersfield Sphere of Influence for Bakersfield, CA, 2006",
+  "dc_type_s": "Dataset",
+  "dct_issued_s": "1/1/2006",
+  "dct_provenance_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/43747\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/87895/nyu_2451_43747.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/OpenGeoMetadata/edu.nyu/master/handle/2451/4/37/47/fgdc.xml\"}",
+  "dct_spatial_sm": [
+    "Bakersfield, California, United States"
+  ],
+  "dct_temporal_sm": [
+    "2006"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "sdr:nyu_2451_43747",
+  "layer_modified_dt": "2019-01-17T16:30:04Z",
+  "layer_slug_s": "nyu-2451-43747",
+  "nyu_addl_dspace_s": "44914",
+  "solr_geom": "ENVELOPE(-120.194369, -117.616518, 35.798393, 34.78858)",
+  "solr_year_i": 2006
+}
