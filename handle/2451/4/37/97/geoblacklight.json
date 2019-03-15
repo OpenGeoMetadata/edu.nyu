@@ -1,0 +1,36 @@
+{
+  "dc_description_s": "This polygon shapefile represents Future Land Use for New Orleans, LA in 2018. Future Land Use designation based on zoning dataset. It shows the categories of land uses desired over time, and their intensities. The map respects the land uses that correspond to the long term vision, goals and policies expressed in the master plan, and it constitutes the most direct link between the Master Plan and the Comprehensive Zoning Ordinance. It is important to note, however, that the Future Land Use Map is not a zoning map and it does not govern design or function. This file was downloaded on December, 2018 by NYU Data Services. It was originally represented on the New Orleans Open Data Socrata portal as catalog record 66ys-xxcg",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "http://hdl.handle.net/2451/43797",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New Orleans City Planning Commission",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Land use",
+    "Urban planning"
+  ],
+  "dc_title_s": "Future Land Use for New Orleans, LA, 2018",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+    "New Orleans Open Data"
+  ],
+  "dct_provenance_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/43797\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/88280/nyu_2451_43797.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "New Orleans, Louisiana, United States"
+  ],
+  "dct_temporal_sm": [
+    "2018"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "sdr:nyu_2451_43797",
+  "layer_modified_dt": "2019-03-14T12:12:54Z",
+  "layer_slug_s": "nyu-2451-43797",
+  "nyu_addl_dspace_s": "44968",
+  "solr_geom": "ENVELOPE(-90.140031112543, 29.866456999665, -89.625000000392, 30.199332000979)",
+  "solr_year_i": 2018
+}

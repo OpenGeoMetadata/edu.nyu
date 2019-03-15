@@ -1,0 +1,35 @@
+{
+  "dc_description_s": "This polygon shapefile represents District Names for New Orleans, LA in 2018. The planning districts were created in 1997 or so as the City Planning Commission was beginning a Master Plan process. The boundaries have never been changed and are intended to be permanent so that data collected can show trends within the planning districts over time. When they were created, the boundaries matched Census tract boundaries. This file was downloaded on December, 2018 by NYU Data Services. It was originally represented on the New Orleans Open Data Socrata portal as catalog record g9mk-xgnj",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "http://hdl.handle.net/2451/43825",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Districts"
+  ],
+  "dc_title_s": "District Names for New Orleans, LA, 2018",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+    "New Orleans Open Data"
+  ],
+  "dct_provenance_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/43825\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/88342/nyu_2451_43825.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "New Orleans, Louisiana, United States"
+  ],
+  "dct_temporal_sm": [
+    "2018"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "sdr:nyu_2451_43825",
+  "layer_modified_dt": "2019-03-14T12:12:54Z",
+  "layer_slug_s": "nyu-2451-43825",
+  "nyu_addl_dspace_s": "44996",
+  "solr_geom": "ENVELOPE(-90.140068190545, 29.865465052058, -89.627786949236, 30.174810608575)",
+  "solr_year_i": 2018
+}

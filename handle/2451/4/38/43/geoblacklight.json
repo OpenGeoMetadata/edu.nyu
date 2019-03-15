@@ -1,0 +1,35 @@
+{
+  "dc_description_s": "This polygon shapefile represents Reporting Districts for New Orleans, LA in 2018. Smallest level of police divisions used for reporting and response. This file was downloaded on December, 2018 by NYU Data Services. It was originally represented on the New Orleans Open Data Socrata portal as catalog record q3t8-u2zx",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "http://hdl.handle.net/2451/43843",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Police Department (NOPD)",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Districts"
+  ],
+  "dc_title_s": "Reporting Districts for New Orleans, LA, 2018",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+    "New Orleans Open Data"
+  ],
+  "dct_provenance_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/43843\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/88303/nyu_2451_43843.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "New Orleans, Louisiana, United States"
+  ],
+  "dct_temporal_sm": [
+    "2018"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "sdr:nyu_2451_43843",
+  "layer_modified_dt": "2019-03-14T12:12:54Z",
+  "layer_slug_s": "nyu-2451-43843",
+  "nyu_addl_dspace_s": "45014",
+  "solr_geom": "ENVELOPE(-90.139961739103, 29.864776024442, -89.625366853209, 30.1768050597)",
+  "solr_year_i": 2018
+}

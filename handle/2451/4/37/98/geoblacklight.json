@@ -1,0 +1,36 @@
+{
+  "dc_description_s": "This point shapefile represents Visual Arts and Crafts for New Orleans, LA in 2018. Art, Restoration, Retail, Gallery, Exhibit, Space, Museum, School, Arts, Conservation, Framing, Glass, Ironwork, Studio, Frame, Fine Art, ClayThis file was downloaded on December, 2018 by NYU Data Services. It was originally represented on the New Orleans Open Data Socrata portal as catalog record 69m4-xvkh",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "http://hdl.handle.net/2451/43798",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Cultural spaces",
+    "Culture and tourism"
+  ],
+  "dc_title_s": "Visual Arts and Crafts for New Orleans, LA, 2018",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+    "New Orleans Open Data"
+  ],
+  "dct_provenance_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/43798\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/88281/nyu_2451_43798.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "New Orleans, Louisiana, United States"
+  ],
+  "dct_temporal_sm": [
+    "2018"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Point",
+  "layer_id_s": "sdr:nyu_2451_43798",
+  "layer_modified_dt": "2019-03-14T12:12:54Z",
+  "layer_slug_s": "nyu-2451-43798",
+  "nyu_addl_dspace_s": "44969",
+  "solr_geom": "ENVELOPE(-90.133798249419, 29.917782782522, -90.034425944343, 29.982451514546)",
+  "solr_year_i": 2018
+}

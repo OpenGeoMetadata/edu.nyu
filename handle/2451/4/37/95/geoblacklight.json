@@ -1,0 +1,36 @@
+{
+  "dc_description_s": "This point shapefile represents Museums for New Orleans, LA in 2018. Point file of museums across the city of New Orleans that exhibit items of historic, cultural, or artistic significance. Collected by the Mayor's Office of Cultural Economy; is not on a regular update schedule. This file was downloaded on December, 2018 by NYU Data Services. It was originally represented on the New Orleans Open Data Socrata portal as catalog record 5k3t-nwne",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "http://hdl.handle.net/2451/43795",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Museums",
+    "Cultural spaces"
+  ],
+  "dc_title_s": "Museums for New Orleans, LA, 2018",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+    "New Orleans Open Data"
+  ],
+  "dct_provenance_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/43795\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/88334/nyu_2451_43795.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "New Orleans, Louisiana, United States"
+  ],
+  "dct_temporal_sm": [
+    "2018"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Point",
+  "layer_id_s": "sdr:nyu_2451_43795",
+  "layer_modified_dt": "2019-03-14T12:12:54Z",
+  "layer_slug_s": "nyu-2451-43795",
+  "nyu_addl_dspace_s": "44966",
+  "solr_geom": "ENVELOPE(-90.093297396182, 29.936412928869, -90.009827830478, 29.986458536525)",
+  "solr_year_i": 2018
+}

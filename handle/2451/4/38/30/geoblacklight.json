@@ -1,0 +1,36 @@
+{
+  "dc_description_s": "This point shapefile represents Openly Available Computers and Computer Resources for New Orleans, LA in 2018. Count and percent of population by gender in New Orleans, Metro New Orleans, and the United States, 2016This file was downloaded on December, 2018 by NYU Data Services. It was originally represented on the New Orleans Open Data Socrata portal as catalog record hccc-i52n",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "http://hdl.handle.net/2451/43830",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Education",
+    "Libraries"
+  ],
+  "dc_title_s": "Openly Available Computers and Computer Resources  for New Orleans, LA, 2018",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+    "New Orleans Open Data"
+  ],
+  "dct_provenance_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/43830\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/88347/nyu_2451_43830.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "New Orleans, Louisiana, United States"
+  ],
+  "dct_temporal_sm": [
+    "2018"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Point",
+  "layer_id_s": "sdr:nyu_2451_43830",
+  "layer_modified_dt": "2019-03-14T12:12:54Z",
+  "layer_slug_s": "nyu-2451-43830",
+  "nyu_addl_dspace_s": "45001",
+  "solr_geom": "ENVELOPE(-90.1278691856934, 29.9187436184412, -89.9189936153353, 30.0405743714852)",
+  "solr_year_i": 2018
+}

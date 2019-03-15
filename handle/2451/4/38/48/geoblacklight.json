@@ -1,0 +1,35 @@
+{
+  "dc_description_s": "This polygon shapefile represents Recycling Pickup Days for New Orleans, LA in 2018. City of New Orleans recycling pickup schedule and areas of service. This file was downloaded on December, 2018 by NYU Data Services. It was originally represented on the New Orleans Open Data Socrata portal as catalog record qnza-r5v6",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "http://hdl.handle.net/2451/43848",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Environment"
+  ],
+  "dc_title_s": "Recycling Pickup Days for New Orleans, LA, 2018",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+    "New Orleans Open Data"
+  ],
+  "dct_provenance_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/43848\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/88308/nyu_2451_43848.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "New Orleans, Louisiana, United States"
+  ],
+  "dct_temporal_sm": [
+    "2018"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "sdr:nyu_2451_43848",
+  "layer_modified_dt": "2019-03-14T12:12:54Z",
+  "layer_slug_s": "nyu-2451-43848",
+  "nyu_addl_dspace_s": "45019",
+  "solr_geom": "ENVELOPE(-90.137964347555, 29.86864730659, -89.627791536676, 30.174816076603)",
+  "solr_year_i": 2018
+}

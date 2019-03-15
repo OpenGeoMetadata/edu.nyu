@@ -1,0 +1,35 @@
+{
+  "dc_description_s": "This polygon shapefile represents Lot-2 for New Orleans, LA in 2018. A primary division of a simultaneous conveyance and generally referred to as blocks. This file was downloaded on December, 2018 by NYU Data Services. It was originally represented on the New Orleans Open Data Socrata portal as catalog record 92sr-5bi9",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "http://hdl.handle.net/2451/43805",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Land value taxation"
+  ],
+  "dc_title_s": "Lot-2 for New Orleans, LA, 2018",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+    "New Orleans Open Data"
+  ],
+  "dct_provenance_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/43805\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/88286/nyu_2451_43805.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "New Orleans, Louisiana, United States"
+  ],
+  "dct_temporal_sm": [
+    "2018"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "sdr:nyu_2451_43805",
+  "layer_modified_dt": "2019-03-14T12:12:54Z",
+  "layer_slug_s": "nyu-2451-43805",
+  "nyu_addl_dspace_s": "44976",
+  "solr_geom": "ENVELOPE(-90.137050631076, 29.870806498074, -89.736073921745, 30.163941539233)",
+  "solr_year_i": 2018
+}
