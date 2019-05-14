@@ -1,0 +1,36 @@
+{
+  "dc_description_s": "This point shapefile represents Metered Parking Station Location for New Orleans, LA in 2018. This dataset shows the presence of metered parking spaces. The stations are categorized by two different types, Single Space Meters (SSM) and Pay Stations (PS) for multiple spaces. Number of spaces managed by the Pay Stations is depicted in the data as well. Single space meters are indicated with a 1. All meters have a Meter ID which could be tied to tabular data which is currently in excel form. Data is updated monthly and provided monthly by SP+. This file was downloaded on December, 2018 by NYU Data Services. It was originally represented on the New Orleans Open Data Socrata portal as catalog record c4xs-6gek",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "http://hdl.handle.net/2451/43812",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Transportation",
+    "Urban density"
+  ],
+  "dc_title_s": "Metered Parking Station Location for New Orleans, LA, 2018",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+    "New Orleans Open Data"
+  ],
+  "dct_provenance_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/43812\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/88293/nyu_2451_43812.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "New Orleans, Louisiana, United States"
+  ],
+  "dct_temporal_sm": [
+    "2018"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Point",
+  "layer_id_s": "sdr:nyu_2451_43812",
+  "layer_modified_dt": "2019-05-13T14:36:06Z",
+  "layer_slug_s": "nyu-2451-43812",
+  "nyu_addl_dspace_s": "44983",
+  "solr_geom": "ENVELOPE(-169.1393005848, 168.7122619152, 74.2208600469, 65.6717234664)",
+  "solr_year_i": 2018
+}

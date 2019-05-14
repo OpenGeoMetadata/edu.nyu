@@ -1,0 +1,36 @@
+{
+  "dc_description_s": "This polygon shapefile represents Local Historic Districts for New Orleans, LA in 2018, including those districts managed by the Vieux Carr. Commission, the New Orleans Historic District Landmarks Commission, and the Central Business District Historic District Landmarks Commission. Local historic districts are created to regulate, preserve, and protect historic districts and landmarks within the City of New Orleans and may or may not correspond to districts listed on the National Register of Historic Places. As of 2017, there are 20 local historic districts within the City of New Orleans--15 administered by the New Orleans Historic District Landmarks Commission and four by the Central Business District Historic District Landmarks Commission. The Vieux Carr. Commission is charged with the preservation of the Vieux Carr.. (French Quarter). This file was downloaded on December, 2018 by NYU Data Services. It was originally represented on the New Orleans Open Data Socrata portal as catalog record d6pp-efag",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "http://hdl.handle.net/2451/43817",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Districts",
+    "Zoning"
+  ],
+  "dc_title_s": "Local Historic Districts for New Orleans, LA, 2018",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+    "New Orleans Open Data"
+  ],
+  "dct_provenance_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/43817\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/88298/nyu_2451_43817.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "New Orleans, Louisiana, United States"
+  ],
+  "dct_temporal_sm": [
+    "2018"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "sdr:nyu_2451_43817",
+  "layer_modified_dt": "2019-05-13T14:36:06Z",
+  "layer_slug_s": "nyu-2451-43817",
+  "nyu_addl_dspace_s": "44988",
+  "solr_geom": "ENVELOPE(-169.1393005848, 168.7122619152, 74.2208600469, 65.6717234664)",
+  "solr_year_i": 2018
+}

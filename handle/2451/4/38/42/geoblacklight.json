@@ -1,0 +1,37 @@
+{
+  "dc_description_s": "This polygon shapefile represents School Board Districts for New Orleans, LA in 2018. Orleans Parish School Board Districts as adopted by OPSB on February 28, 2012. The Board adopted the Alternative Amended Plan with two changes recommended from the floor. The first change being that Precint 6-8 be moved from District 3 to District 7. The second change being that Precinct 15-13 be moved from District 7 to District 4. These districts are derived from the updated precincts provided by the New Orleans City Council following the 2010 census redistricting. This file was downloaded on December, 2018 by NYU Data Services. It was originally represented on the New Orleans Open Data Socrata portal as catalog record pzk5-bjf6",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "http://hdl.handle.net/2451/43842",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Education",
+    "Communities",
+    "School districts"
+  ],
+  "dc_title_s": "School Board Districts for New Orleans, LA, 2018",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+    "New Orleans Open Data"
+  ],
+  "dct_provenance_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/43842\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/88302/nyu_2451_43842.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "New Orleans, Louisiana, United States"
+  ],
+  "dct_temporal_sm": [
+    "2018"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "sdr:nyu_2451_43842",
+  "layer_modified_dt": "2019-05-13T14:36:06Z",
+  "layer_slug_s": "nyu-2451-43842",
+  "nyu_addl_dspace_s": "45013",
+  "solr_geom": "ENVELOPE(-169.1393005848, 168.7122619152, 74.2208600469, 65.6717234664)",
+  "solr_year_i": 2018
+}

@@ -1,0 +1,36 @@
+{
+  "dc_description_s": "This polygon shapefile represents zoning districts for New Orleans, LA in 2018. Zoning regulates land use to promote smart growth and preserve the quality of life in communities. Permitted Use(s) are allowed by right, subject to compliance with appropriate standards. Conditional Use require City Planning Commission review with a recommendation forwarded to the City Council for final action. This file was downloaded on December, 2018 by NYU Data Services. It was originally represented on the New Orleans Open Data Socrata portal as catalog record 25ka-xtj7",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "http://hdl.handle.net/2451/43781",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Zoning",
+    "Urban development"
+  ],
+  "dc_title_s": "Zoning District for New Orleans, LA, 2018",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+    "New Orleans Open Data"
+  ],
+  "dct_provenance_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/43781\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/88267/nyu_2451_43781.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "New Orleans, Louisiana, United States"
+  ],
+  "dct_temporal_sm": [
+    "2018"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "sdr:nyu_2451_43781",
+  "layer_modified_dt": "2019-05-13T14:36:06Z",
+  "layer_slug_s": "nyu-2451-43781",
+  "nyu_addl_dspace_s": "44952",
+  "solr_geom": "ENVELOPE(-169.1393005848, 168.7122619152, 74.2208600469, 65.6717234664)",
+  "solr_year_i": 2018
+}
