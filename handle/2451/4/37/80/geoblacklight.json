@@ -1,5 +1,5 @@
 {
-  "dc_description_s": "This point shapefile represents locations of festivals and markets for New Orleans, LA in 2018. The layer shows festivals (art, food, music) and markets (farmers', art, holiday) that occur across the city of New Orleans over the course of each year. This file was downloaded on December, 2018 by NYU Data Services. It was originally represented on the New Orleans Open Data Socrata portal as catalog record 23ub-f52j",
+  "dc_description_s": "This point shapefile represents locations of Festivals and open markets for New Orleans, LA in 2018. The layer shows festivals (art, food, music) and markets (farmers', art, holiday) that occur across the city of New Orleans over the course of each year. This file was downloaded on December, 2018 by NYU Data Services. It was originally represented on the New Orleans Open Data Socrata portal as catalog record 23ub-f52j",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "http://hdl.handle.net/2451/43780",
   "dc_language_s": "English",
@@ -30,9 +30,9 @@
   "geoblacklight_version": "1.0",
   "layer_geom_type_s": "Point",
   "layer_id_s": "sdr:nyu_2451_43780",
-  "layer_modified_dt": "2019-03-14T12:12:54Z",
+  "layer_modified_dt": "2019-05-13T14:36:06Z",
   "layer_slug_s": "nyu-2451-43780",
   "nyu_addl_dspace_s": "44951",
-  "solr_geom": "ENVELOPE(-90.132687141984, 29.908187542652, -89.919207862676, 30.040608141062)",
+  "solr_geom": "ENVELOPE(-169.1393005848, 168.7122619152, 74.2208600469, 65.6717234664)",
   "solr_year_i": 2018
 }

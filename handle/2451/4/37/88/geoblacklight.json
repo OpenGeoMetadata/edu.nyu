@@ -28,9 +28,9 @@
   "geoblacklight_version": "1.0",
   "layer_geom_type_s": "Polygon",
   "layer_id_s": "sdr:nyu_2451_43788",
-  "layer_modified_dt": "2019-03-14T12:12:54Z",
+  "layer_modified_dt": "2019-05-13T14:36:06Z",
   "layer_slug_s": "nyu-2451-43788",
   "nyu_addl_dspace_s": "44959",
-  "solr_geom": "ENVELOPE(-90.140079630461, 29.866666398487, -89.625058500552, 30.177504472197)",
+  "solr_geom": "ENVELOPE(-169.1393005848, 168.7122619152, 74.2208600469, 65.6717234664)",
   "solr_year_i": 2018
 }

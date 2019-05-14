@@ -1,5 +1,5 @@
 {
-  "dc_description_s": "This point shapefile represents Jazz Houses for New Orleans, LA in 2018. The file shows locations of houses across the city of New Orleans that are marked to have once housed the leaders of the jazz music industry. This file was downloaded on December, 2018 by NYU Data Services. It was originally represented on the New Orleans Open Data Socrata portal as catalog record 4yyx-2ext",
+  "dc_description_s": "This point shapefile represents Jazz Houses for New Orleans, LA in 2018. The file shows locations of houses across the city of New Orleans that are marked to have once housed the leaders of the jazz music industry as they performed. This file was downloaded on December, 2018 by NYU Data Services. It was originally represented on the New Orleans Open Data Socrata portal as catalog record 4yyx-2ext",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "http://hdl.handle.net/2451/43791",
   "dc_language_s": "English",
@@ -27,9 +27,9 @@
   "geoblacklight_version": "1.0",
   "layer_geom_type_s": "Point",
   "layer_id_s": "sdr:nyu_2451_43791",
-  "layer_modified_dt": "2019-03-14T12:12:54Z",
+  "layer_modified_dt": "2019-05-13T14:36:06Z",
   "layer_slug_s": "nyu-2451-43791",
   "nyu_addl_dspace_s": "44962",
-  "solr_geom": "ENVELOPE(-90.132049744967, 29.923470487885, -90.007873105945, 29.985071749854)",
+  "solr_geom": "ENVELOPE(-169.1393005848, 168.7122619152, 74.2208600469, 65.6717234664)",
   "solr_year_i": 2018
 }
