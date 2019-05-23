@@ -1,0 +1,45 @@
+{
+  "dc_creator_sm": [
+    "Segun Omole"
+  ],
+  "dc_description_s": "This point shapefile represents barber shops in Abu Dhabi between World Trade Center and al Wahda Mall. This data was collected as part of a student project for the NYU Abu Dhabi course Data and Human Space taught by David Wrisley during fall semester 2018.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "http://hdl.handle.net/2451/44256",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Grooming",
+    "Health and hygiene",
+    "Locations",
+    "Customer services"
+  ],
+  "dc_title_s": "Barber Shops in Downtown Abu Dhabi, 2018",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+    "NYU Research Data"
+  ],
+  "dct_issued_s": "12/11/2018",
+  "dct_provenance_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/44256\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/89064/nyu_2451_44256.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\",\"http://lccn.loc.gov/sh85035852\":\"https://archive.nyu.edu/retrieve/89072/nyu_2451_44256_doc.zip\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "United Arab Emirates "
+  ],
+  "dct_temporal_sm": [
+    "2018"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Point",
+  "layer_id_s": "sdr:nyu_2451_44256",
+  "layer_modified_dt": "2019-05-23T03:47:50Z",
+  "layer_slug_s": "nyu-2451-44256",
+  "nyu_addl_dspace_s": "45406",
+  "nyu_addl_format_sm": [
+    "Shapefile"
+  ],
+  "solr_geom": "ENVELOPE(54.360622, 54.370096, 24.485937, 24.471144)",
+  "solr_year_i": 2018
+}
