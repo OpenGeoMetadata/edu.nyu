@@ -1,0 +1,50 @@
+{
+  "dc_description_s": "This data layer shows post-delimitation state Legislative Assembly constituency boundaries and data relating to the 2009 Assembly elections for the State of Assam, India. Map includes data for 126 constituencies. Includes attribute data on election parties, candidates, voters, and results. This layer is part of the Poll Map of India which includes parliamentary constituency boundaries for India, Assembly constituency boundaries for all states, and data relating to the past national elections for each State of India.This data can be used for election analysis, forecasting, and mapping: Enables profiling of individual constituencies, permits historical analysis of the data, and helps predictive estimate of the impact of regional and state-wise electorate swings on the performance of political parties. These data are intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "http://hdl.handle.net/2451/60158",
+  "dc_language_s": "English",
+  "dc_publisher_s": "ML InfoMap (Firm)",
+  "dc_rights_s": "Restricted",
+  "dc_subject_sm": [
+    "Elections",
+    "Political Parties",
+    "Voting",
+    "Politics and government",
+    "Boundaries",
+    "Society"
+  ],
+  "dc_title_s": "Assam, India: Post Delimitation State Assembly Constituency Boundaries and Election Data, 2009",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+    "PollMap of India"
+  ],
+  "dct_provenance_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/60158\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/120162/nyu_2451_60158.zip\",\"http://lccn.loc.gov/sh85035852\":\"https://archive.nyu.edu/retrieve/120734/nyu_2451_60158_doc.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Assam (India)",
+    "Gauhati (India)",
+    "Jorhāt (India : District)",
+    "Dibrugarh (India : District)",
+    "Tinsukia (India)",
+    "Mājulƒ´ (India)",
+    "Tezpur (India)",
+    "Golāghāt (India : District)",
+    "Diphu (India)",
+    "Marigaon (India)",
+    "Nagaon (India : District)"
+  ],
+  "dct_temporal_sm": [
+    "2016"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "sdr:nyu_2451_60158",
+  "layer_modified_dt": "2019-09-06T16:00:18Z",
+  "layer_slug_s": "nyu-2451-60158",
+  "nyu_addl_dspace_s": "61124",
+  "solr_geom": "ENVELOPE(89.695107, 96.01561, 27.972191, 24.129789)",
+  "solr_year_i": 2016
+}

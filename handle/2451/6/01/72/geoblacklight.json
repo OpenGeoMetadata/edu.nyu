@@ -1,0 +1,47 @@
+{
+  "dc_description_s": "This polygon shapefile shows post-delimitation state Legislative Assembly constituency boundaries and data relating to the 2012 Assembly elections for the State of Jharkhand, India. Includes attribute data on election parties, candidates, voters, and results. Map includes information on 80 constituencies. This layer is part of the Poll Map of India which includes parliamentary constituency boundaries for India, Assembly constituency boundaries for all states, and data relating to the past national elections for each State of India.This dataset is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for assembly level analysis within basic applications to support graphical overlays and analysis with other spatial data.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "http://hdl.handle.net/2451/60172",
+  "dc_language_s": "English",
+  "dc_publisher_s": "ML InfoMap (Firm)",
+  "dc_rights_s": "Restricted",
+  "dc_subject_sm": [
+    "Elections",
+    "Political Parties",
+    "Voting",
+    "Politics and government",
+    "Boundaries",
+    "Society"
+  ],
+  "dc_title_s": "Jharkhand, India: Post Delimitation State Assembly Constituency Boundaries and Election Data, 2009",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+    "PollMap of India"
+  ],
+  "dct_provenance_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/60172\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/120176/nyu_2451_60172.zip\",\"http://lccn.loc.gov/sh85035852\":\"https://archive.nyu.edu/retrieve/120748/nyu_2451_60172_doc.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Jharkhand (India)",
+    "Dhānbād (India : District)",
+    "Hazārƒ´bāg (India : District)",
+    "Madhupur (India)",
+    "Jamshedpur (India)",
+    "Dhanwār (India)",
+    "Deoghar (India)",
+    "Bokaro (India : District)"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "sdr:nyu_2451_60172",
+  "layer_modified_dt": "2019-09-06T16:00:18Z",
+  "layer_slug_s": "nyu-2451-60172",
+  "nyu_addl_dspace_s": "61138",
+  "solr_geom": "ENVELOPE(83.331902, 87.919167, 25.34845, 21.96981)",
+  "solr_year_i": 2014
+}

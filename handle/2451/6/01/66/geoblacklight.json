@@ -1,0 +1,50 @@
+{
+  "dc_description_s": "This polygon shapefile shows pre-delimitation state Legislative Assembly constituency boundaries and data relating to the 2007 Assembly elections for the State of Gujarat, India. Map includes data for 182 constituencies. Includes attribute data on election parties, candidates, voters, and results. This layer is part of the Poll Map of India which includes parliamentary constituency boundaries for India, Assembly constituency boundaries for all states, and data relating to the past national elections for each State of India.This data can be used for election analysis, forecasting, and mapping: Enables profiling of individual constituencies, permits historical analysis of the data, and helps predictive estimate of the impact of regional and state-wise electorate swings on the performance of political parties. These data are intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "http://hdl.handle.net/2451/60166",
+  "dc_language_s": "English",
+  "dc_publisher_s": "ML InfoMap (Firm)",
+  "dc_rights_s": "Restricted",
+  "dc_subject_sm": [
+    "Elections",
+    "Political Parties",
+    "Voting",
+    "Politics and government",
+    "Boundaries",
+    "Society"
+  ],
+  "dc_title_s": "Gujarat, India: State Assembly Constituency Boundaries and Election Data, 2007",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+    "PollMap of India"
+  ],
+  "dct_provenance_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/60166\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/120170/nyu_2451_60166.zip\",\"http://lccn.loc.gov/sh85035852\":\"https://archive.nyu.edu/retrieve/120742/nyu_2451_60166_doc.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Gujarat (India)",
+    "Bhāvnagar (India : District)",
+    "Dƒ´sa (India)",
+    "Dwārka (India)",
+    "Fatehpura (India)",
+    "Godhra (India)",
+    "Jāmnagar (India : District)",
+    "J≈´nāgadh (India : District)",
+    "Bhuj (India)",
+    "Rajkot (India : District)",
+    "Sabarmati (India)"
+  ],
+  "dct_temporal_sm": [
+    "2012"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "sdr:nyu_2451_60166",
+  "layer_modified_dt": "2019-09-06T16:00:18Z",
+  "layer_slug_s": "nyu-2451-60166",
+  "nyu_addl_dspace_s": "61132",
+  "solr_geom": "ENVELOPE(68.110092, 74.477364, 24.71266, 20.048479)",
+  "solr_year_i": 2012
+}
