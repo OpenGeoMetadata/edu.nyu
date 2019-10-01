@@ -1,4 +1,4 @@
 language: ruby
 rvm:
-  - 2.3
+  - 2.5
 install: gem install 'geo_combine'
