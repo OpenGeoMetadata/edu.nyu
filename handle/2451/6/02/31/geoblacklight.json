@@ -1,4 +1,7 @@
 {
+  "dc_creator_sm": [
+
+  ],
   "dc_description_s": "This point shapefile represents village locations for Jammu & Kashmir, India in 2011. Features that represent the villages are include basic socio-demographic data on gender, education, literacy, and employment that is linked to the Primary Census Abstract 2011. This dataset is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for village level demographic analysis within basic applications to support graphical overlays and analysis with other spatial data. Consult the documentation for information on the variables.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "http://hdl.handle.net/2451/60231",
@@ -25,6 +28,7 @@
   "dct_isPartOf_sm": [
     "VillageMap of India"
   ],
+  "dct_issued_s": "",
   "dct_provenance_s": "NYU",
   "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/60231\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/120235/nyu_2451_60231.zip\",\"http://lccn.loc.gov/sh85035852\":\"https://archive.nyu.edu/retrieve/120807/nyu_2451_60231_doc.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\"}",
   "dct_source_sm": [
@@ -36,13 +40,13 @@
     "Doda District (India)",
     "Gulmarg (India)",
     "Kargil (India)",
-    "Kupwāra (India)",
+    "Kupwara (India)",
     "Leh (India : District)",
-    "Pahlgām (India)",
-    "P≈´nch (India : District)",
+    "Pahlgam (India)",
+    "Punch (India : District)",
     "Haveli (India)",
-    "Sāmba (India)",
-    "Sonāwāri (India)"
+    "Samba (India)",
+    "Sonawari (India)"
   ],
   "dct_temporal_sm": [
     "2011"
@@ -53,6 +57,9 @@
   "layer_modified_dt": "2019-08-16T10:14:11Z",
   "layer_slug_s": "nyu-2451-60231",
   "nyu_addl_dspace_s": "61197",
+  "nyu_addl_format_sm": [
+    "Shapefile"
+  ],
   "solr_geom": "ENVELOPE(72.574257, 80.300888, 37.050301, 32.276482)",
   "solr_year_i": 2011
 }

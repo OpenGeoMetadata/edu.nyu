@@ -1,4 +1,7 @@
 {
+  "dc_creator_sm": [
+
+  ],
   "dc_description_s": "This data layer shows post-delimitation state Legislative Assembly constituency boundaries and data relating to the 2008 Assembly elections for the State of Rajasthan, India. Map includes data for 200 constituencies. Includes attribute data on election parties, candidates, voters, and results. This layer is part of the Poll Map of India which includes parliamentary constituency boundaries for India, Assembly constituency boundaries for all states, and data relating to the past national elections for each State of India.This data can be used for election analysis, forecasting, and mapping: Enables profiling of individual constituencies, permits historical analysis of the data, and helps predictive estimate of the impact of regional and state-wise electorate swings on the performance of political parties. These data are intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "http://hdl.handle.net/2451/60191",
@@ -18,6 +21,7 @@
   "dct_isPartOf_sm": [
     "PollMap of India"
   ],
+  "dct_issued_s": "",
   "dct_provenance_s": "NYU",
   "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/60191\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/120195/nyu_2451_60191.zip\",\"http://lccn.loc.gov/sh85035852\":\"https://archive.nyu.edu/retrieve/120767/nyu_2451_60191_doc.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\"}",
   "dct_source_sm": [
@@ -25,18 +29,18 @@
   ],
   "dct_spatial_sm": [
     "Rajasthan (India)",
-    "Bānswāra (India : District)",
+    "Banswara (India : District)",
     "Bundi (India : District)",
     "Chittaurgarh (India)",
     "Dhaulpur (India)",
     "Jaisalmer (India : District)",
-    "Jhunjhun≈´n (India : District)",
+    "Jhunjhunun (India : District)",
     "Jodhpur (India : District)",
-    "Sƒ´kar (India : District)",
+    "Sikar (India : District)",
     "Sirohi (India : District)",
     "Udaipur (India : District)",
-    "Rājsamand (India : District)",
-    "Rāmgarh (India)"
+    "Rajsamand (India : District)",
+    "Ramgarh (India)"
   ],
   "dct_temporal_sm": [
     "2013"
@@ -47,6 +51,9 @@
   "layer_modified_dt": "2019-08-16T10:14:11Z",
   "layer_slug_s": "nyu-2451-60191",
   "nyu_addl_dspace_s": "61157",
+  "nyu_addl_format_sm": [
+    "Shapefile"
+  ],
   "solr_geom": "ENVELOPE(69.48154, 78.27097, 30.19254, 23.06052)",
   "solr_year_i": 2013
 }

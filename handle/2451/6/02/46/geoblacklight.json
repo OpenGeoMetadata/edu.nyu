@@ -1,4 +1,7 @@
 {
+  "dc_creator_sm": [
+
+  ],
   "dc_description_s": "This polygon shapefile represents village points for Rajasthan, India in 2011. Features that represent the villages are include basic socio-demographic data on gender, education, literacy, and employment that is linked to the Primary Census Abstract 2011. This dataset is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for village level demographic analysis within basic applications to support graphical overlays and analysis with other spatial data. Consult the documentation for information on the variables.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "http://hdl.handle.net/2451/60246",
@@ -25,6 +28,7 @@
   "dct_isPartOf_sm": [
     "VillageMap of India"
   ],
+  "dct_issued_s": "",
   "dct_provenance_s": "NYU",
   "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/60246\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/120250/nyu_2451_60246.zip\",\"http://lccn.loc.gov/sh85035852\":\"https://archive.nyu.edu/retrieve/120822/nyu_2451_60246_doc.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\"}",
   "dct_source_sm": [
@@ -32,18 +36,18 @@
   ],
   "dct_spatial_sm": [
     "Rajasthan (India)",
-    "Bānswāra (India : District)",
+    "Banswara (India : District)",
     "Bundi (India : District)",
     "Chittaurgarh (India)",
     "Dhaulpur (India)",
     "Jaisalmer (India : District)",
-    "Jhunjhun≈´n (India : District)",
+    "Jhunjhunun (India : District)",
     "Jodhpur (India : District)",
-    "Sƒ´kar (India : District)",
+    "Sikar (India : District)",
     "Sirohi (India : District)",
     "Udaipur (India : District)",
-    "Rājsamand (India : District)",
-    "Rāmgarh (India)"
+    "Rajsamand (India : District)",
+    "Ramgarh (India)"
   ],
   "dct_temporal_sm": [
     "2011"
@@ -54,6 +58,9 @@
   "layer_modified_dt": "2019-08-16T10:14:11Z",
   "layer_slug_s": "nyu-2451-60246",
   "nyu_addl_dspace_s": "61212",
+  "nyu_addl_format_sm": [
+    "Shapefile"
+  ],
   "solr_geom": "ENVELOPE(69.48154, 78.27097, 30.19254, 23.06052)",
   "solr_year_i": 2011
 }
