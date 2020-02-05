@@ -14,7 +14,7 @@ Our metadata is validated to be in compliance with the current [GeoBlacklight 1.
 
 #### Suggested enhancements our existing metadata
 
-There are manny potential ways members of the GeoBlacklight community can enhance our metadata. Some examples include (but are not limited to):
+There are many potential ways members of the GeoBlacklight community can enhance our metadata. Some examples include (but are not limited to):
 * Fixing typos
 * Normalizing string values for subjects and placenames
 * Adding placename strings to records
