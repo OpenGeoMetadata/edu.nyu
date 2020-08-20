@@ -1,30 +1,30 @@
 {
   "dc_creator_sm": [
-
+    "Instituto Nacional de Estadística e Informatica (INEI)"
   ],
-  "dc_description_s": "This ESRI Geodatabase contains polygon features and attribute data tables for census data for the country of Peru. The data is derived from the PERU Instituto Nactional de Estadistica e Informatica and was released in 2007. The data contain 1850 census boundary polygons that each have 250 attributes, and the lowest administrative boundary level represented is the Distrito. Refer to the documentation for a list of variables and a translation of variable titles into English. For more information on the census methodology and a glossary of variable categories, go to the INEI website at https://www.inei.gob.pe/.",
+  "dc_description_s": "This geodatabase contains basic population, business, and housing information for districts in Peru, collected as part of Peru's Censos Nacionales 2007 by the Instituto Nacional de Estadística e Informatica (INEI). The data was documented and restructured by East View Cartographic, Inc. The census data is provided at the district administrative level (ADM3) and includes 1,834 polygons with 781 attribute variables, split into 5 tables. Attribute descriptions retain original language names and unique identifier codes. All variable names were translated from Spanish. Field name prefixes, originally written with coded titles, were renamed to create unique names across the geodatabase (e.g. Original variable of “PAREA_Urbano” was updated to D001 and given the alias “People in Area Type: Urban [PAREA_Urbano]”, the letter D was given as it relates to the Demographic theme table. D = Demographic, E = Economic, H = Housing, M = Migration and S = Social). All variables from the original data were reviewed for completeness and organized into their relevant themes of Demographic, Economic, Housing, Migration and Social. In the attribute tables, all geographic names and codes are represented as text fields and census data are represented as doubles or long integers. Automated tools were run to apply aliases in the format “English translation field description[original language field description]”. Vector data was analyzed for accuracy and compared with national boundaries. This geodatabase is part of a partnership project with East View Cartographic and IPUMS International, titled the Global Census Archive. Refer to the metadata and documentation for original and translated codebooks and methodology.",
   "dc_format_s": "ESRI Geodatabase",
   "dc_identifier_s": "http://hdl.handle.net/2451/34920",
   "dc_language_s": "English",
   "dc_publisher_s": "East View Cartographic, Inc.",
-  "dc_relation_sm": [
-    "http://sws.geonames.org/3932488/about/rdf"
-  ],
   "dc_rights_s": "Restricted",
   "dc_subject_sm": [
     "Census",
     "Census districts",
-    "demographic surveys",
+    "Demographic surveys",
     "Demography"
   ],
-  "dc_title_s": "2007 Peru Census Data Geodatabase",
+  "dc_title_s": "National Census District-Level Geodatabase for Peru, 2007",
   "dc_type_s": "Dataset",
   "dct_isPartOf_sm": [
     "Latin American Census Data"
   ],
   "dct_issued_s": "2016",
   "dct_provenance_s": "NYU",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34920\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/75743/nyu_2451_34920.zip\",\"http://lccn.loc.gov/sh85035852\":\"https://archive.nyu.edu/retrieve/75742/nyu_2451_34920_doc.zip\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34920\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/bitstream/2451/34920/2/nyu_2451_34920.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\",\"http://lccn.loc.gov/sh85035852\":\"https://archive.nyu.edu/bitstream/2451/34920/3/nyu_2451_34920_doc.zip\"}",
+  "dct_source_sm": [
+
+  ],
   "dct_spatial_sm": [
     "Peru"
   ],
@@ -34,9 +34,12 @@
   "geoblacklight_version": "1.0",
   "layer_geom_type_s": "Polygon",
   "layer_id_s": "sdr:nyu_2451_34920",
-  "layer_modified_dt": "2016-09-06T18:25:02Z",
+  "layer_modified_dt": "2020-07-21T13:25:26Z",
   "layer_slug_s": "nyu-2451-34920",
   "nyu_addl_dspace_s": "35886",
+  "nyu_addl_format_sm": [
+    "ESRI Geodatabase"
+  ],
   "solr_geom": "ENVELOPE(-81.326744, -68.677986, -0.012977, -18.349728)",
   "solr_year_i": 2007
 }
