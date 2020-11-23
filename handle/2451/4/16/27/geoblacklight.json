@@ -1,0 +1,42 @@
+{
+  "dc_description_s": "This polygon shapefile layer contains features representing the Limited Height Districts. The main district designation is indicated in the LHNAME attribute. The abbreviation as shown on the zoning map is indicated in the LHLBL attribute. Note that these zones change frequently, and users may want to consult more recent releases at Bytes of the Big Apple.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "http://hdl.handle.net/2451/41627",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York (City). Department of City Planning",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Urban planning and environment",
+    "Urban density",
+    "Urban development",
+    "Zoning"
+  ],
+  "dc_title_s": "2017 NYC Limited Height Districts",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+    "Bytes of the Big Apple"
+  ],
+  "dct_issued_s": "2017",
+  "dct_provenance_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/41627\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/84068/nyu_2451_41627.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\",\"http://lccn.loc.gov/sh85035852\":\"https://archive.nyu.edu/retrieve/84067/nyu_2451_41627_doc.zip\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "New York, New York, United States"
+  ],
+  "dct_temporal_sm": [
+    "2017"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "sdr:nyu_2451_41627",
+  "layer_modified_dt": "2018-05-22T16:34:28Z",
+  "layer_slug_s": "nyu-2451-41627",
+  "nyu_addl_dspace_s": "42687",
+  "nyu_addl_format_sm": [
+    "Shapefile"
+  ],
+  "solr_geom": "ENVELOPE(-74.0006413059924, -73.9549275741795, 40.7866796405202, 40.6837408183463)",
+  "solr_year_i": 2017
+}

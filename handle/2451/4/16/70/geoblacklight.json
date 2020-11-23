@@ -1,0 +1,43 @@
+{
+  "dc_description_s": "This polygon shapefile contains data on bike usage in Manhattan. The Transportation Division of the New York City Department of City Planning (NYCDCP) has performed annual bike counts in Manhattan since 1999. The counts have been conducted along designated bicycle routes at 10 on-street and 5 off-street locations during the fall season. These locations have remained generally consistent. The data collected includes cyclist/user volumes, helmet usage, use of bike lane, gender, etc. The bike counts data can offer insights into the overall trends in user demographics and travel patterns over time.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "http://hdl.handle.net/2451/41670",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York (City). Department of City Planning",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Bicycles and bicycling",
+    "Bicycle trails",
+    "Transportation"
+  ],
+  "dc_title_s": "2017 NYC Department of City Planning Manhattan Bike Counts",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+    "Bytes of the Big Apple"
+  ],
+  "dct_issued_s": "2017",
+  "dct_provenance_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/41670\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/84124/nyu_2451_41670.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\",\"http://lccn.loc.gov/sh85035852\":\"https://archive.nyu.edu/retrieve/84125/nyu_2451_41670_doc.zip\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Manhattan, New York, United States",
+    "New York, New York, United States"
+  ],
+  "dct_temporal_sm": [
+    "2005",
+    "2015"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "sdr:nyu_2451_41670",
+  "layer_modified_dt": "2018-05-22T16:34:28Z",
+  "layer_slug_s": "nyu-2451-41670",
+  "nyu_addl_dspace_s": "42730",
+  "nyu_addl_format_sm": [
+    "Shapefile"
+  ],
+  "solr_geom": "ENVELOPE(-74.0476149120268, -73.906791238675, 40.8791037725182, 40.6839188487963)",
+  "solr_year_i": 2015
+}
