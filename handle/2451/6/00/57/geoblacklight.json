@@ -1,0 +1,43 @@
+{
+  "dc_creator_sm": [
+
+  ],
+  "dc_description_s": "This georeferenced map is from the New York Public Library's map collection and is originally titled, \"Plan of the city of New-York : the greater part from actual survey made expressly for the purpose the rest from authentic documents\" by Thos. H. Poppleton, city surveyor ; P. Maverick sc. Newark. It is map number 15128 and was georeferenced with the Map Warper tool.\n",
+  "dc_format_s": "GeoTIFF",
+  "dc_identifier_s": "http://hdl.handle.net/2451/60057",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Urban planning",
+    "Cartography"
+  ],
+  "dc_title_s": "Plan of the City of New-York, 1817",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_issued_s": "",
+  "dct_provenance_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/60057\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "New York City"
+  ],
+  "dct_temporal_sm": [
+    "1817"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Raster",
+  "layer_id_s": "sdr:nyu_2451_60057",
+  "layer_modified_dt": "2020-11-23T10:29:13Z",
+  "layer_slug_s": "nyu-2451-60057",
+  "nyu_addl_dspace_s": "61023",
+  "nyu_addl_format_sm": [
+    "GeoTIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.2556640887564, -73.700009054899, 40.9157739339836, 40.4960925239255)",
+  "solr_year_i": 1817
+}

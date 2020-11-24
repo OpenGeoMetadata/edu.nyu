@@ -1,0 +1,43 @@
+{
+  "dc_creator_sm": [
+
+  ],
+  "dc_description_s": "This polygon shapefile represents French Quarter Economic Development District for New Orleans, LA in 2018. Voters have elected to fund enhanced security in the French Quarter through a quarter cent sales tax increase within the boundaries of the French Quarter, an area where about 9 million tourists spend money each year. Effective January 1, 2016, all businesses will be required to collect an additional 0.2495% in sales/use tax on taxable items and services sold or delivered into the new French Quarter Economic Development District (French Quarter EDD). Funds generated from an additional quarter cent sales tax within the boundaries of the French Quarter Management District (see map below), will be used to form the French Quarter Economic Development District and fund full-time Louisiana State Police trooper patrols in this area. This added security for the residents, workers and visitors of the French Quarter would supplement the New Orleans Police Department services already committed to the area. An additional quarter cent sales tax in the French Quarter Management District will generate at least $2 million each year for public safety. These funds would be generated primarily by the tourists who visit the French Quarter. If passed, hospitality organizations would match these funds for state troopers. Plus, the City of New Orleans would allocate $500,000 from its portion of the hotel self-assessment. All told, if passed, at least $4.5 million will be generated to support a minimum of 30 full-time state troopers. This file was downloaded on December, 2018 by NYU Data Services. It was originally represented on the New Orleans Open Data Socrata portal as catalog record xcvk-8kcc\n",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "http://hdl.handle.net/2451/43869",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Economic Development",
+    "Tourism"
+  ],
+  "dc_title_s": "French Quarter Economic Development District for New Orleans, LA, 2018",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_issued_s": "",
+  "dct_provenance_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/43869\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "New Orleans"
+  ],
+  "dct_temporal_sm": [
+    "2018"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "sdr:nyu_2451_43869",
+  "layer_modified_dt": "2020-11-23T10:29:13Z",
+  "layer_slug_s": "nyu-2451-43869",
+  "nyu_addl_dspace_s": "45040",
+  "nyu_addl_format_sm": [
+    "Shapefile"
+  ],
+  "solr_geom": "ENVELOPE(-90.140074, -89.62505, 30.199332, 29.866661)",
+  "solr_year_i": 2018
+}

@@ -1,42 +1,43 @@
 {
-  "dc_description_s": "This polygon shapefile layer represents the 2010 NYC Public Use Microdata Areas (PUMAs). The 2010 NYC Public Use Microdata Areas (PUMAs) are statistical geographic areas defined for the dissemination of Public Use Microdata Sample (PUMS) data. PUMAs have a minimum population of 100,000, are aggregated from census tracts, and approximate Community Districts (CDs), or combinations of CDs (There are 59 CDs and only 55 NYC PUMAs because of such combinations). This geography is also used for disseminating American Community Survey (ACS) estimates.",
+  "dc_creator_sm": [
+
+  ],
+  "dc_description_s": "This polygon shapefile layer represents the 2010 NYC Public Use Microdata Areas (PUMAs). The 2010 NYC Public Use Microdata Areas (PUMAs) are statistical geographic areas defined for the dissemination of Public Use Microdata Sample (PUMS) data. PUMAs have a minimum population of 100,000, are aggregated from census tracts, and approximate Community Districts (CDs), or combinations of CDs (There are 59 CDs and only 55 NYC PUMAs because of such combinations). This geography is also used for disseminating American Community Survey (ACS) estimates.\n",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "http://hdl.handle.net/2451/41654",
   "dc_language_s": "English",
-  "dc_publisher_s": "New York (City). Department of City Planning",
+  "dc_publisher_s": "",
   "dc_rights_s": "Public",
   "dc_subject_sm": [
-    "Districts",
-    "Special districts",
-    "Administrative and political divisions",
-    "Boundaries"
+    "Census",
+    "American Community Survey"
   ],
-  "dc_title_s": "2017 New York City Public Use Micro Areas (PUMAs)",
+  "dc_title_s": "2010 New York City Public Use Micro Areas (PUMAs)",
   "dc_type_s": "Dataset",
   "dct_isPartOf_sm": [
-    "Bytes of the Big Apple"
+
   ],
-  "dct_issued_s": "2017",
+  "dct_issued_s": "",
   "dct_provenance_s": "NYU",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/41654\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/84149/nyu_2451_41654.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\",\"http://lccn.loc.gov/sh85035852\":\"https://archive.nyu.edu/retrieve/84173/nyu_2451_41654_doc.zip\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/41654\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\"}",
   "dct_source_sm": [
 
   ],
   "dct_spatial_sm": [
-    "New York, New York, United States"
+    "New York City"
   ],
   "dct_temporal_sm": [
-    "2017"
+    "2010"
   ],
   "geoblacklight_version": "1.0",
   "layer_geom_type_s": "Polygon",
   "layer_id_s": "sdr:nyu_2451_41654",
-  "layer_modified_dt": "2018-05-22T16:34:28Z",
+  "layer_modified_dt": "2020-11-23T10:29:13Z",
   "layer_slug_s": "nyu-2451-41654",
   "nyu_addl_dspace_s": "42714",
   "nyu_addl_format_sm": [
     "Shapefile"
   ],
-  "solr_geom": "ENVELOPE(-74.0006413059924, -73.9549275741795, 40.7866796405202, 40.6837408183463)",
-  "solr_year_i": 2017
+  "solr_geom": "ENVELOPE(-74.2556640887564, -73.700009054899, 40.9157739339836, 40.4960925239255)",
+  "solr_year_i": 2010
 }

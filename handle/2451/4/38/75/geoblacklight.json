@@ -1,0 +1,43 @@
+{
+  "dc_creator_sm": [
+
+  ],
+  "dc_description_s": "This polygon shapefile represents Self Reported Neighborhood Organizations for New Orleans, LA in 2018. Citizens can submit a neighborhood organization via the Neighborhood Participation Project (NPP), to ensure they are notified when there is an application for a zoning change in their boundaries and for ease of communication with council member offices as well. These are not decided by city employees, just managed in one central location. This file was downloaded on December, 2018 by NYU Data Services. It was originally represented on the New Orleans Open Data Socrata portal as catalog record yupf-v833\n",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "http://hdl.handle.net/2451/43875",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Neigborhoods",
+    "Local organizations"
+  ],
+  "dc_title_s": "Self Reported Neighborhood Organizations 2 for New Orleans, LA, 2018",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_issued_s": "",
+  "dct_provenance_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/43875\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "New Orleans"
+  ],
+  "dct_temporal_sm": [
+    "2018"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "sdr:nyu_2451_43875",
+  "layer_modified_dt": "2020-11-23T10:29:13Z",
+  "layer_slug_s": "nyu-2451-43875",
+  "nyu_addl_dspace_s": "45046",
+  "nyu_addl_format_sm": [
+    "Shapefile"
+  ],
+  "solr_geom": "ENVELOPE(-90.140074, -89.62505, 30.199332, 29.866661)",
+  "solr_year_i": 2018
+}
