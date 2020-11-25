@@ -2,7 +2,7 @@
   "dc_creator_sm": [
 
   ],
-  "dc_description_s": "This point shapefile represents locations of schools in New York City as of September 29, 2017. These locations are based on the official address. The file includes some additional basic and pertinent information needed to link to other data sources. It also includes some basic school information such as Name, Address, Principal, and Principal’s contact information. This file was downloaded from NYC Open Data in June, 2018.\n",
+  "dc_description_s": "This point shapefile represents locations of schools in New York City as of September 29, 2017. These locations are based on the official address. The file includes some additional basic and pertinent information needed to link to other data sources. It also includes some basic school information such as Name, Address, Principal, and Principal’s contact information. This file was downloaded from NYC Open Data in June, 2018.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "http://hdl.handle.net/2451/42184",
   "dc_language_s": "English",

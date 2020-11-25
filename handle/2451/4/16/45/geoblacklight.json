@@ -2,28 +2,32 @@
   "dc_creator_sm": [
 
   ],
-  "dc_description_s": "This polygon shapefile layer represents the City Council District boundaries for the City of New York, with water included. These district boundaries represent the redistricting as of the US Census 2010. This file was generated from the 17B release of the Department of City Planning's LION file.\n",
+  "dc_description_s": "This polygon shapefile layer represents the City Council District boundaries for the City of New York, with water included. These district boundaries represent the redistricting as of the US Census 2010. This file was generated from the 17B release of the Department of City Planning's LION file.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "http://hdl.handle.net/2451/41645",
   "dc_language_s": "English",
-  "dc_publisher_s": "",
+  "dc_publisher_s": "New York (City), Department of City Planning",
   "dc_rights_s": "Public",
   "dc_subject_sm": [
-    "Political boundaries"
+    "Districts",
+    "Special Districts",
+    "Administrative and political divisions",
+    "Boundaries"
   ],
-  "dc_title_s": "2010 City Council Districts for New York City (Water Areas Included)\n",
+  "dc_title_s": "2010 City Council Districts for New York City (Water Areas Included)",
   "dc_type_s": "Dataset",
   "dct_isPartOf_sm": [
+    "Bytes of the Big Apple"
 
   ],
-  "dct_issued_s": "",
+  "dct_issued_s": "2017",
   "dct_provenance_s": "NYU",
   "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/41645\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\"}",
   "dct_source_sm": [
 
   ],
   "dct_spatial_sm": [
-    "New York City"
+    "New York, New York, United States"
   ],
   "dct_temporal_sm": [
     "2010"

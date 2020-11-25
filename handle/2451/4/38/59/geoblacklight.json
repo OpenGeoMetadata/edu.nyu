@@ -2,7 +2,7 @@
   "dc_creator_sm": [
 
   ],
-  "dc_description_s": "This point shapefile represents Local Landmarks for New Orleans, LA in 2017. Landmarks and/or Landmark Sites represent particular historic, architectural, or cultural significance and are subject to the jurisdiction of the Historic District Landmarks Commission (HDLC). Points shown have been either nominated or designated, by HDLC, for landmark status. Parcels shown are ownership parcels (Orleans Parish Assessor) associated with nominated or designated landmarks. Note: To access detailed information on individual landmark points, go to 'Layer Summary' and uncheck Parcel layer. This file was downloaded on December, 2018 by NYU Data Services. It was originally represented on the New Orleans Open Data Socrata portal as catalog record srrj-xwma\n",
+  "dc_description_s": "This point shapefile represents Local Landmarks for New Orleans, LA in 2017. Landmarks and/or Landmark Sites represent particular historic, architectural, or cultural significance and are subject to the jurisdiction of the Historic District Landmarks Commission (HDLC). Points shown have been either nominated or designated, by HDLC, for landmark status. Parcels shown are ownership parcels (Orleans Parish Assessor) associated with nominated or designated landmarks. Note: To access detailed information on individual landmark points, go to 'Layer Summary' and uncheck Parcel layer. This file was downloaded on December, 2018 by NYU Data Services. It was originally represented on the New Orleans Open Data Socrata portal as catalog record srrj-xwma.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "http://hdl.handle.net/2451/43859",
   "dc_language_s": "English",

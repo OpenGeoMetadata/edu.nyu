@@ -2,7 +2,7 @@
   "dc_creator_sm": [
 
   ],
-  "dc_description_s": "This point shapefile represents the starting point of each Citi Bike trip in New York City on September 1, 2017 from 8:00 AM to 8:10 AM only. There are 724 total trips represented on this layer, and the ending point of each trip is not represented on this layer. This data was harvested in November 2017 from the System Data page of the Citi Bike website (https://www.citibikenyc.com/system-data). It is a redaction of data on each Citi Bike trip that is released by Motivate International, Inc. on a monthly basis. Visit the System Data homepage for more frequent updates, and consult the documentation for a full list of variables within this dataset.\n",
+  "dc_description_s": "This point shapefile represents the starting point of each Citi Bike trip in New York City on September 1, 2017 from 8:00 AM to 8:10 AM only. There are 724 total trips represented on this layer, and the ending point of each trip is not represented on this layer. This data was harvested in November 2017 from the System Data page of the Citi Bike website (https://www.citibikenyc.com/system-data). It is a redaction of data on each Citi Bike trip that is released by Motivate International, Inc. on a monthly basis. Visit the System Data homepage for more frequent updates, and consult the documentation for a full list of variables within this dataset.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "http://hdl.handle.net/2451/41690",
   "dc_language_s": "English",

@@ -2,7 +2,7 @@
   "dc_creator_sm": [
 
   ],
-  "dc_description_s": "This point shapefile represents Permits for New Orleans, LA from 2004-2012. It is an ESRI shapefile format, GIS software required for viewing geometry (http://www.esri.com/software/arcgis/arcreader/). Tabular data (DBF), included as part of the shapefile, are viewable in Excel. Large dataset - 400,000+ records. Associated spreadsheet 'Permits_3PrimeDomain' lists domains for three of the primary permit fields. This file was downloaded on December, 2018 by NYU Data Services. It was originally represented on the New Orleans Open Data Socrata portal as catalog record rw6e-a9x3\n",
+  "dc_description_s": "This point shapefile represents Permits for New Orleans, LA from 2004-2012. It is an ESRI shapefile format, GIS software required for viewing geometry (http://www.esri.com/software/arcgis/arcreader/). Tabular data (DBF), included as part of the shapefile, are viewable in Excel. Large dataset - 400,000+ records. Associated spreadsheet 'Permits_3PrimeDomain' lists domains for three of the primary permit fields. This file was downloaded on December, 2018 by NYU Data Services. It was originally represented on the New Orleans Open Data Socrata portal as catalog record rw6e-a9x3.",
   "dc_format_s": "Shapefile",
   "dc_identifier_s": "http://hdl.handle.net/2451/43851",
   "dc_language_s": "English",
