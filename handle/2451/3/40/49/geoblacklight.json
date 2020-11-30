@@ -1,0 +1,35 @@
+{
+  "dc_description_s": "U.S. Counties represents the counties of the United States. This data set provides six feature classes for displaying the data at different scales. Everything about the feature classes is the same but the level of generalization and its name. The base feature class is called and isn't generalized. The least generalized feature class is called _1, the next more generalized feature class is called _2, and so on. For best performance, use the most appropriate feature class when displaying or printing.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "http://hdl.handle.net/2451/34049",
+  "dc_language_s": "English",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Counties",
+    "Administrative boundaries"
+  ],
+  "dc_title_s": "2010 US Counties",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34049\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/bitstream/2451/34049/2/nyu-2010USCounties.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "dct_temporal_sm": [
+    "2010"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "sdr:nyu_2451_34049",
+  "layer_modified_dt": "2020-11-25T08:00:43Z",
+  "layer_slug_s": "nyu-2451-34049",
+  "nyu_addl_dspace_s": "34892",
+  "solr_geom": "ENVELOPE(-179.14734, 179.778465, 71.390482, 17.881242)",
+  "solr_year_i": 2010
+}

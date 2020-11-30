@@ -1,0 +1,35 @@
+{
+  "dc_description_s": "This polygon shapefile represents National Register of Historic Places Districts for New Orleans, LA in 2018. A National Register historic district is a historic district that is listed in the National Register of Historic Places. The National Register is our country's official list of historic properties and resources worthy of preservation. It includes individual buildings, structures, sites, and objects as well as historic districts that are considered to be significant in American history, architecture, engineering, archaeology, and culture. Status: 1 = NRHP District, 2 = Proposed NRHP District, 3 = NRHP Listed - Large SiteThis file was downloaded on December, 2018 by NYU Data Services. It was originally represented on the New Orleans Open Data Socrata portal as catalog record x2jv-vjh6",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "http://hdl.handle.net/2451/43868",
+  "dc_language_s": "English",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Historic landmarks",
+    "Cultural preservation"
+  ],
+  "dc_title_s": "National Register of Historic Places Districts for New Orleans, LA, 2018",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/43868\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/bitstream/2451/43868/1/nyu_2451_43868.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "New Orleans, Louisiana, United States"
+  ],
+  "dct_temporal_sm": [
+    "2018"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "sdr:nyu_2451_43868",
+  "layer_modified_dt": "2020-11-25T08:00:43Z",
+  "layer_slug_s": "nyu-2451-43868",
+  "nyu_addl_dspace_s": "45039",
+  "solr_geom": "ENVELOPE(-90.140074, -89.62505, 30.199332, 29.866661)",
+  "solr_year_i": 2018
+}

@@ -1,10 +1,10 @@
 # NYU Libraries GeoBlacklight Metadata Repository
 
-This repository is the most current source for geospatial metadata housed within the NYU Libraries collection, the [Spatial Data Repository](geo.nyu.edu). We encourage any institution to index our metadadata into their own discovery environment(s).
+This repository is the most current source for geospatial metadata housed within the NYU Libraries collection, the [Spatial Data Repository](geo.nyu.edu). We encourage any institution to index our metadata into their own discovery environment(s).
 
 #### Metadata validation checks
 
-Our metadata is validated to be in compliance with the current [GeoBlacklight 1.0 schema](https://github.com/geoblacklight/geoblacklight/blob/master/schema/geoblacklight-schema.md) through Travis-CI. Click the "build-failing" button below to see which of our records (if any) have validation errors.
+Our metadata is validated to be in compliance with the current [GeoBlacklight 1.0 schema](https://github.com/geoblacklight/geoblacklight/blob/master/schema/geoblacklight-schema.md) through Travis-CI. Click the "build-failing" button to see which of our records (if any) have validation errors.
 
 [![Build Status](https://api.travis-ci.org/OpenGeoMetadata/edu.nyu.svg?branch=master)](https://travis-ci.org/OpenGeoMetadata/edu.nyu)
 
@@ -26,10 +26,9 @@ There are many potential ways members of the GeoBlacklight community can enhance
 #### Preferred process for submitting enhancements
 
 We prefer that enhancements be consolidated into as few branches as possible. Here is a suggested workflow:
-* Clone our entire repository to your desktop
-* Save all new or updated files according to our naming convention
-* Create a branch that names and describes the nature of your fixes. If the scope of the changes is large, you may want to create an issue to describe your intended work
-* Submit a pull request
+* Fork this reports
+* Make all changes to the files locally while preserving our naming convention
+* Submit a pull request based on your fork and describe the nature of your changes
 * Assign the review task to Andrew Battista or Taylor Hixson
 
 #### Contact Information

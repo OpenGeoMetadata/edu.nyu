@@ -1,0 +1,35 @@
+{
+  "dc_description_s": "This point shapefile represents Streetlights for New Orleans, LA in 2018. It shows street lighting fixtures throughout New Orleans. This file was downloaded on December, 2018 by NYU Data Services. It was originally represented on the New Orleans Open Data Socrata portal as catalog record ut7r-kcda",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "http://hdl.handle.net/2451/43862",
+  "dc_language_s": "English",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Streetlights",
+    "Public infrastructure"
+  ],
+  "dc_title_s": "Streetlights for New Orleans, LA, 2018",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/43862\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/bitstream/2451/43862/1/nyu_2451_43862.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "New Orleans, Louisiana, United States"
+  ],
+  "dct_temporal_sm": [
+    "2018"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Point",
+  "layer_id_s": "sdr:nyu_2451_43862",
+  "layer_modified_dt": "2020-11-25T08:00:43Z",
+  "layer_slug_s": "nyu-2451-43862",
+  "nyu_addl_dspace_s": "45033",
+  "solr_geom": "ENVELOPE(-90.140074, -89.62505, 30.199332, 29.866661)",
+  "solr_year_i": 2018
+}

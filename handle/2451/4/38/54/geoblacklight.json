@@ -1,0 +1,36 @@
+{
+  "dc_description_s": "This point shapefile represents Brake Tag Stations for New Orleans, LA in 2017. The City of New Orleans official brake tag inspections will be available at these locations.Brake tag inspection fees are as follows:- All trucks over 6,000 pounds gross vehicle weight shall pay a fee of $40.00- All trucks, 6,000 pounds gross vehicle weight or less shall pay a fee of $30.00- All other vehicles (this includes: Motorcycles and Utility Trailers) shall pay a fee of $25.00.Please call (504) 658-7186 with questions or concerns; also, if you are a business and are interested in applying for the brake tag program.The list of vehicle inspection stations is subject to change as businesses come and go from the program. Check back to find additional locations as they become available. This file was downloaded on December, 2018 by NYU Data Services. It was originally represented on the New Orleans Open Data Socrata portal as catalog record skez-k7ak",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "http://hdl.handle.net/2451/43854",
+  "dc_language_s": "English",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Transportation",
+    "Regulation",
+    "Public policy"
+  ],
+  "dc_title_s": "Brake Tag Stations for New Orleans, LA, 2017",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/43854\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/bitstream/2451/43854/1/nyu_2451_43854.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "New Orleans, Louisiana, United States"
+  ],
+  "dct_temporal_sm": [
+    "2017"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Point",
+  "layer_id_s": "sdr:nyu_2451_43854",
+  "layer_modified_dt": "2020-11-25T08:00:43Z",
+  "layer_slug_s": "nyu-2451-43854",
+  "nyu_addl_dspace_s": "45025",
+  "solr_geom": "ENVELOPE(-90.140074, -89.62505, 30.199332, 29.866661)",
+  "solr_year_i": 2017
+}
