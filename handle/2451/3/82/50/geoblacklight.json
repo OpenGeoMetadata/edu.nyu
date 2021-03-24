@@ -1,0 +1,41 @@
+{
+  "dc_creator_sm": [
+    "Bonnie Lawrence"
+  ],
+  "dc_description_s": "This point shapefile represents locations of street art, graffiti, murals, and other scenes of the Black Lives Matter movement that took place in Soho, New York City in early-June, 2020. The images were captured in the days following the murder of George Floyd, who was killed while in police custody in Minneapolis, MN on May 25, 2020. Many images depict shuttered storefronts with graffiti, murals, and artwork that expresses a celebration of Black life and outrage for the violence and brutality Black people have experienced at the hands of the police. This shapefile contains URL references to the images, and the images can be downloaded by accessing the preservation record. See the documentation for a codebook and links to the NYU Data Services Black Lives Matter page, with associated teaching resources, including an ESRI StoryMap and related socio-demographic data.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "http://hdl.handle.net/2451/38250",
+  "dc_language_s": "English",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Graffiti",
+    "Police brutality",
+    "Political activists",
+    "Public art"
+  ],
+  "dc_title_s": "Photos of Artwork of the Black Lives Matter Movement in Soho, New York City, 2020",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+    "Black Lives Matter Collection"
+  ],
+  "dct_issued_s": "11/25/2020",
+  "dct_provenance_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/38250\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/bitstream/2451/38250/2/nyu_2451_38250.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\",\"http://lccn.loc.gov/sh85035852\":\"https://archive.nyu.edu/bitstream/2451/38250/4/nyu_2451_38250_doc.zip\"}",
+  "dct_spatial_sm": [
+    "SoHo, New York, United States"
+  ],
+  "dct_temporal_sm": [
+    "2020"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Point",
+  "layer_id_s": "sdr:nyu_2451_38250",
+  "layer_modified_dt": "2021-03-24T12:49:08Z",
+  "layer_slug_s": "nyu-2451-38250",
+  "nyu_addl_dspace_s": "39234",
+  "nyu_addl_format_sm": [
+    "Shapefile"
+  ],
+  "solr_geom": "ENVELOPE(5.9559111595, 11.1862552166, 47.808380127, 45.6655412051)",
+  "solr_year_i": 2020
+}
