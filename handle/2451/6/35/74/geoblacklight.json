@@ -41,6 +41,6 @@
   "nyu_addl_format_sm": [
     "ESRI Geodatabase"
   ],
-  "solr_geom": "ENVELOPE(-74.0031452881, -73.985418915, 40.7339507227, 40.7226148587)",
+  "solr_geom": "ENVELOPE(24.692906, 36.907099, 31.670021, 21.941342)",
   "solr_year_i": 2017
 }
