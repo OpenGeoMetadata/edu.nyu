@@ -2,7 +2,7 @@ name: lint records
 on: [push, pull_request]
 
 jobs:
-  test-html:
+  lint:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
