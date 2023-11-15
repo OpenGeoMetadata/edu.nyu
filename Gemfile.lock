@@ -62,6 +62,8 @@ GEM
       connection_pool (~> 2.2)
     nokogiri (1.15.4-arm64-darwin)
       racc (~> 1.4)
+    nokogiri (1.15.4-x86_64-linux)
+      racc (~> 1.4)
     public_suffix (5.0.3)
     racc (1.7.3)
     rake (13.0.6)
@@ -80,6 +82,7 @@ GEM
 
 PLATFORMS
   arm64-darwin-22
+  x86_64-linux
 
 DEPENDENCIES
   geo_combine
