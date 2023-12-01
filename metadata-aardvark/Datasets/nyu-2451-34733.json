@@ -1,10 +1,20 @@
 {
-  "dct_creator_sm": [],
-  "dct_description_sm": "This image is a 1:100,000 scale topographic map produced by the Soviet military in 1978. Maps produced by the Soviet military were believed to be used as an organizing framework for knowledge about the world and were compiled through a combination of aerial intelligence and on-the-ground observation. Sheet numbering is based on the alphanumeric system adopted by the International Map of the World (IMW), in which the globe is divided into equal-sized zones based upon latitude and longitude. Each zone is further subdivided so that the position of a sheet at the full range of scales can be deduced. The date and factory of production of each map are provided in a unique code that is embedded within the outer border, usually at the bottom right. For more information, see the manual and scholarship of John M. Davies and Alexander Kent in the documentation.",
+  "dct_creator_sm": [
+
+  ],
+  "dct_description_sm": [
+    "This image is a 1:100,000 scale topographic map produced by the Soviet military in 1978. Maps produced by the Soviet military were believed to be used as an organizing framework for knowledge about the world and were compiled through a combination of aerial intelligence and on-the-ground observation. Sheet numbering is based on the alphanumeric system adopted by the International Map of the World (IMW), in which the globe is divided into equal-sized zones based upon latitude and longitude. Each zone is further subdivided so that the position of a sheet at the full range of scales can be deduced. The date and factory of production of each map are provided in a unique code that is embedded within the outer border, usually at the bottom right. For more information, see the manual and scholarship of John M. Davies and Alexander Kent in the documentation."
+  ],
   "dct_format_s": "JPG",
-  "dct_identifier_sm": "http://hdl.handle.net/2451/34733",
-  "dct_language_sm": "Russian",
-  "dct_publisher_sm": "Omni Resources (Firm)",
+  "dct_identifier_sm": [
+    "http://hdl.handle.net/2451/34733"
+  ],
+  "dct_language_sm": [
+    "Russian"
+  ],
+  "dct_publisher_sm": [
+    "Omni Resources (Firm)"
+  ],
   "dct_accessRights_s": "Restricted",
   "dct_subject_sm": [
     "Soviet Union--Administrative and political divisions--Maps",
@@ -13,7 +23,9 @@
     "Espionage"
   ],
   "dct_title_s": "1978 Topographic Map of UAE (1:100k), Sheet 7-40-100",
-  "gbl_resourceClass_sm": "Datasets",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
   "dct_isPartOf_sm": [
     "Soviet 1:100k of UAE",
     "Soviet Military Topographic Maps"
@@ -22,11 +34,11 @@
   "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34733\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/75122/nyu_2451_34733.jpg\",\"http://lccn.loc.gov/sh85035852\":\"https://archive.nyu.edu/bitstream/2451/37402/2/nyu_2451_37402_doc.zip\"}",
   "dct_refrences_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34733\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/75122/nyu_2451_34733.jpg\",\"http://lccn.loc.gov/sh85035852\":\"https://archive.nyu.edu/retrieve/79186/nyu_soviet_topo_documentation.zip\"}",
   "dct_spatial_sm": [
-    "Ash Sh\u0101riqah, United Arab Emirates",
-    "Al Bdee\u2019a Suburb, United Arab Emirates",
+    "Ash Shāriqah, United Arab Emirates",
+    "Al Bdee’a Suburb, United Arab Emirates",
     "Adh Dhayd, United Arab Emirates",
     "Shabakah, United Arab Emirates",
-    "\u1e28a\u015fat al Bid\u012byah, United Arab Emirates",
+    "Ḩaşat al Bidīyah, United Arab Emirates",
     "Hunaywah, United Arab Emirates",
     "Al Noaf, United Arab Emirates",
     "Al Qarrayen, United Arab Emirates",
@@ -37,11 +49,15 @@
     "1978"
   ],
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_resourceType_sm": "Satellite imagery",
+  "gbl_resourceType_sm": [
+    "Satellite imagery"
+  ],
   "gbl_wxsIdentifier_s": "sdr:nyu_2451_34733",
   "gbl_mdModified_dt": "2016-06-22T14:16:06Z",
   "id": "nyu-2451-34733",
   "nyu_addl_dspace_s": "35683",
   "locn_geometry": "ENVELOPE(55.5, 56.0, 25.333, 25.0)",
-  "gbl_indexYear_im": 1978
+  "gbl_indexYear_im": [
+    1978
+  ]
 }

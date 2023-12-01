@@ -1,17 +1,29 @@
 {
-  "dct_creator_sm": [],
-  "dct_description_sm": "World Linear Water represents the narrow rivers and streams of the world.",
+  "dct_creator_sm": [
+
+  ],
+  "dct_description_sm": [
+    "World Linear Water represents the narrow rivers and streams of the world."
+  ],
   "dct_format_s": "Shapefile",
-  "dct_identifier_sm": "http://hdl.handle.net/2451/34115",
-  "dct_language_sm": "English",
-  "dct_publisher_sm": "Environmental Systems Research Institute (Redlands, Calif.)",
+  "dct_identifier_sm": [
+    "http://hdl.handle.net/2451/34115"
+  ],
+  "dct_language_sm": [
+    "English"
+  ],
+  "dct_publisher_sm": [
+    "Environmental Systems Research Institute (Redlands, Calif.)"
+  ],
   "dct_accessRights_s": "Restricted",
   "dct_subject_sm": [
     "Rivers",
     "Water"
   ],
   "dct_title_s": "2010 World Linear Water",
-  "gbl_resourceClass_sm": "Datasets",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
   "dct_isPartOf_sm": [
     "ESRI 10 World"
   ],
@@ -24,11 +36,15 @@
     "2010"
   ],
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_resourceType_sm": "Line data",
+  "gbl_resourceType_sm": [
+    "Line data"
+  ],
   "gbl_wxsIdentifier_s": "sdr:nyu_2451_34115",
   "gbl_mdModified_dt": "2016-01-30T04:03:51Z",
   "id": "nyu-2451-34115",
   "nyu_addl_dspace_s": "34959",
   "locn_geometry": "ENVELOPE(-179.999999285, 179.999996662, 81.784887311, -54.997981667)",
-  "gbl_indexYear_im": 2010
+  "gbl_indexYear_im": [
+    2010
+  ]
 }

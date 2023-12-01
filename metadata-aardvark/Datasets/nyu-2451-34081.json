@@ -1,17 +1,29 @@
 {
-  "dct_creator_sm": [],
-  "dct_description_sm": "U.S. Census Block Centroid Populations represents the populations of the U.S. Census blocks for United States. U.S. Census blocks are the smallest geographic entities within a county for which the Census Bureau tabulates population.",
+  "dct_creator_sm": [
+
+  ],
+  "dct_description_sm": [
+    "U.S. Census Block Centroid Populations represents the populations of the U.S. Census blocks for United States. U.S. Census blocks are the smallest geographic entities within a county for which the Census Bureau tabulates population."
+  ],
   "dct_format_s": "Shapefile",
-  "dct_identifier_sm": "http://hdl.handle.net/2451/34081",
-  "dct_language_sm": "English",
-  "dct_publisher_sm": "Environmental Systems Research Institute (Redlands, Calif.)",
+  "dct_identifier_sm": [
+    "http://hdl.handle.net/2451/34081"
+  ],
+  "dct_language_sm": [
+    "English"
+  ],
+  "dct_publisher_sm": [
+    "Environmental Systems Research Institute (Redlands, Calif.)"
+  ],
   "dct_accessRights_s": "Restricted",
   "dct_subject_sm": [
     "Census districts",
     "Census districts--United States--Maps"
   ],
   "dct_title_s": "2010 U.S. Census Block Centroid Populations",
-  "gbl_resourceClass_sm": "Datasets",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
   "dct_isPartOf_sm": [
     "ESRI 10 USA Census"
   ],
@@ -24,11 +36,15 @@
     "2010"
   ],
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_resourceType_sm": "Point data",
+  "gbl_resourceType_sm": [
+    "Point data"
+  ],
   "gbl_wxsIdentifier_s": "sdr:nyu_2451_34081",
   "gbl_mdModified_dt": "2016-01-30T04:03:58Z",
   "id": "nyu-2451-34081",
   "nyu_addl_dspace_s": "34925",
   "locn_geometry": "ENVELOPE(-179.619162909, -66.953050909, 71.362955091, 18.911937091)",
-  "gbl_indexYear_im": 2010
+  "gbl_indexYear_im": [
+    2010
+  ]
 }

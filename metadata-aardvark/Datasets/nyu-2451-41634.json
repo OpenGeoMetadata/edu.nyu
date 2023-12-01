@@ -1,9 +1,17 @@
 {
-  "dct_description_sm": "This polygon shapefile feature class is a spatial representation of the Sidewalk Cafe regulations in the New York City Zoning Resolution, Chapter 1, Article 4 as of June, 2017. The CafeType field indicates the types of Sidewalk Cafes that are permitted, including All Cafes (includes Enclosed, Unenclosed, and Small), Unenclosed Only (includes Small), Small Only, and Not Permitted (for locations where the zoning would normally permit, but some other regulation prohibits). Lines are coincident with the Department Of Finance Tax Block edges. This dataset is maintained to reflect changes to mapped zoning districts or zoning text amendments as they are adopted by the City Council. Note to Users: 1.The zoning districts affecting the allowed sidewalk caf\u00e9 locations throughout the city change frequently! The Sidewalk Cafes GIS data will be updated on the last Monday of every month to include areas where recent zoning changes adopted by the City Council have changed allowed sidewalk caf\u00e9 locations. 2. These features only indicate areas where certain cafes types should or should not be allowed according to zoning regulations. The Department of Consumer Affairs approval is always required for sidewalk cafes. 3. The ESRI version is released as a File Geodatabase that can only be used with ArcGIS version 10.1 or higher.",
+  "dct_description_sm": [
+    "This polygon shapefile feature class is a spatial representation of the Sidewalk Cafe regulations in the New York City Zoning Resolution, Chapter 1, Article 4 as of June, 2017. The CafeType field indicates the types of Sidewalk Cafes that are permitted, including All Cafes (includes Enclosed, Unenclosed, and Small), Unenclosed Only (includes Small), Small Only, and Not Permitted (for locations where the zoning would normally permit, but some other regulation prohibits). Lines are coincident with the Department Of Finance Tax Block edges. This dataset is maintained to reflect changes to mapped zoning districts or zoning text amendments as they are adopted by the City Council. Note to Users: 1.The zoning districts affecting the allowed sidewalk café locations throughout the city change frequently! The Sidewalk Cafes GIS data will be updated on the last Monday of every month to include areas where recent zoning changes adopted by the City Council have changed allowed sidewalk café locations. 2. These features only indicate areas where certain cafes types should or should not be allowed according to zoning regulations. The Department of Consumer Affairs approval is always required for sidewalk cafes. 3. The ESRI version is released as a File Geodatabase that can only be used with ArcGIS version 10.1 or higher."
+  ],
   "dct_format_s": "Shapefile",
-  "dct_identifier_sm": "http://hdl.handle.net/2451/41634",
-  "dct_language_sm": "English",
-  "dct_publisher_sm": "New York (City). Department of City Planning",
+  "dct_identifier_sm": [
+    "http://hdl.handle.net/2451/41634"
+  ],
+  "dct_language_sm": [
+    "English"
+  ],
+  "dct_publisher_sm": [
+    "New York (City). Department of City Planning"
+  ],
   "dct_accessRights_s": "Public",
   "dct_subject_sm": [
     "Food",
@@ -13,14 +21,18 @@
     "Zoning"
   ],
   "dct_title_s": "2017 Zones for Sidewalk Cafes in New York City",
-  "gbl_resourceClass_sm": "Datasets",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
   "dct_isPartOf_sm": [
     "Bytes of the Big Apple"
   ],
   "dct_issued_s": "2017",
   "schema_provider_s": "NYU",
   "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/41634\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/84106/nyu_2451_41634.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\",\"http://lccn.loc.gov/sh85035852\":\"https://archive.nyu.edu/retrieve/84107/nyu_2451_41634_doc.zip\"}",
-  "dct_source_sm": [],
+  "dct_source_sm": [
+
+  ],
   "dct_spatial_sm": [
     "New York, New York, United States"
   ],
@@ -28,7 +40,9 @@
     "2017"
   ],
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_resourceType_sm": "Polygon data",
+  "gbl_resourceType_sm": [
+    "Polygon data"
+  ],
   "gbl_wxsIdentifier_s": "sdr:nyu_2451_41634",
   "gbl_mdModified_dt": "2018-05-22T16:34:28Z",
   "id": "nyu-2451-41634",
@@ -37,5 +51,7 @@
     "Shapefile"
   ],
   "locn_geometry": "ENVELOPE(-74.0006413059924, -73.9549275741795, 40.7866796405202, 40.6837408183463)",
-  "gbl_indexYear_im": 2017
+  "gbl_indexYear_im": [
+    2017
+  ]
 }

@@ -2,11 +2,19 @@
   "dct_creator_sm": [
     "GIS Lab, Newman Library, Baruch CUNY"
   ],
-  "dct_description_sm": "This polygon layer is a subset of the Census TIGER landmarks file, re-projected to local state plane and modified by subtracting a subset of the Census TIGER water layer (nyu_2451_34507) from it to create land-based boundaries. The largest public features, JFK and LaGuardia airports, the Brooklyn Navy Yard, Rikers, and the Psychiatric Center on Randalls Island, were selected to provide basic map reference and to cover up un-populated areas when making thematic maps. The unique ID is areaid; created by the census. This data was created as part of the NYC Geodatabase (NYC GDB) project, a resource designed for basic geographic analysis and thematic mapping within the five boroughs of New York City.",
+  "dct_description_sm": [
+    "This polygon layer is a subset of the Census TIGER landmarks file, re-projected to local state plane and modified by subtracting a subset of the Census TIGER water layer (nyu_2451_34507) from it to create land-based boundaries. The largest public features, JFK and LaGuardia airports, the Brooklyn Navy Yard, Rikers, and the Psychiatric Center on Randalls Island, were selected to provide basic map reference and to cover up un-populated areas when making thematic maps. The unique ID is areaid; created by the census. This data was created as part of the NYC Geodatabase (NYC GDB) project, a resource designed for basic geographic analysis and thematic mapping within the five boroughs of New York City."
+  ],
   "dct_format_s": "Shapefile",
-  "dct_identifier_sm": "http://hdl.handle.net/2451/34492",
-  "dct_language_sm": "English",
-  "dct_publisher_sm": "Newman Library (Bernard M. Baruch College)",
+  "dct_identifier_sm": [
+    "http://hdl.handle.net/2451/34492"
+  ],
+  "dct_language_sm": [
+    "English"
+  ],
+  "dct_publisher_sm": [
+    "Newman Library (Bernard M. Baruch College)"
+  ],
   "dct_accessRights_s": "Public",
   "dct_subject_sm": [
     "Airports",
@@ -15,7 +23,9 @@
     "Prisons"
   ],
   "dct_title_s": "2010 New York City Large Public Facilities",
-  "gbl_resourceClass_sm": "Datasets",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
   "dct_isPartOf_sm": [
     "NYC Geodatabase (version jan2016)"
   ],
@@ -41,11 +51,15 @@
     "2010"
   ],
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_resourceType_sm": "Polygon data",
+  "gbl_resourceType_sm": [
+    "Polygon data"
+  ],
   "gbl_wxsIdentifier_s": "sdr:nyu_2451_34492",
   "gbl_mdModified_dt": "2016-05-02T18:21:07Z",
   "id": "nyu-2451-34492",
   "nyu_addl_dspace_s": "35397",
   "locn_geometry": "ENVELOPE(-73.980649, -73.742846, 40.7983149999998, 40.6161839999998)",
-  "gbl_indexYear_im": 2010
+  "gbl_indexYear_im": [
+    2010
+  ]
 }

@@ -1,27 +1,41 @@
 {
-  "dct_creator_sm": [],
-  "dct_description_sm": "This point shapefile represents private schools in the Emirate of Abu Dhabi as per the 2005 Census carried out by the Statistics Centre Abu Dhabi. This layer is a result of the Abu Dhabi Urban Planning Council (UPC) project survey during 2010-2011 periods for planning new community facilities. This layer was hosted in the Abu Dhabi Geoportal. The geoportal contains geographic information provided by government, commercial, and noncommercial organizations, and it includes map images, map services, geographic datasets, geographic activities, spatial solutions, clearinghouses, and land references.",
+  "dct_creator_sm": [
+
+  ],
+  "dct_description_sm": [
+    "This point shapefile represents private schools in the Emirate of Abu Dhabi as per the 2005 Census carried out by the Statistics Centre Abu Dhabi. This layer is a result of the Abu Dhabi Urban Planning Council (UPC) project survey during 2010-2011 periods for planning new community facilities. This layer was hosted in the Abu Dhabi Geoportal. The geoportal contains geographic information provided by government, commercial, and noncommercial organizations, and it includes map images, map services, geographic datasets, geographic activities, spatial solutions, clearinghouses, and land references."
+  ],
   "dct_format_s": "Shapefile",
-  "dct_identifier_sm": "http://hdl.handle.net/2451/42137",
-  "dct_language_sm": "English",
-  "dct_publisher_sm": "Abu Dhabi Government",
+  "dct_identifier_sm": [
+    "http://hdl.handle.net/2451/42137"
+  ],
+  "dct_language_sm": [
+    "English"
+  ],
+  "dct_publisher_sm": [
+    "Abu Dhabi Government"
+  ],
   "dct_accessRights_s": "Public",
   "dct_subject_sm": [
     "Education",
     "Education--Arabian Peninsula",
-    "Abu\u0304 Z\u0323aby (United Arab Emirates : Emirate) Markaz al-Ih\u0323s\u0323a\u0304\u02bc Abu\u0304 Z\u0323aby",
-    "Majlis Abu\u0304 Z\u0323aby lil-Takht\u0323i\u0304t\u0323 al-\u02bbUmra\u0304ni\u0304",
+    "Abū Ẓaby (United Arab Emirates : Emirate) Markaz al-Iḥṣāʼ Abū Ẓaby",
+    "Majlis Abū Ẓaby lil-Takhṭīṭ al-ʻUmrānī",
     "Private Schools"
   ],
   "dct_title_s": "Private Schools for the Emirate of Abu Dhabi, 2005",
-  "gbl_resourceClass_sm": "Datasets",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
   "dct_isPartOf_sm": [
     "Abu Dhabi Geospatial Portal"
   ],
   "dct_issued_s": "2018",
   "schema_provider_s": "NYU",
   "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/42137\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/84870/nyu_2451_42137.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\",\"http://lccn.loc.gov/sh85035852\":\"https://archive.nyu.edu/retrieve/84871/nyu_2451_42137_doc.zip\"}",
-  "dct_source_sm": [],
+  "dct_source_sm": [
+
+  ],
   "dct_spatial_sm": [
     "Abu Dhabi, United Arab Emirates"
   ],
@@ -29,7 +43,9 @@
     "2005"
   ],
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_resourceType_sm": "Point data",
+  "gbl_resourceType_sm": [
+    "Point data"
+  ],
   "gbl_wxsIdentifier_s": "sdr:nyu_2451_42137",
   "gbl_mdModified_dt": "2018-05-10T15:45:47Z",
   "id": "nyu-2451-42137",
@@ -38,5 +54,7 @@
     "Shapefile"
   ],
   "locn_geometry": "ENVELOPE(54.25588497075, 54.47744842925, 24.567419653267, 24.365913746733)",
-  "gbl_indexYear_im": 2005
+  "gbl_indexYear_im": [
+    2005
+  ]
 }

@@ -1,10 +1,20 @@
 {
-  "dct_creator_sm": [],
-  "dct_description_sm": "This layer represents the housing characterisitics in 2010 of Manhattan and Brooklyn at the census tract level. Downloaded from American Factfinder, Table DP04, Selected Housing Characteristics",
+  "dct_creator_sm": [
+
+  ],
+  "dct_description_sm": [
+    "This layer represents the housing characterisitics in 2010 of Manhattan and Brooklyn at the census tract level. Downloaded from American Factfinder, Table DP04, Selected Housing Characteristics"
+  ],
   "dct_format_s": "Shapefile",
-  "dct_identifier_sm": "http://hdl.handle.net/2451/34204",
-  "dct_language_sm": "English",
-  "dct_publisher_sm": "U.S. Census Bureau",
+  "dct_identifier_sm": [
+    "http://hdl.handle.net/2451/34204"
+  ],
+  "dct_language_sm": [
+    "English"
+  ],
+  "dct_publisher_sm": [
+    "U.S. Census Bureau"
+  ],
   "dct_accessRights_s": "Public",
   "dct_subject_sm": [
     "Census",
@@ -12,7 +22,9 @@
     "Housing--United States"
   ],
   "dct_title_s": "2010 Housing Characteristics in Manhattan and Brooklyn",
-  "gbl_resourceClass_sm": "Datasets",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
   "dct_isPartOf_sm": [
     "Art and Politics in the City"
   ],
@@ -25,11 +37,15 @@
     "2010"
   ],
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_resourceType_sm": "Polygon data",
+  "gbl_resourceType_sm": [
+    "Polygon data"
+  ],
   "gbl_wxsIdentifier_s": "sdr:nyu_2451_34204",
   "gbl_mdModified_dt": "2016-03-11T19:07:59Z",
   "id": "nyu-2451-34204",
   "nyu_addl_dspace_s": "35057",
   "locn_geometry": "ENVELOPE(-74.0472333882571, -73.8335583513957, 40.8792862922826, 40.5695382235533)",
-  "gbl_indexYear_im": 2010
+  "gbl_indexYear_im": [
+    2010
+  ]
 }

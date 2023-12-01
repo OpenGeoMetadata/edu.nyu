@@ -2,10 +2,16 @@
   "dct_creator_sm": [
     "Andrew Battista"
   ],
-  "dct_description_sm": "This point shapefile layer represents locations of graffiti and street art collected by students during the span of three semesters of Art and Politics in the City at New York University. Students explored neighborhoods in New York and Buenos Aires and recorded pictures of graffiti and art with FulcrumApp. The data includes place notes, descriptions, categories for the art, and photos. A documentation file is available with the archival copy of the data.",
+  "dct_description_sm": [
+    "This point shapefile layer represents locations of graffiti and street art collected by students during the span of three semesters of Art and Politics in the City at New York University. Students explored neighborhoods in New York and Buenos Aires and recorded pictures of graffiti and art with FulcrumApp. The data includes place notes, descriptions, categories for the art, and photos. A documentation file is available with the archival copy of the data."
+  ],
   "dct_format_s": "Shapefile",
-  "dct_identifier_sm": "http://hdl.handle.net/2451/34597",
-  "dct_language_sm": "eng",
+  "dct_identifier_sm": [
+    "http://hdl.handle.net/2451/34597"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
   "dct_accessRights_s": "Restricted",
   "dct_subject_sm": [
     "Graffiti",
@@ -16,7 +22,9 @@
     "Public spaces"
   ],
   "dct_title_s": "2015-2016 Complete Set of Student Data for Art and Politics in the City",
-  "gbl_resourceClass_sm": "Datasets",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
   "dct_isPartOf_sm": [
     "Art and Politics in the City",
     "NYU Research Data"
@@ -33,11 +41,18 @@
     "2016"
   ],
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_resourceType_sm": "Point data",
+  "gbl_resourceType_sm": [
+    "Point data"
+  ],
   "gbl_wxsIdentifier_s": "sdr:nyu_2451_34597",
   "gbl_mdModified_dt": "2016-05-05T14:58:26Z",
   "id": "nyu-2451-34597",
   "nyu_addl_dspace_s": "35530",
   "locn_geometry": "ENVELOPE(-74.013008, -58.3691343245, 41.31022605, -34.662196)",
-  "gbl_indexYear_im": 2016
+  "gbl_indexYear_im": [
+    2016
+  ],
+  "dct_publisher_sm": [
+    ""
+  ]
 }

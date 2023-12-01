@@ -1,10 +1,20 @@
 {
-  "dct_creator_sm": [],
-  "dct_description_sm": "U.S. and Canada Highway Exits represents highway exits in the United States and Canada.",
+  "dct_creator_sm": [
+
+  ],
+  "dct_description_sm": [
+    "U.S. and Canada Highway Exits represents highway exits in the United States and Canada."
+  ],
   "dct_format_s": "Shapefile",
-  "dct_identifier_sm": "http://hdl.handle.net/2451/34051",
-  "dct_language_sm": "English",
-  "dct_publisher_sm": "Environmental Systems Research Institute (Redlands, Calif.)",
+  "dct_identifier_sm": [
+    "http://hdl.handle.net/2451/34051"
+  ],
+  "dct_language_sm": [
+    "English"
+  ],
+  "dct_publisher_sm": [
+    "Environmental Systems Research Institute (Redlands, Calif.)"
+  ],
   "dct_accessRights_s": "Restricted",
   "dct_subject_sm": [
     "Roads",
@@ -24,12 +34,18 @@
     "2010"
   ],
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_resourceType_sm": "Point data",
+  "gbl_resourceType_sm": [
+    "Point data"
+  ],
   "gbl_wxsIdentifier_s": "sdr:nyu_2451_34051",
   "gbl_mdModified_dt": "2016-01-30T04:04:04Z",
   "id": "nyu-2451-34051",
   "nyu_addl_dspace_s": "34894",
   "locn_geometry": "ENVELOPE(-170.1769013405, -64.5665435791, 71.6032483233, 24.7073204053)",
-  "gbl_indexYear_im": 2010,
-  "gbl_resourceClass_sm": null
+  "gbl_indexYear_im": [
+    2010
+  ],
+  "gbl_resourceClass_sm": [
+    "Other"
+  ]
 }

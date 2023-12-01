@@ -1,19 +1,31 @@
 {
-  "dct_description_sm": "This point shapefile represents Permits for New Orleans, LA from 2004-2012. It is an ESRI shapefile format, GIS software required for viewing geometry (http://www.esri.com/software/arcgis/arcreader/). Tabular data (DBF), included as part of the shapefile, are viewable in Excel. Large dataset - 400,000+ records. Associated spreadsheet 'Permits_3PrimeDomain' lists domains for three of the primary permit fields. This file was downloaded on December, 2018 by NYU Data Services. It was originally represented on the New Orleans Open Data Socrata portal as catalog record rw6e-a9x3",
+  "dct_description_sm": [
+    "This point shapefile represents Permits for New Orleans, LA from 2004-2012. It is an ESRI shapefile format, GIS software required for viewing geometry (http://www.esri.com/software/arcgis/arcreader/). Tabular data (DBF), included as part of the shapefile, are viewable in Excel. Large dataset - 400,000+ records. Associated spreadsheet 'Permits_3PrimeDomain' lists domains for three of the primary permit fields. This file was downloaded on December, 2018 by NYU Data Services. It was originally represented on the New Orleans Open Data Socrata portal as catalog record rw6e-a9x3"
+  ],
   "dct_format_s": "Shapefile",
-  "dct_identifier_sm": "http://hdl.handle.net/2451/43851",
-  "dct_language_sm": "English",
+  "dct_identifier_sm": [
+    "http://hdl.handle.net/2451/43851"
+  ],
+  "dct_language_sm": [
+    "English"
+  ],
   "dct_accessRights_s": "Public",
   "dct_subject_sm": [
     "Urban planning",
     "permits"
   ],
   "dct_title_s": "NOLA Permits 20120331 for New Orleans, LA, 2004-2012",
-  "gbl_resourceClass_sm": "Datasets",
-  "dct_isPartOf_sm": [],
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_isPartOf_sm": [
+
+  ],
   "schema_provider_s": "NYU",
   "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/43851\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/bitstream/2451/43851/1/nyu_2451_43851.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\"}",
-  "dct_source_sm": [],
+  "dct_source_sm": [
+
+  ],
   "dct_spatial_sm": [
     "New Orleans, Louisiana, United States"
   ],
@@ -21,11 +33,18 @@
     "2012"
   ],
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_resourceType_sm": "Point data",
+  "gbl_resourceType_sm": [
+    "Point data"
+  ],
   "gbl_wxsIdentifier_s": "sdr:nyu_2451_43851",
   "gbl_mdModified_dt": "2020-11-25T08:00:43Z",
   "id": "nyu-2451-43851",
   "nyu_addl_dspace_s": "45022",
   "locn_geometry": "ENVELOPE(-90.140074, -89.62505, 30.199332, 29.866661)",
-  "gbl_indexYear_im": 2012
+  "gbl_indexYear_im": [
+    2012
+  ],
+  "dct_publisher_sm": [
+    ""
+  ]
 }

@@ -2,11 +2,19 @@
   "dct_creator_sm": [
     "GIS Lab, Newman Library, Baruch CUNY"
   ],
-  "dct_description_sm": "This point layer is a subset of the NJ Transit passenger railroad stations shapefile file that has been combined with ridership data from the Port Authority of NY and NJ. The data was re-projected to NY state plane and contains just the PATH train stations that are in NYC. Annual, average weekday, and average weekend ridership is provided for 2012 to 2014. The unique ID is atis_id, a field created by NJ Transit. This layer was created as part of the NYC Geodatabase (NYC GDB) project, a resource designed for basic geographic analysis and thematic mapping within the five boroughs of New York City.",
+  "dct_description_sm": [
+    "This point layer is a subset of the NJ Transit passenger railroad stations shapefile file that has been combined with ridership data from the Port Authority of NY and NJ. The data was re-projected to NY state plane and contains just the PATH train stations that are in NYC. Annual, average weekday, and average weekend ridership is provided for 2012 to 2014. The unique ID is atis_id, a field created by NJ Transit. This layer was created as part of the NYC Geodatabase (NYC GDB) project, a resource designed for basic geographic analysis and thematic mapping within the five boroughs of New York City."
+  ],
   "dct_format_s": "Shapefile",
-  "dct_identifier_sm": "http://hdl.handle.net/2451/34497",
-  "dct_language_sm": "English",
-  "dct_publisher_sm": "Newman Library (Bernard M. Baruch College)",
+  "dct_identifier_sm": [
+    "http://hdl.handle.net/2451/34497"
+  ],
+  "dct_language_sm": [
+    "English"
+  ],
+  "dct_publisher_sm": [
+    "Newman Library (Bernard M. Baruch College)"
+  ],
   "dct_accessRights_s": "Public",
   "dct_subject_sm": [
     "Subway stations",
@@ -15,7 +23,9 @@
     "Local transit"
   ],
   "dct_title_s": "2015 New York City PATH Stations and Ridership",
-  "gbl_resourceClass_sm": "Datasets",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
   "dct_isPartOf_sm": [
     "NYC Geodatabase (version jan2016)"
   ],
@@ -35,11 +45,15 @@
     "2015"
   ],
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_resourceType_sm": "Point data",
+  "gbl_resourceType_sm": [
+    "Point data"
+  ],
   "gbl_wxsIdentifier_s": "sdr:nyu_2451_34497",
   "gbl_mdModified_dt": "2016-05-02T18:21:06Z",
   "id": "nyu-2451-34497",
   "nyu_addl_dspace_s": "35402",
   "locn_geometry": "ENVELOPE(-74.01213364, -73.9882196397, 40.7491299128998, 40.7112889125998)",
-  "gbl_indexYear_im": 2015
+  "gbl_indexYear_im": [
+    2015
+  ]
 }

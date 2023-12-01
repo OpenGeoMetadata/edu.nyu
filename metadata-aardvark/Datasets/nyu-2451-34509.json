@@ -2,11 +2,19 @@
   "dct_creator_sm": [
     "GIS Lab, Newman Library, Baruch CUNY"
   ],
-  "dct_description_sm": "This polygon layer is a subset of the Census TIGER ZCTA file, re-projected to local state plane and modified by subtracting a subset of the Census TIGER water layer (nyu_2451_34507) from it to create land-based boundaries. ZCTAs are statistical areas designed to approximate USPS ZIP Codes. They are built from census blocks that are aggregated based on common postal addresses assigned to streets. There are some non-geographical ZIP Codes for which there are no corresponding ZCTAs. ZCTAs may cross borough / county boundaries; the note field indicates the exceptions. In particular ZCTAs 11001, 11003, and 11040 are partially located in Queens, but a large majority of the land area and population are in Nassau County. The unique ID is zcta; the five-digit ZCTA / ZIP code. This data was created as part of the NYC Geodatabase (NYC GDB) project, a resource designed for basic geographic analysis and thematic mapping within the five boroughs of New York City.",
+  "dct_description_sm": [
+    "This polygon layer is a subset of the Census TIGER ZCTA file, re-projected to local state plane and modified by subtracting a subset of the Census TIGER water layer (nyu_2451_34507) from it to create land-based boundaries. ZCTAs are statistical areas designed to approximate USPS ZIP Codes. They are built from census blocks that are aggregated based on common postal addresses assigned to streets. There are some non-geographical ZIP Codes for which there are no corresponding ZCTAs. ZCTAs may cross borough / county boundaries; the note field indicates the exceptions. In particular ZCTAs 11001, 11003, and 11040 are partially located in Queens, but a large majority of the land area and population are in Nassau County. The unique ID is zcta; the five-digit ZCTA / ZIP code. This data was created as part of the NYC Geodatabase (NYC GDB) project, a resource designed for basic geographic analysis and thematic mapping within the five boroughs of New York City."
+  ],
   "dct_format_s": "Shapefile",
-  "dct_identifier_sm": "http://hdl.handle.net/2451/34509",
-  "dct_language_sm": "English",
-  "dct_publisher_sm": "Newman Library (Bernard M. Baruch College)",
+  "dct_identifier_sm": [
+    "http://hdl.handle.net/2451/34509"
+  ],
+  "dct_language_sm": [
+    "English"
+  ],
+  "dct_publisher_sm": [
+    "Newman Library (Bernard M. Baruch College)"
+  ],
   "dct_accessRights_s": "Public",
   "dct_subject_sm": [
     "Zip codes",
@@ -16,7 +24,9 @@
     "Population geography"
   ],
   "dct_title_s": "2010 New York City Zip Code Tabulation Areas (ZCTAs)",
-  "gbl_resourceClass_sm": "Datasets",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
   "dct_isPartOf_sm": [
     "NYC Geodatabase (version jan2016)"
   ],
@@ -44,11 +54,15 @@
     "2010"
   ],
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_resourceType_sm": "Polygon data",
+  "gbl_resourceType_sm": [
+    "Polygon data"
+  ],
   "gbl_wxsIdentifier_s": "sdr:nyu_2451_34509",
   "gbl_mdModified_dt": "2016-05-02T18:21:03Z",
   "id": "nyu-2451-34509",
   "nyu_addl_dspace_s": "35416",
   "locn_geometry": "ENVELOPE(-74.255895, -73.650997, 40.9152819999998, 40.4959289999998)",
-  "gbl_indexYear_im": 2010
+  "gbl_indexYear_im": [
+    2010
+  ]
 }

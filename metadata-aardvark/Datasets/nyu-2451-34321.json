@@ -1,10 +1,20 @@
 {
-  "dct_creator_sm": [],
-  "dct_description_sm": "This polygon shapefile shows village boundaries with socio-demographic and economic Census data for 2001 for the State of Manipur, India linked to the 2001 Census. Includes village socio-demographic and economic Census attribute data such as total population, population by sex, household, literacy and illiteracy rates, and employment by industry. This layer is part of the VillageMap dataset which includes socio-demographic and economic Census data for 2001 at the village level for all the states of India. This data layer is sourced from secondary government sources, chiefly Survey of India, Census of India, Election Commission, etc. This dataset is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for village level demographic analysis within basic applications to support graphical overlays and analysis with other spatial data.",
+  "dct_creator_sm": [
+
+  ],
+  "dct_description_sm": [
+    "This polygon shapefile shows village boundaries with socio-demographic and economic Census data for 2001 for the State of Manipur, India linked to the 2001 Census. Includes village socio-demographic and economic Census attribute data such as total population, population by sex, household, literacy and illiteracy rates, and employment by industry. This layer is part of the VillageMap dataset which includes socio-demographic and economic Census data for 2001 at the village level for all the states of India. This data layer is sourced from secondary government sources, chiefly Survey of India, Census of India, Election Commission, etc. This dataset is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for village level demographic analysis within basic applications to support graphical overlays and analysis with other spatial data."
+  ],
   "dct_format_s": "Shapefile",
-  "dct_identifier_sm": "http://hdl.handle.net/2451/34321",
-  "dct_language_sm": "English",
-  "dct_publisher_sm": "ML InfoMap (Firm)",
+  "dct_identifier_sm": [
+    "http://hdl.handle.net/2451/34321"
+  ],
+  "dct_language_sm": [
+    "English"
+  ],
+  "dct_publisher_sm": [
+    "ML InfoMap (Firm)"
+  ],
   "dct_accessRights_s": "Restricted",
   "dct_subject_sm": [
     "Human settlements",
@@ -21,7 +31,9 @@
     "Boundaries"
   ],
   "dct_title_s": "2001 Manipur, India: Village Boundaries with Socio-Demographic and Economic Census Data",
-  "gbl_resourceClass_sm": "Datasets",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
   "dct_isPartOf_sm": [
     "VillageMap of India"
   ],
@@ -30,18 +42,22 @@
   "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34321\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/72946/nyu_2451_34321.zip\",\"http://lccn.loc.gov/sh85035852\":\"https://archive.nyu.edu/retrieve/78583/nyu_2451_34321_doc.zip\"}",
   "dct_spatial_sm": [
     "Manipur, India",
-    "Th\u0101nga, Manipur, India",
+    "Thānga, Manipur, India",
     "Imphal, Manipur, India"
   ],
   "dct_temporal_sm": [
     "2001"
   ],
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_resourceType_sm": "Polygon data",
+  "gbl_resourceType_sm": [
+    "Polygon data"
+  ],
   "gbl_wxsIdentifier_s": "sdr:nyu_2451_34321",
   "gbl_mdModified_dt": "2016-01-30T03:46:30Z",
   "id": "nyu-2451-34321",
   "nyu_addl_dspace_s": "35203",
   "locn_geometry": "ENVELOPE(93.0771636962891, 94.1603240966797, 25.0588912963867, 24.218656539917)",
-  "gbl_indexYear_im": 2001
+  "gbl_indexYear_im": [
+    2001
+  ]
 }

@@ -1,9 +1,17 @@
 {
-  "dct_creator_sm": [],
-  "dct_description_sm": "This layer identifies Graffiti complaints called into NYC 311 from 1/2015 to 4/9/2015. Downloaded from https://nycopendata.socrata.com/",
+  "dct_creator_sm": [
+
+  ],
+  "dct_description_sm": [
+    "This layer identifies Graffiti complaints called into NYC 311 from 1/2015 to 4/9/2015. Downloaded from https://nycopendata.socrata.com/"
+  ],
   "dct_format_s": "Shapefile",
-  "dct_identifier_sm": "http://hdl.handle.net/2451/34207",
-  "dct_language_sm": "English",
+  "dct_identifier_sm": [
+    "http://hdl.handle.net/2451/34207"
+  ],
+  "dct_language_sm": [
+    "English"
+  ],
   "dct_accessRights_s": "Public",
   "dct_subject_sm": [
     "Graffiti",
@@ -12,7 +20,9 @@
     "Public art"
   ],
   "dct_title_s": "2015 Graffiti Complaints in New York City",
-  "gbl_resourceClass_sm": "Datasets",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
   "dct_isPartOf_sm": [
     "Art and Politics in the City"
   ],
@@ -25,11 +35,18 @@
     "2015"
   ],
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_resourceType_sm": "Point data",
+  "gbl_resourceType_sm": [
+    "Point data"
+  ],
   "gbl_wxsIdentifier_s": "sdr:nyu_2451_34207",
   "gbl_mdModified_dt": "2016-03-11T19:07:58Z",
   "id": "nyu-2451-34207",
   "nyu_addl_dspace_s": "35060",
   "locn_geometry": "ENVELOPE(-74.21363472, -73.70719243, 40.91047872, 40.53306829)",
-  "gbl_indexYear_im": 2015
+  "gbl_indexYear_im": [
+    2015
+  ],
+  "dct_publisher_sm": [
+    ""
+  ]
 }

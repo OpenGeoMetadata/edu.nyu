@@ -1,10 +1,20 @@
 {
-  "dct_creator_sm": [],
-  "dct_description_sm": "This polygon feature class represents only the internal subdistricts of any special purpose districts that are so subdivided. The main special purpose district name is indicated by the SPNAME attribute, the SUBDIST attribute contains the subdistrict name. Any further subdistrict divisions are named in the SUBSUB attribute. Note that these zones change frequently, and users may want to consult more recent releases at Bytes of the Big Apple.",
+  "dct_creator_sm": [
+
+  ],
+  "dct_description_sm": [
+    "This polygon feature class represents only the internal subdistricts of any special purpose districts that are so subdivided. The main special purpose district name is indicated by the SPNAME attribute, the SUBDIST attribute contains the subdistrict name. Any further subdistrict divisions are named in the SUBSUB attribute. Note that these zones change frequently, and users may want to consult more recent releases at Bytes of the Big Apple."
+  ],
   "dct_format_s": "Shapefile",
-  "dct_identifier_sm": "http://hdl.handle.net/2451/34527",
-  "dct_language_sm": "English",
-  "dct_publisher_sm": "New York (City). Department of City Planning",
+  "dct_identifier_sm": [
+    "http://hdl.handle.net/2451/34527"
+  ],
+  "dct_language_sm": [
+    "English"
+  ],
+  "dct_publisher_sm": [
+    "New York (City). Department of City Planning"
+  ],
   "dct_accessRights_s": "Public",
   "dct_subject_sm": [
     "Zoning",
@@ -13,7 +23,9 @@
     "Urban development"
   ],
   "dct_title_s": "2016 NYC Special Purpose Districs with Subdistricts",
-  "gbl_resourceClass_sm": "Datasets",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
   "dct_isPartOf_sm": [
     "Bytes of the Big Apple"
   ],
@@ -27,11 +39,15 @@
     "2016"
   ],
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_resourceType_sm": "Polygon data",
+  "gbl_resourceType_sm": [
+    "Polygon data"
+  ],
   "gbl_wxsIdentifier_s": "sdr:nyu_2451_34527",
   "gbl_mdModified_dt": "2016-04-20T21:31:21Z",
   "id": "nyu-2451-34527",
   "nyu_addl_dspace_s": "35452",
   "locn_geometry": "ENVELOPE(-74.0802807915093, -73.7707315471799, 40.8783615514146, 40.572239245953)",
-  "gbl_indexYear_im": 2016
+  "gbl_indexYear_im": [
+    2016
+  ]
 }

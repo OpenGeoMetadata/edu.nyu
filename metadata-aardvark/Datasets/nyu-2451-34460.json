@@ -2,10 +2,16 @@
   "dct_creator_sm": [
     "Jenny Kijowski"
   ],
-  "dct_description_sm": "This point shapefile layer represents locations of graffiti and street art collected by students during the Fall 2015 section of Art and Politics in the City at New York University. Students explored neighborhoods in New York and Buenos Aires and recorded pictures of graffiti and art with FulcrumApp. The data includes place notes, descriptions, categories for the art, and photos. A documentation file is available with the archival copy of the data.",
+  "dct_description_sm": [
+    "This point shapefile layer represents locations of graffiti and street art collected by students during the Fall 2015 section of Art and Politics in the City at New York University. Students explored neighborhoods in New York and Buenos Aires and recorded pictures of graffiti and art with FulcrumApp. The data includes place notes, descriptions, categories for the art, and photos. A documentation file is available with the archival copy of the data."
+  ],
   "dct_format_s": "Shapefile",
-  "dct_identifier_sm": "http://hdl.handle.net/2451/34460",
-  "dct_language_sm": "English",
+  "dct_identifier_sm": [
+    "http://hdl.handle.net/2451/34460"
+  ],
+  "dct_language_sm": [
+    "English"
+  ],
   "dct_accessRights_s": "Restricted",
   "dct_subject_sm": [
     "Graffiti",
@@ -17,7 +23,9 @@
     "Vandalism"
   ],
   "dct_title_s": "2015 Fall Semester Student Data for Art and Politics in the City",
-  "gbl_resourceClass_sm": "Datasets",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
   "dct_isPartOf_sm": [
     "Art and Politics in the City",
     "NYU Research Data"
@@ -33,11 +41,18 @@
     "2015"
   ],
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_resourceType_sm": "Point data",
+  "gbl_resourceType_sm": [
+    "Point data"
+  ],
   "gbl_wxsIdentifier_s": "sdr:nyu_2451_34460",
   "gbl_mdModified_dt": "2016-03-11T19:07:57Z",
   "id": "nyu-2451-34460",
   "nyu_addl_dspace_s": "35355",
   "locn_geometry": "ENVELOPE(-74.0089022, -58.36929695, 41.31022605, -34.62408347)",
-  "gbl_indexYear_im": 2015
+  "gbl_indexYear_im": [
+    2015
+  ],
+  "dct_publisher_sm": [
+    ""
+  ]
 }

@@ -2,11 +2,19 @@
   "dct_creator_sm": [
     "GIS Lab, Newman Library, Baruch CUNY"
   ],
-  "dct_description_sm": "This line layer was created from the GTFS data feeds from the Metropolitan Transportation Authority (MTA) to represent the MTA Metro North railroad routes that are east of the Hudson River. A python script was written to take the data files as input and plot and save them as a spatial layer in the local state plane coordinate reference system. Lines in this layer represent individual train routes; they were generalized from the GTFS format where lines depicted individual train services. Unlike other transit routes in this series, the Metro North routes do not represent physical track locations, but are simply straight lines drawn in-between stations. Given the high level of generalization with this file, it is only appropriate for schematic use for small scale (i.e. large area) maps. For example, it is appropriate at a metropolitan-area level but not at county level, where imperfections in the line work would be apparent. The unique ID is route_id, a field created by the MTA. This dataset is intended for researchers, policy makers, students, and educators for basic geographic analysis and mapping purposes. It was created by the GIS Lab at the Newman Library at Baruch College CUNY as part of the NYC Mass Transit Spatial Layers series, so that members of the public could have access to well-documented and readily-usable GIS layers of NYC mass transit features. ",
+  "dct_description_sm": [
+    "This line layer was created from the GTFS data feeds from the Metropolitan Transportation Authority (MTA) to represent the MTA Metro North railroad routes that are east of the Hudson River. A python script was written to take the data files as input and plot and save them as a spatial layer in the local state plane coordinate reference system. Lines in this layer represent individual train routes; they were generalized from the GTFS format where lines depicted individual train services. Unlike other transit routes in this series, the Metro North routes do not represent physical track locations, but are simply straight lines drawn in-between stations. Given the high level of generalization with this file, it is only appropriate for schematic use for small scale (i.e. large area) maps. For example, it is appropriate at a metropolitan-area level but not at county level, where imperfections in the line work would be apparent. The unique ID is route_id, a field created by the MTA. This dataset is intended for researchers, policy makers, students, and educators for basic geographic analysis and mapping purposes. It was created by the GIS Lab at the Newman Library at Baruch College CUNY as part of the NYC Mass Transit Spatial Layers series, so that members of the public could have access to well-documented and readily-usable GIS layers of NYC mass transit features. "
+  ],
   "dct_format_s": "Shapefile",
-  "dct_identifier_sm": "http://hdl.handle.net/2451/34755",
-  "dct_language_sm": "English",
-  "dct_publisher_sm": "Newman Library (Bernard M. Baruch College)",
+  "dct_identifier_sm": [
+    "http://hdl.handle.net/2451/34755"
+  ],
+  "dct_language_sm": [
+    "English"
+  ],
+  "dct_publisher_sm": [
+    "Newman Library (Bernard M. Baruch College)"
+  ],
   "dct_accessRights_s": "Public",
   "dct_subject_sm": [
     "Transportation",
@@ -15,7 +23,9 @@
     "Railroads"
   ],
   "dct_title_s": "2016 (May) Metro-North Routes",
-  "gbl_resourceClass_sm": "Datasets",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
   "dct_isPartOf_sm": [
     "NYC Mass Transit Spatial Layers"
   ],
@@ -39,11 +49,15 @@
     "2016"
   ],
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_resourceType_sm": "Point data",
+  "gbl_resourceType_sm": [
+    "Point data"
+  ],
   "gbl_wxsIdentifier_s": "sdr:nyu_2451_34755",
   "gbl_mdModified_dt": "2016-06-27T14:58:45Z",
   "id": "nyu-2451-34755",
   "nyu_addl_dspace_s": "35705",
   "locn_geometry": "ENVELOPE(-73.984528, -72.921747, 41.8147219999999, 40.7529979999998)",
-  "gbl_indexYear_im": 2016
+  "gbl_indexYear_im": [
+    2016
+  ]
 }

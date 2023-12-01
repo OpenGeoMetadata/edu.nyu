@@ -2,18 +2,28 @@
   "dct_creator_sm": [
     "United States. National Geospatial-Intelligence Agency"
   ],
-  "dct_description_sm": "This raster layer is part of a 1:1,000,000 scale aeronautical chart series. The series contains approximately 229 sheets and projects to Lambert Conformal Conic. The National Geospatial-Intelligence Agency, its legacy organizations (Defense Mapping Agency, National Imagery and Mapping Agency), and other contributors originally published the series. The maps are designed for medium-altitude, high-speed visual and radar navigation and are also used for operational planning and intelligence briefings. The global information available from the ONCs enables scientists to study the state of the global biosphere and to perform environmental monitoring, planning and crisis management, data intercomparison, and model testing. All sheets are in English. EastView Geospatial has completed digitization, georeferencing, and electronic archiving services. See the documentation for more information. To see the index of this series, refer to the Derived Data shapefile layer.",
+  "dct_description_sm": [
+    "This raster layer is part of a 1:1,000,000 scale aeronautical chart series. The series contains approximately 229 sheets and projects to Lambert Conformal Conic. The National Geospatial-Intelligence Agency, its legacy organizations (Defense Mapping Agency, National Imagery and Mapping Agency), and other contributors originally published the series. The maps are designed for medium-altitude, high-speed visual and radar navigation and are also used for operational planning and intelligence briefings. The global information available from the ONCs enables scientists to study the state of the global biosphere and to perform environmental monitoring, planning and crisis management, data intercomparison, and model testing. All sheets are in English. EastView Geospatial has completed digitization, georeferencing, and electronic archiving services. See the documentation for more information. To see the index of this series, refer to the Derived Data shapefile layer."
+  ],
   "dct_format_s": "WorldImage TIFF",
-  "dct_identifier_sm": "http://hdl.handle.net/2451/41016",
-  "dct_language_sm": "English",
-  "dct_publisher_sm": "East View Cartographic, Inc.",
+  "dct_identifier_sm": [
+    "http://hdl.handle.net/2451/41016"
+  ],
+  "dct_language_sm": [
+    "English"
+  ],
+  "dct_publisher_sm": [
+    "East View Cartographic, Inc."
+  ],
   "dct_accessRights_s": "Restricted",
   "dct_subject_sm": [
     "Aeronautical charts",
     "Military intelligence"
   ],
   "dct_title_s": "Operational Navigational Chart, Sheet K08 ",
-  "gbl_resourceClass_sm": "Datasets",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
   "dct_isPartOf_sm": [
     "EVG Open Data Package"
   ],
@@ -23,12 +33,16 @@
   "dct_source_sm": [
     "nyu-2451-38718"
   ],
-  "dct_spatial_sm": [],
+  "dct_spatial_sm": [
+
+  ],
   "dct_temporal_sm": [
     "2016"
   ],
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_resourceType_sm": "Raster data",
+  "gbl_resourceType_sm": [
+    "Raster data"
+  ],
   "gbl_wxsIdentifier_s": "sdr:nyu_2451_41016",
   "gbl_mdModified_dt": "2018-01-16T15:11:26Z",
   "id": "nyu-2451-41016",
@@ -37,5 +51,7 @@
     "WorldImage TIFF"
   ],
   "locn_geometry": "ENVELOPE(70.99906936365042, 83.00164688918136, 16.000138451975094, 7.999487257333505)",
-  "gbl_indexYear_im": 2016
+  "gbl_indexYear_im": [
+    2016
+  ]
 }

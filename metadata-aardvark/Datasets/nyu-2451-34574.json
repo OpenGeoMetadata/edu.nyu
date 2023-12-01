@@ -1,10 +1,20 @@
 {
-  "dct_creator_sm": [],
-  "dct_description_sm": "This point shapefile complements the LION street base map representing New York City's streets and other linear geographic features, such as shorelines, surface rail lines and boardwalks, along with feature names and address ranges for each addressable street segment. This is Version 16 A, released in February 2016.",
+  "dct_creator_sm": [
+
+  ],
+  "dct_description_sm": [
+    "This point shapefile complements the LION street base map representing New York City's streets and other linear geographic features, such as shorelines, surface rail lines and boardwalks, along with feature names and address ranges for each addressable street segment. This is Version 16 A, released in February 2016."
+  ],
   "dct_format_s": "Shapefile",
-  "dct_identifier_sm": "http://hdl.handle.net/2451/34574",
-  "dct_language_sm": "English",
-  "dct_publisher_sm": "New York (City). Department of City Planning",
+  "dct_identifier_sm": [
+    "http://hdl.handle.net/2451/34574"
+  ],
+  "dct_language_sm": [
+    "English"
+  ],
+  "dct_publisher_sm": [
+    "New York (City). Department of City Planning"
+  ],
   "dct_accessRights_s": "Public",
   "dct_subject_sm": [
     "Streets",
@@ -12,7 +22,9 @@
     "Roads"
   ],
   "dct_title_s": "2016 LION Nodes for New York City, V. 16A",
-  "gbl_resourceClass_sm": "Datasets",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
   "dct_isPartOf_sm": [
     "Bytes of the Big Apple"
   ],
@@ -26,11 +38,15 @@
     "2016"
   ],
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_resourceType_sm": "Point data",
+  "gbl_resourceType_sm": [
+    "Point data"
+  ],
   "gbl_wxsIdentifier_s": "sdr:nyu_2451_34574",
   "gbl_mdModified_dt": "2016-04-20T21:31:13Z",
   "id": "nyu-2451-34574",
   "nyu_addl_dspace_s": "35502",
   "locn_geometry": "ENVELOPE(-74.2587474597235, -73.7000090649133, 40.9176618090157, 40.4860830768417)",
-  "gbl_indexYear_im": 2016
+  "gbl_indexYear_im": [
+    2016
+  ]
 }

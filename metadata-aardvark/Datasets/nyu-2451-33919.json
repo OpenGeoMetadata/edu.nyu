@@ -1,10 +1,20 @@
 {
-  "dct_creator_sm": [],
-  "dct_description_sm": "This polygon shapefile contains the names and courses of the main rivers in China.",
+  "dct_creator_sm": [
+
+  ],
+  "dct_description_sm": [
+    "This polygon shapefile contains the names and courses of the main rivers in China."
+  ],
   "dct_format_s": "Shapefile",
-  "dct_identifier_sm": "http://hdl.handle.net/2451/33919",
-  "dct_language_sm": "Chinese",
-  "dct_publisher_sm": "Beijing Hua tong ren shi chang xin xi you xian ze ren gong si",
+  "dct_identifier_sm": [
+    "http://hdl.handle.net/2451/33919"
+  ],
+  "dct_language_sm": [
+    "Chinese"
+  ],
+  "dct_publisher_sm": [
+    "Beijing Hua tong ren shi chang xin xi you xian ze ren gong si"
+  ],
   "dct_accessRights_s": "Restricted",
   "dct_subject_sm": [
     "Rivers--China",
@@ -12,7 +22,9 @@
     "China--Maps"
   ],
   "dct_title_s": "2010 China Township Main Rivers",
-  "gbl_resourceClass_sm": "Datasets",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
   "dct_isPartOf_sm": [
     "2010 China Data Center Township Census Files"
   ],
@@ -25,11 +37,15 @@
     "2010"
   ],
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_resourceType_sm": "Polygon data",
+  "gbl_resourceType_sm": [
+    "Polygon data"
+  ],
   "gbl_wxsIdentifier_s": "sdr:nyu_2451_33919",
   "gbl_mdModified_dt": "2015-11-23T18:57:37Z",
   "id": "nyu-2451-33919",
   "nyu_addl_dspace_s": "34745",
   "locn_geometry": "ENVELOPE(79.0229110717773, 135.101516723633, 53.5621223449707, 19.2314262390137)",
-  "gbl_indexYear_im": 2010
+  "gbl_indexYear_im": [
+    2010
+  ]
 }

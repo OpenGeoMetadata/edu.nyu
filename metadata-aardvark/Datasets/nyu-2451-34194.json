@@ -1,15 +1,25 @@
 {
-  "dct_creator_sm": [],
-  "dct_description_sm": "This map represents ares in Buenos Aires  where students collected images and attribute information about graffiti and urban spaces. The beats, or informally designated areas, were designated by the professors of the class and do not adhere to any established political boundaries or administrative divisions.",
+  "dct_creator_sm": [
+
+  ],
+  "dct_description_sm": [
+    "This map represents ares in Buenos Aires  where students collected images and attribute information about graffiti and urban spaces. The beats, or informally designated areas, were designated by the professors of the class and do not adhere to any established political boundaries or administrative divisions."
+  ],
   "dct_format_s": "Shapefile",
-  "dct_identifier_sm": "http://hdl.handle.net/2451/34194",
-  "dct_language_sm": "English",
+  "dct_identifier_sm": [
+    "http://hdl.handle.net/2451/34194"
+  ],
+  "dct_language_sm": [
+    "English"
+  ],
   "dct_accessRights_s": "Restricted",
   "dct_subject_sm": [
     "Boundaries"
   ],
   "dct_title_s": "2015 Buenos Aires Beats",
-  "gbl_resourceClass_sm": "Datasets",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
   "dct_isPartOf_sm": [
     "Art and Politics in the City",
     "NYU Research Data"
@@ -23,11 +33,18 @@
     "2015"
   ],
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_resourceType_sm": "Polygon data",
+  "gbl_resourceType_sm": [
+    "Polygon data"
+  ],
   "gbl_wxsIdentifier_s": "sdr:nyu_2451_34194",
   "gbl_mdModified_dt": "2016-03-11T19:08:01Z",
   "id": "nyu-2451-34194",
   "nyu_addl_dspace_s": "35047",
   "locn_geometry": "ENVELOPE(-58.4468849797608, -58.3693316354319, -34.5754016411022, -34.6221012535782)",
-  "gbl_indexYear_im": 2015
+  "gbl_indexYear_im": [
+    2015
+  ],
+  "dct_publisher_sm": [
+    ""
+  ]
 }

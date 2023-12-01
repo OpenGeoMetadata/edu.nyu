@@ -2,11 +2,19 @@
   "dct_creator_sm": [
     "Geological Survey (U.S.)"
   ],
-  "dct_description_sm": "This raster layer is part of a digital elevation model (DEM) that offers global coverage at 30-arc seconds, or approximately 1 kilometer pixel spacing. The United States Geological Survey (USGS) originally published the model after deriving content from eight raster and vector sources comprising Digital Terrain Elevation Data, Digital Chart of the World, USGS 1-Degree DEMs, Army Map Service Maps, International Map of the World, Peru Map, New Zealand DEM, and the Antarctic Digital Database. In addition to electronic archiving, Eastview Cartographic, Inc. has completed data conversion and verification services. To see the map index for this set, refer to the Derived Data shapefile layer.  Another version of this data is available directly from the US Geological Survey at https://lta.cr.usgs.gov/GTOPO30. See the documentation for details on the data.",
+  "dct_description_sm": [
+    "This raster layer is part of a digital elevation model (DEM) that offers global coverage at 30-arc seconds, or approximately 1 kilometer pixel spacing. The United States Geological Survey (USGS) originally published the model after deriving content from eight raster and vector sources comprising Digital Terrain Elevation Data, Digital Chart of the World, USGS 1-Degree DEMs, Army Map Service Maps, International Map of the World, Peru Map, New Zealand DEM, and the Antarctic Digital Database. In addition to electronic archiving, Eastview Cartographic, Inc. has completed data conversion and verification services. To see the map index for this set, refer to the Derived Data shapefile layer.  Another version of this data is available directly from the US Geological Survey at https://lta.cr.usgs.gov/GTOPO30. See the documentation for details on the data."
+  ],
   "dct_format_s": "WorldImage TIFF",
-  "dct_identifier_sm": "http://hdl.handle.net/2451/40761",
-  "dct_language_sm": "English",
-  "dct_publisher_sm": "East View Cartographic, Inc.",
+  "dct_identifier_sm": [
+    "http://hdl.handle.net/2451/40761"
+  ],
+  "dct_language_sm": [
+    "English"
+  ],
+  "dct_publisher_sm": [
+    "East View Cartographic, Inc."
+  ],
   "dct_accessRights_s": "Restricted",
   "dct_subject_sm": [
     "Digital elevation models",
@@ -14,7 +22,9 @@
     "Elevation"
   ],
   "dct_title_s": "Global 30 Arc-Second Elevation, Sheet W180N90",
-  "gbl_resourceClass_sm": "Datasets",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
   "dct_isPartOf_sm": [
     "EVG Open Data Package"
   ],
@@ -24,12 +34,16 @@
   "dct_source_sm": [
     "nyu-2451-38716"
   ],
-  "dct_spatial_sm": [],
+  "dct_spatial_sm": [
+
+  ],
   "dct_temporal_sm": [
     "2016"
   ],
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_resourceType_sm": "Raster data",
+  "gbl_resourceType_sm": [
+    "Raster data"
+  ],
   "gbl_wxsIdentifier_s": "sdr:nyu_2451_40761",
   "gbl_mdModified_dt": "2018-01-16T15:11:26Z",
   "id": "nyu-2451-40761",
@@ -38,5 +52,7 @@
     "WorldImage TIFF"
   ],
   "locn_geometry": "ENVELOPE(-180.0, -140.0, 90.0, 40.0)",
-  "gbl_indexYear_im": 2016
+  "gbl_indexYear_im": [
+    2016
+  ]
 }

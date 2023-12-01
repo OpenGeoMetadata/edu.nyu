@@ -2,18 +2,28 @@
   "dct_creator_sm": [
     "United States. National Geospatial-Intelligence Agency"
   ],
-  "dct_description_sm": "This raster layer is an image that is part of a 1:2,000,000 scale aeronautical chart series. The series contains approximately 111 sheets and projects to Lambert Conformal Conic. According to the NOAA Central Library, \"the primary purpose of the Jet Navigation Chart is to support high-altitude computer assisted radar navigation/bombing by strategic aircraft. Information considerations are selected to support celestial, radar, and dead reckoning navigation.\" The National Geospatial-Intelligence Agency and its legacy organizations (Defense Mapping Agency, National Imagery and Mapping Agency) originally published the series. All sheets are in English. Eastview Cartographic, Inc. has completed digitization, georeferencing, and electronic archiving services. To see the map index of this series, refer to the Derived Data shapefile.",
+  "dct_description_sm": [
+    "This raster layer is an image that is part of a 1:2,000,000 scale aeronautical chart series. The series contains approximately 111 sheets and projects to Lambert Conformal Conic. According to the NOAA Central Library, \"the primary purpose of the Jet Navigation Chart is to support high-altitude computer assisted radar navigation/bombing by strategic aircraft. Information considerations are selected to support celestial, radar, and dead reckoning navigation.\" The National Geospatial-Intelligence Agency and its legacy organizations (Defense Mapping Agency, National Imagery and Mapping Agency) originally published the series. All sheets are in English. Eastview Cartographic, Inc. has completed digitization, georeferencing, and electronic archiving services. To see the map index of this series, refer to the Derived Data shapefile."
+  ],
   "dct_format_s": "WorldImage TIFF",
-  "dct_identifier_sm": "http://hdl.handle.net/2451/40768",
-  "dct_language_sm": "English",
-  "dct_publisher_sm": "East View Cartographic, Inc.",
+  "dct_identifier_sm": [
+    "http://hdl.handle.net/2451/40768"
+  ],
+  "dct_language_sm": [
+    "English"
+  ],
+  "dct_publisher_sm": [
+    "East View Cartographic, Inc."
+  ],
   "dct_accessRights_s": "Restricted",
   "dct_subject_sm": [
     "Aeronautical charts",
     "Military intelligence"
   ],
   "dct_title_s": "Jet Navigation Chart, Sheet 7",
-  "gbl_resourceClass_sm": "Datasets",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
   "dct_isPartOf_sm": [
     "EVG Open Data Package"
   ],
@@ -23,12 +33,16 @@
   "dct_source_sm": [
     "nyu-2451-40764"
   ],
-  "dct_spatial_sm": [],
+  "dct_spatial_sm": [
+
+  ],
   "dct_temporal_sm": [
     "2016"
   ],
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_resourceType_sm": "Raster data",
+  "gbl_resourceType_sm": [
+    "Raster data"
+  ],
   "gbl_wxsIdentifier_s": "sdr:nyu_2451_40768",
   "gbl_mdModified_dt": "2018-01-16T15:11:26Z",
   "id": "nyu-2451-40768",
@@ -37,5 +51,7 @@
     "WorldImage TIFF"
   ],
   "locn_geometry": "ENVELOPE(-89.98838503096725, 0.013413243311802698, 81.83853432438191, 70.99673142035755)",
-  "gbl_indexYear_im": 2016
+  "gbl_indexYear_im": [
+    2016
+  ]
 }
