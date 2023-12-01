@@ -19,8 +19,8 @@
 
 1. You can add records to [NYU-DataServices/gis-metadata-staging](https://github.com/NYU-DataServices/gis-metadata-staging) in a new branch (e.g., `lidar-collection-2023`) from your local machine or directly in the GitHub GUI. Just make sure the records are in the correct place for their schema, e.g., `metadata-1.0` or `metadata-aardvark`. *(Note: Only aardvark records will get indexed to the NYU Spatial Data Repository as of Fall 2023.)*
 2. When you're ready, make a pull request from your branch to `main`—this will trigger linting for the records in GitHub Actions. (See badges above)
-3. *** *TO DO * ** After the linters & PR pass, merging into `main` will index the aardvark records found in the `main` branch of [NYU-DataServices/gis-metadata-staging](https://github.com/NYU-DataServices/gis-metadata-staging) to NYU's [staging instance of the SDR](https://geo-stage.library.nyu.edu/) for QA testing.* *(Must be on NYU VPN to view the staging instance)*
-4. After QA on staging, a PR can be submitted from [NYU-DataServices/gis-metadata-staging](https://github.com/NYU-DataServices/gis-metadata-staging) over to the cannoinical repo [OpenGeoMetadata/edu.nyu](https://github.com/OpenGeoMetadata/edu.nyu). Any records pulled into this cannonical OpenGeoMetadata will get indexed to our production instance (and other institutions'!)
+3. *** *TO DO * ** After the linters & PR pass, merging into `main` will trigger indexing of the aardvark records found in the `main` branch of [NYU-DataServices/gis-metadata-staging](https://github.com/NYU-DataServices/gis-metadata-staging) to NYU's [staging instance of the SDR](https://geo-stage.library.nyu.edu/) for QA testing.* *(Must be on NYU VPN to view the staging instance)*
+4. After QA on staging, a PR can be submitted from [NYU-DataServices/gis-metadata-staging](https://github.com/NYU-DataServices/gis-metadata-staging) over to the cannoinical repo [OpenGeoMetadata/edu.nyu](https://github.com/OpenGeoMetadata/edu.nyu). Any records pulled into this cannonical OpenGeoMetadata repo will get indexed to our production instance (and other institutions'!)
 
 ## Local development
 
