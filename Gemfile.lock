@@ -11,82 +11,25 @@ GIT
 GEM
   remote: https://rubygems.org/
   specs:
-    activesupport (7.1.2)
-      base64
-      bigdecimal
-      concurrent-ruby (~> 1.0, >= 1.0.2)
-      connection_pool (>= 2.2.5)
-      drb
-      i18n (>= 1.6, < 2)
-      minitest (>= 5.1)
-      mutex_m
-      tzinfo (~> 2.0)
-    addressable (2.8.5)
-      public_suffix (>= 2.0.2, < 6.0)
     base64 (0.2.0)
-    bigdecimal (3.1.4)
-    builder (3.2.4)
-    concurrent-ruby (1.2.2)
-    connection_pool (2.4.1)
-    crass (1.0.6)
     dotenv (2.8.1)
-    drb (2.2.0)
-      ruby2_keywords
     faraday (2.7.11)
       base64
       faraday-net_http (>= 2.0, < 3.1)
       ruby2_keywords (>= 0.0.4)
     faraday-net_http (3.0.2)
-    faraday-net_http_persistent (2.1.0)
-      faraday (~> 2.5)
-      net-http-persistent (~> 4.0)
-    geo_combine (0.8.0)
-      activesupport
-      faraday-net_http_persistent (~> 2.0)
-      git
-      json-schema
-      nokogiri
-      rsolr
-      sanitize
-      thor
-    git (1.18.0)
-      addressable (~> 2.8)
-      rchardet (~> 1.8)
     hana (1.3.7)
-    i18n (1.14.1)
-      concurrent-ruby (~> 1.0)
-    json-schema (4.1.1)
-      addressable (>= 2.8)
     json_schemer (2.1.1)
       hana (~> 1.3)
       regexp_parser (~> 2.0)
       simpleidn (~> 0.2)
-    minitest (5.20.0)
-    mutex_m (0.2.0)
-    net-http-persistent (4.0.2)
-      connection_pool (~> 2.2)
-    nokogiri (1.15.4-arm64-darwin)
-      racc (~> 1.4)
-    nokogiri (1.15.4-x86_64-linux)
-      racc (~> 1.4)
-    public_suffix (5.0.3)
-    racc (1.7.3)
     rake (13.0.6)
-    rchardet (1.8.0)
     regexp_parser (2.8.2)
-    rsolr (2.5.0)
-      builder (>= 2.1.2)
-      faraday (>= 0.9, < 3, != 2.0.0)
     ruby-progressbar (1.13.0)
     ruby2_keywords (0.0.5)
-    sanitize (6.1.0)
-      crass (~> 1.0.2)
-      nokogiri (>= 1.12.0)
     simpleidn (0.2.1)
       unf (~> 0.1.4)
     thor (1.2.2)
-    tzinfo (2.0.6)
-      concurrent-ruby (~> 1.0)
     unf (0.1.4)
       unf_ext
     unf_ext (0.0.9.1)
@@ -96,7 +39,6 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
-  geo_combine
   json_schemer
   rake
   ruby-progressbar

@@ -1,46 +1,31 @@
-require 'geo_combine'
 require 'json'
 require 'json_schemer'
 require 'open-uri'
 require 'ruby-progressbar'
 
-AARDVARK_SCHEMA = 'https://opengeometadata.org/schema/geoblacklight-schema-aardvark.json'
-
-def lint_aardvark (paths)
-  schema  = JSON.load URI.open(AARDVARK_SCHEMA)
-  schemer = JSONSchemer.schema(schema)
+def lint(paths, schema_url)
+  invalid = []
+  schemer = JSONSchemer.schema JSON.load(URI.open(schema_url))
+  bar     = ProgressBar.create format: "Linting record %c/%C (%P% complete ) — %e", total: paths.length
 
   paths.each do |path|
-    record = JSON.parse File.read(path)
-    id     = File.basename(path, '.json')
+    record  = JSON.parse File.read(path)
+    id      = record['layer_id_s'] || record['id']
 
-    next puts "#{id}: ✅" if schemer.valid? record
-      
-    puts "#{id}: ❌ #{schemer.validate(record).first['error']}"
+    invalid <<  { 
+      'id' => id, 
+      'errors' => schemer.validate(record).map { |x| x['error'] }  
+    } unless schemer.valid?(record)
+    bar.increment
   end
-end 
 
-def lint_v1(paths)
-  records_invalid = 0
-  records_valid   = 0
-  invalid_paths   = []
-  progess_bar     = ProgressBar.create format: "Linting record %c/%C (%P% complete ) — %e", total: paths.length
-
-  paths.each do |path|
-    rec = GeoCombine::Geoblacklight.new(File.read(path))
-    begin
-      rec.valid?
-      records_valid += 1
-    rescue
-      records_invalid += 1
-      invalid_paths << path
+  if invalid.empty? 
+    puts "All #{paths.length} records passed ✅" 
+  else
+    puts "#{invalid.length}/#{paths.length} records have failed schema validation:"
+    invalid.each do |i| 
+      puts "❌ #{i['id']}"
+      i['errors'].each { |e| puts "\t #{e}" }
     end
-    progess_bar.increment
-  end
-
-  if records_invalid > 0
-    raise "Contains #{records_invalid} invalid records:\n#{invalid_paths}"
-  else 
-    puts "All records passed ✅"
   end
 end

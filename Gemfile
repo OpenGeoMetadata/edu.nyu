@@ -1,6 +1,5 @@
 source 'https://rubygems.org'
 
-gem 'geo_combine'
 gem 'json_schemer'
 gem 'rake'
 gem 'ruby-progressbar'
