@@ -47,7 +47,7 @@ Follow the steps below to run linting and other tasks locally.
    ```
 4. If the aarvark linters fail, you might try to run and/or update the script in `/misc`:
    ```
-   bundle exec ruby aardvark-schema-patching.rb
+   bundle exec ruby misc/aardvark-schema-patching.rb
    ```
 
 
