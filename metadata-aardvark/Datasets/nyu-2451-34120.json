@@ -1,10 +1,20 @@
 {
-  "dct_creator_sm": [],
-  "dct_description_sm": "World Railroads represents the railroads of the world.",
+  "dct_creator_sm": [
+
+  ],
+  "dct_description_sm": [
+    "World Railroads represents the railroads of the world."
+  ],
   "dct_format_s": "Shapefile",
-  "dct_identifier_sm": "http://hdl.handle.net/2451/34120",
-  "dct_language_sm": "English",
-  "dct_publisher_sm": "Environmental Systems Research Institute (Redlands, Calif.)",
+  "dct_identifier_sm": [
+    "http://hdl.handle.net/2451/34120"
+  ],
+  "dct_language_sm": [
+    "English"
+  ],
+  "dct_publisher_sm": [
+    "Environmental Systems Research Institute (Redlands, Calif.)"
+  ],
   "dct_accessRights_s": "Restricted",
   "dct_subject_sm": [
     "Transportation",
@@ -12,7 +22,9 @@
     "Railroads and state"
   ],
   "dct_title_s": "2010 World Railroads",
-  "gbl_resourceClass_sm": "Datasets",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
   "dct_isPartOf_sm": [
     "ESRI 10 World"
   ],
@@ -25,11 +37,15 @@
     "2010"
   ],
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_resourceType_sm": "Line data",
+  "gbl_resourceType_sm": [
+    "Line data"
+  ],
   "gbl_wxsIdentifier_s": "sdr:nyu_2451_34120",
   "gbl_mdModified_dt": "2016-01-30T04:03:50Z",
   "id": "nyu-2451-34120",
   "nyu_addl_dspace_s": "34964",
   "locn_geometry": "ENVELOPE(-130.359395861, 178.013850093, 62.399597121, -46.415433883)",
-  "gbl_indexYear_im": 2010
+  "gbl_indexYear_im": [
+    2010
+  ]
 }

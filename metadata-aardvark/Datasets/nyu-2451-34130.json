@@ -1,10 +1,20 @@
 {
-  "dct_creator_sm": [],
-  "dct_description_sm": "U.S. and Canada Detailed Streets represents streets, highways, roads with and without limited access, secondary and connecting roads, local and rural roads, roads with special characteristics, access ramps, and ferries within the United States and Canada. This data set contains road network features such as arterial classification, speed, and direction of travel. It contains address ranges for all addressable features with addresses.",
+  "dct_creator_sm": [
+
+  ],
+  "dct_description_sm": [
+    "U.S. and Canada Detailed Streets represents streets, highways, roads with and without limited access, secondary and connecting roads, local and rural roads, roads with special characteristics, access ramps, and ferries within the United States and Canada. This data set contains road network features such as arterial classification, speed, and direction of travel. It contains address ranges for all addressable features with addresses."
+  ],
   "dct_format_s": "Shapefile",
-  "dct_identifier_sm": "http://hdl.handle.net/2451/34130",
-  "dct_language_sm": "English",
-  "dct_publisher_sm": "Environmental Systems Research Institute (Redlands, Calif.)",
+  "dct_identifier_sm": [
+    "http://hdl.handle.net/2451/34130"
+  ],
+  "dct_language_sm": [
+    "English"
+  ],
+  "dct_publisher_sm": [
+    "Environmental Systems Research Institute (Redlands, Calif.)"
+  ],
   "dct_accessRights_s": "Restricted",
   "dct_subject_sm": [
     "Streets",
@@ -12,7 +22,9 @@
     "Transportation"
   ],
   "dct_title_s": "2010 U.S. and Canada Detailed Streets",
-  "gbl_resourceClass_sm": "Datasets",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
   "dct_isPartOf_sm": [
     "ESRI 10 Streets"
   ],
@@ -26,11 +38,15 @@
     "2010"
   ],
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_resourceType_sm": "Line data",
+  "gbl_resourceType_sm": [
+    "Line data"
+  ],
   "gbl_wxsIdentifier_s": "sdr:nyu_2451_34130",
   "gbl_mdModified_dt": "2016-01-30T04:03:48Z",
   "id": "nyu-2451-34130",
   "nyu_addl_dspace_s": "34975",
   "locn_geometry": "ENVELOPE(-136.850489091, -52.622456364, 76.427236364, 41.053699091)",
-  "gbl_indexYear_im": 2010
+  "gbl_indexYear_im": [
+    2010
+  ]
 }

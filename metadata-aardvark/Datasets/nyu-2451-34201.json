@@ -1,17 +1,29 @@
 {
-  "dct_creator_sm": [],
-  "dct_description_sm": "This layer represents Buenos Aires 2014 population by comunas and barrios. Downloaded from http://www.estadistica.buenosaires.gob.ar/areas/hacienda/sis_estadistico/banco_datos/buscador.php?menu_id=34691",
+  "dct_creator_sm": [
+
+  ],
+  "dct_description_sm": [
+    "This layer represents Buenos Aires 2014 population by comunas and barrios. Downloaded from http://www.estadistica.buenosaires.gob.ar/areas/hacienda/sis_estadistico/banco_datos/buscador.php?menu_id=34691"
+  ],
   "dct_format_s": "Shapefile",
-  "dct_identifier_sm": "http://hdl.handle.net/2451/34201",
-  "dct_language_sm": "Spanish",
-  "dct_publisher_sm": "Buenos Aires (Argentina)",
+  "dct_identifier_sm": [
+    "http://hdl.handle.net/2451/34201"
+  ],
+  "dct_language_sm": [
+    "Spanish"
+  ],
+  "dct_publisher_sm": [
+    "Buenos Aires (Argentina)"
+  ],
   "dct_accessRights_s": "Public",
   "dct_subject_sm": [
     "Population",
     "Demographic surveys"
   ],
   "dct_title_s": "2014 Population Statistics in Buenos Aires",
-  "gbl_resourceClass_sm": "Datasets",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
   "dct_isPartOf_sm": [
     "Art and Politics in the City"
   ],
@@ -24,11 +36,15 @@
     "2014"
   ],
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_resourceType_sm": "Polygon data",
+  "gbl_resourceType_sm": [
+    "Polygon data"
+  ],
   "gbl_wxsIdentifier_s": "sdr:nyu_2451_34201",
   "gbl_mdModified_dt": "2016-03-11T19:08:00Z",
   "id": "nyu-2451-34201",
   "nyu_addl_dspace_s": "35054",
   "locn_geometry": "ENVELOPE(-58.531518740591, -58.3351430067124, -34.5275410741021, -34.7052931351596)",
-  "gbl_indexYear_im": 2014
+  "gbl_indexYear_im": [
+    2014
+  ]
 }

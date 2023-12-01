@@ -1,9 +1,17 @@
 {
-  "dct_creator_sm": [],
-  "dct_description_sm": "This layer shows the New York City Board of Elections election districts for the City of New York. These district boundaries represent the redistricting as of the US Census 2010. Downloaded from NYC Dept of City Planning",
+  "dct_creator_sm": [
+
+  ],
+  "dct_description_sm": [
+    "This layer shows the New York City Board of Elections election districts for the City of New York. These district boundaries represent the redistricting as of the US Census 2010. Downloaded from NYC Dept of City Planning"
+  ],
   "dct_format_s": "Shapefile",
-  "dct_identifier_sm": "http://hdl.handle.net/2451/34206",
-  "dct_language_sm": "English",
+  "dct_identifier_sm": [
+    "http://hdl.handle.net/2451/34206"
+  ],
+  "dct_language_sm": [
+    "English"
+  ],
   "dct_accessRights_s": "Public",
   "dct_subject_sm": [
     "Elections",
@@ -12,7 +20,9 @@
     "New York (N.Y.)--Politics and government"
   ],
   "dct_title_s": "2010 New York City Election Districts",
-  "gbl_resourceClass_sm": "Datasets",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
   "dct_isPartOf_sm": [
     "Art and Politics in the City"
   ],
@@ -25,11 +35,18 @@
     "2010"
   ],
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_resourceType_sm": "Polygon data",
+  "gbl_resourceType_sm": [
+    "Polygon data"
+  ],
   "gbl_wxsIdentifier_s": "sdr:nyu_2451_34206",
   "gbl_mdModified_dt": "2016-03-11T19:07:58Z",
   "id": "nyu-2451-34206",
   "nyu_addl_dspace_s": "35059",
   "locn_geometry": "ENVELOPE(-74.2555928797073, -73.7000104159321, 40.915541075395, 40.4961236005812)",
-  "gbl_indexYear_im": 2010
+  "gbl_indexYear_im": [
+    2010
+  ],
+  "dct_publisher_sm": [
+    ""
+  ]
 }

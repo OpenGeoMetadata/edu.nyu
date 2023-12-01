@@ -1,10 +1,20 @@
 {
-  "dct_creator_sm": [],
-  "dct_description_sm": "U.S. Census Tracts represents the U.S. Census tracts of the United States in the 50 states, the District of Columbia, and Puerto Rico.",
+  "dct_creator_sm": [
+
+  ],
+  "dct_description_sm": [
+    "U.S. Census Tracts represents the U.S. Census tracts of the United States in the 50 states, the District of Columbia, and Puerto Rico."
+  ],
   "dct_format_s": "Shapefile",
-  "dct_identifier_sm": "http://hdl.handle.net/2451/34095",
-  "dct_language_sm": "English",
-  "dct_publisher_sm": "Environmental Systems Research Institute (Redlands, Calif.)",
+  "dct_identifier_sm": [
+    "http://hdl.handle.net/2451/34095"
+  ],
+  "dct_language_sm": [
+    "English"
+  ],
+  "dct_publisher_sm": [
+    "Environmental Systems Research Institute (Redlands, Calif.)"
+  ],
   "dct_accessRights_s": "Restricted",
   "dct_subject_sm": [
     "Census districts",
@@ -12,7 +22,9 @@
     "Boundaries"
   ],
   "dct_title_s": "2010 U.S. Census Tracts",
-  "gbl_resourceClass_sm": "Datasets",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
   "dct_isPartOf_sm": [
     "ESRI 10 USA Census"
   ],
@@ -25,11 +37,15 @@
     "2010"
   ],
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_resourceType_sm": "Polygon data",
+  "gbl_resourceType_sm": [
+    "Polygon data"
+  ],
   "gbl_wxsIdentifier_s": "sdr:nyu_2451_34095",
   "gbl_mdModified_dt": "2016-01-30T04:03:55Z",
   "id": "nyu-2451-34095",
   "nyu_addl_dspace_s": "34939",
   "locn_geometry": "ENVELOPE(-179.14734, 179.778465, 71.390482064, 17.881242)",
-  "gbl_indexYear_im": 2010
+  "gbl_indexYear_im": [
+    2010
+  ]
 }

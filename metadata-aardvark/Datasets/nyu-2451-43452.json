@@ -3,10 +3,16 @@
     "Maitha Salem AlMemari ",
     " H.R.P. Dickson"
   ],
-  "dct_description_sm": "This vector layer represents the tribal boundaries in the Gulf Cooperation Council (GCC) region of the Middle East based on a map found in a H.R.P. Dickson's 1949 book, The Arab of the Desert. Dickson was a British colonial administrator in the Middle East from the 1920s until the 1940s, and author of several books on Kuwait. The map was recreated in 2018 by NYU Abu Dhabi student for a course project.",
+  "dct_description_sm": [
+    "This vector layer represents the tribal boundaries in the Gulf Cooperation Council (GCC) region of the Middle East based on a map found in a H.R.P. Dickson's 1949 book, The Arab of the Desert. Dickson was a British colonial administrator in the Middle East from the 1920s until the 1940s, and author of several books on Kuwait. The map was recreated in 2018 by NYU Abu Dhabi student for a course project."
+  ],
   "dct_format_s": "Shapefile",
-  "dct_identifier_sm": "http://hdl.handle.net/2451/43452",
-  "dct_language_sm": "English",
+  "dct_identifier_sm": [
+    "http://hdl.handle.net/2451/43452"
+  ],
+  "dct_language_sm": [
+    "English"
+  ],
   "dct_accessRights_s": "Restricted",
   "dct_subject_sm": [
     "Boundaries",
@@ -15,7 +21,9 @@
     "Families "
   ],
   "dct_title_s": "1949 Gulf Cooperation Council Region Tribal Map",
-  "gbl_resourceClass_sm": "Datasets",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
   "dct_isPartOf_sm": [
     "NYU Research Data"
   ],
@@ -29,11 +37,18 @@
     "1949"
   ],
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_resourceType_sm": "Polygon data",
+  "gbl_resourceType_sm": [
+    "Polygon data"
+  ],
   "gbl_wxsIdentifier_s": "sdr:nyu_2451_43452",
   "gbl_mdModified_dt": "2018-09-17T11:07:00Z",
   "id": "nyu-2451-43452",
   "nyu_addl_dspace_s": "44549",
   "locn_geometry": "ENVELOPE(34.573633, 58.357117, 30.854675, 12.727112)",
-  "gbl_indexYear_im": 2018
+  "gbl_indexYear_im": [
+    2018
+  ],
+  "dct_publisher_sm": [
+    ""
+  ]
 }

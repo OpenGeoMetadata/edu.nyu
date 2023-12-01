@@ -1,10 +1,20 @@
 {
-  "dct_creator_sm": [],
-  "dct_description_sm": "This polygon shapefile layer represents the Hurricane Evacuation Zones that are determined by New York City Emergency Management and represent varying threat levels of coastal flooding resulting from storm surge. Hurricane evacuation zones should not be confused with flood insurance risk zones, which are designated by FEMA and available in the form of Flood Insurance Rate Maps (FIRMs).",
+  "dct_creator_sm": [
+
+  ],
+  "dct_description_sm": [
+    "This polygon shapefile layer represents the Hurricane Evacuation Zones that are determined by New York City Emergency Management and represent varying threat levels of coastal flooding resulting from storm surge. Hurricane evacuation zones should not be confused with flood insurance risk zones, which are designated by FEMA and available in the form of Flood Insurance Rate Maps (FIRMs)."
+  ],
   "dct_format_s": "Shapefile",
-  "dct_identifier_sm": "http://hdl.handle.net/2451/34571",
-  "dct_language_sm": "English",
-  "dct_publisher_sm": "New York (City). Department of City Planning",
+  "dct_identifier_sm": [
+    "http://hdl.handle.net/2451/34571"
+  ],
+  "dct_language_sm": [
+    "English"
+  ],
+  "dct_publisher_sm": [
+    "New York (City). Department of City Planning"
+  ],
   "dct_accessRights_s": "Public",
   "dct_subject_sm": [
     "Hurricanes",
@@ -13,7 +23,9 @@
     "Emergency management"
   ],
   "dct_title_s": "2016 New York City Hurricane Evacuation Zones",
-  "gbl_resourceClass_sm": "Datasets",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
   "dct_isPartOf_sm": [
     "Bytes of the Big Apple"
   ],
@@ -27,11 +39,15 @@
     "2016"
   ],
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_resourceType_sm": "Polygon data",
+  "gbl_resourceType_sm": [
+    "Polygon data"
+  ],
   "gbl_wxsIdentifier_s": "sdr:nyu_2451_34571",
   "gbl_mdModified_dt": "2016-04-20T21:31:14Z",
   "id": "nyu-2451-34571",
   "nyu_addl_dspace_s": "35495",
   "locn_geometry": "ENVELOPE(-74.2587474599855, -73.700009063956, 40.9176618088575, 40.4860830762583)",
-  "gbl_indexYear_im": 2016
+  "gbl_indexYear_im": [
+    2016
+  ]
 }

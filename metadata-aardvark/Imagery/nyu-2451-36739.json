@@ -1,10 +1,20 @@
 {
-  "dct_creator_sm": [],
-  "dct_description_sm": "This georeferenced raster layer represents agricultural production in China in 1967. It is taken from the book, Communist China: Map Folio, which was published by the CIA's Directorate of Intelligence, Office of Basic and Geographic Intelligence in 1967. The maps in this book were intended as an introduction and general reference to persons interested in Communist China. It was issued primarily for government use, but several copies were released to academic institutions. The entire folio contains 17 maps, most of which are at a 1:10,000,000 scale. The data represented on these maps has been drawn from a variety of sources, including the American Consulate General, Hong Kong, an official State Statistical Bureau publication called Ten Great Years (1960), an article by Hou, H. Y. et al. called \"The Vegetation of China with Special Reference to Main Soil Types (1957), a Chinese map entitled Chung-kuo Nien Chiang-shui-liang (Annual Precipitaiton in China) (1964), and an atlas published by the Institute of Ethnography of the USSR Academy of Sciences. The maps were scanned by NYU Libraries Digital Libraries and Technology Services and were georeferenced by NYU Libraries Data Services.",
+  "dct_creator_sm": [
+
+  ],
+  "dct_description_sm": [
+    "This georeferenced raster layer represents agricultural production in China in 1967. It is taken from the book, Communist China: Map Folio, which was published by the CIA's Directorate of Intelligence, Office of Basic and Geographic Intelligence in 1967. The maps in this book were intended as an introduction and general reference to persons interested in Communist China. It was issued primarily for government use, but several copies were released to academic institutions. The entire folio contains 17 maps, most of which are at a 1:10,000,000 scale. The data represented on these maps has been drawn from a variety of sources, including the American Consulate General, Hong Kong, an official State Statistical Bureau publication called Ten Great Years (1960), an article by Hou, H. Y. et al. called \"The Vegetation of China with Special Reference to Main Soil Types (1957), a Chinese map entitled Chung-kuo Nien Chiang-shui-liang (Annual Precipitaiton in China) (1964), and an atlas published by the Institute of Ethnography of the USSR Academy of Sciences. The maps were scanned by NYU Libraries Digital Libraries and Technology Services and were georeferenced by NYU Libraries Data Services."
+  ],
   "dct_format_s": "GeoTIFF",
-  "dct_identifier_sm": "http://hdl.handle.net/2451/36739",
-  "dct_language_sm": "English",
-  "dct_publisher_sm": "Directorate of Intelligence, Office of Basic and Geographic Intelligence",
+  "dct_identifier_sm": [
+    "http://hdl.handle.net/2451/36739"
+  ],
+  "dct_language_sm": [
+    "English"
+  ],
+  "dct_publisher_sm": [
+    "Directorate of Intelligence, Office of Basic and Geographic Intelligence"
+  ],
   "dc_relation_sm": [
     "http://sws.geonames.org/1814991/about/rdf"
   ],
@@ -14,7 +24,9 @@
     "Agricultural sites"
   ],
   "dct_title_s": "1967 Communist China Agriculture",
-  "gbl_resourceClass_sm": "Imagery",
+  "gbl_resourceClass_sm": [
+    "Imagery"
+  ],
   "dct_isPartOf_sm": [
     "Communist China: Map Folio"
   ],
@@ -28,11 +40,15 @@
     "1967"
   ],
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_resourceType_sm": "Raster data",
+  "gbl_resourceType_sm": [
+    "Raster data"
+  ],
   "gbl_wxsIdentifier_s": "sdr:nyu_2451_36739",
   "gbl_mdModified_dt": "2016-11-11T17:37:28Z",
   "id": "nyu-2451-36739",
   "nyu_addl_dspace_s": "37716",
   "locn_geometry": "ENVELOPE(73.557693, 134.773911, 53.56086, 10.175472)",
-  "gbl_indexYear_im": 1967
+  "gbl_indexYear_im": [
+    1967
+  ]
 }

@@ -2,11 +2,19 @@
   "dct_creator_sm": [
     "GIS Lab, Newman Library, Baruch CUNY"
   ],
-  "dct_description_sm": "This polygon layer is a subset and combination of the Census TIGER county water files for all counties in the metro region, re-projected to local state plane. Individual water features that were of significant collective size and that would be appropriate for city-level maps were selected from the master water feature set (nyu_2451_34516), with particular attention paid to areas around and along: the Atlantic Coast, Long Island Sound, Hudson River, East River, Harlem River, Arthur Kill, Hackensack River, Passaic River, New York Bay, Newark Bay, Raritan Bay, and Jamaica Bay. This data was created as part of the NYC Geodatabase (NYC GDB) project, a resource designed for basic geographic analysis and thematic mapping within the five boroughs of New York City.",
+  "dct_description_sm": [
+    "This polygon layer is a subset and combination of the Census TIGER county water files for all counties in the metro region, re-projected to local state plane. Individual water features that were of significant collective size and that would be appropriate for city-level maps were selected from the master water feature set (nyu_2451_34516), with particular attention paid to areas around and along: the Atlantic Coast, Long Island Sound, Hudson River, East River, Harlem River, Arthur Kill, Hackensack River, Passaic River, New York Bay, Newark Bay, Raritan Bay, and Jamaica Bay. This data was created as part of the NYC Geodatabase (NYC GDB) project, a resource designed for basic geographic analysis and thematic mapping within the five boroughs of New York City."
+  ],
   "dct_format_s": "Shapefile",
-  "dct_identifier_sm": "http://hdl.handle.net/2451/34507",
-  "dct_language_sm": "English",
-  "dct_publisher_sm": "Newman Library (Bernard M. Baruch College)",
+  "dct_identifier_sm": [
+    "http://hdl.handle.net/2451/34507"
+  ],
+  "dct_language_sm": [
+    "English"
+  ],
+  "dct_publisher_sm": [
+    "Newman Library (Bernard M. Baruch College)"
+  ],
   "dct_accessRights_s": "Public",
   "dct_subject_sm": [
     "Rivers",
@@ -16,7 +24,9 @@
     "Bodies of water"
   ],
   "dct_title_s": "2010 New York City Coastal Water and Rivers",
-  "gbl_resourceClass_sm": "Datasets",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
   "dct_isPartOf_sm": [
     "NYC Geodatabase (version jan2016)"
   ],
@@ -47,11 +57,15 @@
     "2010"
   ],
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_resourceType_sm": "Polygon data",
+  "gbl_resourceType_sm": [
+    "Polygon data"
+  ],
   "gbl_wxsIdentifier_s": "sdr:nyu_2451_34507",
   "gbl_mdModified_dt": "2016-05-02T18:21:04Z",
   "id": "nyu-2451-34507",
   "nyu_addl_dspace_s": "35414",
   "locn_geometry": "ENVELOPE(-74.527895, -71.777491, 42.1286109999999, 39.4751979999998)",
-  "gbl_indexYear_im": 2010
+  "gbl_indexYear_im": [
+    2010
+  ]
 }

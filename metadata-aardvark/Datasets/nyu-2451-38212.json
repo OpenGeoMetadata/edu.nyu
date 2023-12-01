@@ -1,10 +1,20 @@
 {
-  "dct_creator_sm": [],
-  "dct_description_sm": "This polygon shapefile represents updated prefecture-level city boundaries for China. It is part of the 2015 China Administrative Boundaries Maps product from the University of Michigan China Data Center. See the documentation for more information about the administrative boundary changes represented in this layer. Note that the \"generated\" version of this data does not contain Chinese name variables; please refer to the original version of the dataset and the associated documentation file.",
+  "dct_creator_sm": [
+
+  ],
+  "dct_description_sm": [
+    "This polygon shapefile represents updated prefecture-level city boundaries for China. It is part of the 2015 China Administrative Boundaries Maps product from the University of Michigan China Data Center. See the documentation for more information about the administrative boundary changes represented in this layer. Note that the \"generated\" version of this data does not contain Chinese name variables; please refer to the original version of the dataset and the associated documentation file."
+  ],
   "dct_format_s": "Shapefile",
-  "dct_identifier_sm": "http://hdl.handle.net/2451/38212",
-  "dct_language_sm": "English",
-  "dct_publisher_sm": "Beijing Hua tong ren shi chang xin xi you xian ze ren gong si",
+  "dct_identifier_sm": [
+    "http://hdl.handle.net/2451/38212"
+  ],
+  "dct_language_sm": [
+    "English"
+  ],
+  "dct_publisher_sm": [
+    "Beijing Hua tong ren shi chang xin xi you xian ze ren gong si"
+  ],
   "dc_relation_sm": [
     "http://sws.geonames.org/1814991/about/rdf"
   ],
@@ -14,7 +24,9 @@
     "Administrative and political divisions"
   ],
   "dct_title_s": "2015 Prefecture-Level City Boundaries for China",
-  "gbl_resourceClass_sm": "Datasets",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
   "dct_isPartOf_sm": [
     "2015 Administrative Boundary Maps of China"
   ],
@@ -28,11 +40,15 @@
     "2015"
   ],
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_resourceType_sm": "Polygon data",
+  "gbl_resourceType_sm": [
+    "Polygon data"
+  ],
   "gbl_wxsIdentifier_s": "sdr:nyu_2451_38212",
   "gbl_mdModified_dt": "2017-03-21T20:46:19Z",
   "id": "nyu-2451-38212",
   "nyu_addl_dspace_s": "39191",
   "locn_geometry": "ENVELOPE(73.557693, 134.773911, 53.56086, 10.175472)",
-  "gbl_indexYear_im": 2015
+  "gbl_indexYear_im": [
+    2015
+  ]
 }

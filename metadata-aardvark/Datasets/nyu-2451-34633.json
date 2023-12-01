@@ -1,10 +1,20 @@
 {
-  "dct_creator_sm": [],
-  "dct_description_sm": "This polygon shapefile represents the 1990 Province Boundaries for China. The layer was primarily based on the \"The Administrative Maps of the People's Republic of China,\" published by China Map Press, and some other yearly administrative maps. See the documentation for more information and a list of the layer variables.",
+  "dct_creator_sm": [
+
+  ],
+  "dct_description_sm": [
+    "This polygon shapefile represents the 1990 Province Boundaries for China. The layer was primarily based on the \"The Administrative Maps of the People's Republic of China,\" published by China Map Press, and some other yearly administrative maps. See the documentation for more information and a list of the layer variables."
+  ],
   "dct_format_s": "Shapefile",
-  "dct_identifier_sm": "http://hdl.handle.net/2451/34633",
-  "dct_language_sm": "English",
-  "dct_publisher_sm": "Beijing Hua tong ren shi chang xin xi you xian ze ren gong si",
+  "dct_identifier_sm": [
+    "http://hdl.handle.net/2451/34633"
+  ],
+  "dct_language_sm": [
+    "English"
+  ],
+  "dct_publisher_sm": [
+    "Beijing Hua tong ren shi chang xin xi you xian ze ren gong si"
+  ],
   "dc_relation_sm": [
     "http://sws.geonames.org/1814991/about/rdf"
   ],
@@ -15,7 +25,9 @@
     "Population"
   ],
   "dct_title_s": "1990 Province Boundaries for China",
-  "gbl_resourceClass_sm": "Datasets",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
   "dct_isPartOf_sm": [
     "Historical China County Population Census Data"
   ],
@@ -29,11 +41,15 @@
     "1990"
   ],
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_resourceType_sm": "Polygon data",
+  "gbl_resourceType_sm": [
+    "Polygon data"
+  ],
   "gbl_wxsIdentifier_s": "sdr:nyu_2451_34633",
   "gbl_mdModified_dt": "2016-11-10T15:51:36Z",
   "id": "nyu-2451-34633",
   "nyu_addl_dspace_s": "35566",
   "locn_geometry": "ENVELOPE(73.557693, 134.773911, 53.56086, 10.175472)",
-  "gbl_indexYear_im": 1990
+  "gbl_indexYear_im": [
+    1990
+  ]
 }

@@ -1,18 +1,32 @@
 {
-  "dct_creator_sm": [],
-  "dct_description_sm": "This polygon shapefile represents Localidad Urbana y Rural Amanzanada (Locations of Urban and Rural Blocks) for the Mexican state of Chiapas. This file was released by the Instituto Nacional de Estad\u00ccstica y Geograf\u00cca (INEGI) as part of the 2015 Population Survey, Encuesta Intercensal. This layer does not include socio-demographic data and was downloaded, cleaned, and released by Diego Valle-Jones (diego@diegovalle.net). Refer to the documentation for methodologies and variable names (in Spanish). Original information on this survey is available at http://www.inegi.org.mx/est/contenidos/proyectos/encuestas/hogares/especiales/ei2015/default.aspx",
+  "dct_creator_sm": [
+
+  ],
+  "dct_description_sm": [
+    "This polygon shapefile represents Localidad Urbana y Rural Amanzanada (Locations of Urban and Rural Blocks) for the Mexican state of Chiapas. This file was released by the Instituto Nacional de EstadÌstica y GeografÌa (INEGI) as part of the 2015 Population Survey, Encuesta Intercensal. This layer does not include socio-demographic data and was downloaded, cleaned, and released by Diego Valle-Jones (diego@diegovalle.net). Refer to the documentation for methodologies and variable names (in Spanish). Original information on this survey is available at http://www.inegi.org.mx/est/contenidos/proyectos/encuestas/hogares/especiales/ei2015/default.aspx"
+  ],
   "dct_format_s": "Shapefile",
-  "dct_identifier_sm": "http://hdl.handle.net/2451/36821",
-  "dct_language_sm": "Spanish",
-  "dct_publisher_sm": "Instituto Nacional de Estadi\u0301stica y Geografi\u0301a (Mexico)",
-  "dc_relation_sm": [],
+  "dct_identifier_sm": [
+    "http://hdl.handle.net/2451/36821"
+  ],
+  "dct_language_sm": [
+    "Spanish"
+  ],
+  "dct_publisher_sm": [
+    "Instituto Nacional de Estadística y Geografía (Mexico)"
+  ],
+  "dc_relation_sm": [
+
+  ],
   "dct_accessRights_s": "Public",
   "dct_subject_sm": [
     "Boundaries",
     "Administrative and political divisions"
   ],
   "dct_title_s": "2015 Chiapas, Mexico Locations of Urban and Rural Blocks",
-  "gbl_resourceClass_sm": "Datasets",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
   "dct_isPartOf_sm": [
     "Encuesta Intercensal 2015"
   ],
@@ -29,11 +43,15 @@
   "gbl_mdVersion_s": "Aardvark",
   "georss_box_s": "14.5564830496531 -94.1030774195872 17.9804492298481 -90.3876389201001",
   "georss_polygon_s": "14.5564830496531 -94.1030774195872 17.9804492298481 -94.1030774195872 17.9804492298481 -90.3876389201001 14.5564830496531 -90.3876389201001 14.5564830496531 -94.1030774195872",
-  "gbl_resourceType_sm": "Polygon data",
+  "gbl_resourceType_sm": [
+    "Polygon data"
+  ],
   "gbl_wxsIdentifier_s": "sdr:nyu_2451_36821",
   "gbl_mdModified_dt": "2016-11-30T21:39:21Z",
   "id": "nyu-2451-36821",
   "nyu_addl_dspace_s": "37792",
   "locn_geometry": "ENVELOPE(-94.1030774195872, -90.3876389201001, 17.9804492298481, 14.5564830496531)",
-  "gbl_indexYear_im": 2015
+  "gbl_indexYear_im": [
+    2015
+  ]
 }

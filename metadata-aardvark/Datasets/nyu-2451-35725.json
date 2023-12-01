@@ -1,18 +1,32 @@
 {
-  "dct_creator_sm": [],
-  "dct_description_sm": "VMap1 is a vector digital topographic reference product developed by Natural Resources Canada (NRCan) and The Department of National Defence (DND). VMap1 complies with international military specifications vector map, level 1. There are 24 VMap1 libraries covering the Canadian territory. The National Topographic Data Base (NTDB) at scale of 1:250 000 is the main source used to populate the Canadian VMap1 Libraries. Administrative Boundaries from Statistics Canada are used to add international borders, provincial and Indian reserve limits. NRCan paper maps at scale of 1:250 000 and the information in the Canadian Geographical Names Data Base (CGNDB) are used to capture the names. The JOG (Joint Operations Graphic) paper maps were used by DND for the production of libraries 37, 38 and 66. Topographic features mainly from the NTDB have not been updated. VMap1 is published once and no product revision is planned.",
+  "dct_creator_sm": [
+
+  ],
+  "dct_description_sm": [
+    "VMap1 is a vector digital topographic reference product developed by Natural Resources Canada (NRCan) and The Department of National Defence (DND). VMap1 complies with international military specifications vector map, level 1. There are 24 VMap1 libraries covering the Canadian territory. The National Topographic Data Base (NTDB) at scale of 1:250 000 is the main source used to populate the Canadian VMap1 Libraries. Administrative Boundaries from Statistics Canada are used to add international borders, provincial and Indian reserve limits. NRCan paper maps at scale of 1:250 000 and the information in the Canadian Geographical Names Data Base (CGNDB) are used to capture the names. The JOG (Joint Operations Graphic) paper maps were used by DND for the production of libraries 37, 38 and 66. Topographic features mainly from the NTDB have not been updated. VMap1 is published once and no product revision is planned."
+  ],
   "dct_format_s": "Shapefile",
-  "dct_identifier_sm": "http://hdl.handle.net/2451/35725",
-  "dct_language_sm": "English",
-  "dct_publisher_sm": "Canada Centre for Mapping and Earth Observation",
-  "dc_relation_sm": [],
+  "dct_identifier_sm": [
+    "http://hdl.handle.net/2451/35725"
+  ],
+  "dct_language_sm": [
+    "English"
+  ],
+  "dct_publisher_sm": [
+    "Canada Centre for Mapping and Earth Observation"
+  ],
+  "dc_relation_sm": [
+
+  ],
   "dct_accessRights_s": "Public",
   "dct_subject_sm": [
     "Mines and mineral resources",
     "Salt mines and mining"
   ],
   "dct_title_s": "Canada VMap1, Library 42: Extraction Points",
-  "gbl_resourceClass_sm": "Datasets",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
   "dct_isPartOf_sm": [
     "VMap 1",
     "Canada VMap1, Library 42"
@@ -43,11 +57,15 @@
     "1996"
   ],
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_resourceType_sm": "Point data",
+  "gbl_resourceType_sm": [
+    "Point data"
+  ],
   "gbl_wxsIdentifier_s": "sdr:nyu_2451_35725",
   "gbl_mdModified_dt": "2016-09-16T15:06:39Z",
   "id": "nyu-2451-35725",
   "nyu_addl_dspace_s": "36694",
   "locn_geometry": "ENVELOPE(-121.458709716797, -108.311111450195, 53.8872756958008, 49.0077247619629)",
-  "gbl_indexYear_im": 1945
+  "gbl_indexYear_im": [
+    1945
+  ]
 }

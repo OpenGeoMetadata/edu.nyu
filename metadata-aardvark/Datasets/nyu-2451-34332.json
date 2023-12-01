@@ -1,10 +1,20 @@
 {
-  "dct_creator_sm": [],
-  "dct_description_sm": "This polygon shapefile shows village boundaries with socio-demographic and economic Census data for 2001 for the state of Orissa, India linked to the 2001 Census. Includes village socio-demographic and economic Census attribute data such as total population, population by sex, household, literacy and illiteracy rates, and employment by industry as well as village amenities and infrastructure, such as water pumps, wells, bus services, post offices and schools. This layer is part of the VillageMap dataset which includes socio-demographic and economic Census data for 2001 at the village level for all the states of India. This data layer is sourced from secondary government sources, chiefly Survey of India, Census of India, Election Commission, etc. This dataset is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for village level demographic analysis within basic applications to support graphical overlays and analysis with other spatial data.",
+  "dct_creator_sm": [
+
+  ],
+  "dct_description_sm": [
+    "This polygon shapefile shows village boundaries with socio-demographic and economic Census data for 2001 for the state of Orissa, India linked to the 2001 Census. Includes village socio-demographic and economic Census attribute data such as total population, population by sex, household, literacy and illiteracy rates, and employment by industry as well as village amenities and infrastructure, such as water pumps, wells, bus services, post offices and schools. This layer is part of the VillageMap dataset which includes socio-demographic and economic Census data for 2001 at the village level for all the states of India. This data layer is sourced from secondary government sources, chiefly Survey of India, Census of India, Election Commission, etc. This dataset is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for village level demographic analysis within basic applications to support graphical overlays and analysis with other spatial data."
+  ],
   "dct_format_s": "Shapefile",
-  "dct_identifier_sm": "http://hdl.handle.net/2451/34332",
-  "dct_language_sm": "English",
-  "dct_publisher_sm": "ML InfoMap (Firm)",
+  "dct_identifier_sm": [
+    "http://hdl.handle.net/2451/34332"
+  ],
+  "dct_language_sm": [
+    "English"
+  ],
+  "dct_publisher_sm": [
+    "ML InfoMap (Firm)"
+  ],
   "dct_accessRights_s": "Restricted",
   "dct_subject_sm": [
     "Human settlements",
@@ -24,7 +34,9 @@
     "Infrastructure (Economics)--India"
   ],
   "dct_title_s": "2001 Orissa, India: Village Amenities, Infrastructure, and Census Data",
-  "gbl_resourceClass_sm": "Datasets",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
   "dct_isPartOf_sm": [
     "VillageMap of India"
   ],
@@ -34,7 +46,7 @@
   "dct_spatial_sm": [
     "Orissa, Odisha, India",
     "Bideipur, Odisha, India",
-    "B\u0101ligurha, Odisha, India",
+    "Bāligurha, Odisha, India",
     "Brahmapur, Odisha, India",
     "Cuttack, Odisha, India",
     "Bhubaneswar, Odisha, India"
@@ -43,11 +55,15 @@
     "2001"
   ],
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_resourceType_sm": "Point data",
+  "gbl_resourceType_sm": [
+    "Point data"
+  ],
   "gbl_wxsIdentifier_s": "sdr:nyu_2451_34332",
   "gbl_mdModified_dt": "2016-01-30T03:46:28Z",
   "id": "nyu-2451-34332",
   "nyu_addl_dspace_s": "35214",
   "locn_geometry": "ENVELOPE(81.39076992, 87.4860534, 22.54946706, 17.82127575)",
-  "gbl_indexYear_im": 2001
+  "gbl_indexYear_im": [
+    2001
+  ]
 }

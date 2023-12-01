@@ -2,11 +2,19 @@
   "dct_creator_sm": [
     "GIS Lab, Newman Library, Baruch CUNY"
   ],
-  "dct_description_sm": "This polygon layer is a subset of the Census TIGER census tract file, re-projected to local state plane. The content of this layer has not been modified from its original version, and contains official census tract boundaries. Tracts are statistical areas built from census blockgroups that are designed to have an ideal size of 4,000 residents, with range of 1,200 to 8,000. The unique ID is geoid; the FIPS state-county-tract number code. This layer was created as part of the NYC Geodatabase (NYC GDB) project, a resource designed for basic geographic analysis and thematic mapping within the five boroughs of New York City.",
+  "dct_description_sm": [
+    "This polygon layer is a subset of the Census TIGER census tract file, re-projected to local state plane. The content of this layer has not been modified from its original version, and contains official census tract boundaries. Tracts are statistical areas built from census blockgroups that are designed to have an ideal size of 4,000 residents, with range of 1,200 to 8,000. The unique ID is geoid; the FIPS state-county-tract number code. This layer was created as part of the NYC Geodatabase (NYC GDB) project, a resource designed for basic geographic analysis and thematic mapping within the five boroughs of New York City."
+  ],
   "dct_format_s": "Shapefile",
-  "dct_identifier_sm": "http://hdl.handle.net/2451/34513",
-  "dct_language_sm": "English",
-  "dct_publisher_sm": "Newman Library (Bernard M. Baruch College)",
+  "dct_identifier_sm": [
+    "http://hdl.handle.net/2451/34513"
+  ],
+  "dct_language_sm": [
+    "English"
+  ],
+  "dct_publisher_sm": [
+    "Newman Library (Bernard M. Baruch College)"
+  ],
   "dct_accessRights_s": "Public",
   "dct_subject_sm": [
     "Boundaries",
@@ -16,7 +24,9 @@
     "Neighborhoods"
   ],
   "dct_title_s": "2010 New York City Census Tract Boundaries",
-  "gbl_resourceClass_sm": "Datasets",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
   "dct_isPartOf_sm": [
     "NYC Geodatabase (version jan2016)"
   ],
@@ -44,11 +54,15 @@
     "2010"
   ],
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_resourceType_sm": "Polygon data",
+  "gbl_resourceType_sm": [
+    "Polygon data"
+  ],
   "gbl_wxsIdentifier_s": "sdr:nyu_2451_34513",
   "gbl_mdModified_dt": "2016-05-02T18:21:02Z",
   "id": "nyu-2451-34513",
   "nyu_addl_dspace_s": "35420",
   "locn_geometry": "ENVELOPE(-74.25909, -73.700272, 40.9175769999998, 40.4773989999998)",
-  "gbl_indexYear_im": 2010
+  "gbl_indexYear_im": [
+    2010
+  ]
 }

@@ -1,16 +1,26 @@
 {
-  "dct_description_sm": "City of Bakersfield Sphere of Influence was adopted in January 2006. This dataset was created to aid in mapping applications to visualize the City's sphere of influence as needed.",
+  "dct_description_sm": [
+    "City of Bakersfield Sphere of Influence was adopted in January 2006. This dataset was created to aid in mapping applications to visualize the City's sphere of influence as needed."
+  ],
   "dct_format_s": "Shapefile",
-  "dct_identifier_sm": "http://hdl.handle.net/2451/43747",
-  "dct_language_sm": "English",
-  "dct_publisher_sm": "Bakersfield (Calif.). Office of City Manager",
+  "dct_identifier_sm": [
+    "http://hdl.handle.net/2451/43747"
+  ],
+  "dct_language_sm": [
+    "English"
+  ],
+  "dct_publisher_sm": [
+    "Bakersfield (Calif.). Office of City Manager"
+  ],
   "dct_accessRights_s": "Public",
   "dct_subject_sm": [
     "Environment",
     "Urban planning and environment"
   ],
   "dct_title_s": "Bakersfield Sphere of Influence for Bakersfield, CA, 2006",
-  "gbl_resourceClass_sm": "Datasets",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
   "dct_issued_s": "1/1/2006",
   "schema_provider_s": "NYU",
   "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/43747\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/87895/nyu_2451_43747.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/OpenGeoMetadata/edu.nyu/master/handle/2451/4/37/47/fgdc.xml\"}",
@@ -21,11 +31,15 @@
     "2006"
   ],
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_resourceType_sm": "Polygon data",
+  "gbl_resourceType_sm": [
+    "Polygon data"
+  ],
   "gbl_wxsIdentifier_s": "sdr:nyu_2451_43747",
   "gbl_mdModified_dt": "2019-01-17T16:30:04Z",
   "id": "nyu-2451-43747",
   "nyu_addl_dspace_s": "44914",
   "locn_geometry": "ENVELOPE(-120.194369, -117.616518, 35.798393, 34.78858)",
-  "gbl_indexYear_im": 2006
+  "gbl_indexYear_im": [
+    2006
+  ]
 }

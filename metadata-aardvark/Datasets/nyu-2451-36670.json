@@ -1,12 +1,20 @@
 {
   "dct_creator_sm": [
-    "Departmento Administrativo Nacional de Estad\u00edstica"
+    "Departmento Administrativo Nacional de Estadística"
   ],
-  "dct_description_sm": "This polygon shapefile represents basic population information for manzanas in Colombia, collected as part of Colombia's Censo 2005 by the Departmento Administrativo Nacional de Estad\u00edstica. Indicators in this layer include ethnicity, educational attainment and literacy, and disability status.This layer was derived from a geodatabase (see the related data file) and was documented and restructured by East View Cartographic, Inc. The census data is provided at the manzana administrative level (ADM6) and includes 261,263 polygons with 194 attribute variables, split into 5 layers. Attribute descriptions retain original language names and unique identifier codes. All variable names were translated from Spanish. Field name prefixes, originally written with coded titles, were renamed to create unique names (e.g. Original variable of \u201cSexo_Hombre\u201d was updated to D001 and given the alias \u201cGender: Male[Sexo_Hombre]\u201d, the letter D was given as it relates to the Demographic theme table. D = Demographic, E = Economic, H = Housing, M = Migration and S = Social). All variables from the original data were reviewed for completeness and organized into their relevant themes of Demographic, Economic, Housing, Migration and Social. In the attribute tables, all geographic names and codes are represented as text fields and census data are represented as doubles or long integers. Automated tools were run to apply aliases in the format \u201cEnglish translation field description[original language field description]\u201d. Vector data was analyzed for accuracy and compared with national boundaries. This layer is part of a partnership project with East View Cartographic and IPUMS International, titled the Global Census Archive. Refer to the metadata and documentation for original and translated codebooks and methodology.",
+  "dct_description_sm": [
+    "This polygon shapefile represents basic population information for manzanas in Colombia, collected as part of Colombia's Censo 2005 by the Departmento Administrativo Nacional de Estadística. Indicators in this layer include ethnicity, educational attainment and literacy, and disability status.This layer was derived from a geodatabase (see the related data file) and was documented and restructured by East View Cartographic, Inc. The census data is provided at the manzana administrative level (ADM6) and includes 261,263 polygons with 194 attribute variables, split into 5 layers. Attribute descriptions retain original language names and unique identifier codes. All variable names were translated from Spanish. Field name prefixes, originally written with coded titles, were renamed to create unique names (e.g. Original variable of “Sexo_Hombre” was updated to D001 and given the alias “Gender: Male[Sexo_Hombre]”, the letter D was given as it relates to the Demographic theme table. D = Demographic, E = Economic, H = Housing, M = Migration and S = Social). All variables from the original data were reviewed for completeness and organized into their relevant themes of Demographic, Economic, Housing, Migration and Social. In the attribute tables, all geographic names and codes are represented as text fields and census data are represented as doubles or long integers. Automated tools were run to apply aliases in the format “English translation field description[original language field description]”. Vector data was analyzed for accuracy and compared with national boundaries. This layer is part of a partnership project with East View Cartographic and IPUMS International, titled the Global Census Archive. Refer to the metadata and documentation for original and translated codebooks and methodology."
+  ],
   "dct_format_s": "Shapefile",
-  "dct_identifier_sm": "http://hdl.handle.net/2451/36670",
-  "dct_language_sm": "English",
-  "dct_publisher_sm": "East View Cartographic, Inc.",
+  "dct_identifier_sm": [
+    "http://hdl.handle.net/2451/36670"
+  ],
+  "dct_language_sm": [
+    "English"
+  ],
+  "dct_publisher_sm": [
+    "East View Cartographic, Inc."
+  ],
   "dct_accessRights_s": "Restricted",
   "dct_subject_sm": [
     "Census",
@@ -20,7 +28,9 @@
     "Literacy"
   ],
   "dct_title_s": "National Census Manzana-Level Social Indicators: Education and Literacy, Ethnicity, and Disability Status for Colombia, 2005",
-  "gbl_resourceClass_sm": "Datasets",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
   "dct_isPartOf_sm": [
     "Latin American Census Data"
   ],
@@ -37,7 +47,9 @@
     "2005"
   ],
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_resourceType_sm": "Polygon data",
+  "gbl_resourceType_sm": [
+    "Polygon data"
+  ],
   "gbl_mdModified_dt": "2020-07-21T13:25:26Z",
   "id": "nyu-2451-36670",
   "nyu_addl_dspace_s": "37647",
@@ -45,5 +57,7 @@
     "Shapefile"
   ],
   "locn_geometry": "ENVELOPE(-81.728111, -66.869835, 13.390292, -4.225869)",
-  "gbl_indexYear_im": 2005
+  "gbl_indexYear_im": [
+    2005
+  ]
 }

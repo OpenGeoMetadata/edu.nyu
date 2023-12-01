@@ -1,10 +1,20 @@
 {
-  "dct_creator_sm": [],
-  "dct_description_sm": "This polygon shapefile layer represents all existing Waterfont Access Plan areas in NYC. A Waterfront Access Plan is a detailed framework set forth in the Zoning Resolution, that tailors waterfront bulk regulations and public access requirements to the specific conditions of a particular waterfront. Development of individual waterfront parcels governed by the plan triggers a requirement to build and maintain public access areas in accordance with the WAP.",
+  "dct_creator_sm": [
+
+  ],
+  "dct_description_sm": [
+    "This polygon shapefile layer represents all existing Waterfont Access Plan areas in NYC. A Waterfront Access Plan is a detailed framework set forth in the Zoning Resolution, that tailors waterfront bulk regulations and public access requirements to the specific conditions of a particular waterfront. Development of individual waterfront parcels governed by the plan triggers a requirement to build and maintain public access areas in accordance with the WAP."
+  ],
   "dct_format_s": "Shapefile",
-  "dct_identifier_sm": "http://hdl.handle.net/2451/34536",
-  "dct_language_sm": "English",
-  "dct_publisher_sm": "New York (City). Department of City Planning",
+  "dct_identifier_sm": [
+    "http://hdl.handle.net/2451/34536"
+  ],
+  "dct_language_sm": [
+    "English"
+  ],
+  "dct_publisher_sm": [
+    "New York (City). Department of City Planning"
+  ],
   "dct_accessRights_s": "Public",
   "dct_subject_sm": [
     "Zoning",
@@ -12,7 +22,9 @@
     "Planning"
   ],
   "dct_title_s": "2011 Waterfront Access Plan in New York City",
-  "gbl_resourceClass_sm": "Datasets",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
   "dct_isPartOf_sm": [
     "Bytes of the Big Apple"
   ],
@@ -26,11 +38,15 @@
     "2011"
   ],
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_resourceType_sm": "Polygon data",
+  "gbl_resourceType_sm": [
+    "Polygon data"
+  ],
   "gbl_wxsIdentifier_s": "sdr:nyu_2451_34536",
   "gbl_mdModified_dt": "2016-04-20T21:31:19Z",
   "id": "nyu-2451-34536",
   "nyu_addl_dspace_s": "35461",
   "locn_geometry": "ENVELOPE(-73.9664688492767, -73.8341297477283, 40.819347523144, 40.7181641530022)",
-  "gbl_indexYear_im": 2011
+  "gbl_indexYear_im": [
+    2011
+  ]
 }

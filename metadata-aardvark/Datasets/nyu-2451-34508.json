@@ -2,11 +2,19 @@
   "dct_creator_sm": [
     "GIS Lab, Newman Library, Baruch CUNY"
   ],
-  "dct_description_sm": "This polygon layer is a subset and combination of the Census TIGER county water files for the five boroughs, re-projected to local state plane. Large, individual water features that represent lakes or reservoirs were selected from the master water feature set (nyu_2451_34516), to provide basic reference for thematic maps. The unique ID is hydroid, created by the Census. This data was created as part of the NYC Geodatabase (NYC GDB) project, a resource designed for basic geographic analysis and thematic mapping within the five boroughs of New York City.",
+  "dct_description_sm": [
+    "This polygon layer is a subset and combination of the Census TIGER county water files for the five boroughs, re-projected to local state plane. Large, individual water features that represent lakes or reservoirs were selected from the master water feature set (nyu_2451_34516), to provide basic reference for thematic maps. The unique ID is hydroid, created by the Census. This data was created as part of the NYC Geodatabase (NYC GDB) project, a resource designed for basic geographic analysis and thematic mapping within the five boroughs of New York City."
+  ],
   "dct_format_s": "Shapefile",
-  "dct_identifier_sm": "http://hdl.handle.net/2451/34508",
-  "dct_language_sm": "English",
-  "dct_publisher_sm": "Newman Library (Bernard M. Baruch College)",
+  "dct_identifier_sm": [
+    "http://hdl.handle.net/2451/34508"
+  ],
+  "dct_language_sm": [
+    "English"
+  ],
+  "dct_publisher_sm": [
+    "Newman Library (Bernard M. Baruch College)"
+  ],
   "dct_accessRights_s": "Public",
   "dct_subject_sm": [
     "Lakes",
@@ -16,7 +24,9 @@
     "Bodies of water"
   ],
   "dct_title_s": "2010 New York City Lakes and Reservoirs",
-  "gbl_resourceClass_sm": "Datasets",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
   "dct_isPartOf_sm": [
     "NYC Geodatabase (version jan2016)"
   ],
@@ -44,11 +54,15 @@
     "2010"
   ],
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_resourceType_sm": "Polygon data",
+  "gbl_resourceType_sm": [
+    "Polygon data"
+  ],
   "gbl_wxsIdentifier_s": "sdr:nyu_2451_34508",
   "gbl_mdModified_dt": "2016-05-02T18:21:03Z",
   "id": "nyu-2451-34508",
   "nyu_addl_dspace_s": "35415",
   "locn_geometry": "ENVELOPE(-74.192781, -73.782417, 40.8822319999998, 40.5130519999998)",
-  "gbl_indexYear_im": 2010
+  "gbl_indexYear_im": [
+    2010
+  ]
 }

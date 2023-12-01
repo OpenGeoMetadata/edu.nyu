@@ -2,11 +2,19 @@
   "dct_creator_sm": [
     "GIS Lab, Newman Library, Baruch CUNY"
   ],
-  "dct_description_sm": "This polygon layer is a combination of the county Census TIGER water files for all counties in the metro region; re-projected to local state plane. Its features and attributes are unmodified from the original file with the exception of the include field  - features with a value of 1 in this field were selected for inclusion in the coastal water layer (nyu_2451_34507), which was used to modify the boundaries of many of the layers in the dataset. The unique ID is hyrdoid; created by the Census. This data was created as part of the NYC Geodatabase (NYC GDB) project, a resource designed for basic geographic analysis and thematic mapping within the five boroughs of New York City.",
+  "dct_description_sm": [
+    "This polygon layer is a combination of the county Census TIGER water files for all counties in the metro region; re-projected to local state plane. Its features and attributes are unmodified from the original file with the exception of the include field  - features with a value of 1 in this field were selected for inclusion in the coastal water layer (nyu_2451_34507), which was used to modify the boundaries of many of the layers in the dataset. The unique ID is hyrdoid; created by the Census. This data was created as part of the NYC Geodatabase (NYC GDB) project, a resource designed for basic geographic analysis and thematic mapping within the five boroughs of New York City."
+  ],
   "dct_format_s": "Shapefile",
-  "dct_identifier_sm": "http://hdl.handle.net/2451/34516",
-  "dct_language_sm": "English",
-  "dct_publisher_sm": "Newman Library (Bernard M. Baruch College)",
+  "dct_identifier_sm": [
+    "http://hdl.handle.net/2451/34516"
+  ],
+  "dct_language_sm": [
+    "English"
+  ],
+  "dct_publisher_sm": [
+    "Newman Library (Bernard M. Baruch College)"
+  ],
   "dct_accessRights_s": "Public",
   "dct_subject_sm": [
     "Water",
@@ -16,7 +24,9 @@
     "Ocean"
   ],
   "dct_title_s": "2010 New York City Water",
-  "gbl_resourceClass_sm": "Datasets",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
   "dct_isPartOf_sm": [
     "NYC Geodatabase (version jan2016)"
   ],
@@ -47,11 +57,15 @@
     "2010"
   ],
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_resourceType_sm": "Polygon data",
+  "gbl_resourceType_sm": [
+    "Polygon data"
+  ],
   "gbl_wxsIdentifier_s": "sdr:nyu_2451_34516",
   "gbl_mdModified_dt": "2016-05-02T18:21:02Z",
   "id": "nyu-2451-34516",
   "nyu_addl_dspace_s": "35423",
   "locn_geometry": "ENVELOPE(-74.889753, -71.777491, 42.1767029999998, 39.4751979999998)",
-  "gbl_indexYear_im": 2010
+  "gbl_indexYear_im": [
+    2010
+  ]
 }

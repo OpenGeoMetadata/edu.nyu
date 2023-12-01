@@ -1,17 +1,29 @@
 {
-  "dct_creator_sm": [],
-  "dct_description_sm": "World Named Latitudes and Longitudes represents geographically significant reference latitudes and longitudes for the world such as the equator, tropics, Arctic and Antarctic Circles, prime meridian, and International Date Line.",
+  "dct_creator_sm": [
+
+  ],
+  "dct_description_sm": [
+    "World Named Latitudes and Longitudes represents geographically significant reference latitudes and longitudes for the world such as the equator, tropics, Arctic and Antarctic Circles, prime meridian, and International Date Line."
+  ],
   "dct_format_s": "Shapefile",
-  "dct_identifier_sm": "http://hdl.handle.net/2451/34114",
-  "dct_language_sm": "English",
-  "dct_publisher_sm": "Environmental Systems Research Institute (Redlands, Calif.)",
+  "dct_identifier_sm": [
+    "http://hdl.handle.net/2451/34114"
+  ],
+  "dct_language_sm": [
+    "English"
+  ],
+  "dct_publisher_sm": [
+    "Environmental Systems Research Institute (Redlands, Calif.)"
+  ],
   "dct_accessRights_s": "Restricted",
   "dct_subject_sm": [
     "Equator",
     "Prime Meridian"
   ],
   "dct_title_s": "2010 World Named Latitudes and Longitudes",
-  "gbl_resourceClass_sm": "Datasets",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
   "dct_isPartOf_sm": [
     "ESRI 10 World"
   ],
@@ -24,11 +36,15 @@
     "2010"
   ],
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_resourceType_sm": "Line data",
+  "gbl_resourceType_sm": [
+    "Line data"
+  ],
   "gbl_wxsIdentifier_s": "sdr:nyu_2451_34114",
   "gbl_mdModified_dt": "2016-01-30T04:03:52Z",
   "id": "nyu-2451-34114",
   "nyu_addl_dspace_s": "34958",
   "locn_geometry": "ENVELOPE(-180.0, 180.0, 89.999999916, -90.0)",
-  "gbl_indexYear_im": 2010
+  "gbl_indexYear_im": [
+    2010
+  ]
 }

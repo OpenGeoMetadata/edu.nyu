@@ -1,9 +1,17 @@
 {
-  "dct_creator_sm": [],
+  "dct_creator_sm": [
+
+  ],
   "dct_format_s": "ESRI Geodatabase",
-  "dct_identifier_sm": "http://hdl.handle.net/2451/34604",
-  "dct_language_sm": "English",
-  "dct_publisher_sm": "Environmental Systems Research Institute (Redlands, Calif.)",
+  "dct_identifier_sm": [
+    "http://hdl.handle.net/2451/34604"
+  ],
+  "dct_language_sm": [
+    "English"
+  ],
+  "dct_publisher_sm": [
+    "Environmental Systems Research Institute (Redlands, Calif.)"
+  ],
   "dct_accessRights_s": "Restricted",
   "dct_subject_sm": [
     "Consumer behavior",
@@ -12,7 +20,9 @@
     "Demographic surveys--United States"
   ],
   "dct_title_s": "2015 ESRI Consumer Spending Geodatabase",
-  "gbl_resourceClass_sm": "Datasets",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
   "dct_isPartOf_sm": [
     "ESRI 2015 Educational Data"
   ],
@@ -26,11 +36,18 @@
     "2015"
   ],
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_resourceType_sm": "Polygon data",
+  "gbl_resourceType_sm": [
+    "Polygon data"
+  ],
   "gbl_wxsIdentifier_s": "sdr:nyu_2451_34604",
   "gbl_mdModified_dt": "2016-05-13T20:29:13Z",
   "id": "nyu-2451-34604",
   "nyu_addl_dspace_s": "35538",
   "locn_geometry": "ENVELOPE(-170.1769013405, -64.5665435791, 71.6032483233, 24.7073204053)",
-  "gbl_indexYear_im": 2015
+  "gbl_indexYear_im": [
+    2015
+  ],
+  "dct_description_sm": [
+    ""
+  ]
 }

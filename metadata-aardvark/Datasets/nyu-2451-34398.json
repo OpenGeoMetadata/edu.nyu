@@ -1,10 +1,20 @@
 {
-  "dct_creator_sm": [],
-  "dct_description_sm": "This polygon shapefile shows pre-delimitation state Legislative Assembly constituency boundaries and data relating to the 2008 Assembly elections for the State of Meghalaya, India. Includes attribute data on election parties, candidates, voters, and results. This layer is part of the Poll Map of India which includes parliamentary constituency boundaries for India, Assembly constituency boundaries for all states, and data relating to the past national elections for each State of India.This data can be used for election analysis, forecasting, and mapping: Enables profiling of individual constituencies, permits historical analysis of the data, and helps predictive estimate of the impact of regional and state-wise electorate swings on the performance of political parties. These data are intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production.",
+  "dct_creator_sm": [
+
+  ],
+  "dct_description_sm": [
+    "This polygon shapefile shows pre-delimitation state Legislative Assembly constituency boundaries and data relating to the 2008 Assembly elections for the State of Meghalaya, India. Includes attribute data on election parties, candidates, voters, and results. This layer is part of the Poll Map of India which includes parliamentary constituency boundaries for India, Assembly constituency boundaries for all states, and data relating to the past national elections for each State of India.This data can be used for election analysis, forecasting, and mapping: Enables profiling of individual constituencies, permits historical analysis of the data, and helps predictive estimate of the impact of regional and state-wise electorate swings on the performance of political parties. These data are intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production."
+  ],
   "dct_format_s": "Shapefile",
-  "dct_identifier_sm": "http://hdl.handle.net/2451/34398",
-  "dct_language_sm": "English",
-  "dct_publisher_sm": "ML InfoMap (Firm)",
+  "dct_identifier_sm": [
+    "http://hdl.handle.net/2451/34398"
+  ],
+  "dct_language_sm": [
+    "English"
+  ],
+  "dct_publisher_sm": [
+    "ML InfoMap (Firm)"
+  ],
   "dct_accessRights_s": "Restricted",
   "dct_subject_sm": [
     "Elections",
@@ -15,7 +25,9 @@
     "Society"
   ],
   "dct_title_s": "2008 Meghalaya, India: Pre Delimitation State Assembly Constituency Boundaries and Election Data",
-  "gbl_resourceClass_sm": "Datasets",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
   "dct_isPartOf_sm": [
     "PollMap of India"
   ],
@@ -24,7 +36,7 @@
   "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34398\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/73407/nyu_2451_34398.zip\",\"http://lccn.loc.gov/sh85035852\":\"https://archive.nyu.edu/retrieve/78650/nyu_2451_34398_doc.zip\"}",
   "dct_spatial_sm": [
     "Meghalaya, India",
-    "B\u0101jengdoba, Meghalaya, India",
+    "Bājengdoba, Meghalaya, India",
     "Jowai, Meghalaya, India",
     "Mylliem, Meghalaya, India",
     "Rongram, Meghalaya, India",
@@ -36,11 +48,15 @@
     "2008"
   ],
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_resourceType_sm": "Polygon data",
+  "gbl_resourceType_sm": [
+    "Polygon data"
+  ],
   "gbl_wxsIdentifier_s": "sdr:nyu_2451_34398",
   "gbl_mdModified_dt": "2016-01-30T03:46:16Z",
   "id": "nyu-2451-34398",
   "nyu_addl_dspace_s": "35280",
   "locn_geometry": "ENVELOPE(89.84724984, 92.80436004, 26.10168003, 25.02029997)",
-  "gbl_indexYear_im": 2008
+  "gbl_indexYear_im": [
+    2008
+  ]
 }

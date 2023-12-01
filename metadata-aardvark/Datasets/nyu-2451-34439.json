@@ -1,10 +1,20 @@
 {
-  "dct_creator_sm": [],
-  "dct_description_sm": "This point shapefile shows village locations with socio-demographic and economic Census data for 2001 for the State of Andhra Pradesh, India linked to the 2001 Census. Includes village socio-demographic and economic Census attribute data such as total population, population by sex, household, literacy and illiteracy rates, and employment by industry. This layer is part of the VillageMap dataset which includes socio-demographic and economic Census data for 2001 at the village level for all the states of India. This data layer is sourced from secondary government sources, chiefly Survey of India, Census of India, Election Commission, etc. This map includes data for 2118 villages, 2 towns, 23 districts and 1 state.This dataset is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for village level demographic analysis within basic applications to support graphical overlays and analysis with other spatial data.",
+  "dct_creator_sm": [
+
+  ],
+  "dct_description_sm": [
+    "This point shapefile shows village locations with socio-demographic and economic Census data for 2001 for the State of Andhra Pradesh, India linked to the 2001 Census. Includes village socio-demographic and economic Census attribute data such as total population, population by sex, household, literacy and illiteracy rates, and employment by industry. This layer is part of the VillageMap dataset which includes socio-demographic and economic Census data for 2001 at the village level for all the states of India. This data layer is sourced from secondary government sources, chiefly Survey of India, Census of India, Election Commission, etc. This map includes data for 2118 villages, 2 towns, 23 districts and 1 state.This dataset is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for village level demographic analysis within basic applications to support graphical overlays and analysis with other spatial data."
+  ],
   "dct_format_s": "Shapefile",
-  "dct_identifier_sm": "http://hdl.handle.net/2451/34439",
-  "dct_language_sm": "English",
-  "dct_publisher_sm": "ML InfoMap (Firm)",
+  "dct_identifier_sm": [
+    "http://hdl.handle.net/2451/34439"
+  ],
+  "dct_language_sm": [
+    "English"
+  ],
+  "dct_publisher_sm": [
+    "ML InfoMap (Firm)"
+  ],
   "dct_accessRights_s": "Restricted",
   "dct_subject_sm": [
     "Human settlements",
@@ -21,7 +31,9 @@
     "Boundaries"
   ],
   "dct_title_s": "2001 Andhra Pradesh, India: Village Amenities Points with Socio-Demographic and Economic Census Data",
-  "gbl_resourceClass_sm": "Datasets",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
   "dct_isPartOf_sm": [
     "VillageMap of India"
   ],
@@ -32,31 +44,35 @@
     "Andhra Pradesh, India",
     "Nalgonda, Telangana, India",
     "Hyderabad, Telangana, India",
-    "Vish\u0101khapatnam, Andhra Pradesh, India",
-    "Vijayaw\u0101da, Andhra Pradesh, India",
+    "Vishākhapatnam, Andhra Pradesh, India",
+    "Vijayawāda, Andhra Pradesh, India",
     "Warangal, Telangana, India",
-    "Gunt\u016br, Andhra Pradesh, India",
+    "Guntūr, Andhra Pradesh, India",
     "Dhone, Andhra Pradesh, India",
-    "Pidugur\u0101lla, Andhra Pradesh, India",
-    "R\u0101jampet, Andhra Pradesh, India",
+    "Pidugurālla, Andhra Pradesh, India",
+    "Rājampet, Andhra Pradesh, India",
     "Palmaner, Andhra Pradesh, India",
-    "Vuyy\u016bru, Andhra Pradesh, India",
+    "Vuyyūru, Andhra Pradesh, India",
     "Metpalle, Telangana, India",
-    "\u0100m\u016br, Telangana, India",
-    "Nandikotk\u016br, Andhra Pradesh, India",
-    "\u0100tmak\u016br, Andhra Pradesh, India",
+    "Āmūr, Telangana, India",
+    "Nandikotkūr, Andhra Pradesh, India",
+    "Ātmakūr, Andhra Pradesh, India",
     "Pulivendla, Andhra Pradesh, India",
-    "Nandig\u0101ma, Andhra Pradesh, India"
+    "Nandigāma, Andhra Pradesh, India"
   ],
   "dct_temporal_sm": [
     "2001"
   ],
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_resourceType_sm": "Point data",
+  "gbl_resourceType_sm": [
+    "Point data"
+  ],
   "gbl_wxsIdentifier_s": "sdr:nyu_2451_34439",
   "gbl_mdModified_dt": "2016-01-30T03:46:38Z",
   "id": "nyu-2451-34439",
   "nyu_addl_dspace_s": "35321",
   "locn_geometry": "ENVELOPE(82.33901208, 83.90407572, 19.13266377, 17.88429447)",
-  "gbl_indexYear_im": 2001
+  "gbl_indexYear_im": [
+    2001
+  ]
 }

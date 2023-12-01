@@ -1,10 +1,20 @@
 {
-  "dct_creator_sm": [],
-  "dct_description_sm": "This polygon shapefile layer represents the U.S. Congressional Districts boundaries for the City of New York, clipped to the shoreline. These district boundaries represent the redistricting as of the US Census 2010. This file was generated from the 16A release of the Department of City Planning's LION file.",
+  "dct_creator_sm": [
+
+  ],
+  "dct_description_sm": [
+    "This polygon shapefile layer represents the U.S. Congressional Districts boundaries for the City of New York, clipped to the shoreline. These district boundaries represent the redistricting as of the US Census 2010. This file was generated from the 16A release of the Department of City Planning's LION file."
+  ],
   "dct_format_s": "Shapefile",
-  "dct_identifier_sm": "http://hdl.handle.net/2451/34540",
-  "dct_language_sm": "English",
-  "dct_publisher_sm": "New York (City). Department of City Planning",
+  "dct_identifier_sm": [
+    "http://hdl.handle.net/2451/34540"
+  ],
+  "dct_language_sm": [
+    "English"
+  ],
+  "dct_publisher_sm": [
+    "New York (City). Department of City Planning"
+  ],
   "dct_accessRights_s": "Public",
   "dct_subject_sm": [
     "Districts",
@@ -13,7 +23,9 @@
     "Boundaries"
   ],
   "dct_title_s": "2016 New York City U.S. Congressional Districts (Clipped to Shoreline)",
-  "gbl_resourceClass_sm": "Datasets",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
   "dct_isPartOf_sm": [
     "Bytes of the Big Apple"
   ],
@@ -27,11 +39,15 @@
     "2016"
   ],
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_resourceType_sm": "Polygon data",
+  "gbl_resourceType_sm": [
+    "Polygon data"
+  ],
   "gbl_wxsIdentifier_s": "sdr:nyu_2451_34540",
   "gbl_mdModified_dt": "2016-04-20T21:31:19Z",
   "id": "nyu-2451-34540",
   "nyu_addl_dspace_s": "35465",
   "locn_geometry": "ENVELOPE(-74.2555913631521, -73.7000090638712, 40.9155327760001, 40.4961153951703)",
-  "gbl_indexYear_im": 2016
+  "gbl_indexYear_im": [
+    2016
+  ]
 }

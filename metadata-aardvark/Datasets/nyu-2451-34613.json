@@ -1,10 +1,20 @@
 {
-  "dct_creator_sm": [],
-  "dct_description_sm": "This polygon shapefile layer represents Tapestry Market Segmentation data at the Census Designated Place level. Tapestry is a geodemographic segmentation system that integrates consumer traits with residential characteristics to identify markets and classify US neighborhoods. Neighborhoods with the most similar characteristics are grouped together, while neighborhoods with divergent characteristics are separated. Internally homogenous, externally heterogeneous market segments depict consumers' lifestyles and lifestages. Tapestry Segmentation combines the \"who\" of lifestyle demography with the \"where\" of local geography to create a classification model with 67 distinct, behavioral market segments. For complete information on the methodology behind the Tapestry data and attribute definitions, see the file documentation. This layer was derived from the 2015 ESRI Tapestry Data Geodatabase (nyu_2451_34605)",
+  "dct_creator_sm": [
+
+  ],
+  "dct_description_sm": [
+    "This polygon shapefile layer represents Tapestry Market Segmentation data at the Census Designated Place level. Tapestry is a geodemographic segmentation system that integrates consumer traits with residential characteristics to identify markets and classify US neighborhoods. Neighborhoods with the most similar characteristics are grouped together, while neighborhoods with divergent characteristics are separated. Internally homogenous, externally heterogeneous market segments depict consumers' lifestyles and lifestages. Tapestry Segmentation combines the \"who\" of lifestyle demography with the \"where\" of local geography to create a classification model with 67 distinct, behavioral market segments. For complete information on the methodology behind the Tapestry data and attribute definitions, see the file documentation. This layer was derived from the 2015 ESRI Tapestry Data Geodatabase (nyu_2451_34605)"
+  ],
   "dct_format_s": "Shapefile",
-  "dct_identifier_sm": "http://hdl.handle.net/2451/34613",
-  "dct_language_sm": "English",
-  "dct_publisher_sm": "Environmental Systems Research Institute (Redlands, Calif.)",
+  "dct_identifier_sm": [
+    "http://hdl.handle.net/2451/34613"
+  ],
+  "dct_language_sm": [
+    "English"
+  ],
+  "dct_publisher_sm": [
+    "Environmental Systems Research Institute (Redlands, Calif.)"
+  ],
   "dct_accessRights_s": "Restricted",
   "dct_subject_sm": [
     "Market segmentation",
@@ -13,7 +23,9 @@
     "Lifestyles"
   ],
   "dct_title_s": "2015 Tapestry Market Segmentation Data by Census Designated Place",
-  "gbl_resourceClass_sm": "Datasets",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
   "dct_isPartOf_sm": [
     "ESRI 2015 Educational Data"
   ],
@@ -30,11 +42,15 @@
     "2015"
   ],
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_resourceType_sm": "Polygon data",
+  "gbl_resourceType_sm": [
+    "Polygon data"
+  ],
   "gbl_wxsIdentifier_s": "sdr:nyu_2451_34613",
   "gbl_mdModified_dt": "2016-05-13T20:29:14Z",
   "id": "nyu-2451-34613",
   "nyu_addl_dspace_s": "35547",
   "locn_geometry": "ENVELOPE(-176.713097999444, -66.9803199993665, 71.339750662484, 19.0184849997695)",
-  "gbl_indexYear_im": 2015
+  "gbl_indexYear_im": [
+    2015
+  ]
 }

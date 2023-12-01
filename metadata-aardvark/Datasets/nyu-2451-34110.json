@@ -1,10 +1,20 @@
 {
-  "dct_creator_sm": [],
-  "dct_description_sm": "World Drainage Systems represents the major drainage systems of the world.",
+  "dct_creator_sm": [
+
+  ],
+  "dct_description_sm": [
+    "World Drainage Systems represents the major drainage systems of the world."
+  ],
   "dct_format_s": "Shapefile",
-  "dct_identifier_sm": "http://hdl.handle.net/2451/34110",
-  "dct_language_sm": "English",
-  "dct_publisher_sm": "Environmental Systems Research Institute (Redlands, Calif.)",
+  "dct_identifier_sm": [
+    "http://hdl.handle.net/2451/34110"
+  ],
+  "dct_language_sm": [
+    "English"
+  ],
+  "dct_publisher_sm": [
+    "Environmental Systems Research Institute (Redlands, Calif.)"
+  ],
   "dct_accessRights_s": "Restricted",
   "dct_subject_sm": [
     "Water",
@@ -12,7 +22,9 @@
     "Hydraulic engineering"
   ],
   "dct_title_s": "2010 World Drainage Systems",
-  "gbl_resourceClass_sm": "Datasets",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
   "dct_isPartOf_sm": [
     "ESRI 10 World"
   ],
@@ -25,11 +37,15 @@
     "2010"
   ],
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_resourceType_sm": "Polygon data",
+  "gbl_resourceType_sm": [
+    "Polygon data"
+  ],
   "gbl_wxsIdentifier_s": "sdr:nyu_2451_34110",
   "gbl_mdModified_dt": "2016-01-30T04:03:52Z",
   "id": "nyu-2451-34110",
   "nyu_addl_dspace_s": "34954",
   "locn_geometry": "ENVELOPE(-134.458590909, 135.874598091, 71.392491364, -34.050563636)",
-  "gbl_indexYear_im": 2010
+  "gbl_indexYear_im": [
+    2010
+  ]
 }

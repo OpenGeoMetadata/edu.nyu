@@ -1,10 +1,20 @@
 {
-  "dct_creator_sm": [],
-  "dct_description_sm": "This point shapefile shows village locations with socio-demographic and economic Census data for 2001 for the State of Uttarakhand, India linked to the 2001 Census. Includes village socio-demographic and economic Census attribute data such as total population, population by sex, household, literacy and illiteracy rates, and employment by industry. This layer is part of the VillageMap dataset which includes socio-demographic and economic Census data for 2001 at the village level for all the states of India. This data layer is sourced from secondary government sources, chiefly Survey of India, Census of India, Election Commission, etc.  This dataset is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for village level demographic analysis within basic applications to support graphical overlays and analysis with other spatial data.",
+  "dct_creator_sm": [
+
+  ],
+  "dct_description_sm": [
+    "This point shapefile shows village locations with socio-demographic and economic Census data for 2001 for the State of Uttarakhand, India linked to the 2001 Census. Includes village socio-demographic and economic Census attribute data such as total population, population by sex, household, literacy and illiteracy rates, and employment by industry. This layer is part of the VillageMap dataset which includes socio-demographic and economic Census data for 2001 at the village level for all the states of India. This data layer is sourced from secondary government sources, chiefly Survey of India, Census of India, Election Commission, etc.  This dataset is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for village level demographic analysis within basic applications to support graphical overlays and analysis with other spatial data."
+  ],
   "dct_format_s": "Shapefile",
-  "dct_identifier_sm": "http://hdl.handle.net/2451/34359",
-  "dct_language_sm": "English",
-  "dct_publisher_sm": "ML InfoMap (Firm)",
+  "dct_identifier_sm": [
+    "http://hdl.handle.net/2451/34359"
+  ],
+  "dct_language_sm": [
+    "English"
+  ],
+  "dct_publisher_sm": [
+    "ML InfoMap (Firm)"
+  ],
   "dct_accessRights_s": "Restricted",
   "dct_subject_sm": [
     "Human settlements",
@@ -20,7 +30,9 @@
     "Society"
   ],
   "dct_title_s": "2001 Uttarakhand, India: Village Amenities Points with Socio-Demographic and Economic Census Data",
-  "gbl_resourceClass_sm": "Datasets",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
   "dct_isPartOf_sm": [
     "VillageMap of India"
   ],
@@ -29,19 +41,23 @@
   "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34359\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/73524/nyu_2451_34359.zip\",\"http://lccn.loc.gov/sh85035852\":\"https://archive.nyu.edu/retrieve/78613/nyu_2451_34359_doc.zip\"}",
   "dct_spatial_sm": [
     "Uttarakhand, India",
-    "Sult\u0101npur, Uttarakhand, India",
-    "Dehra D\u016bn, Uttarakhand, India",
+    "Sultānpur, Uttarakhand, India",
+    "Dehra Dūn, Uttarakhand, India",
     "Rishikesh, Uttarakhand, India"
   ],
   "dct_temporal_sm": [
     "2001"
   ],
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_resourceType_sm": "Point data",
+  "gbl_resourceType_sm": [
+    "Point data"
+  ],
   "gbl_wxsIdentifier_s": "sdr:nyu_2451_34359",
   "gbl_mdModified_dt": "2016-01-30T03:46:24Z",
   "id": "nyu-2451-34359",
   "nyu_addl_dspace_s": "35241",
   "locn_geometry": "ENVELOPE(80.08985916, 80.85657492, 30.42868419, 29.76553152)",
-  "gbl_indexYear_im": 2001
+  "gbl_indexYear_im": [
+    2001
+  ]
 }

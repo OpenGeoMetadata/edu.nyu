@@ -1,10 +1,20 @@
 {
-  "dct_creator_sm": [],
-  "dct_description_sm": "U.S. 110th Congressional Districts represents the political boundaries for the U.S. 110th Congressional Districts. The membership is current as of May 1, 2008.",
+  "dct_creator_sm": [
+
+  ],
+  "dct_description_sm": [
+    "U.S. 110th Congressional Districts represents the political boundaries for the U.S. 110th Congressional Districts. The membership is current as of May 1, 2008."
+  ],
   "dct_format_s": "Shapefile",
-  "dct_identifier_sm": "http://hdl.handle.net/2451/34083",
-  "dct_language_sm": "English",
-  "dct_publisher_sm": "Environmental Systems Research Institute (Redlands, Calif.)",
+  "dct_identifier_sm": [
+    "http://hdl.handle.net/2451/34083"
+  ],
+  "dct_language_sm": [
+    "English"
+  ],
+  "dct_publisher_sm": [
+    "Environmental Systems Research Institute (Redlands, Calif.)"
+  ],
   "dct_accessRights_s": "Restricted",
   "dct_subject_sm": [
     "United States--Administrative and political divisions",
@@ -13,7 +23,9 @@
     "Boundaries"
   ],
   "dct_title_s": "2008 U.S. 110th Congressional Districts",
-  "gbl_resourceClass_sm": "Datasets",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
   "dct_isPartOf_sm": [
     "ESRI 10 USA Census"
   ],
@@ -26,11 +38,15 @@
     "2008"
   ],
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_resourceType_sm": "Polygon data",
+  "gbl_resourceType_sm": [
+    "Polygon data"
+  ],
   "gbl_wxsIdentifier_s": "sdr:nyu_2451_34083",
   "gbl_mdModified_dt": "2016-01-30T04:03:58Z",
   "id": "nyu-2451-34083",
   "nyu_addl_dspace_s": "34927",
   "locn_geometry": "ENVELOPE(-179.147336364, -65.221109258, 71.352563166, 17.884809091)",
-  "gbl_indexYear_im": 2008
+  "gbl_indexYear_im": [
+    2008
+  ]
 }

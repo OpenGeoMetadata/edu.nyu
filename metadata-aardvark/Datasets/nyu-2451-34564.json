@@ -1,10 +1,20 @@
 {
-  "dct_creator_sm": [],
-  "dct_description_sm": "This point shapefile was created as a guide to New York City\u2019s non-neighborhood place locations that appear in \u201cNew York: A City of Neighborhoods.\u201d These place locations include parks, cemeteries, and airports. Best estimates of label centroids were established at a 1:1,000 scale, but are ideally viewed at a 1:50,000 scale.",
+  "dct_creator_sm": [
+
+  ],
+  "dct_description_sm": [
+    "This point shapefile was created as a guide to New York City’s non-neighborhood place locations that appear in “New York: A City of Neighborhoods.” These place locations include parks, cemeteries, and airports. Best estimates of label centroids were established at a 1:1,000 scale, but are ideally viewed at a 1:50,000 scale."
+  ],
   "dct_format_s": "Shapefile",
-  "dct_identifier_sm": "http://hdl.handle.net/2451/34564",
-  "dct_language_sm": "English",
-  "dct_publisher_sm": "New York (City). Department of City Planning",
+  "dct_identifier_sm": [
+    "http://hdl.handle.net/2451/34564"
+  ],
+  "dct_language_sm": [
+    "English"
+  ],
+  "dct_publisher_sm": [
+    "New York (City). Department of City Planning"
+  ],
   "dct_accessRights_s": "Public",
   "dct_subject_sm": [
     "Airports",
@@ -12,7 +22,9 @@
     "Public spaces"
   ],
   "dct_title_s": "2014 New York City Places",
-  "gbl_resourceClass_sm": "Datasets",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
   "dct_isPartOf_sm": [
     "Bytes of the Big Apple"
   ],
@@ -26,11 +38,15 @@
     "2014"
   ],
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_resourceType_sm": "Point data",
+  "gbl_resourceType_sm": [
+    "Point data"
+  ],
   "gbl_wxsIdentifier_s": "sdr:nyu_2451_34564",
   "gbl_mdModified_dt": "2016-04-20T21:31:14Z",
   "id": "nyu-2451-34564",
   "nyu_addl_dspace_s": "35497",
   "locn_geometry": "ENVELOPE(-74.2485646353495, -73.7322869841185, 40.8962098695574, 40.4995658893951)",
-  "gbl_indexYear_im": 2014
+  "gbl_indexYear_im": [
+    2014
+  ]
 }

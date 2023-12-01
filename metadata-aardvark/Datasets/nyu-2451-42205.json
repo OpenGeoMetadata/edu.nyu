@@ -1,9 +1,17 @@
 {
-  "dct_description_sm": "This polygon shapefile represents represents socioeconomic statistics of each village in the state of Rajasthan in 2001. The set utilizes the official cadastral maps published by the Survey of India to develop a digitized fine- resolution (administrative level: village/town; scale of mapping: 1:50,000) vector data set for all of India for 2001. In addition, several vector data sets for village/town boundaries available for some Indian states were utilized. This vector data set for village/town boundary was then geospatially linked to the tabular data for each village/town for the 1991 and 2001 census, downloaded from the online digital database of the Census of India1. Prior to linking, the census data went through extensive data cleaning to ensure the data were quality-controlled and standardized. This data was downloaded from the Socioeconomic Data and Applications Center and is also hosted by Columbia University's Center for International Earth Science Information Network. Refer to the documentation for data methodology and codebook.",
+  "dct_description_sm": [
+    "This polygon shapefile represents represents socioeconomic statistics of each village in the state of Rajasthan in 2001. The set utilizes the official cadastral maps published by the Survey of India to develop a digitized fine- resolution (administrative level: village/town; scale of mapping: 1:50,000) vector data set for all of India for 2001. In addition, several vector data sets for village/town boundaries available for some Indian states were utilized. This vector data set for village/town boundary was then geospatially linked to the tabular data for each village/town for the 1991 and 2001 census, downloaded from the online digital database of the Census of India1. Prior to linking, the census data went through extensive data cleaning to ensure the data were quality-controlled and standardized. This data was downloaded from the Socioeconomic Data and Applications Center and is also hosted by Columbia University's Center for International Earth Science Information Network. Refer to the documentation for data methodology and codebook."
+  ],
   "dct_format_s": "Shapefile",
-  "dct_identifier_sm": "http://hdl.handle.net/2451/42205",
-  "dct_language_sm": "English",
-  "dct_publisher_sm": "Socioeconomic Data and Applications Center",
+  "dct_identifier_sm": [
+    "http://hdl.handle.net/2451/42205"
+  ],
+  "dct_language_sm": [
+    "English"
+  ],
+  "dct_publisher_sm": [
+    "Socioeconomic Data and Applications Center"
+  ],
   "dct_accessRights_s": "Public",
   "dct_subject_sm": [
     "Population",
@@ -12,14 +20,18 @@
     "Employment"
   ],
   "dct_title_s": "Village-Level Geospatial Socio-Economic Data for the state of Rajasthan, India, 2001",
-  "gbl_resourceClass_sm": "Datasets",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
   "dct_isPartOf_sm": [
     "India Village-Level Geospatial Socio-Economic Data Set"
   ],
   "dct_issued_s": "3/12/2018",
   "schema_provider_s": "NYU",
   "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/42205\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/85089/nyu_2451_42205.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\",\"http://lccn.loc.gov/sh85035852\":\"https://archive.nyu.edu/retrieve/85081/nyu_2451_42185_doc.zip\"}",
-  "dct_source_sm": [],
+  "dct_source_sm": [
+
+  ],
   "dct_spatial_sm": [
     "Rajasthan, India"
   ],
@@ -27,7 +39,9 @@
     "2001"
   ],
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_resourceType_sm": "Polygon data",
+  "gbl_resourceType_sm": [
+    "Polygon data"
+  ],
   "gbl_wxsIdentifier_s": "sdr:nyu_2451_42205",
   "gbl_mdModified_dt": "2018-06-19T16:03:45Z",
   "id": "nyu-2451-42205",
@@ -36,5 +50,7 @@
     "Shapefile"
   ],
   "locn_geometry": "ENVELOPE(69.48154, 78.27097, 30.19254, 23.06052)",
-  "gbl_indexYear_im": 2001
+  "gbl_indexYear_im": [
+    2001
+  ]
 }
