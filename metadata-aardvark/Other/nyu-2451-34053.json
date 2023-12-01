@@ -1,0 +1,38 @@
+{
+  "dct_creator_sm": [],
+  "dct_description_sm": "U.S. and Canada Institutions represents point locations within the United States and Canada for common institution landmark types including hospitals, educational institutions, religious institutions, government centers, and cemeteries.",
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": "http://hdl.handle.net/2451/34053",
+  "dct_language_sm": "English",
+  "dct_publisher_sm": "Environmental Systems Research Institute (Redlands, Calif.)",
+  "dct_accessRights_s": "Restricted",
+  "dct_subject_sm": [
+    "Cemeteries",
+    "Religious institutions",
+    "Education",
+    "Hospitals",
+    "Centers (Places for activities)"
+  ],
+  "dct_title_s": "2010 U.S. and Canada Institutions",
+  "dct_isPartOf_sm": [
+    "ESRI 10 StreetMap"
+  ],
+  "schema_provider_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34053\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/73371/nyu_2451_34053.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\"}",
+  "dct_spatial_sm": [
+    "United States of America",
+    "Canada"
+  ],
+  "dct_temporal_sm": [
+    "2010"
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceType_sm": "Point data",
+  "gbl_wxsIdentifier_s": "sdr:nyu_2451_34053",
+  "gbl_mdModified_dt": "2016-01-30T04:04:03Z",
+  "id": "nyu-2451-34053",
+  "nyu_addl_dspace_s": "34896",
+  "locn_geometry": "ENVELOPE(-165.450122, -52.658706, 71.292682, 17.996208)",
+  "gbl_indexYear_im": 2010,
+  "gbl_resourceClass_sm": null
+}

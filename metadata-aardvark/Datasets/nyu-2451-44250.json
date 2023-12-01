@@ -1,0 +1,41 @@
+{
+  "dct_creator_sm": [],
+  "dct_description_sm": "This polygon shapefile represents protected land and sea areas in the United Arab Emirates. This data was originally collected and hosted by the United Arab Emirates Ministry of Climate Change and Environment (MOCCAE). The data was accessed and downloaded from the MOCCAE's ArcGIS REST services directory in December 2018. The actual collection date and temporal coverage of the data is unknown and may vary. ",
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": "http://hdl.handle.net/2451/44250",
+  "dct_language_sm": "English",
+  "dct_publisher_sm": "United Arab Emirates Ministry of Climate Change and Environment",
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Protected areas",
+    "Land use",
+    "Seas",
+    "Wilderness areas"
+  ],
+  "dct_title_s": "Protected Land and Sea Areas in the United Arab Emirates 2018",
+  "gbl_resourceClass_sm": "Datasets",
+  "dct_isPartOf_sm": [
+    "United Arab Emirates Open Data"
+  ],
+  "dct_issued_s": "12/08/2018",
+  "schema_provider_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/44250\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/123829/nyu_2451_44250.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "United Arab Emirates"
+  ],
+  "dct_temporal_sm": [
+    "2018"
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceType_sm": "Polygon data",
+  "gbl_wxsIdentifier_s": "sdr:nyu_2451_44250",
+  "gbl_mdModified_dt": "2020-05-03T03:27:25Z",
+  "id": "nyu-2451-44250",
+  "nyu_addl_dspace_s": "45400",
+  "nyu_addl_format_sm": [
+    "Shapefile"
+  ],
+  "locn_geometry": "ENVELOPE(51.514991, 56.391704, 25.608116, 22.656770)",
+  "gbl_indexYear_im": 2018
+}

@@ -1,0 +1,47 @@
+{
+  "dct_creator_sm": [
+    "GIS Lab, Newman Library, Baruch CUNY"
+  ],
+  "dct_description_sm": "This polygon layer is a subset of the Census TIGER county file, re-projected to local state plane. The content of this layer has not been modified from its original version present in the US Census TIGER Line Shapesfiles, and contains official county boundaries.The unique ID is geoid; the FIPS state-county code. This layer contains counties in the NYC Metropolitan Area. This layer was created as part of the NYC Geodatabase (NYC GDB) project, a resource designed for basic geographic analysis and thematic mapping within the five boroughs of New York City.",
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": "http://hdl.handle.net/2451/34511",
+  "dct_language_sm": "English",
+  "dct_publisher_sm": "Newman Library (Bernard M. Baruch College)",
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Boundaries",
+    "Counties"
+  ],
+  "dct_title_s": "2010 NYC Metropolitan Area County Boundaries",
+  "gbl_resourceClass_sm": "Datasets",
+  "dct_isPartOf_sm": [
+    "NYC Geodatabase (version jan2016)"
+  ],
+  "dct_issued_s": "1/15/2016",
+  "schema_provider_s": "Baruch CUNY",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34511\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/74710/nyu_2451_34511.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"http://metadata.geo.nyu.edu/records/edu.nyu/handle/2451/34511/iso19139.xml\",\"http://lccn.loc.gov/sh85035852\":\"https://archive.nyu.edu/retrieve/74764/nyu_2451_34511_doc.zip\"}",
+  "dct_source_sm": [
+    "nyu-2451-34635",
+    "nyu-2451-34636"
+  ],
+  "dct_spatial_sm": [
+    "New York-Northern New Jersey-Long Island, New York, United States",
+    "New York City, New York, United States",
+    "Bronx County, New York, United States",
+    "Kings County, New York, United States",
+    "New York County, New York, United States",
+    "Queens County, New York, United States",
+    "Richmond County, New York, United States"
+  ],
+  "dct_temporal_sm": [
+    "2010"
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceType_sm": "Polygon data",
+  "gbl_wxsIdentifier_s": "sdr:nyu_2451_34511",
+  "gbl_mdModified_dt": "2016-05-02T18:21:03Z",
+  "id": "nyu-2451-34511",
+  "nyu_addl_dspace_s": "35418",
+  "locn_geometry": "ENVELOPE(-75.359184, -71.777491, 42.1769919999999, 39.4751979999998)",
+  "gbl_indexYear_im": 2010
+}

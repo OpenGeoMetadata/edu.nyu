@@ -1,0 +1,34 @@
+{
+  "dct_creator_sm": [],
+  "dct_description_sm": "U.S. ZIP Code Areas (Three-Digit) represents the first three digits of a ZIP Code. The first digit of a five-digit ZIP Code divides the United States into 10 large groups of states numbered from 0 in the Northeast to 9 in the far West. Within these areas, each state is divided into an average of 10 smaller geographical areas, identified by the second and third digits. These digits, in conjunction with the first digit, represent a sectional center facility or a mail processing facility area. These areas are serviced by the U.S. Post Office Sectional Center Facility (SCF). Note that a single SCF often services multiple three-digit areas.",
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": "http://hdl.handle.net/2451/34098",
+  "dct_language_sm": "English",
+  "dct_publisher_sm": "Environmental Systems Research Institute (Redlands, Calif.)",
+  "dct_accessRights_s": "Restricted",
+  "dct_subject_sm": [
+    "Zip codes",
+    "United States--Administrative and political divisions"
+  ],
+  "dct_title_s": "2010 U.S. ZIP Code Areas (Three-Digit)",
+  "gbl_resourceClass_sm": "Datasets",
+  "dct_isPartOf_sm": [
+    "ESRI 10 USA Census"
+  ],
+  "schema_provider_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34098\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/73308/nyu_2451_34098.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\"}",
+  "dct_spatial_sm": [
+    "United States of America"
+  ],
+  "dct_temporal_sm": [
+    "2010"
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceType_sm": "Polygon data",
+  "gbl_wxsIdentifier_s": "sdr:nyu_2451_34098",
+  "gbl_mdModified_dt": "2016-01-30T04:03:55Z",
+  "id": "nyu-2451-34098",
+  "nyu_addl_dspace_s": "34942",
+  "locn_geometry": "ENVELOPE(-178.227822, -65.244234, 71.390482023, 17.881242)",
+  "gbl_indexYear_im": 2010
+}

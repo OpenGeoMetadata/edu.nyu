@@ -1,0 +1,46 @@
+{
+  "dct_creator_sm": [],
+  "dct_description_sm": "This georeferenced map is a 1:100,000 scale topographic map produced by the Soviet military in 1978. The map was georeferenced by staff at NYU Data Services. Maps produced by the Soviet military were believed to be to be used as an organizing framework for knowledge about the world and were compiled through a combination of aerial intelligence and on-the-ground observation. Sheet numbering is based on the alphanumeric system adopted by the International Map of the World (IMW), in which the globe is divided into equal-sized zones based upon latitude and longitude. Each zone is further subdivided so that the position of a sheet at the full range of scales can be deduced. The date and factory of production of each map are provided in a unique code that is embedded within the outer border, usually at the bottom right. For more information, see the manual and scholarship of John M. Davies and Alexander Kent in the documentation. The download link provides both the original scan, as well as a georectified version of the scan.",
+  "dct_format_s": "GeoTIFF",
+  "dct_identifier_sm": "http://hdl.handle.net/2451/37713",
+  "dct_language_sm": "Russian",
+  "dct_publisher_sm": "Omni Resources (Firm)",
+  "dc_relation_sm": [
+    "qs_woe_2346961",
+    "qs_woe_2345849",
+    "qs_woe_2345835"
+  ],
+  "dct_accessRights_s": "Restricted",
+  "dct_subject_sm": [
+    "Soviet Union--Administrative and political divisions--Maps",
+    "Soviet Union--Maps",
+    "Soviet Union--Military policy",
+    "Espionage"
+  ],
+  "dct_title_s": "1978 Soviet Military Topographic Map of Saudi Arabia, Sheet 08-38-064",
+  "gbl_resourceClass_sm": "Datasets",
+  "dct_isPartOf_sm": [
+    "Soviet 1:100k of Saudi Arabia",
+    "Soviet Military Topographic Maps"
+  ],
+  "dct_issued_s": "2003",
+  "schema_provider_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/37713\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/79055/nyu_2451_37713.zip\",\"http://lccn.loc.gov/sh85035852\":\"https://archive.nyu.edu/bitstream/2451/37402/2/nyu_2451_37402_doc.zip\"}",
+  "dct_refrences_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/37713\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/79055/nyu_2451_37713.zip\",\"http://lccn.loc.gov/sh85035852\":\"https://archive.nyu.edu/retrieve/79186/nyu_soviet_topo_documentation.zip\"}",
+  "dct_spatial_sm": [
+    "Al Hudud ash Shamaliyah, Saudi Arabia",
+    "An-Najaf, Iraq",
+    "Al-Muthannia, Iraq"
+  ],
+  "dct_temporal_sm": [
+    "1978"
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceType_sm": "Raster data",
+  "gbl_wxsIdentifier_s": "sdr:nyu_2451_37713",
+  "gbl_mdModified_dt": "2017-01-23T17:32:28Z",
+  "id": "nyu-2451-37713",
+  "nyu_addl_dspace_s": "38694",
+  "locn_geometry": "ENVELOPE(43.470543842897975, 44.01975515943871, 30.3543500178228, 29.962764105401167)",
+  "gbl_indexYear_im": 1978
+}

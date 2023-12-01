@@ -1,0 +1,34 @@
+{
+  "dct_creator_sm": [],
+  "dct_description_sm": "U.S. Cities represents locations for cities within United States with populations of 10,000 or greater (based on Census 2000 figures), all state capitals, and the national capital.",
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": "http://hdl.handle.net/2451/34086",
+  "dct_language_sm": "English",
+  "dct_publisher_sm": "Environmental Systems Research Institute (Redlands, Calif.)",
+  "dct_accessRights_s": "Restricted",
+  "dct_subject_sm": [
+    "Cities and towns",
+    "Cities and towns--United States--Maps"
+  ],
+  "dct_title_s": "2010 U.S. Cities",
+  "gbl_resourceClass_sm": "Datasets",
+  "dct_isPartOf_sm": [
+    "ESRI 10 USA Census"
+  ],
+  "schema_provider_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34086\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/72012/nyu_2451_34086.zip\"}",
+  "dct_spatial_sm": [
+    "United States of America"
+  ],
+  "dct_temporal_sm": [
+    "2010"
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceType_sm": "Point data",
+  "gbl_wxsIdentifier_s": "sdr:nyu_2451_34086",
+  "gbl_mdModified_dt": "2016-01-30T04:03:57Z",
+  "id": "nyu-2451-34086",
+  "nyu_addl_dspace_s": "34930",
+  "locn_geometry": "ENVELOPE(-158.176463655, -68.783009072, 64.848300194, 19.702481638)",
+  "gbl_indexYear_im": 2010
+}

@@ -1,0 +1,50 @@
+{
+  "dct_creator_sm": [
+    "Instituto Nacional de Estad\u00edstica y Censos"
+  ],
+  "dct_description_sm": "This polygon shapefile represents basic population and housing characteristics for districts in Costa Rica, collected as part of the Censo 2011 by the Instituto Nacional de Estad\u00edstica y Censos. Indicators in this layer include information on house type (i.e. apartment, independent house etc.), building materials and physical characteristics (i.e. number of rooms), amenities (i.e. internet access, trash removal etc.), and ownership status (i.e. rented, owned and paid off, owned and being paid for in installments etc.) for Costa Rica. This layer was derived from a geodatabase (see the related data file) and was documented and restructured by East View Cartographic, Inc. The census data is provided at the district administrative level (ADM3) and includes 472 polygons with 719 attribute variables, split into 5 layers. Attribute descriptions retain original language names and unique identifier codes. All variable names were translated from Spanish. Field name prefixes, originally written with coded titles, were renamed to create unique names (e.g. Original variable of \u201cEstado Civil: Uni\u00f3n Libre o Juntadoa\u201d was updated to D001 and given the alias \u201cMarital Status: Free Union[Estado Civil: Uni\u00f3n Libre o Juntadoa]\u201d, the letter D was given as it relates to the Demographic theme table. D = Demographic, E = Economic, H = Housing, M = Migration and S = Social). All variables from the original data were reviewed for completeness and organized into their relevant themes of Demographic, Economic, Housing, Migration and Social. In attribute tables, all geographic names and codes are represented as text fields and census data are represented as doubles or long integers. Automated tools were run to apply aliases in the format \u201cEnglish translation field description[original language field description]\u201d. Vector data was analyzed for accuracy and compared with national boundaries. This layer is part of a partnership project with East View Cartographic and IPUMS International, titled the Global Census Archive. Refer to the metadata and documentation for original and translated codebooks and methodology.",
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": "http://hdl.handle.net/2451/36518",
+  "dct_language_sm": "English",
+  "dct_publisher_sm": "East View Cartographic, Inc.",
+  "dct_accessRights_s": "Restricted",
+  "dct_subject_sm": [
+    "Census",
+    "Census districts",
+    "Demographic surveys",
+    "Demography",
+    "Housing",
+    "Construction",
+    "Communications",
+    "Consumer Technology"
+  ],
+  "dct_title_s": "National Census District-Level Housing Indicators: House Type, Building Materials and Physical Characteristics, Amenities, and Ownership Status for Costa Rica, 2011",
+  "gbl_resourceClass_sm": "Datasets",
+  "dct_isPartOf_sm": [
+    "Latin American Census Data",
+    "Global Census Archive"
+  ],
+  "dct_issued_s": "2016",
+  "schema_provider_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://archive.nyu.edu/retrieve/124437/nyu_2451_36518_doc.zip\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/124432/nyu_2451_36518.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\",\"http://lccn.loc.gov/sh85035852\":\"https://archive.nyu.edu/retrieve/123845/nyu_2451_36517_doc.zip\"}",
+  "dct_source_sm": [
+    "nyu-2451-34919"
+  ],
+  "dct_spatial_sm": [
+    "Costa Rica"
+  ],
+  "dct_temporal_sm": [
+    "2011"
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceType_sm": "Polygon data",
+  "gbl_wxsIdentifier_s": "sdr:nyu_2451_36518",
+  "gbl_mdModified_dt": "2020-04-27T10:20:09Z",
+  "id": "nyu-2451-36518",
+  "nyu_addl_dspace_s": "37495",
+  "nyu_addl_format_sm": [
+    "Shapefile"
+  ],
+  "locn_geometry": "ENVELOPE(-87.09465, -82.555992, 11.216819, 5.499074)",
+  "gbl_indexYear_im": 2011
+}

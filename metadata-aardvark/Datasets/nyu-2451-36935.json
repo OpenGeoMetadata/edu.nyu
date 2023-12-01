@@ -1,0 +1,39 @@
+{
+  "dct_creator_sm": [],
+  "dct_description_sm": "This polygon shapefile represents Servicios con Informaci\u00f3n complementaria de tipo \u00c1rea (\u00c1reas Verdes, Camellones, glorietas) (Locations of Green Areas, Cemeteries, Sports and Recreation Areas) for the Mexican state of Mexico. This file was released by the Instituto Nacional de Estad\u00ccstica y Geograf\u00cca (INEGI) as part of the 2015 Population Survey, Encuesta Intercensal. This layer does not include socio-demographic data and was downloaded, cleaned, and released by Diego Valle-Jones (diego@diegovalle.net). Refer to the documentation for methodologies and variable names (in Spanish). Original information on this survey is available at http://www.inegi.org.mx/est/contenidos/proyectos/encuestas/hogares/especiales/ei2015/default.aspx",
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": "http://hdl.handle.net/2451/36935",
+  "dct_language_sm": "Spanish",
+  "dct_publisher_sm": "Instituto Nacional de Estadi\u0301stica y Geografi\u0301a (Mexico)",
+  "dc_relation_sm": [],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Boundaries",
+    "Administrative and political divisions"
+  ],
+  "dct_title_s": "2015 Mexico, Mexico Locations of Green Areas, Cemeteries, and sports and Recreation Areas",
+  "gbl_resourceClass_sm": "Datasets",
+  "dct_isPartOf_sm": [
+    "Encuesta Intercensal 2015"
+  ],
+  "dct_issued_s": "2016",
+  "schema_provider_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/36935\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/77656/nyu_2451_36935.zip\",\"http://lccn.loc.gov/sh85035852\":\"https://archive.nyu.edu/retrieve/78343/nyu_2451_36935_doc.zip\"}",
+  "dct_spatial_sm": [
+    "Mexico, Mexico",
+    "Mexico"
+  ],
+  "dct_temporal_sm": [
+    "2015"
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "georss_box_s": "18.4918832299991 -100.41468271 20.2725281999992 -98.6482890799999",
+  "georss_polygon_s": "18.4918832299991 -100.41468271 20.2725281999992 -100.41468271 20.2725281999992 -98.6482890799999 18.4918832299991 -98.6482890799999 18.4918832299991 -100.41468271",
+  "gbl_resourceType_sm": "Polygon data",
+  "gbl_wxsIdentifier_s": "sdr:nyu_2451_36935",
+  "gbl_mdModified_dt": "2016-11-30T21:39:21Z",
+  "id": "nyu-2451-36935",
+  "nyu_addl_dspace_s": "37906",
+  "locn_geometry": "ENVELOPE(-100.41468271, -98.6482890799999, 20.2725281999992, 18.4918832299991)",
+  "gbl_indexYear_im": 2015
+}

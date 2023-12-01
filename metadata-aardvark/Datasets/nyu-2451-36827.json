@@ -1,0 +1,39 @@
+{
+  "dct_creator_sm": [],
+  "dct_description_sm": "This polygon shapefile represents \u00c1rea Geoestad\u00edstica B\u00e1sica (AGEB) (Rural Census Tracts) for the Mexican state of Coahuila de Zaragoza. This file was released by the Instituto Nacional de Estad\u00ccstica y Geograf\u00cca (INEGI) as part of the 2015 Population Survey, Encuesta Intercensal. This layer does not include socio-demographic data and was downloaded, cleaned, and released by Diego Valle-Jones (diego@diegovalle.net). Refer to the documentation for methodologies and variable names (in Spanish). Original information on this survey is available at http://www.inegi.org.mx/est/contenidos/proyectos/encuestas/hogares/especiales/ei2015/default.aspx",
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": "http://hdl.handle.net/2451/36827",
+  "dct_language_sm": "Spanish",
+  "dct_publisher_sm": "Instituto Nacional de Estadi\u0301stica y Geografi\u0301a (Mexico)",
+  "dc_relation_sm": [],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Boundaries",
+    "Administrative and political divisions"
+  ],
+  "dct_title_s": "2015 Coahuila de Zaragoza, Mexico Rural Census Tracts",
+  "gbl_resourceClass_sm": "Datasets",
+  "dct_isPartOf_sm": [
+    "Encuesta Intercensal 2015"
+  ],
+  "dct_issued_s": "2016",
+  "schema_provider_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/36827\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/77548/nyu_2451_36827.zip\",\"http://lccn.loc.gov/sh85035852\":\"https://archive.nyu.edu/retrieve/78235/nyu_2451_36827_doc.zip\"}",
+  "dct_spatial_sm": [
+    "Coahuila de Zaragoza, Mexico",
+    "Mexico"
+  ],
+  "dct_temporal_sm": [
+    "2015"
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "georss_box_s": "24.5426840599993 -103.96000192 29.8800242899995 -99.8431197999999",
+  "georss_polygon_s": "24.5426840599993 -103.96000192 29.8800242899995 -103.96000192 29.8800242899995 -99.8431197999999 24.5426840599993 -99.8431197999999 24.5426840599993 -103.96000192",
+  "gbl_resourceType_sm": "Polygon data",
+  "gbl_wxsIdentifier_s": "sdr:nyu_2451_36827",
+  "gbl_mdModified_dt": "2016-11-30T21:39:21Z",
+  "id": "nyu-2451-36827",
+  "nyu_addl_dspace_s": "37798",
+  "locn_geometry": "ENVELOPE(-103.96000192, -99.8431197999999, 29.8800242899995, 24.5426840599993)",
+  "gbl_indexYear_im": 2015
+}

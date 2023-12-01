@@ -1,0 +1,35 @@
+{
+  "dct_creator_sm": [],
+  "dct_description_sm": "Europe NUTS 0 Demographics represents areas of aggregated socioeconomic and demographic information at the NUTS 0 (country) level for Europe. NUTS (Nomenclature des Unit\u00c3\u0192\u00c2\u00a9s Territoriales Statistiques) refers to the Nomenclature of Territorial Units for Statistics. For more information: http://ec.europa.eu/eurostat/ramon/nuts/home_regions_en.html.",
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": "http://hdl.handle.net/2451/34149",
+  "dct_language_sm": "English",
+  "dct_publisher_sm": "Environmental Systems Research Institute (Redlands, Calif.)",
+  "dct_accessRights_s": "Restricted",
+  "dct_subject_sm": [
+    "Demography",
+    "Population",
+    "Europe--Administrative and political divisions--Maps"
+  ],
+  "dct_title_s": "2010 Europe NUTS 0 Demographics",
+  "gbl_resourceClass_sm": "Datasets",
+  "dct_isPartOf_sm": [
+    "ESRI 10 Europe"
+  ],
+  "schema_provider_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34149\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/73193/nyu_2451_34149.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\"}",
+  "dct_spatial_sm": [
+    "Europe"
+  ],
+  "dct_temporal_sm": [
+    "2010"
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceType_sm": "Polygon data",
+  "gbl_wxsIdentifier_s": "sdr:nyu_2451_34149",
+  "gbl_mdModified_dt": "2016-01-30T04:03:44Z",
+  "id": "nyu-2451-34149",
+  "nyu_addl_dspace_s": "34994",
+  "locn_geometry": "ENVELOPE(-31.268789, 69.068487, 77.001793998, 27.638029)",
+  "gbl_indexYear_im": 2010
+}

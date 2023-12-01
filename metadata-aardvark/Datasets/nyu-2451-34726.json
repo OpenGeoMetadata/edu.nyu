@@ -1,0 +1,57 @@
+{
+  "dct_creator_sm": [],
+  "dct_description_sm": "This image is a 1:100,000 scale topographic map produced by the Soviet military in 1978. Maps produced by the Soviet military were believed to be used as an organizing framework for knowledge about the world and were compiled through a combination of aerial intelligence and on-the-ground observation. Sheet numbering is based on the alphanumeric system adopted by the International Map of the World (IMW), in which the globe is divided into equal-sized zones based upon latitude and longitude. Each zone is further subdivided so that the position of a sheet at the full range of scales can be deduced. The date and factory of production of each map are provided in a unique code that is embedded within the outer border, usually at the bottom right. For more information, see the manual and scholarship of John M. Davies and Alexander Kent in the documentation.",
+  "dct_format_s": "JPG",
+  "dct_identifier_sm": "http://hdl.handle.net/2451/34726",
+  "dct_language_sm": "Russian",
+  "dct_publisher_sm": "Omni Resources (Firm)",
+  "dct_accessRights_s": "Restricted",
+  "dct_subject_sm": [
+    "Soviet Union--Administrative and political divisions--Maps",
+    "Soviet Union--Maps",
+    "Soviet Union--Military policy",
+    "Espionage"
+  ],
+  "dct_title_s": "1978 Topographic Map of UAE (1:100k), Sheet 7-40-099",
+  "gbl_resourceClass_sm": "Datasets",
+  "dct_isPartOf_sm": [
+    "Soviet 1:100k of UAE",
+    "Soviet Military Topographic Maps"
+  ],
+  "schema_provider_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34726\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/75115/nyu_2451_34726.jpg\",\"http://lccn.loc.gov/sh85035852\":\"https://archive.nyu.edu/bitstream/2451/37402/2/nyu_2451_37402_doc.zip\"}",
+  "dct_refrences_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34726\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/75115/nyu_2451_34726.jpg\",\"http://lccn.loc.gov/sh85035852\":\"https://archive.nyu.edu/retrieve/79186/nyu_soviet_topo_documentation.zip\"}",
+  "dct_spatial_sm": [
+    "Dubai, United Arab Emirates",
+    "Dubai, United Arab Emirates",
+    "Mowaileh Suburb, United Arab Emirates",
+    "Al Mamzar, United Arab Emirates",
+    "Al Nahda, United Arab Emirates",
+    "War\u012bs\u0101n, United Arab Emirates",
+    "Jumayr\u0101, United Arab Emirates",
+    "Al Kh\u0101n, United Arab Emirates",
+    "Bur Dubai, United Arab Emirates",
+    "Al Barsha, United Arab Emirates",
+    "Dubai Marina, United Arab Emirates",
+    "Umm Suqaym, United Arab Emirates",
+    "Nadd ash Shib\u0101, United Arab Emirates",
+    "Mu\u1e29ay\u015fnah, United Arab Emirates",
+    "Ar R\u0101shid\u012byah, United Arab Emirates",
+    "Za\u2018b\u012bl, United Arab Emirates",
+    "Ar Ra\u2019s, United Arab Emirates",
+    "A\u0163 \u0162aw\u0101r, United Arab Emirates",
+    "Al Qawz, United Arab Emirates",
+    "\u1e28iz\u0327\u0101yib az Z\u0101nah, United Arab Emirates"
+  ],
+  "dct_temporal_sm": [
+    "1978"
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceType_sm": "Satellite imagery",
+  "gbl_wxsIdentifier_s": "sdr:nyu_2451_34726",
+  "gbl_mdModified_dt": "2016-06-22T14:16:06Z",
+  "id": "nyu-2451-34726",
+  "nyu_addl_dspace_s": "35676",
+  "locn_geometry": "ENVELOPE(55.0, 55.5, 25.333, 25.0)",
+  "gbl_indexYear_im": 1978
+}

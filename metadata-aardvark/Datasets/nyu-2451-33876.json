@@ -1,0 +1,32 @@
+{
+  "dct_description_sm": "This polygon shapefile contains estimates of the number of Jewish persons in the U.S. by county in 2010 census geographies, based upon multiple sources of data, including Jewish community studies available at the Jewish Data Bank, the Data Bank's Current Jewish Population Report series, and the American Community Survey. Joshua Comenetz used indicators like language spoken and ancestry in the absence of standard demographic data to measure Jewish populations. For more information on the methodology used to compile this data set, see the Jewish Data Bank.",
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": "http://hdl.handle.net/2451/33876",
+  "dct_language_sm": "English",
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Demographics",
+    "Religion",
+    "Judaism"
+  ],
+  "dct_title_s": "National Jewish Population Map by County",
+  "gbl_resourceClass_sm": "Datasets",
+  "dct_isPartOf_sm": [],
+  "schema_provider_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/33876\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/bitstream/2451/33876/2/nyu_2451_33876.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "dct_temporal_sm": [
+    "2010"
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceType_sm": "Polygon data",
+  "gbl_wxsIdentifier_s": "sdr:nyu_2451_33876",
+  "gbl_mdModified_dt": "2020-11-25T08:00:43Z",
+  "id": "nyu-2451-33876",
+  "nyu_addl_dspace_s": "34679",
+  "locn_geometry": "ENVELOPE(-179.14734, 179.778465, 71.390482, 17.881242)",
+  "gbl_indexYear_im": 2010
+}

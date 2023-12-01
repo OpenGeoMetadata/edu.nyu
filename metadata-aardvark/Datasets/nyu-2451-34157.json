@@ -1,0 +1,32 @@
+{
+  "dct_creator_sm": [],
+  "dct_description_sm": "The Census Blocks for the 2000 US Census. These boundary files are derived from the US Census Bureau's TIGER project and have been geographically modified to fit the New York City base map.",
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": "http://hdl.handle.net/2451/34157",
+  "dct_language_sm": "English",
+  "dct_publisher_sm": "New York (City). Department of City Planning",
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Census",
+    "Census districts"
+  ],
+  "dct_title_s": "2010 New York City Census Blocks Water Included",
+  "gbl_resourceClass_sm": "Datasets",
+  "dct_isPartOf_sm": [],
+  "schema_provider_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34157\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/73177/nyu_2451_34157.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\"}",
+  "dct_spatial_sm": [
+    "New York City, New York, United States"
+  ],
+  "dct_temporal_sm": [
+    "2010"
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceType_sm": "Polygon data",
+  "gbl_wxsIdentifier_s": "sdr:nyu_2451_34157",
+  "gbl_mdModified_dt": "2016-01-30T04:03:43Z",
+  "id": "nyu-2451-34157",
+  "nyu_addl_dspace_s": "35005",
+  "locn_geometry": "ENVELOPE(-74.2587474685173, -73.700009054899, 40.9176618323612, 40.4860830856901)",
+  "gbl_indexYear_im": 2010
+}

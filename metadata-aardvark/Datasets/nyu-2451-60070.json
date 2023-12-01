@@ -1,0 +1,51 @@
+{
+  "dct_creator_sm": [
+    "GIS Lab, Newman Library, Baruch CUNY"
+  ],
+  "dct_description_sm": "This point layer is an extract from the NJ TRANSIT, PATH and PATCO Passenger Rail Station points downloaded from NJ Office of Information Technology, Office of Geographic Information Systems. It represents the The Port Authority Trans-Hudson Corporation (PATH) Train stations. PATH Train is a rail transit system that connects several cities in New Jersey to New York City. The unique id is station_id. This dataset is intended for researchers, policy makers, students, and educators for basic geographic analysis and mapping purposes. It was created by the GIS Lab at the Newman Library at Baruch College CUNY as part of the NYC Mass Transit Spatial Layers series, so that members of the public could have access to well-documented and readily-usable GIS layers of NYC mass transit features.",
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": "http://hdl.handle.net/2451/60070",
+  "dct_language_sm": "English",
+  "dct_publisher_sm": "Newman Library (Bernard M. Baruch College)",
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Transportation",
+    "Local transit",
+    "Commuting",
+    "Subways",
+    "Subway stations"
+  ],
+  "dct_title_s": "PATH Train Stops, Jan 2017",
+  "gbl_resourceClass_sm": "Datasets",
+  "dct_isPartOf_sm": [
+    "NYC Mass Transit Spatial Layers"
+  ],
+  "dct_issued_s": "1/31/2017",
+  "schema_provider_s": "Baruch CUNY",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/60070\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/122654/nyu_2451_60070.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\",\"http://lccn.loc.gov/sh85035852\":\"https://archive.nyu.edu/retrieve/122667/nyu_2451_60070_doc.zip\",\"http://www.isotc211.org/schemas/2005/gmd\":\"http://faculty.baruch.cuny.edu/geoportal/metadata/nyc_transit/jan2017/stops_path_2017_iso.xml\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New York-Northern New Jersey-Long Island, New York, United States",
+    "New York City, New York, United States",
+    "New York County, New York, United States",
+    "Borough of Manhattan, New York, United States",
+    "Hudson County, New Jersey, United States",
+    "Essex County, New Jersey, United States",
+    "Jersey City, New Jersey, United States",
+    "Newark,New Jersey,United States"
+  ],
+  "dct_temporal_sm": [
+    "2017"
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceType_sm": "Point data",
+  "gbl_wxsIdentifier_s": "sdr:nyu_2451_60070",
+  "gbl_mdModified_dt": "2020-01-07T14:42:26Z",
+  "id": "nyu-2451-60070",
+  "nyu_addl_dspace_s": "61036",
+  "nyu_addl_format_sm": [
+    "Shapefile"
+  ],
+  "locn_geometry": "ENVELOPE(-74.2547234738238, -73.700920195218, 40.9128687545771, 40.4991844371223)",
+  "gbl_indexYear_im": 2017
+}

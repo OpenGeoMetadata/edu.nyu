@@ -1,0 +1,31 @@
+{
+  "dct_description_sm": "This polygon shapefile represents French Quarter Economic Development District for New Orleans, LA in 2018. Voters have elected to fund enhanced security in the French Quarter through a quarter cent sales tax increase within the boundaries of the French Quarter, an area where about 9 million tourists spend money each year. Effective January 1, 2016, all businesses will be required to collect an additional 0.2495% in sales/use tax on taxable items and services sold or delivered into the new French Quarter Economic Development District (French Quarter EDD). Funds generated from an additional quarter cent sales tax within the boundaries of the French Quarter Management District (see map below), will be used to form the French Quarter Economic Development District and fund full-time Louisiana State Police trooper patrols in this area. This added security for the residents, workers and visitors of the French Quarter would supplement the New Orleans Police Department services already committed to the area. An additional quarter cent sales tax in the French Quarter Management District will generate at least $2 million each year for public safety. These funds would be generated primarily by the tourists who visit the French Quarter. If passed, hospitality organizations would match these funds for state troopers. Plus, the City of New Orleans would allocate $500,000 from its portion of the hotel self-assessment. All told, if passed, at least $4.5 million will be generated to support a minimum of 30 full-time state troopers. This file was downloaded on December, 2018 by NYU Data Services. It was originally represented on the New Orleans Open Data Socrata portal as catalog record xcvk-8kcc",
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": "http://hdl.handle.net/2451/43869",
+  "dct_language_sm": "English",
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Economic Development",
+    "Tourism"
+  ],
+  "dct_title_s": "French Quarter Economic Development District for New Orleans, LA, 2018",
+  "gbl_resourceClass_sm": "Datasets",
+  "dct_isPartOf_sm": [],
+  "schema_provider_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/43869\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/bitstream/2451/43869/1/nyu_2451_43869.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Orleans, Louisiana, United States"
+  ],
+  "dct_temporal_sm": [
+    "2018"
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceType_sm": "Polygon data",
+  "gbl_wxsIdentifier_s": "sdr:nyu_2451_43869",
+  "gbl_mdModified_dt": "2020-11-25T08:00:43Z",
+  "id": "nyu-2451-43869",
+  "nyu_addl_dspace_s": "45040",
+  "locn_geometry": "ENVELOPE(-90.140074, -89.62505, 30.199332, 29.866661)",
+  "gbl_indexYear_im": 2018
+}

@@ -1,0 +1,35 @@
+{
+  "dct_creator_sm": [],
+  "dct_description_sm": "U.S. Census Urbanized Areas represents the Census 2000 Urbanized Areas (UA) and Urban Clusters (UC). A UA consists of contiguous, densely settled census block groups (BGs) and census blocks that meet minimum population density requirements (1000ppsm /500ppsm), along with adjacent densely settled census blocks that together encompass a population of at least 50,000 people. A UC consists of contiguous, densely settled census BGs and census blocks that meet minimum population density requirements, along with adjacent densely settled census blocks that together encompass a population of at least 2,500 people, but fewer than 50,000 people. The dataset covers the 50 States plus the District of Columbia within United States.",
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": "http://hdl.handle.net/2451/34096",
+  "dct_language_sm": "English",
+  "dct_publisher_sm": "Environmental Systems Research Institute (Redlands, Calif.)",
+  "dct_accessRights_s": "Restricted",
+  "dct_subject_sm": [
+    "Cities and towns",
+    "Population",
+    "Population density"
+  ],
+  "dct_title_s": "2010 U.S. Census Urbanized Areas",
+  "gbl_resourceClass_sm": "Datasets",
+  "dct_isPartOf_sm": [
+    "ESRI 10 USA Census"
+  ],
+  "schema_provider_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34096\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/73315/nyu_2451_34096.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\"}",
+  "dct_spatial_sm": [
+    "United States of America"
+  ],
+  "dct_temporal_sm": [
+    "2010"
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceType_sm": "Polygon data",
+  "gbl_wxsIdentifier_s": "sdr:nyu_2451_34096",
+  "gbl_mdModified_dt": "2016-01-30T04:03:55Z",
+  "id": "nyu-2451-34096",
+  "nyu_addl_dspace_s": "34940",
+  "locn_geometry": "ENVELOPE(-166.542185751, -67.251665751, 71.306819914, 19.469933914)",
+  "gbl_indexYear_im": 2010
+}

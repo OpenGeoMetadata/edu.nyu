@@ -1,0 +1,40 @@
+{
+  "dct_description_sm": "This polygon shapefile layer represents the New York State Assembly District boundaries for the City of New York. These district boundaries represent the redistricting as of the US Census 2010. This file was generated from the 17B release of the Department of City Planning's LION file.",
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": "http://hdl.handle.net/2451/41636",
+  "dct_language_sm": "English",
+  "dct_publisher_sm": "New York (City). Department of City Planning",
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Districts",
+    "Special districts",
+    "Administrative and political divisions",
+    "Boundaries"
+  ],
+  "dct_title_s": "2017 New York City State Assembly Districts (Clipped to Shoreline)",
+  "gbl_resourceClass_sm": "Datasets",
+  "dct_isPartOf_sm": [
+    "Bytes of the Big Apple"
+  ],
+  "dct_issued_s": "2017",
+  "schema_provider_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/41636\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/84110/nyu_2451_41636.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\",\"http://lccn.loc.gov/sh85035852\":\"https://archive.nyu.edu/retrieve/84111/nyu_2451_41636_doc.zip\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New York, New York, United States"
+  ],
+  "dct_temporal_sm": [
+    "2017"
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceType_sm": "Polygon data",
+  "gbl_wxsIdentifier_s": "sdr:nyu_2451_41636",
+  "gbl_mdModified_dt": "2018-05-22T16:34:28Z",
+  "id": "nyu-2451-41636",
+  "nyu_addl_dspace_s": "42696",
+  "nyu_addl_format_sm": [
+    "Shapefile"
+  ],
+  "locn_geometry": "ENVELOPE(-74.0006413059924, -73.9549275741795, 40.7866796405202, 40.6837408183463)",
+  "gbl_indexYear_im": 2017
+}

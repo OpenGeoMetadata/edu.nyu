@@ -1,0 +1,39 @@
+{
+  "dct_creator_sm": [],
+  "dct_description_sm": "This polygon shapefile represents Pol\u00edgonos de Manzanas (polygons of Census Blocks) for the Mexican state of Sonora. This file was released by the Instituto Nacional de Estad\u00ccstica y Geograf\u00cca (INEGI) as part of the 2015 Population Survey, Encuesta Intercensal. This layer does not include socio-demographic data and was downloaded, cleaned, and released by Diego Valle-Jones (diego@diegovalle.net). Refer to the documentation for methodologies and variable names (in Spanish). Original information on this survey is available at http://www.inegi.org.mx/est/contenidos/proyectos/encuestas/hogares/especiales/ei2015/default.aspx",
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": "http://hdl.handle.net/2451/37069",
+  "dct_language_sm": "Spanish",
+  "dct_publisher_sm": "Instituto Nacional de Estadi\u0301stica y Geografi\u0301a (Mexico)",
+  "dc_relation_sm": [],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Boundaries",
+    "Administrative and political divisions"
+  ],
+  "dct_title_s": "2015 Sonora, Mexico Polygons of Census Blocks",
+  "gbl_resourceClass_sm": "Datasets",
+  "dct_isPartOf_sm": [
+    "Encuesta Intercensal 2015"
+  ],
+  "dct_issued_s": "2016",
+  "schema_provider_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/37069\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/77790/nyu_2451_37069.zip\",\"http://lccn.loc.gov/sh85035852\":\"https://archive.nyu.edu/retrieve/78490/nyu_2451_37069_doc.zip\"}",
+  "dct_spatial_sm": [
+    "Sonora, Mexico",
+    "Mexico"
+  ],
+  "dct_temporal_sm": [
+    "2015"
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "georss_box_s": "26.3198287399993 -115.01695057 32.4934222599996 -108.55446846",
+  "georss_polygon_s": "26.3198287399993 -115.01695057 32.4934222599996 -115.01695057 32.4934222599996 -108.55446846 26.3198287399993 -108.55446846 26.3198287399993 -115.01695057",
+  "gbl_resourceType_sm": "Polygon data",
+  "gbl_wxsIdentifier_s": "sdr:nyu_2451_37069",
+  "gbl_mdModified_dt": "2016-11-30T21:39:21Z",
+  "id": "nyu-2451-37069",
+  "nyu_addl_dspace_s": "38040",
+  "locn_geometry": "ENVELOPE(-115.01695057, -108.55446846, 32.4934222599996, 26.3198287399993)",
+  "gbl_indexYear_im": 2015
+}

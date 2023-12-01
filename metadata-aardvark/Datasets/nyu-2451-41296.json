@@ -1,0 +1,41 @@
+{
+  "dct_creator_sm": [
+    "United States. National Geospatial-Intelligence Agency"
+  ],
+  "dct_description_sm": "This raster layer is an image that is part of a 1:500,000 scale aeronautical chart series. The series contains approximately 700 sheets and projects to Lambert Conformal Conic. The National Geospatial-Intelligence Agency, its legacy organizations (Defense Mapping Agency, National Imagery and Mapping Agency), and other contributors originally published the series. The Tactical Pilot Chart supports high-speed, low-altitude radar, and visual navigation of high-performance tactical and reconnaissance aircraft from low to medium altitudes. It is designed to assist close air operations by providing visual and radar navigation information. The knowledge of map symbology becomes important to understand cultural features depicted on the chart. Contours are at 500 feet, with typical sheet extents at 4 degrees latitude by 6 degrees longitude. All sheets are in English. Eastview Cartographic, Inc. has completed digitization, georeferencing, and electronic archiving services. To see the index of all sheets in this series, refer to the Data Relations shapefile layer.",
+  "dct_format_s": "WorldImage TIFF",
+  "dct_identifier_sm": "http://hdl.handle.net/2451/41296",
+  "dct_language_sm": "English",
+  "dct_publisher_sm": "East View Cartographic, Inc.",
+  "dct_accessRights_s": "Restricted",
+  "dct_subject_sm": [
+    "Aeronautical charts",
+    "Military intelligence"
+  ],
+  "dct_title_s": "Tactical Pilotage Chart, Sheet G09C ",
+  "gbl_resourceClass_sm": "Datasets",
+  "dct_isPartOf_sm": [
+    "EVG Open Data Package"
+  ],
+  "dct_issued_s": "5/31/2016",
+  "schema_provider_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/41296\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/83702/nyu_2451_41296.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\"}",
+  "dct_source_sm": [
+    "nyu-2451-41104"
+  ],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "2016"
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceType_sm": "Raster data",
+  "gbl_wxsIdentifier_s": "sdr:nyu_2451_41296",
+  "gbl_mdModified_dt": "2018-01-16T15:11:26Z",
+  "id": "nyu-2451-41296",
+  "nyu_addl_dspace_s": "42356",
+  "nyu_addl_format_sm": [
+    "WorldImage TIFF"
+  ],
+  "locn_geometry": "ENVELOPE(108.99995496306698, 116.00018474252673, 36.000088677536134, 31.99948143675403)",
+  "gbl_indexYear_im": 2016
+}

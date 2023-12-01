@@ -1,0 +1,39 @@
+{
+  "dct_creator_sm": [],
+  "dct_description_sm": "This Esri geodatabase contains data from the 2010 U.S. Census, as well as additional data from the Office of Management and Budget (OMB) and Neilson Media Research. Esri\u2019s compilation of census data allows for easy analysis of population, income, race, and ethnicity. The geodatabase splits all indicators into subcategories, and a full roster of population data variables in a variety of geographies are included in Esri's Census 2010 data documentation file. The data categories include population, household, housing mortgage status, tenure, family, age, race, and ethnicity. The geodatabase presents this data at the level of nation, state, county, census tract, block group, place, zip code, county subdivision, core-based statistical area, designated market area, and congressional district. Multiple files in NYU\u2019s collection have been derived from this geodatabase.",
+  "dct_format_s": "ESRI Geodatabase",
+  "dct_identifier_sm": "http://hdl.handle.net/2451/34602",
+  "dct_language_sm": "English",
+  "dct_publisher_sm": "Environmental Systems Research Institute (Redlands, Calif.)",
+  "dct_accessRights_s": "Restricted",
+  "dct_subject_sm": [
+    "Demographic surveys--United States",
+    "Census",
+    "Census districts",
+    "Education",
+    "Income",
+    "Housing"
+  ],
+  "dct_title_s": "2010 ESRI Census Geodatabase",
+  "gbl_resourceClass_sm": "Datasets",
+  "dct_isPartOf_sm": [
+    "ESRI 2015 Educational Data"
+  ],
+  "dct_issued_s": "2015",
+  "schema_provider_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34602\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/74786/nyu_2451_34602.zip\",\"http://lccn.loc.gov/sh85035852\":\"https://archive.nyu.edu/retrieve/74787/nyu_2451_34602_doc.zip\"}",
+  "dct_spatial_sm": [
+    "United States of America"
+  ],
+  "dct_temporal_sm": [
+    "2010"
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceType_sm": "Polygon data",
+  "gbl_wxsIdentifier_s": "sdr:nyu_2451_34602",
+  "gbl_mdModified_dt": "2016-05-13T20:29:13Z",
+  "id": "nyu-2451-34602",
+  "nyu_addl_dspace_s": "35536",
+  "locn_geometry": "ENVELOPE(-170.1769013405, -64.5665435791, 71.6032483233, 24.7073204053)",
+  "gbl_indexYear_im": 2010
+}

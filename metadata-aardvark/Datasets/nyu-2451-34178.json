@@ -1,0 +1,36 @@
+{
+  "dct_creator_sm": [],
+  "dct_description_sm": "U.S. Major Roads represents interstates, freeways, U.S. and state highways, major streets and roads, primary, secondary, and local roads, access ramps, ferry crossings, and other major thoroughfares within the United States.",
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": "http://hdl.handle.net/2451/34178",
+  "dct_language_sm": "English",
+  "dct_publisher_sm": "Environmental Systems Research Institute (Redlands, Calif.)",
+  "dct_accessRights_s": "Restricted",
+  "dct_subject_sm": [
+    "Roads",
+    "Transportation",
+    "Streets",
+    "Ferry terminals"
+  ],
+  "dct_title_s": "2010 U.S. Major Roads",
+  "gbl_resourceClass_sm": "Datasets",
+  "dct_isPartOf_sm": [
+    "ESRI 10 USA Trans"
+  ],
+  "schema_provider_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34178\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/73126/nyu_2451_34178.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\"}",
+  "dct_spatial_sm": [
+    "United States of America"
+  ],
+  "dct_temporal_sm": [
+    "2010"
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceType_sm": "Line data",
+  "gbl_wxsIdentifier_s": "sdr:nyu_2451_34178",
+  "gbl_mdModified_dt": "2016-01-30T04:03:39Z",
+  "id": "nyu-2451-34178",
+  "nyu_addl_dspace_s": "35027",
+  "locn_geometry": "ENVELOPE(-166.547319091, -65.625792727, 70.207680893, 17.955365454)",
+  "gbl_indexYear_im": 2010
+}

@@ -1,0 +1,31 @@
+{
+  "dct_creator_sm": [],
+  "dct_description_sm": "This georeferenced map of Brooklyn was published for the Brooklyn Directory. It is held by the Lionel Pincus & Princess Firyal Map Division, The New York Public Library and was georeferenced via the NYPL's MapWarper tool.",
+  "dct_format_s": "GeoTIFF",
+  "dct_identifier_sm": "http://hdl.handle.net/2451/34189",
+  "dct_language_sm": "English",
+  "dct_publisher_sm": "New York Public Library",
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Boroughs (Municipal subdivision)"
+  ],
+  "dct_title_s": "Map of the Borough of Brooklyn Published for the Brooklyn Directory",
+  "gbl_resourceClass_sm": "Imagery",
+  "dct_isPartOf_sm": [],
+  "schema_provider_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34189\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/71884/nyu_2451_34189.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\"}",
+  "dct_spatial_sm": [
+    "Brooklyn, New York, United States"
+  ],
+  "dct_temporal_sm": [
+    "1898"
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceType_sm": "Raster data",
+  "gbl_wxsIdentifier_s": "sdr:nyu_2451_34189",
+  "gbl_mdModified_dt": "2016-03-11T21:04:16Z",
+  "id": "nyu-2451-34189",
+  "nyu_addl_dspace_s": "35039",
+  "locn_geometry": "ENVELOPE(-74.209856828436, -73.689307771564, 40.846990773379, 40.453216826621)",
+  "gbl_indexYear_im": 1898
+}

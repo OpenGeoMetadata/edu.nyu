@@ -1,0 +1,44 @@
+{
+  "dct_creator_sm": [
+    "Instituto Nacional de Estad\u00edstica (INE)"
+  ],
+  "dct_description_sm": "This polygon shapefile represents basic population characteristics for barrios in Honduras, collected as part of its 2013 Census by the Instituto Nacional de Estad\u00edstica (INE). Indicators in this layer include sex, marital status, offspring, age, and household relationships. This layer was derived from a geodatabase (see the related data file) and was documented and restructured by East View Cartographic, Inc. The census data is provided at the barrio administrative level (ADM5) and includes 3732 polygons with 629 attribute variables, split into 6 layers. Attribute descriptions retain original language names and unique identifier codes. All variable names were translated from Spanish. Field name prefixes, originally written with coded titles, were renamed to create unique names (e.g. Original variable of \u201cParentesco: Jefe O Jefa Del Hogar\u201d was updated to D001 and given the alias \u201cRelationship: Head Of Household[Parentesco: Jefe O Jefa Del Hogar]\u201d, the letter D was given as it relates to the Demographic theme table. D = Demographic, E = Economic, H = Housing, M = Migration, S = Social and T = Transportation). All variables from the original data were reviewed for completeness and organized into their relevant themes of Demographic, Economic, Housing, Migration, Social and Transportation. In the attribute tables, all geographic names and codes are represented as text fields and census data are represented as doubles or long integers. Automated tools were run to apply aliases in the format \u201cEnglish translation field description[original language field description]\u201d. Vector data was analyzed for accuracy and compared with national boundaries. This layer is part of a partnership project with East View Cartographic and IPUMS International, titled the Global Census Archive. Refer to the metadata and documentation for original and translated codebooks and methodology.",
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": "http://hdl.handle.net/2451/36425",
+  "dct_language_sm": "English",
+  "dct_publisher_sm": "East View Cartographic, Inc.",
+  "dct_accessRights_s": "Restricted",
+  "dct_subject_sm": [
+    "Census",
+    "Census districts",
+    "Demographic surveys",
+    "Demography"
+  ],
+  "dct_title_s": "National Census Barrio-Level Demographic Indicators: Sex, Marital Status, Offspring, Age, and Household Relationships for Honduras, 2013",
+  "gbl_resourceClass_sm": "Datasets",
+  "dct_isPartOf_sm": [
+    "Latin American Census Data"
+  ],
+  "dct_issued_s": "2016",
+  "schema_provider_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/36425\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/124101/nyu_2451_36425.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\",\"http://lccn.loc.gov/sh85035852\":\"https://archive.nyu.edu/retrieve/124107/nyu_2451_36425_doc.zip\"}",
+  "dct_source_sm": [
+    "nyu-2451-34924"
+  ],
+  "dct_spatial_sm": [
+    "Honduras"
+  ],
+  "dct_temporal_sm": [
+    "2013"
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceType_sm": "Polygon data",
+  "gbl_mdModified_dt": "2020-07-21T13:25:26Z",
+  "id": "nyu-2451-36425",
+  "nyu_addl_dspace_s": "37402",
+  "nyu_addl_format_sm": [
+    "Shapefile"
+  ],
+  "locn_geometry": "ENVELOPE(-89.350792, -83.155403, 17.423628, 12.982411)",
+  "gbl_indexYear_im": 2013
+}

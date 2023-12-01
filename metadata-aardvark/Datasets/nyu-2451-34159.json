@@ -1,0 +1,31 @@
+{
+  "dct_creator_sm": [],
+  "dct_description_sm": "Community Districts are mandated by the city charter to review and monitor quality of life issues for New York City neighborhoods.",
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": "http://hdl.handle.net/2451/34159",
+  "dct_language_sm": "English",
+  "dct_publisher_sm": "New York (City). Department of City Planning",
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Districts"
+  ],
+  "dct_title_s": "2010 New York City Community Districts",
+  "gbl_resourceClass_sm": "Datasets",
+  "dct_isPartOf_sm": [],
+  "schema_provider_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34159\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/73170/nyu_2451_34159.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\"}",
+  "dct_spatial_sm": [
+    "New York City, New York, United States"
+  ],
+  "dct_temporal_sm": [
+    "2010"
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceType_sm": "Polygon data",
+  "gbl_wxsIdentifier_s": "sdr:nyu_2451_34159",
+  "gbl_mdModified_dt": "2016-01-30T04:03:42Z",
+  "id": "nyu-2451-34159",
+  "nyu_addl_dspace_s": "35008",
+  "locn_geometry": "ENVELOPE(-74.2556640887564, -73.700009054899, 40.9157739339836, 40.4960925239255)",
+  "gbl_indexYear_im": 2010
+}
