@@ -1,0 +1,50 @@
+{
+  "dct_description_sm": [
+    "This polygon shapefile represents Neighborhood Conservation District for New Orleans, LA in 2018. The Neighborhood Conservation District Advisory Committee advises the City Council relative to applications for permits to demolish existing structures located within the Neighborhood Conservation District. Sec. 26-3. - Neighborhood Conservation District (NCD). (a) The NCD shall encompass the area generally bounded, on the east bank of the Mississippi River, by the Orleans/Jefferson Parish line, Metairie Road, Interstate 10, Norfolk-Southern Railroad track, Orleans Avenue, City Park Avenue, Wisner Boulevard, Interstate 610, Florida Boulevard, the Orleans/St. Bernard Parish line, and the Mississippi River; on the west bank, the NCD shall encompass the area generally bounded by Atlantic Avenue, Bodenger Boulevard, the Orleans/Jefferson Parish line, and the Mississippi River, as well as all National Register Historic Districts that are on the National Register of Historic Places, pursuant to 16 U.S.C. 470 et seq., section 26-11, and other applicable laws. Any National Register Historic Districts created after the adoption of this ordinance shall be included within the boundaries as well. In addition to the Gentilly Terrace National Register District, the area bounded by the following streets, and those properties fronting on the bounding streets, shall be deemed to be part of the NCD: beginning at Elysian Fields Avenue at Gentilly Boulevard, north along Elysian Fields Avenue to Filmore Avenue, east along Filmore Avenue to Peoples Avenue, south along Peoples Avenues to Gentilly Boulevard, and along Gentilly Boulevard back to Elysian Fields. (b) The purpose of the NCD shall be:(1) To attempt to preserve those buildings within the NCD having a historical or architectural value or buildings that contribute to the overall character of the neighborhood. (2) To preserve and stabilize neighborhoods through the protection of those structures that represent the character and quality of the neighborhood or the architectural history of New Orleans. (3) To promote redevelopment that contributes to the historic character of the neighborhood. This file was downloaded on December, 2018 by NYU Data Services. It was originally represented on the New Orleans Open Data Socrata portal as catalog record w6ee-uym2"
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "http://hdl.handle.net/2451/43866"
+  ],
+  "dct_language_sm": [
+    "English"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Neighborhood conservation",
+    "Cultural preservation"
+  ],
+  "dct_title_s": "Neighborhood Conservation District for New Orleans, LA, 2018",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_isPartOf_sm": [
+
+  ],
+  "schema_provider_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/43866\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/bitstream/2451/43866/1/nyu_2451_43866.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "New Orleans, Louisiana, United States"
+  ],
+  "dct_temporal_sm": [
+    "2018"
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceType_sm": [
+    "Polygon data"
+  ],
+  "gbl_wxsIdentifier_s": "sdr:nyu_2451_43866",
+  "gbl_mdModified_dt": "2020-11-25T08:00:43Z",
+  "id": "nyu-2451-43866",
+  "nyu_addl_dspace_s": "45037",
+  "locn_geometry": "ENVELOPE(-90.140074, -89.62505, 30.199332, 29.866661)",
+  "gbl_indexYear_im": [
+    2018
+  ],
+  "dct_publisher_sm": [
+    ""
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "dct_creator_sm": [
+    "Michelle Thompson"
+  ],
+  "dct_description_sm": [
+    "This point shapefile displays restaurants in Manhattan that received a grade of \"A\" from the Department of Health and Mental Hygiene Restaurant Inspection. The points were extracted from the DOHMH New York City Restaurant Inspection Results dataset as current on 3/6/2015. Note that the locations were established with the LION geocoder in ArcMap, and some locations, espcially those in parks, piers, and side streets, on the dataset are not reflected in this file."
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "http://hdl.handle.net/2451/33888"
+  ],
+  "dct_language_sm": [
+    "English"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Restaurants",
+    "Inspection",
+    "Health and hygiene",
+    "Urban health"
+  ],
+  "dct_title_s": "Grade \"A\" Restaurants in Manhattan",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_isPartOf_sm": [
+    "NYU Research Data"
+  ],
+  "schema_provider_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/33888\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/71932/nyu_2451_33888.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\"}",
+  "dct_spatial_sm": [
+    "Manhattan, New York, United States",
+    "New York County, New York, United States"
+  ],
+  "dct_temporal_sm": [
+    "2013",
+    "2015"
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceType_sm": [
+    "Point data"
+  ],
+  "gbl_wxsIdentifier_s": "sdr:nyu_2451_33888",
+  "gbl_mdModified_dt": "2015-11-23T20:57:44Z",
+  "id": "nyu-2451-33888",
+  "nyu_addl_dspace_s": "34696",
+  "locn_geometry": "ENVELOPE(-142.79870371803, -73.8935141122246, 40.8874611172832, -90.0)",
+  "gbl_indexYear_im": [
+    2013
+  ],
+  "dct_publisher_sm": [
+    ""
+  ]
+}

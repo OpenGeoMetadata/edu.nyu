@@ -1,0 +1,52 @@
+{
+  "dct_creator_sm": [
+
+  ],
+  "dct_description_sm": [
+    "U.S. and Canada Maneuvers represents street and highway maneuvers in the United States and Canada."
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "http://hdl.handle.net/2451/34057"
+  ],
+  "dct_language_sm": [
+    "English"
+  ],
+  "dct_publisher_sm": [
+    "Environmental Systems Research Institute (Redlands, Calif.)"
+  ],
+  "dct_accessRights_s": "Restricted",
+  "dct_subject_sm": [
+    "Roads",
+    "Transportation--Canada",
+    "Transportation--United States"
+  ],
+  "dct_title_s": "2010 U.S. and Canada Maneuvers",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_isPartOf_sm": [
+    "ESRI 10 StreetMap"
+  ],
+  "schema_provider_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34057\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/73360/nyu_2451_34057.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\"}",
+  "dct_spatial_sm": [
+    "United States of America",
+    "Canada"
+  ],
+  "dct_temporal_sm": [
+    "2010"
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceType_sm": [
+    "Point data"
+  ],
+  "gbl_wxsIdentifier_s": "sdr:nyu_2451_34057",
+  "gbl_mdModified_dt": "2016-01-30T04:04:03Z",
+  "id": "nyu-2451-34057",
+  "nyu_addl_dspace_s": "34900",
+  "locn_geometry": "ENVELOPE(-158.182763, -64.258109, 53.819133, 21.269086)",
+  "gbl_indexYear_im": [
+    2010
+  ]
+}

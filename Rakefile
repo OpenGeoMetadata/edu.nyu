@@ -1,32 +1,26 @@
-desc "Validate all geoblacklight.json records"
-task :validate_all do
-  require 'geo_combine'
-  require 'find'
-  paths = Find.find(Dir.pwd).select{ |x| x.include?("geoblacklight.json")}
-  records_invalid = 0
-  records_valid = 0
-  invalid_paths = []
-  puts "Validating #{paths.count} Geoblacklight records:"
-  paths.each_with_index do |path, idx|
-    rec = GeoCombine::Geoblacklight.new(File.read(path))
-    begin
-      rec.valid?
-      records_valid += 1
-      if (idx % 10 == 0)
-        print(idx)
-      else
-        print(".")
-      end
-    rescue
-      records_invalid += 1
-      invalid_paths << path
-      print("X")
-    end
-  end
+require_relative 'lib/lint'
 
-  if records_invalid > 0
-    raise "Contains #{records_invalid} invalid records:\n#{invalid_paths}"
+namespace :lint do
+  AARDVARK_SCHEMA_URL = 'https://opengeometadata.org/schema/geoblacklight-schema-aardvark.json'
+  OGM_V1_SCHEMA_URL   = 'https://opengeometadata.org/schema/geoblacklight-schema-1.0.json'
+
+  desc "lint version 1 geoblacklight.json records"
+  task :v1 do
+    puts "\nOGM v1 ~>"
+    paths = Dir.glob("./metadata-1.0/**/*/geoblacklight.json")
+    lint paths, OGM_V1_SCHEMA_URL
+  end
+  desc "lint aardvark geoblacklight.json records"
+  task :aardvark do
+    puts "\nAARDVARK ~>"
+    paths = Dir.glob("./metadata-aardvark/*/**/*.json")
+    lint paths, AARDVARK_SCHEMA_URL
+  end
+  desc "lint all records"
+  task :all do 
+    Rake::Task['lint:v1'].execute
+    Rake::Task['lint:aardvark'].execute
   end
 end
 
-task :default => ["validate_all"]
+task :default => ["lint:all"]

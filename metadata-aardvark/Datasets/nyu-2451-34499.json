@@ -1,0 +1,66 @@
+{
+  "dct_creator_sm": [
+    "GIS Lab, Newman Library, Baruch CUNY"
+  ],
+  "dct_description_sm": [
+    "This line layer is a combination of the Census TIGER roads files for counties, re-projected to local state plane. Portions of roads in neighboring New Jersey were also included, so that bridges do not appear to halt in the middle of rivers (where state boundaries touch). The mtfcc field contains Census MAT/TIGER Feature Class Codes that classify features by type. A number of duplicate features in Brooklyn and Queens (errors in the line files) were deleted so that the id fields for the roads could serve as unique identifiers. The unique ID is linearid; created by the census. This layer was created as part of the NYC Geodatabase (NYC GDB) project, a resource designed for basic geographic analysis and thematic mapping within the five boroughs of New York City."
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "http://hdl.handle.net/2451/34499"
+  ],
+  "dct_language_sm": [
+    "English"
+  ],
+  "dct_publisher_sm": [
+    "Newman Library (Bernard M. Baruch College)"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Roads",
+    "Transportation",
+    "Streets"
+  ],
+  "dct_title_s": "2010 New York City Roads",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_isPartOf_sm": [
+    "NYC Geodatabase (version jan2016)"
+  ],
+  "dct_issued_s": "1/15/2016",
+  "schema_provider_s": "Baruch CUNY",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34499\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"http://metadata.geo.nyu.edu/records/edu.nyu/handle/2451/34499/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/74698/nyu_2451_34499.zip\",\"http://lccn.loc.gov/sh85035852\":\"https://archive.nyu.edu/retrieve/74752/nyu_2451_34499_doc.zip\"}",
+  "dct_source_sm": [
+    "nyu-2451-34635",
+    "nyu-2451-34636"
+  ],
+  "dct_spatial_sm": [
+    "New York, New York, United States",
+    "Bronx County, New York, United States",
+    "Kings County, New York, United States",
+    "New York County, New York, United States",
+    "Queens, New York, United States",
+    "Richmond County, New York, United States",
+    "Borough of Bronx, New York, United States",
+    "Borough of Brooklyn, New York, United States",
+    "Borough of Manhattan, New York, United States",
+    "Borough of Queens, New York, United States",
+    "Borough of Staten Island, New York, United States"
+  ],
+  "dct_temporal_sm": [
+    "2010"
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceType_sm": [
+    "Line data"
+  ],
+  "gbl_wxsIdentifier_s": "sdr:nyu_2451_34499",
+  "gbl_mdModified_dt": "2016-05-02T18:21:05Z",
+  "id": "nyu-2451-34499",
+  "nyu_addl_dspace_s": "35404",
+  "locn_geometry": "ENVELOPE(-74.301169, -73.700272, 40.9149309999998, 40.4962299999998)",
+  "gbl_indexYear_im": [
+    2010
+  ]
+}

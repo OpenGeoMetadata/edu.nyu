@@ -1,0 +1,49 @@
+{
+  "dct_creator_sm": [
+
+  ],
+  "dct_description_sm": [
+    "World Latitude and Longitude Grids represents a 5 by 5 degree latitude/longitude grid covering the world with attributes that allow it to display grids at intervals of 5, 10, 15, 20, and 30 degrees. To display a grid with a 5-degree interval, simply display all of the lines. To display a coarser grid (e.g., a 15-degree interval), in the Layer Properties dialog box, set the DEGREE15 attribute value equal to Y."
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "http://hdl.handle.net/2451/34118"
+  ],
+  "dct_language_sm": [
+    "English"
+  ],
+  "dct_publisher_sm": [
+    "Environmental Systems Research Institute (Redlands, Calif.)"
+  ],
+  "dct_accessRights_s": "Restricted",
+  "dct_subject_sm": [
+    "Grids (Cartography)"
+  ],
+  "dct_title_s": "2010 World Latitude and Longitude Grids",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_isPartOf_sm": [
+    "ESRI 10 World"
+  ],
+  "schema_provider_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34118\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/73264/nyu_2451_34118.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\"}",
+  "dct_spatial_sm": [
+    "World"
+  ],
+  "dct_temporal_sm": [
+    "2010"
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceType_sm": [
+    "Line data"
+  ],
+  "gbl_wxsIdentifier_s": "sdr:nyu_2451_34118",
+  "gbl_mdModified_dt": "2016-01-30T04:03:51Z",
+  "id": "nyu-2451-34118",
+  "nyu_addl_dspace_s": "34962",
+  "locn_geometry": "ENVELOPE(-180.0, 180.0, 89.999999916, -90.0)",
+  "gbl_indexYear_im": [
+    2010
+  ]
+}

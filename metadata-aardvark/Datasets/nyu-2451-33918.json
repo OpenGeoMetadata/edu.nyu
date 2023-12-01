@@ -1,0 +1,51 @@
+{
+  "dct_creator_sm": [
+
+  ],
+  "dct_description_sm": [
+    "China Provincial Trunk Roads is a polyline theme representing provincial trunk roads in China for 2000."
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "http://hdl.handle.net/2451/33918"
+  ],
+  "dct_language_sm": [
+    "Chinese"
+  ],
+  "dct_publisher_sm": [
+    "Beijing Hua tong ren shi chang xin xi you xian ze ren gong si"
+  ],
+  "dct_accessRights_s": "Restricted",
+  "dct_subject_sm": [
+    "Transportation--China",
+    "Roads--China",
+    "China--Maps"
+  ],
+  "dct_title_s": "2010 China Provincial Trunk Roads",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_isPartOf_sm": [
+    "2010 China Data Center Township Census Files"
+  ],
+  "schema_provider_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/33918\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/71102/nyu_2451_33918.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\"}",
+  "dct_spatial_sm": [
+    "People's Republic of China, China"
+  ],
+  "dct_temporal_sm": [
+    "2010"
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceType_sm": [
+    "Line data"
+  ],
+  "gbl_wxsIdentifier_s": "sdr:nyu_2451_33918",
+  "gbl_mdModified_dt": "2015-11-23T18:57:37Z",
+  "id": "nyu-2451-33918",
+  "nyu_addl_dspace_s": "34744",
+  "locn_geometry": "ENVELOPE(73.9164962768555, 134.312316894531, 53.3699378967285, 18.2233543395996)",
+  "gbl_indexYear_im": [
+    2010
+  ]
+}

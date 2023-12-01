@@ -1,0 +1,50 @@
+{
+  "dct_description_sm": [
+    "This layer is a subset of the Census TIGER county file, modified by subtracting a subset of the Census TIGER water layer (a_water_coastal) from it to create land-based boundaries. It is the only layer in the database that was not re-projected to local state plane; it uses the original geographic coordinate system that Census layers are projected in, NAD 83. It is provided for users as a frame of reference for plotting local longitude and latitude data, which can subsequently be saved as geographic features and converted to local state plane. The unique ID is bcode; the FIPS state-county code."
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "http://hdl.handle.net/2451/34515"
+  ],
+  "dct_language_sm": [
+    "English"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Census",
+    "Administrative bounaries"
+  ],
+  "dct_title_s": "2010 New York City Boroughs",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_isPartOf_sm": [
+
+  ],
+  "schema_provider_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34515\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/74714/nyu_2451_34515.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "New York City"
+  ],
+  "dct_temporal_sm": [
+    "2010"
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceType_sm": [
+    "Polygon data"
+  ],
+  "gbl_wxsIdentifier_s": "sdr:nyu_2451_34515",
+  "gbl_mdModified_dt": "2020-11-25T08:00:43Z",
+  "id": "nyu-2451-34515",
+  "nyu_addl_dspace_s": "35422",
+  "locn_geometry": "ENVELOPE(-74.2556640887564, -73.700009054899, 40.9157739339836, 40.4960925239255)",
+  "gbl_indexYear_im": [
+    2010
+  ],
+  "dct_publisher_sm": [
+    ""
+  ]
+}
