@@ -1,0 +1,51 @@
+{
+  "dct_description_sm": [
+    "This polygon shapefile represents School Board Districts for New Orleans, LA in 2018. Orleans Parish School Board Districts as adopted by OPSB on February 28, 2012. The Board adopted the Alternative Amended Plan with two changes recommended from the floor. The first change being that Precint 6-8 be moved from District 3 to District 7. The second change being that Precinct 15-13 be moved from District 7 to District 4. These districts are derived from the updated precincts provided by the New Orleans City Council following the 2010 census redistricting. This file was downloaded on December, 2018 by NYU Data Services. It was originally represented on the New Orleans Open Data Socrata portal as catalog record pzk5-bjf6"
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "http://hdl.handle.net/2451/43842"
+  ],
+  "dct_language_sm": [
+    "English"
+  ],
+  "dct_publisher_sm": [
+    ""
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Education",
+    "Communities",
+    "School districts"
+  ],
+  "dct_title_s": "School Board Districts for New Orleans, LA, 2018",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_isPartOf_sm": [
+    "New Orleans Open Data"
+  ],
+  "schema_provider_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/43842\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/88302/nyu_2451_43842.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "New Orleans, Louisiana, United States"
+  ],
+  "dct_temporal_sm": [
+    "2018"
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceType_sm": [
+    "Polygon data"
+  ],
+  "gbl_wxsIdentifier_s": "sdr:nyu_2451_43842",
+  "gbl_mdModified_dt": "2019-05-13T14:36:06Z",
+  "id": "nyu-2451-43842",
+  "nyu_addl_dspace_s": "45013",
+  "locn_geometry": "ENVELOPE(-90.140074, -89.62505, 30.199332, 29.866661)",
+  "gbl_indexYear_im": [
+    2018
+  ]
+}

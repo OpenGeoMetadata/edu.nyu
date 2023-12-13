@@ -1,0 +1,56 @@
+{
+  "dct_description_sm": [
+    "This polygon shapefile layer represents the Hurricane Evacuation Zones that are determined by New York City Emergency Management and represent varying threat levels of coastal flooding resulting from storm surge. Hurricane evacuation zones should not be confused with flood insurance risk zones, which are designated by FEMA and available in the form of Flood Insurance Rate Maps (FIRMs)."
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "http://hdl.handle.net/2451/41662"
+  ],
+  "dct_language_sm": [
+    "English"
+  ],
+  "dct_publisher_sm": [
+    "New York (City). Department of City Planning"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Hurricanes",
+    "Evacuation of civilians",
+    "Disasters",
+    "Emergency management"
+  ],
+  "dct_title_s": "2017 New York City Hurricane Evacuation Zones",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_isPartOf_sm": [
+    "Bytes of the Big Apple"
+  ],
+  "dct_issued_s": "2017",
+  "schema_provider_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/41662\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/84157/nyu_2451_41662.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\",\"http://lccn.loc.gov/sh85035852\":\"https://archive.nyu.edu/retrieve/84184/nyu_2451_41662_doc.zip\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "New York, New York, United States"
+  ],
+  "dct_temporal_sm": [
+    "2017"
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceType_sm": [
+    "Polygon data"
+  ],
+  "gbl_wxsIdentifier_s": "sdr:nyu_2451_41662",
+  "gbl_mdModified_dt": "2018-05-22T16:34:28Z",
+  "id": "nyu-2451-41662",
+  "nyu_addl_dspace_s": "42722",
+  "nyu_addl_format_sm": [
+    "Shapefile"
+  ],
+  "locn_geometry": "ENVELOPE(-74.0006413059924, -73.9549275741795, 40.7866796405202, 40.6837408183463)",
+  "gbl_indexYear_im": [
+    2017
+  ]
+}

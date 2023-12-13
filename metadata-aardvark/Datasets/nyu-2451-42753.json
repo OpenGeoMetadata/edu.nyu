@@ -1,0 +1,48 @@
+{
+  "dct_description_sm": [
+    "This point shapefile layer contains features and attributes for real property tax parcels in Wyoming County, NY for the year of 2004. These points represent the visual center of the parcel on a tax map; the points and associated attribute data on property ownership, assessed land value, and taxation status were extracted from local government assessment rolls. Municipalities are required by statute (Article 15) of the Real Property Tax Laws to submit Assessment Roll files after their final roll date each year. Data is submitted in various formats using a variety of media from each municipality to the Office of Real Property Services (ORPS). The data is reformatted into a standard structure and stored on the agency's Sybase database server for use in establishing equalization rates. This specific data layer was originally hosted on the NYS GIS Clearinghouse in .e00 Arcinfo interchange format and was converted into a shapefile by Michelle Thompson of NYU Data Services in June, 2018. The associated documentation was not available for this year, but attribute variables have been inferred from the Real Property Data metadata file. Points that fall outside of the county boundaries are data capture errors or geocoding errors and are marked within the attribute table. Data Services has created a simplifed codebook to assist with the interpretation and use of this data."
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "http://hdl.handle.net/2451/42753"
+  ],
+  "dct_language_sm": [
+    "English"
+  ],
+  "dct_publisher_sm": [
+    "New York (State). Department of Taxation and Finance"
+  ],
+  "dct_accessRights_s": "Restricted",
+  "dct_subject_sm": [
+    "Land value taxation",
+    "Property",
+    "Tax assessment"
+  ],
+  "dct_title_s": "Wyoming County, NY Real Property Tax Parcel Data, 2004",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_isPartOf_sm": [
+    "NYS GIS Clearinghouse"
+  ],
+  "schema_provider_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/42753\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/85946/nyu_2451_42753.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\",\"http://lccn.loc.gov/sh85035852\":\"https://archive.nyu.edu/retrieve/86209/nyu_2451_42753_doc.zip\",\"http://www.w3.org/1999/xhtml\":\"https://s3.amazonaws.com/sdr-metadata-codebooks/2004_RPS_codebook.html\"}",
+  "dct_spatial_sm": [
+    "Wyoming County, New York, United States"
+  ],
+  "dct_temporal_sm": [
+    "2004"
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceType_sm": [
+    "Point data"
+  ],
+  "gbl_wxsIdentifier_s": "sdr:nyu_2451_42753",
+  "gbl_mdModified_dt": "2018-08-28T12:41:57Z",
+  "id": "nyu-2451-42753",
+  "nyu_addl_dspace_s": "43848",
+  "locn_geometry": "ENVELOPE(-78.487957, -77.954624, 42.870283, 42.519167)",
+  "gbl_indexYear_im": [
+    2004
+  ]
+}

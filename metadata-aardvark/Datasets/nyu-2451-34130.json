@@ -1,0 +1,52 @@
+{
+  "dct_creator_sm": [
+
+  ],
+  "dct_description_sm": [
+    "U.S. and Canada Detailed Streets represents streets, highways, roads with and without limited access, secondary and connecting roads, local and rural roads, roads with special characteristics, access ramps, and ferries within the United States and Canada. This data set contains road network features such as arterial classification, speed, and direction of travel. It contains address ranges for all addressable features with addresses."
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "http://hdl.handle.net/2451/34130"
+  ],
+  "dct_language_sm": [
+    "English"
+  ],
+  "dct_publisher_sm": [
+    "Environmental Systems Research Institute (Redlands, Calif.)"
+  ],
+  "dct_accessRights_s": "Restricted",
+  "dct_subject_sm": [
+    "Streets",
+    "Roads",
+    "Transportation"
+  ],
+  "dct_title_s": "2010 U.S. and Canada Detailed Streets",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_isPartOf_sm": [
+    "ESRI 10 Streets"
+  ],
+  "schema_provider_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34130\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/73237/nyu_2451_34130.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\"}",
+  "dct_spatial_sm": [
+    "United States of America",
+    "Canada"
+  ],
+  "dct_temporal_sm": [
+    "2010"
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceType_sm": [
+    "Line data"
+  ],
+  "gbl_wxsIdentifier_s": "sdr:nyu_2451_34130",
+  "gbl_mdModified_dt": "2016-01-30T04:03:48Z",
+  "id": "nyu-2451-34130",
+  "nyu_addl_dspace_s": "34975",
+  "locn_geometry": "ENVELOPE(-136.850489091, -52.622456364, 76.427236364, 41.053699091)",
+  "gbl_indexYear_im": [
+    2010
+  ]
+}

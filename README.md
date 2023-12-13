@@ -1,36 +1,24 @@
 # NYU Libraries GeoBlacklight Metadata Repository
 
-This repository is the most current source for geospatial metadata housed within the NYU Libraries collection, the [Spatial Data Repository](geo.nyu.edu). We encourage any institution to index our metadata into their own discovery environment(s).
+![GitHub Workflow Status (with event)](https://img.shields.io/github/actions/workflow/status/nyu-dataservices/gis-metadata-staging/lint.yml?style=for-the-badge&label=nyu%20staging%20records&link=https%3A%2F%2Fgithub.com%2FNYU-DataServices%2Fgis-metadata-staging%2Factions%2Fworkflows%2Flint.yml) &nbsp;
+![GitHub Workflow Status (with event)](https://img.shields.io/github/actions/workflow/status/opengeometadata/edu.nyu/lint.yml?style=for-the-badge&label=ogm%20prod%20records&link=https%3A%2F%2Fgithub.com%2Fopengeometadata%2Fedu.nyu%2Factions%2Fworkflows%2Flint.yml)
 
-#### Metadata validation checks
 
-Our metadata is validated to be in compliance with the current [GeoBlacklight 1.0 schema](https://github.com/geoblacklight/geoblacklight/blob/master/schema/geoblacklight-schema.md) through Travis-CI. Click the "build-failing" button to see which of our records (if any) have validation errors.
+[OpenGeoMetadata/edu.nyu](https://github.com/OpenGeoMetadata/edu.nyu) is the canonical, most current source for geospatial metadata housed within the NYU Libraries collection in our [Spatial Data Repository](https://geo.nyu.edu). 
 
-[![Build Status](https://api.travis-ci.org/OpenGeoMetadata/edu.nyu.svg?branch=master)](https://travis-ci.org/OpenGeoMetadata/edu.nyu)
+👀 You might currently be looking at [OpenGeoMetadata/edu.nyu](https://github.com/OpenGeoMetadata/edu.nyu) or at NYU's internal fork [NYU-DataServices/gis-metadata-staging](https://github.com/NYU-DataServices/gis-metadata-staging) — the latter is where NYU staff works on in-process records to lint and stage in our staging instance.
 
-#### Contribution and enhancement status
+## Contributing
 
-![Open for metadata contributions](https://upload.wikimedia.org/wikipedia/commons/archive/0/0e/20170421060213%21Location_dot_green.svg) *Open for metadata contributions and enhancements*
+> *Note: [OpenGeoMetadata/edu.nyu](https://github.com/OpenGeoMetadata/edu.nyu) should not committed to by NYU staff directly—it should receive pull requests from [NYU-DataServices/gis-metadata-staging](https://github.com/NYU-DataServices/gis-metadata-staging) to ensure parity.*
 
-#### Suggested enhancements our existing metadata
 
-There are many potential ways members of the GeoBlacklight community can enhance our metadata. Some examples include (but are not limited to):
-* Fixing typos
-* Normalizing string values for subjects and placenames
-* Adding placename strings to records
-* Enhancing descriptions
-* Correcting errors on bounding box values
-* Suggesting references for contextual information
-* Submitting fixes for invalid records
+See: NYULibraries/sdr-documentation — [Add and validate GeoJSON records in GitHub
+](https://github.com/NYULibraries/sdr-documentation/blob/main/curate/add-json-records.md)
 
-#### Preferred process for submitting enhancements
 
-We prefer that enhancements be consolidated into as few branches as possible. Here is a suggested workflow:
-* Fork this reports
-* Make all changes to the files locally while preserving our naming convention
-* Submit a pull request based on your fork and describe the nature of your changes
-* Assign the review task to Andrew Battista or Taylor Hixson
 
-#### Contact Information
 
-If you have any questions about remediating this metadata or would like to discuss larger-scale remediation projects, please reach out to Andrew Battista or Taylor Hixson or create an issue within this repository.
+
+
+

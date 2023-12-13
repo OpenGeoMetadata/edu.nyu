@@ -1,0 +1,49 @@
+{
+  "dct_description_sm": [
+    "This polygon shapefile represents US Census data for New Orleans, LA in 2015. This file was downloaded on December, 2018 by NYU Data Services. It was originally represented on the New Orleans Open Data Socrata portal as catalog record u4yh-3wk9"
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "http://hdl.handle.net/2451/43860"
+  ],
+  "dct_language_sm": [
+    "English"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Census"
+  ],
+  "dct_title_s": "Census - 2010 for New Orleans, LA, 2015",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_isPartOf_sm": [
+
+  ],
+  "schema_provider_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/43860\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/bitstream/2451/43860/1/nyu_2451_43860.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "New Orleans, Louisiana, United States"
+  ],
+  "dct_temporal_sm": [
+    "2015"
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceType_sm": [
+    "Polygon data"
+  ],
+  "gbl_wxsIdentifier_s": "sdr:nyu_2451_43860",
+  "gbl_mdModified_dt": "2020-11-25T08:00:43Z",
+  "id": "nyu-2451-43860",
+  "nyu_addl_dspace_s": "45031",
+  "locn_geometry": "ENVELOPE(-90.140074, -89.62505, 30.199332, 29.866661)",
+  "gbl_indexYear_im": [
+    2015
+  ],
+  "dct_publisher_sm": [
+    ""
+  ]
+}

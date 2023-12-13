@@ -1,0 +1,50 @@
+{
+  "dct_creator_sm": [
+
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "http://hdl.handle.net/2451/34043"
+  ],
+  "dct_language_sm": [
+    "English"
+  ],
+  "dct_publisher_sm": [
+    "New York (City). Department of City Planning"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Buildings",
+    "Urban density"
+  ],
+  "dct_title_s": "2010 Buildings",
+  "dct_isPartOf_sm": [
+
+  ],
+  "schema_provider_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34043\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/73388/nyu_2451_34043.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\"}",
+  "dct_spatial_sm": [
+    "New York City, New York, United States"
+  ],
+  "dct_temporal_sm": [
+    "2010"
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceType_sm": [
+    "Polygon data"
+  ],
+  "gbl_wxsIdentifier_s": "sdr:nyu_2451_34043",
+  "gbl_mdModified_dt": "2016-01-30T04:04:06Z",
+  "id": "nyu-2451-34043",
+  "nyu_addl_dspace_s": "34886",
+  "locn_geometry": "ENVELOPE(-74.2554954087355, -73.7000624710617, 40.9149171168107, 40.4984293175931)",
+  "gbl_indexYear_im": [
+    2010
+  ],
+  "gbl_resourceClass_sm": [
+    "Other"
+  ],
+  "dct_description_sm": [
+    ""
+  ]
+}

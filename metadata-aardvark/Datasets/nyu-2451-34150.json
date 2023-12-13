@@ -1,0 +1,51 @@
+{
+  "dct_creator_sm": [
+
+  ],
+  "dct_description_sm": [
+    "Europe NUTS 1 Demographics represents areas of aggregated socioeconomic and demographic information at the NUTS 1 level for Europe. NUTS 1 units have an average population between three million and seven million people. NUTS (Nomenclature des UnitaosTerritoriales Statistiques) refers to the Nomenclature of Territorial Units for Statistics. For more information: http://ec.europa.eu/eurostat/ramon/nuts/home_regions_en.html."
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "http://hdl.handle.net/2451/34150"
+  ],
+  "dct_language_sm": [
+    "English"
+  ],
+  "dct_publisher_sm": [
+    "Environmental Systems Research Institute (Redlands, Calif.)"
+  ],
+  "dct_accessRights_s": "Restricted",
+  "dct_subject_sm": [
+    "Demography",
+    "Population",
+    "Europe--Social conditions"
+  ],
+  "dct_title_s": "2010 Europe NUTS 1 Demographics",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_isPartOf_sm": [
+    "ESRI 10 Europe"
+  ],
+  "schema_provider_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34150\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/73191/nyu_2451_34150.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\"}",
+  "dct_spatial_sm": [
+    "Europe"
+  ],
+  "dct_temporal_sm": [
+    "2010"
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceType_sm": [
+    "Polygon data"
+  ],
+  "gbl_wxsIdentifier_s": "sdr:nyu_2451_34150",
+  "gbl_mdModified_dt": "2016-01-30T04:03:44Z",
+  "id": "nyu-2451-34150",
+  "nyu_addl_dspace_s": "34995",
+  "locn_geometry": "ENVELOPE(-31.268789, 69.068487, 77.001793998, 27.638029)",
+  "gbl_indexYear_im": [
+    2010
+  ]
+}

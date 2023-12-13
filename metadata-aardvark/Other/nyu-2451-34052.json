@@ -1,0 +1,51 @@
+{
+  "dct_creator_sm": [
+
+  ],
+  "dct_description_sm": [
+    "U.S. and Canada Highways represents the major highways of the United States and Canada. These include interstates and inter-metropolitan area highways and major roads."
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "http://hdl.handle.net/2451/34052"
+  ],
+  "dct_language_sm": [
+    "English"
+  ],
+  "dct_publisher_sm": [
+    "Environmental Systems Research Institute (Redlands, Calif.)"
+  ],
+  "dct_accessRights_s": "Restricted",
+  "dct_subject_sm": [
+    "Roads",
+    "Transportation"
+  ],
+  "dct_title_s": "2010 U.S. and Canada Highways",
+  "dct_isPartOf_sm": [
+    "ESRI 10 StreetMap"
+  ],
+  "schema_provider_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34052\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/73373/nyu_2451_34052.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\"}",
+  "dct_spatial_sm": [
+    "United States of America",
+    "Canada"
+  ],
+  "dct_temporal_sm": [
+    "2010"
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceType_sm": [
+    "Line data"
+  ],
+  "gbl_wxsIdentifier_s": "sdr:nyu_2451_34052",
+  "gbl_mdModified_dt": "2016-01-30T04:04:04Z",
+  "id": "nyu-2451-34052",
+  "nyu_addl_dspace_s": "34895",
+  "locn_geometry": "ENVELOPE(-166.547319, -52.681706, 68.42358098, 17.955365)",
+  "gbl_indexYear_im": [
+    2010
+  ],
+  "gbl_resourceClass_sm": [
+    "Other"
+  ]
+}

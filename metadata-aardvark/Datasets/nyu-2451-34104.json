@@ -1,0 +1,51 @@
+{
+  "dct_creator_sm": [
+
+  ],
+  "dct_description_sm": [
+    "World Airports represents the airports of the world."
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "http://hdl.handle.net/2451/34104"
+  ],
+  "dct_language_sm": [
+    "English"
+  ],
+  "dct_publisher_sm": [
+    "Environmental Systems Research Institute (Redlands, Calif.)"
+  ],
+  "dct_accessRights_s": "Restricted",
+  "dct_subject_sm": [
+    "Airports",
+    "Air travel",
+    "Transportation"
+  ],
+  "dct_title_s": "2010 World Airports",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_isPartOf_sm": [
+    "ESRI 10 World"
+  ],
+  "schema_provider_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34104\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/73298/nyu_2451_34104.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\"}",
+  "dct_spatial_sm": [
+    "World"
+  ],
+  "dct_temporal_sm": [
+    "2010"
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceType_sm": [
+    "Point data"
+  ],
+  "gbl_wxsIdentifier_s": "sdr:nyu_2451_34104",
+  "gbl_mdModified_dt": "2016-01-30T04:03:54Z",
+  "id": "nyu-2451-34104",
+  "nyu_addl_dspace_s": "34948",
+  "locn_geometry": "ENVELOPE(-177.380635977, 178.559227943, 78.246111115, -54.843278051)",
+  "gbl_indexYear_im": [
+    2010
+  ]
+}

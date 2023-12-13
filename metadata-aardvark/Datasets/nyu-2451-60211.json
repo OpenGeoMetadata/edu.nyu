@@ -1,0 +1,65 @@
+{
+  "dct_description_sm": [
+    "This polygon shapefile represents the constituency information for the state parliamentary election data in India in 2014. It contains data on elections and voters."
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "http://hdl.handle.net/2451/60211"
+  ],
+  "dct_language_sm": [
+    "English"
+  ],
+  "dct_publisher_sm": [
+    "ML InfoMap (Firm)"
+  ],
+  "dct_accessRights_s": "Restricted",
+  "dct_subject_sm": [
+    "Elections",
+    "Political Parties",
+    "Voting",
+    "Politics and government",
+    "Boundaries",
+    "Society"
+  ],
+  "dct_title_s": "Parliamentary Election Map of India : digital map of parliamentary boundaries of India, 2014",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_isPartOf_sm": [
+    "Parliamentary Map"
+  ],
+  "schema_provider_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/60211\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/120215/nyu_2451_60211.zip\",\"http://lccn.loc.gov/sh85035852\":\"https://archive.nyu.edu/retrieve/120787/nyu_2451_60211_doc.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "India",
+    "Delhi (India : Union Territory)",
+    "Gujarat (India)",
+    "Haryana (India)",
+    "Karnataka (India)",
+    "Kerala (India)",
+    "Maharashtra (India)",
+    "Punjab (India)",
+    "Rajasthan (India)",
+    "Tamil Nadu (India)",
+    "Uttar Pradesh (India)",
+    "West Bengal (India)"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceType_sm": [
+    "Polygon data"
+  ],
+  "gbl_wxsIdentifier_s": "sdr:nyu_2451_60211",
+  "gbl_mdModified_dt": "2019-08-16T10:14:11Z",
+  "id": "nyu-2451-60211",
+  "nyu_addl_dspace_s": "61177",
+  "locn_geometry": "ENVELOPE(68.110092, 97.409103, 37.050301, 7.209741)",
+  "gbl_indexYear_im": [
+    2014
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "dct_creator_sm": [
+
+  ],
+  "dct_description_sm": [
+    "This point shapefile represents some locations in the United Arab Emirates for outdoor tourism activities such as birdwatching, camping, hiking, and dolphin spotting. This data was originally collected and hosted by the United Arab Emirates Ministry of Climate Change and Environment (MOCCAE). The data was accessed and downloaded from the MOCCAE's ArcGIS REST services directory in December 2018. The actual collection date and temporal coverage of the data is unknown and may vary. "
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "http://hdl.handle.net/2451/44231"
+  ],
+  "dct_language_sm": [
+    "English"
+  ],
+  "dct_publisher_sm": [
+    "United Arab Emirates Ministry of Climate Change and Environment"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Agricultural Sites",
+    "Wilderness areas",
+    "Ecological districts",
+    "Tourism--United Arab Emirates"
+  ],
+  "dct_title_s": "Ecotourism Locations in the United Arab Emirates 2018",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_isPartOf_sm": [
+    "United Arab Emirates Open Data"
+  ],
+  "dct_issued_s": "12/08/2018",
+  "schema_provider_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/44231\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/123810/nyu_2451_44231.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "United Arab Emirates"
+  ],
+  "dct_temporal_sm": [
+    "2018"
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceType_sm": [
+    "Point data"
+  ],
+  "gbl_wxsIdentifier_s": "sdr:nyu_2451_44231",
+  "gbl_mdModified_dt": "2020-05-03T03:27:25Z",
+  "id": "nyu-2451-44231",
+  "nyu_addl_dspace_s": "45381",
+  "nyu_addl_format_sm": [
+    "Shapefile"
+  ],
+  "locn_geometry": "ENVELOPE(51.757190, 55.757317, 24.552725, 22.896560)",
+  "gbl_indexYear_im": [
+    2018
+  ]
+}

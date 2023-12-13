@@ -1,0 +1,65 @@
+{
+  "dct_creator_sm": [
+    "GIS Lab, Newman Library, Baruch CUNY"
+  ],
+  "dct_description_sm": [
+    "This point layer is an extract of NYC's Selected Facilities and Program Sites database that has been converted to a spatial layer. The data was taken \"as is\" and was not verified for accuracy or omissions. It includes all facilities coded as public libraries (factypes 1401 and 1402). The capacity field is the number of books that circulated in fiscal year 2014 as reported by the individual library systems. The unique ID is id, a field created by the City. This layer was created as part of the NYC Geodatabase (NYC GDB) project, a resource designed for basic geographic analysis and thematic mapping within the five boroughs of New York City. "
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "http://hdl.handle.net/2451/34495"
+  ],
+  "dct_language_sm": [
+    "English"
+  ],
+  "dct_publisher_sm": [
+    "Newman Library (Bernard M. Baruch College)"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Libraries",
+    "Public libraries"
+  ],
+  "dct_title_s": "2015 New York City Public Libraries",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_isPartOf_sm": [
+    "NYC Geodatabase (version jan2016)"
+  ],
+  "dct_issued_s": "1/15/2016",
+  "schema_provider_s": "Baruch CUNY",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34495\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"http://metadata.geo.nyu.edu/records/edu.nyu/handle/2451/34495/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/74694/nyu_2451_34495.zip\",\"http://lccn.loc.gov/sh85035852\":\"https://archive.nyu.edu/retrieve/74748/nyu_2451_34495_doc.zip\"}",
+  "dct_source_sm": [
+    "nyu-2451-34635",
+    "nyu-2451-34636"
+  ],
+  "dct_spatial_sm": [
+    "New York, New York, United States",
+    "Bronx County, New York, United States",
+    "Kings County, New York, United States",
+    "New York County, New York, United States",
+    "Queens County, New York, United States",
+    "Richmond County, New York, United States",
+    "Borough of Bronx, New York, United States",
+    "Borough of Brooklyn, New York, United States",
+    "Borough of Manhattan, New York, United States",
+    "Borough of Queens, New York, United States",
+    "Borough of Staten Island, New York, United States"
+  ],
+  "dct_temporal_sm": [
+    "2015"
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceType_sm": [
+    "Point data"
+  ],
+  "gbl_wxsIdentifier_s": "sdr:nyu_2451_34495",
+  "gbl_mdModified_dt": "2016-05-02T18:21:06Z",
+  "id": "nyu-2451-34495",
+  "nyu_addl_dspace_s": "35400",
+  "locn_geometry": "ENVELOPE(-74.2441486673535, -73.7148534497738, 40.9036852470565, 40.5095964628365)",
+  "gbl_indexYear_im": [
+    2015
+  ]
+}

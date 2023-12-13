@@ -1,0 +1,57 @@
+{
+  "dct_creator_sm": [
+
+  ],
+  "dct_description_sm": [
+    "This point shapefile represents the starting point of each Citi Bike trip in New York City on September 1, 2017 from 8:00 AM to 8:10 AM only. There are 724 total trips represented on this layer, and the ending point of each trip is not represented on this layer. This data was harvested in November 2017 from the System Data page of the Citi Bike website (https://www.citibikenyc.com/system-data). It is a redaction of data on each Citi Bike trip that is released by Motivate International, Inc. on a monthly basis. Visit the System Data homepage for more frequent updates, and consult the documentation for a full list of variables within this dataset."
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "http://hdl.handle.net/2451/41690"
+  ],
+  "dct_language_sm": [
+    "English"
+  ],
+  "dct_publisher_sm": [
+    ""
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Cycling",
+    "Transportation"
+  ],
+  "dct_title_s": "2010 Ten Minutes of Citi Bike Trips in New York City",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_issued_s": "",
+  "schema_provider_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/41690\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "New York City"
+  ],
+  "dct_temporal_sm": [
+    "2017"
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceType_sm": [
+    "Point data"
+  ],
+  "gbl_wxsIdentifier_s": "sdr:nyu_2451_41690",
+  "gbl_mdModified_dt": "2020-11-23T10:29:13Z",
+  "id": "nyu-2451-41690",
+  "nyu_addl_dspace_s": "41583",
+  "nyu_addl_format_sm": [
+    "Shapefile"
+  ],
+  "locn_geometry": "ENVELOPE(-74.2556640887564, -73.700009054899, 40.9157739339836, 40.4960925239255)",
+  "gbl_indexYear_im": [
+    2017
+  ]
+}

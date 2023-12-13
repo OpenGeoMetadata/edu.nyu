@@ -1,0 +1,59 @@
+{
+  "dct_creator_sm": [
+    "Jenny Kijowski"
+  ],
+  "dct_description_sm": [
+    "This point shapefile layer represents locations of graffiti and street art collected by students during the Spring 2016 section of Art and Politics in the City at New York University. Students explored neighborhoods in New York and Buenos Aires and recorded pictures of graffiti and art with FulcrumApp. The data includes place notes, descriptions, categories for the art, and photos. A documentation file is available with the archival copy of the data."
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "http://hdl.handle.net/2451/34596"
+  ],
+  "dct_language_sm": [
+    "English"
+  ],
+  "dct_accessRights_s": "Restricted",
+  "dct_subject_sm": [
+    "Graffiti",
+    "Graffiti artists",
+    "Art",
+    "Politics and culture",
+    "Cities and towns",
+    "Public spaces in art",
+    "Public spaces",
+    "Vandalism"
+  ],
+  "dct_title_s": "2016 Spring Semester Student Data for Art and Politics in the City",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_isPartOf_sm": [
+    "Art and Politics in the City",
+    "NYU Research Data"
+  ],
+  "dct_issued_s": "2016",
+  "schema_provider_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34596\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/74773/nyu_2451_34596.txt\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\"}",
+  "dct_spatial_sm": [
+    "New York, New York, United States",
+    "Buenos Aires, Buenos Aires F.D., Argentina"
+  ],
+  "dct_temporal_sm": [
+    "2016"
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceType_sm": [
+    "Point data"
+  ],
+  "gbl_wxsIdentifier_s": "sdr:nyu_2451_34596",
+  "gbl_mdModified_dt": "2016-05-04T20:45:15Z",
+  "id": "nyu-2451-34596",
+  "nyu_addl_dspace_s": "35529",
+  "locn_geometry": "ENVELOPE(-74.00946898, -58.36976051, 40.8045333, -34.62264041)",
+  "gbl_indexYear_im": [
+    2016
+  ],
+  "dct_publisher_sm": [
+    ""
+  ]
+}

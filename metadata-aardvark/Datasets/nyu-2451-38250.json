@@ -1,0 +1,56 @@
+{
+  "dct_creator_sm": [
+    "Bonnie Lawrence"
+  ],
+  "dct_description_sm": [
+    "This point shapefile represents locations of street art, graffiti, murals, and other scenes of the Black Lives Matter movement that took place in Soho, New York City in early-June, 2020. The images were captured in the days following the murder of George Floyd, who was killed while in police custody in Minneapolis, MN on May 25, 2020. Many images depict shuttered storefronts with graffiti, murals, and artwork that expresses a celebration of Black life and outrage for the violence and brutality Black people have experienced at the hands of the police. This shapefile contains URL references to the images, and the images can be downloaded by accessing the preservation record. See the documentation for a codebook and links to the NYU Data Services Black Lives Matter page, with associated teaching resources, including an ESRI StoryMap and related socio-demographic data."
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "http://hdl.handle.net/2451/38250"
+  ],
+  "dct_language_sm": [
+    "English"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Graffiti",
+    "Police brutality",
+    "Political activists",
+    "Public art"
+  ],
+  "dct_title_s": "Photos of Artwork of the Black Lives Matter Movement in Soho, New York City, 2020",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_isPartOf_sm": [
+    "Black Lives Matter Collection"
+  ],
+  "dct_issued_s": "11/25/2020",
+  "schema_provider_s": "NYU",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/38250\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/bitstream/2451/38250/2/nyu_2451_38250.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\",\"http://lccn.loc.gov/sh85035852\":\"https://archive.nyu.edu/bitstream/2451/38250/4/nyu_2451_38250_doc.zip\"}",
+  "dct_spatial_sm": [
+    "SoHo, New York, United States"
+  ],
+  "dct_temporal_sm": [
+    "2020"
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceType_sm": [
+    "Point data"
+  ],
+  "gbl_wxsIdentifier_s": "sdr:nyu_2451_38250",
+  "gbl_mdModified_dt": "2021-03-24T12:49:08Z",
+  "id": "nyu-2451-38250",
+  "nyu_addl_dspace_s": "39234",
+  "nyu_addl_format_sm": [
+    "Shapefile"
+  ],
+  "locn_geometry": "ENVELOPE(-74.0031452881, -73.985418915, 40.7339507227, 40.7226148587)",
+  "gbl_indexYear_im": [
+    2020
+  ],
+  "dct_publisher_sm": [
+    ""
+  ]
+}
