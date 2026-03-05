@@ -1,7 +1,5 @@
 {
-  "dct_creator_sm": [
-
-  ],
+  "dct_creator_sm": [],
   "dct_description_sm": [
     "U.S. and Canada Transportation Terminals represents locations within the United States and Canada for transportation terminals such as bus terminals, train stations, marine and ferry terminals, and other significant transportation nodes."
   ],
@@ -10,7 +8,7 @@
     "http://hdl.handle.net/2451/34068"
   ],
   "dct_language_sm": [
-    "English"
+    "eng"
   ],
   "dct_publisher_sm": [
     "Environmental Systems Research Institute (Redlands, Calif.)"

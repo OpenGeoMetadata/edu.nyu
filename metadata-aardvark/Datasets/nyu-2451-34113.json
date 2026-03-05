@@ -1,7 +1,5 @@
 {
-  "dct_creator_sm": [
-
-  ],
+  "dct_creator_sm": [],
   "dct_description_sm": [
     "World Gazetteer represents the locations and proper names for map features around the world. The gazetteer includes attribute and annotation name information from various layers of the Digital Chart of the World."
   ],
@@ -10,7 +8,7 @@
     "http://hdl.handle.net/2451/34113"
   ],
   "dct_language_sm": [
-    "English"
+    "eng"
   ],
   "dct_publisher_sm": [
     "Environmental Systems Research Institute (Redlands, Calif.)"

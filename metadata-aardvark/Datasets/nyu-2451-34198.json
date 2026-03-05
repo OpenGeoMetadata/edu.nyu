@@ -1,7 +1,5 @@
 {
-  "dct_creator_sm": [
-
-  ],
+  "dct_creator_sm": [],
   "dct_description_sm": [
     "This layers represents the boundaries of Buenos Aires Comunas. Downloaded from http://data.buenosaires.gob.ar/dataset/comunas.  Authored by Modernization- Agency Ministry of Information-Systems Unit Geographic Information Systems"
   ],
@@ -10,7 +8,7 @@
     "http://hdl.handle.net/2451/34198"
   ],
   "dct_language_sm": [
-    "Spanish"
+    "spa"
   ],
   "dct_publisher_sm": [
     "Buenos Aires (Argentina)"

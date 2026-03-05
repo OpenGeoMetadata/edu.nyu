@@ -12,20 +12,14 @@
   "dct_isPartOf_sm": [
     "PollMap of India"
   ],
-  "dct_issued_s": 2013,
+  "dct_issued_s": "2013",
   "dct_language_sm": [
     "eng"
   ],
   "dct_publisher_sm": [
     "ML InfoMap (Firm)"
   ],
-  "dct_references_s": {
-    "http://schema.org/url": "http://hdl.handle.net/2451/34398",
-    "http://www.opengis.net/def/serviceType/ogc/wfs": "https://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs",
-    "http://www.opengis.net/def/serviceType/ogc/wms": "https://maps-restricted.geo.nyu.edu/geoserver/sdr/wms",
-    "http://schema.org/downloadUrl": "https://archive.nyu.edu/retrieve/73407/nyu_2451_34398.zip",
-    "http://lccn.loc.gov/sh85035852": "https://archive.nyu.edu/retrieve/78650/nyu_2451_34398_doc.zip"
-  },
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34398\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/73407/nyu_2451_34398.zip\",\"http://lccn.loc.gov/sh85035852\":\"https://archive.nyu.edu/retrieve/78650/nyu_2451_34398_doc.zip\"}",
   "dct_spatial_sm": [
     "Meghalaya, India",
     "Bājengdoba, Meghalaya, India",
@@ -65,6 +59,6 @@
   ],
   "gbl_wxsIdentifier_s": "sdr:nyu_2451_34398",
   "locn_geometry": "ENVELOPE(89.84724984, 92.80436004, 26.10168003, 25.02029997)",
-  "nyu_addl_dspace_s": 35280,
+  "nyu_addl_dspace_s": "35280",
   "schema_provider_s": "NYU"
 }

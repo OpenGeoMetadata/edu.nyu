@@ -7,7 +7,7 @@
     "http://hdl.handle.net/2451/41650"
   ],
   "dct_language_sm": [
-    "English"
+    "eng"
   ],
   "dct_publisher_sm": [
     "New York (City). Department of City Planning"
@@ -27,9 +27,7 @@
   "dct_issued_s": "2017",
   "schema_provider_s": "NYU",
   "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/41650\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/84146/nyu_2451_41650.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\",\"http://lccn.loc.gov/sh85035852\":\"https://archive.nyu.edu/retrieve/84168/nyu_2451_41650_doc.zip\"}",
-  "dct_source_sm": [
-
-  ],
+  "dct_source_sm": [],
   "dct_spatial_sm": [
     "New York, New York, United States"
   ],

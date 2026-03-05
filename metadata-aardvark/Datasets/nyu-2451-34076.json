@@ -1,7 +1,5 @@
 {
-  "dct_creator_sm": [
-
-  ],
+  "dct_creator_sm": [],
   "dct_description_sm": [
     "U.S. National Atlas Water Feature Areas represents the water feature areas (for example, bays, glaciers, lakes, and swamps) of the United States."
   ],
@@ -10,7 +8,7 @@
     "http://hdl.handle.net/2451/34076"
   ],
   "dct_language_sm": [
-    "English"
+    "eng"
   ],
   "dct_publisher_sm": [
     "Environmental Systems Research Institute (Redlands, Calif.)"

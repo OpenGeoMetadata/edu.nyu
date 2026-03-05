@@ -1,7 +1,5 @@
 {
-  "dct_creator_sm": [
-
-  ],
+  "dct_creator_sm": [],
   "dct_description_sm": [
     "World Named Latitudes and Longitudes represents geographically significant reference latitudes and longitudes for the world such as the equator, tropics, Arctic and Antarctic Circles, prime meridian, and International Date Line."
   ],
@@ -10,7 +8,7 @@
     "http://hdl.handle.net/2451/34114"
   ],
   "dct_language_sm": [
-    "English"
+    "eng"
   ],
   "dct_publisher_sm": [
     "Environmental Systems Research Institute (Redlands, Calif.)"

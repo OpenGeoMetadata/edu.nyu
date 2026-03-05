@@ -1,7 +1,5 @@
 {
-  "dct_creator_sm": [
-
-  ],
+  "dct_creator_sm": [],
   "dct_description_sm": [
     "U.S. ZIP Code Areas (Three-Digit) represents the first three digits of a ZIP Code. The first digit of a five-digit ZIP Code divides the United States into 10 large groups of states numbered from 0 in the Northeast to 9 in the far West. Within these areas, each state is divided into an average of 10 smaller geographical areas, identified by the second and third digits. These digits, in conjunction with the first digit, represent a sectional center facility or a mail processing facility area. These areas are serviced by the U.S. Post Office Sectional Center Facility (SCF). Note that a single SCF often services multiple three-digit areas."
   ],
@@ -10,7 +8,7 @@
     "http://hdl.handle.net/2451/34098"
   ],
   "dct_language_sm": [
-    "English"
+    "eng"
   ],
   "dct_publisher_sm": [
     "Environmental Systems Research Institute (Redlands, Calif.)"

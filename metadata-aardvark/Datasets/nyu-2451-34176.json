@@ -1,7 +1,5 @@
 {
-  "dct_creator_sm": [
-
-  ],
+  "dct_creator_sm": [],
   "dct_description_sm": [
     "U.S. National Transportation Atlas Interstate Highways represents rural and urban interstate highways. U.S. National Transportation Atlas Interstate Highways is part of the National Highway Planning Network, published by the Federal Highway Administration as part of the National Transportation Atlas Databases for the United States."
   ],
@@ -10,7 +8,7 @@
     "http://hdl.handle.net/2451/34176"
   ],
   "dct_language_sm": [
-    "English"
+    "eng"
   ],
   "dct_publisher_sm": [
     "Environmental Systems Research Institute (Redlands, Calif.)"

@@ -1,7 +1,5 @@
 {
-  "dct_creator_sm": [
-
-  ],
+  "dct_creator_sm": [],
   "dct_description_sm": [
     "This layer shows the New York City Board of Elections election districts for the City of New York. These district boundaries represent the redistricting as of the US Census 2010. Downloaded from NYC Dept of City Planning"
   ],
@@ -10,7 +8,7 @@
     "http://hdl.handle.net/2451/34206"
   ],
   "dct_language_sm": [
-    "English"
+    "eng"
   ],
   "dct_accessRights_s": "Public",
   "dct_subject_sm": [

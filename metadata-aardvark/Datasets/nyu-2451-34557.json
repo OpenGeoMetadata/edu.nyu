@@ -1,7 +1,5 @@
 {
-  "dct_creator_sm": [
-
-  ],
+  "dct_creator_sm": [],
   "dct_description_sm": [
     "This polygon shapefile layer represents the service area boundaries for fire companies of the City of New York, clipped to the shoreline. This file was generated from the 16A release of the Department of City Planning's LION file."
   ],
@@ -10,7 +8,7 @@
     "http://hdl.handle.net/2451/34557"
   ],
   "dct_language_sm": [
-    "English"
+    "eng"
   ],
   "dct_publisher_sm": [
     "New York (City). Department of City Planning"

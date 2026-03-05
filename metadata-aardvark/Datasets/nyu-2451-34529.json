@@ -1,7 +1,5 @@
 {
-  "dct_creator_sm": [
-
-  ],
+  "dct_creator_sm": [],
   "dct_description_sm": [
     "This polygon shapefile layer represents NYC zoning districts. These features are continuous over the entire city. They extend to the city limits on land and out to the US Army Corps of Engineers Pierhead lines over water. Zoning district designations are indicated in the ZONEDIST attribute. Note that these zones change frequently, and users may want to consult more recent releases at Bytes of the Big Apple."
   ],
@@ -10,7 +8,7 @@
     "http://hdl.handle.net/2451/34529"
   ],
   "dct_language_sm": [
-    "English"
+    "eng"
   ],
   "dct_publisher_sm": [
     "New York (City). Department of City Planning"

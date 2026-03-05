@@ -12,20 +12,14 @@
   "dct_isPartOf_sm": [
     "PollMap of India"
   ],
-  "dct_issued_s": 2013,
+  "dct_issued_s": "2013",
   "dct_language_sm": [
     "eng"
   ],
   "dct_publisher_sm": [
     "ML InfoMap (Firm)"
   ],
-  "dct_references_s": {
-    "http://schema.org/url": "http://hdl.handle.net/2451/34394",
-    "http://www.opengis.net/def/serviceType/ogc/wfs": "https://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs",
-    "http://www.opengis.net/def/serviceType/ogc/wms": "https://maps-restricted.geo.nyu.edu/geoserver/sdr/wms",
-    "http://schema.org/downloadUrl": "https://archive.nyu.edu/retrieve/73413/nyu_2451_34394.zip",
-    "http://lccn.loc.gov/sh85035852": "https://archive.nyu.edu/retrieve/78646/nyu_2451_34394_doc.zip"
-  },
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34394\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/73413/nyu_2451_34394.zip\",\"http://lccn.loc.gov/sh85035852\":\"https://archive.nyu.edu/retrieve/78646/nyu_2451_34394_doc.zip\"}",
   "dct_spatial_sm": [
     "Karnataka, India",
     "Bangalore, Karnataka, India",
@@ -65,6 +59,6 @@
   ],
   "gbl_wxsIdentifier_s": "sdr:nyu_2451_34394",
   "locn_geometry": "ENVELOPE(74.088096, 78.5886, 18.47382, 11.59294)",
-  "nyu_addl_dspace_s": 35276,
+  "nyu_addl_dspace_s": "35276",
   "schema_provider_s": "NYU"
 }

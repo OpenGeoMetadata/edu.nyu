@@ -1,7 +1,5 @@
 {
-  "dct_creator_sm": [
-
-  ],
+  "dct_creator_sm": [],
   "dct_description_sm": [
     "This line shapefile contains the county boundaries for China."
   ],
@@ -10,7 +8,7 @@
     "http://hdl.handle.net/2451/33915"
   ],
   "dct_language_sm": [
-    "Chinese"
+    "zho"
   ],
   "dct_publisher_sm": [
     "Beijing Hua tong ren shi chang xin xi you xian ze ren gong si"

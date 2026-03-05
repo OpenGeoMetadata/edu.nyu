@@ -1,7 +1,5 @@
 {
-  "dct_creator_sm": [
-
-  ],
+  "dct_creator_sm": [],
   "dct_description_sm": [
     "World Map Background represents grid cells of 30 by 30 degrees that cover the world."
   ],
@@ -10,7 +8,7 @@
     "http://hdl.handle.net/2451/34127"
   ],
   "dct_language_sm": [
-    "English"
+    "eng"
   ],
   "dct_publisher_sm": [
     "Environmental Systems Research Institute (Redlands, Calif.)"

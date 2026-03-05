@@ -1,7 +1,5 @@
 {
-  "dct_creator_sm": [
-
-  ],
+  "dct_creator_sm": [],
   "dct_description_sm": [
     "This layer represents Buenos Aires 2014 population by comunas and barrios. Downloaded from http://www.estadistica.buenosaires.gob.ar/areas/hacienda/sis_estadistico/banco_datos/buscador.php?menu_id=34691"
   ],
@@ -10,7 +8,7 @@
     "http://hdl.handle.net/2451/34201"
   ],
   "dct_language_sm": [
-    "Spanish"
+    "spa"
   ],
   "dct_publisher_sm": [
     "Buenos Aires (Argentina)"

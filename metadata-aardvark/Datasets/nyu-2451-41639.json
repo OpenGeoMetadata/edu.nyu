@@ -1,55 +1,55 @@
 {
-    "id": "nyu-2451-41639",
-    "gbl_wxsIdentifier_s": "sdr:nyu_2451_41639",
-    "schema_provider_s": "NYU",
-    "gbl_resourceClass_sm": [
-        "Datasets"
-    ],
-    "dct_accessRights_s": "Public",
-    "dct_temporal_sm": [
-        "2010"
-    ],
-    "dct_language_sm": [
-        "English"
-    ],
-    "dct_publisher_sm": [
-        "New York (City). Department of City Planning"
-    ],
-    "dct_issued_s": "2017",
-    "dct_spatial_sm": [
-        "New York, New York, United States"
-    ],
-    "gbl_resourceType_sm": [
-        "Polygon data"
-    ],
-    "dct_title_s": "2010 New York City U.S. Congressional Districts (Water Areas Included)",
-    "gbl_indexYear_im": [
-        2010
-    ],
-    "dct_identifier_sm": [
-        "http://hdl.handle.net/2451/41639"
-    ],
-    "dct_creator_sm": [],
-    "nyu_addl_format_sm": [
-        "Shapefile"
-    ],
-    "gbl_mdModified_dt": "2020-11-23T10:29:13Z",
-    "nyu_addl_dspace_s": "42699",
-    "gbl_mdVersion_s": "Aardvark",
-    "dct_references_s": "{\n  \"http://schema.org/url\": \"http://hdl.handle.net/2451/41639\",\n  \"http://schema.org/downloadUrl\": \"https://archive.nyu.edu/bitstream/2451/41639/1/nyu_2451_41639.zip\",\n  \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\n  \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\"\n}\n",
-    "dct_description_sm": [
-        "This polygon shapefile layer represents the U.S. Congressional Districts boundaries for the City of New York, with water included. These district boundaries represent the redistricting as of the US Census 2010. This file was generated from the 17B release of the Department of City Planning's LION file."
-    ],
-    "dct_source_sm": [],
-    "dct_isPartOf_sm": [
-        "Bytes of the Big Apple"
-    ],
-    "locn_geometry": "ENVELOPE(-74.2556640887564, -73.700009054899, 40.9157739339836, 40.4960925239255)",
-    "dct_format_s": "Shapefile",
-    "dct_subject_sm": [
-        "Districts",
-        "Special districts",
-        "Administrative and political divisions",
-        "Boundaries"
-    ]
+  "id": "nyu-2451-41639",
+  "gbl_wxsIdentifier_s": "sdr:nyu_2451_41639",
+  "schema_provider_s": "NYU",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_temporal_sm": [
+    "2010"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_publisher_sm": [
+    "New York (City). Department of City Planning"
+  ],
+  "dct_issued_s": "2017",
+  "dct_spatial_sm": [
+    "New York, New York, United States"
+  ],
+  "gbl_resourceType_sm": [
+    "Polygon data"
+  ],
+  "dct_title_s": "2010 New York City U.S. Congressional Districts (Water Areas Included)",
+  "gbl_indexYear_im": [
+    2010
+  ],
+  "dct_identifier_sm": [
+    "http://hdl.handle.net/2451/41639"
+  ],
+  "dct_creator_sm": [],
+  "nyu_addl_format_sm": [
+    "Shapefile"
+  ],
+  "gbl_mdModified_dt": "2020-11-23T10:29:13Z",
+  "nyu_addl_dspace_s": "42699",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_references_s": "{\n  \"http://schema.org/url\": \"http://hdl.handle.net/2451/41639\",\n  \"http://schema.org/downloadUrl\": \"https://archive.nyu.edu/bitstream/2451/41639/1/nyu_2451_41639.zip\",\n  \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\n  \"http://www.opengis.net/def/serviceType/ogc/wms\": \"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\"\n}\n",
+  "dct_description_sm": [
+    "This polygon shapefile layer represents the U.S. Congressional Districts boundaries for the City of New York, with water included. These district boundaries represent the redistricting as of the US Census 2010. This file was generated from the 17B release of the Department of City Planning's LION file."
+  ],
+  "dct_source_sm": [],
+  "dct_isPartOf_sm": [
+    "Bytes of the Big Apple"
+  ],
+  "locn_geometry": "ENVELOPE(-74.2556640887564, -73.700009054899, 40.9157739339836, 40.4960925239255)",
+  "dct_format_s": "Shapefile",
+  "dct_subject_sm": [
+    "Districts",
+    "Special districts",
+    "Administrative and political divisions",
+    "Boundaries"
+  ]
 }

@@ -1,7 +1,5 @@
 {
-  "dct_creator_sm": [
-
-  ],
+  "dct_creator_sm": [],
   "dct_description_sm": [
     "LION is a single line representation of New York City streets containing address ranges and other information. This file can be used to geolocate existing datasets with New York City addresses."
   ],
@@ -10,7 +8,7 @@
     "http://hdl.handle.net/2451/34031"
   ],
   "dct_language_sm": [
-    "English"
+    "eng"
   ],
   "dct_publisher_sm": [
     "New York (City). Department of City Planning"
@@ -21,9 +19,7 @@
     "Location"
   ],
   "dct_title_s": "2010 LION",
-  "dct_isPartOf_sm": [
-
-  ],
+  "dct_isPartOf_sm": [],
   "schema_provider_s": "NYU",
   "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34031\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/73390/nyu_2451_34031.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\"}",
   "dct_spatial_sm": [

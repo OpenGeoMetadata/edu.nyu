@@ -1,7 +1,5 @@
 {
-  "dct_creator_sm": [
-
-  ],
+  "dct_creator_sm": [],
   "dct_description_sm": [
     "U.S. Large Area Landmarks represents common landmark areas within the United States including military territories, hospitals, educational institutions, shopping centers, industrial parks, amusement parks, stadiums, golf courses, and cemeteries."
   ],
@@ -10,7 +8,7 @@
     "http://hdl.handle.net/2451/34143"
   ],
   "dct_language_sm": [
-    "English"
+    "eng"
   ],
   "dct_publisher_sm": [
     "Environmental Systems Research Institute (Redlands, Calif.)"

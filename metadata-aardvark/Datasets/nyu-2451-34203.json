@@ -1,7 +1,5 @@
 {
-  "dct_creator_sm": [
-
-  ],
+  "dct_creator_sm": [],
   "dct_description_sm": [
     "This layer displays the median age by (total and by sex), 2010 in Manhattan and Brooklyn at the census tract level. Downloaded from American Factfinder, Table B01002, Median Age by Sex."
   ],
@@ -10,7 +8,7 @@
     "http://hdl.handle.net/2451/34203"
   ],
   "dct_language_sm": [
-    "English"
+    "eng"
   ],
   "dct_publisher_sm": [
     "U.S. Census Bureau"

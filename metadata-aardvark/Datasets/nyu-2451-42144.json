@@ -1,7 +1,5 @@
 {
-  "dct_creator_sm": [
-
-  ],
+  "dct_creator_sm": [],
   "dct_description_sm": [
     "This point shapefile represents the tram stations along the tram line in the city of Dubai as of 2017. Tram Station is a railway facility where trains regularly stop to load or unload passengers or freight. It generally consists of a platform next to the track and a station building (depot) providing related services such as ticket sales and waiting rooms. If a station is on a single track main line, it usually has a passing loop to facilitate the traffic. The original dataset was created by Dubai Pulse and hosted on Bayanat.ae."
   ],
@@ -10,7 +8,7 @@
     "http://hdl.handle.net/2451/42144"
   ],
   "dct_language_sm": [
-    "English"
+    "eng"
   ],
   "dct_publisher_sm": [
     "United Arab Emirates Government"
@@ -32,9 +30,7 @@
   "dct_issued_s": "2018",
   "schema_provider_s": "NYU",
   "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/42144\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/84882/nyu_2451_42144.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\",\"http://lccn.loc.gov/sh85035852\":\"https://archive.nyu.edu/retrieve/84883/nyu_2451_42144_doc.zip\"}",
-  "dct_source_sm": [
-
-  ],
+  "dct_source_sm": [],
   "dct_spatial_sm": [
     "Dubai, United Arab Emirates"
   ],

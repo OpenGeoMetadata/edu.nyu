@@ -1,7 +1,5 @@
 {
-  "dct_creator_sm": [
-
-  ],
+  "dct_creator_sm": [],
   "dct_description_sm": [
     "This layer represents the boundaries of election circuit areas in Buenos Aires. Downloaded from http://data.buenosaires.gob.ar/dataset/circuitos-electorales. Authored by Directorate General of Planning - Ministry of Urban Development."
   ],
@@ -10,7 +8,7 @@
     "http://hdl.handle.net/2451/34197"
   ],
   "dct_language_sm": [
-    "Spanish"
+    "spa"
   ],
   "dct_publisher_sm": [
     "Buenos Aires (Argentina)"

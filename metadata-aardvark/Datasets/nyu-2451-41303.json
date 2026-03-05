@@ -10,7 +10,7 @@
     "http://hdl.handle.net/2451/41303"
   ],
   "dct_language_sm": [
-    "English"
+    "eng"
   ],
   "dct_publisher_sm": [
     "East View Cartographic, Inc."
@@ -33,9 +33,7 @@
   "dct_source_sm": [
     "nyu-2451-41104"
   ],
-  "dct_spatial_sm": [
-
-  ],
+  "dct_spatial_sm": [],
   "dct_temporal_sm": [
     "2016"
   ],

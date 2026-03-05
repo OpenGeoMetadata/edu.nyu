@@ -7,7 +7,7 @@
     "http://hdl.handle.net/2451/60226"
   ],
   "dct_language_sm": [
-    "English"
+    "eng"
   ],
   "dct_publisher_sm": [
     "ML InfoMap (Firm)"
@@ -37,9 +37,7 @@
   ],
   "schema_provider_s": "NYU",
   "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/60226\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/120230/nyu_2451_60226.zip\",\"http://lccn.loc.gov/sh85035852\":\"https://archive.nyu.edu/retrieve/120802/nyu_2451_60226_doc.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\"}",
-  "dct_source_sm": [
-
-  ],
+  "dct_source_sm": [],
   "dct_spatial_sm": [
     "Gujarat (India)",
     "Bhavnagar (India : District)",

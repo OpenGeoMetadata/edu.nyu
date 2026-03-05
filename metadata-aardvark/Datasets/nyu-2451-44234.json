@@ -1,7 +1,5 @@
 {
-  "dct_creator_sm": [
-
-  ],
+  "dct_creator_sm": [],
   "dct_description_sm": [
     "This point shapefile represents on and off-shore fish farm locations in the United Arab Emirates. This data was originally collected and hosted by the United Arab Emirates Ministry of Climate Change and Environment (MOCCAE). The data was accessed and downloaded from the MOCCAE's ArcGIS REST services directory in December 2018. The actual collection date and temporal coverage of the data is unknown and may vary. "
   ],
@@ -10,7 +8,7 @@
     "http://hdl.handle.net/2451/44234"
   ],
   "dct_language_sm": [
-    "Arabic"
+    "ara"
   ],
   "dct_publisher_sm": [
     "United Arab Emirates Ministry of Climate Change and Environment"
@@ -32,9 +30,7 @@
   "dct_issued_s": "12/08/2018",
   "schema_provider_s": "NYU",
   "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/44234\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/123813/nyu_2451_44234.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\"}",
-  "dct_source_sm": [
-
-  ],
+  "dct_source_sm": [],
   "dct_spatial_sm": [
     "United Arab Emirates"
   ],

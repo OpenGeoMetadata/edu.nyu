@@ -1,7 +1,5 @@
 {
-  "dct_creator_sm": [
-
-  ],
+  "dct_creator_sm": [],
   "dct_description_sm": [
     "This polygon feature class represents only the internal subdistricts of any special purpose districts that are so subdivided. The main special purpose district name is indicated by the SPNAME attribute, the SUBDIST attribute contains the subdistrict name. Any further subdistrict divisions are named in the SUBSUB attribute. Note that these zones change frequently, and users may want to consult more recent releases at Bytes of the Big Apple."
   ],
@@ -10,7 +8,7 @@
     "http://hdl.handle.net/2451/34527"
   ],
   "dct_language_sm": [
-    "English"
+    "eng"
   ],
   "dct_publisher_sm": [
     "New York (City). Department of City Planning"

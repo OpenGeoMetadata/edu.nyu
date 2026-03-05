@@ -1,7 +1,5 @@
 {
-  "dct_creator_sm": [
-
-  ],
+  "dct_creator_sm": [],
   "dct_description_sm": [
     "This polygon shapefile layer is the representation of New York City’s Coastal Boundary as defined by the WRP. The Coastal Zone Boundary defines the geographic scope of New York City's Waterfront Revitalization Program (WRP). Pursuant to federal statute, the boundary encompasses all land and water of direct and significant impact on coastal waters. Federal lands and facilities are excluded from the coastal zone and consistency review in accordance with federal legislation. However, should the federal government dispose of any coastal property; it would be included in the coastal zone."
   ],
@@ -10,7 +8,7 @@
     "http://hdl.handle.net/2451/34537"
   ],
   "dct_language_sm": [
-    "English"
+    "eng"
   ],
   "dct_publisher_sm": [
     "New York (City). Department of City Planning"

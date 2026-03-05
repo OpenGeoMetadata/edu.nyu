@@ -1,7 +1,5 @@
 {
-  "dct_creator_sm": [
-
-  ],
+  "dct_creator_sm": [],
   "dct_description_sm": [
     "This line shapefile serves as a street base map representing New York City's streets and other linear geographic features, such as shorelines, surface rail lines and boardwalks, along with feature names and address ranges for each addressable street segment. This is Version 16 A, released in February 2016."
   ],
@@ -10,7 +8,7 @@
     "http://hdl.handle.net/2451/34565"
   ],
   "dct_language_sm": [
-    "English"
+    "eng"
   ],
   "dct_publisher_sm": [
     "New York (City). Department of City Planning"

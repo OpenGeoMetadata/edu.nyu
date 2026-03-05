@@ -1,7 +1,5 @@
 {
-  "dct_creator_sm": [
-
-  ],
+  "dct_creator_sm": [],
   "dct_description_sm": [
     "U.S. Census Urbanized Areas represents the Census 2000 Urbanized Areas (UA) and Urban Clusters (UC). A UA consists of contiguous, densely settled census block groups (BGs) and census blocks that meet minimum population density requirements (1000ppsm /500ppsm), along with adjacent densely settled census blocks that together encompass a population of at least 50,000 people. A UC consists of contiguous, densely settled census BGs and census blocks that meet minimum population density requirements, along with adjacent densely settled census blocks that together encompass a population of at least 2,500 people, but fewer than 50,000 people. The dataset covers the 50 States plus the District of Columbia within United States."
   ],
@@ -10,7 +8,7 @@
     "http://hdl.handle.net/2451/34096"
   ],
   "dct_language_sm": [
-    "English"
+    "eng"
   ],
   "dct_publisher_sm": [
     "Environmental Systems Research Institute (Redlands, Calif.)"

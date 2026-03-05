@@ -1,7 +1,5 @@
 {
-  "dct_creator_sm": [
-
-  ],
+  "dct_creator_sm": [],
   "dct_description_sm": [
     "U.S. Populated Place Areas represents populated place areas within the United States that include census designated places, consolidated cities, and incorporated places identified by the U.S. Census Bureau."
   ],
@@ -10,7 +8,7 @@
     "http://hdl.handle.net/2451/34092"
   ],
   "dct_language_sm": [
-    "English"
+    "eng"
   ],
   "dct_publisher_sm": [
     "Environmental Systems Research Institute (Redlands, Calif.)"

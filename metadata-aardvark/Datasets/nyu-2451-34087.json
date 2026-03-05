@@ -1,7 +1,5 @@
 {
-  "dct_creator_sm": [
-
-  ],
+  "dct_creator_sm": [],
   "dct_description_sm": [
     "U.S. Counties (Generalized) represents the counties of the United States in the 50 states and the District of Columbia."
   ],
@@ -10,7 +8,7 @@
     "http://hdl.handle.net/2451/34087"
   ],
   "dct_language_sm": [
-    "English"
+    "eng"
   ],
   "dct_publisher_sm": [
     "Environmental Systems Research Institute (Redlands, Calif.)"

@@ -1,7 +1,5 @@
 {
-  "dct_creator_sm": [
-
-  ],
+  "dct_creator_sm": [],
   "dct_description_sm": [
     "This point shapefile was created as a guide to New York City’s non-neighborhood place locations that appear in “New York: A City of Neighborhoods.” These place locations include parks, cemeteries, and airports. Best estimates of label centroids were established at a 1:1,000 scale, but are ideally viewed at a 1:50,000 scale."
   ],
@@ -10,7 +8,7 @@
     "http://hdl.handle.net/2451/34564"
   ],
   "dct_language_sm": [
-    "English"
+    "eng"
   ],
   "dct_publisher_sm": [
     "New York (City). Department of City Planning"

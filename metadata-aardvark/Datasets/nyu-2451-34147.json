@@ -1,7 +1,5 @@
 {
-  "dct_creator_sm": [
-
-  ],
+  "dct_creator_sm": [],
   "dct_description_sm": [
     "U.S. Recreation Areas represents point locations within the United States for common recreational landmarks including golf courses, amusement parks, beaches, and park and recreation areas."
   ],
@@ -10,7 +8,7 @@
     "http://hdl.handle.net/2451/34147"
   ],
   "dct_language_sm": [
-    "English"
+    "eng"
   ],
   "dct_publisher_sm": [
     "Environmental Systems Research Institute (Redlands, Calif.)"

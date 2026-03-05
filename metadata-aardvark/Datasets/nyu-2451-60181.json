@@ -29,13 +29,7 @@
     "PollMap of India"
   ],
   "schema_provider_s": "NYU",
-  "dct_references_s": {
-    "http://schema.org/url": "http://hdl.handle.net/2451/60181",
-    "http://schema.org/downloadUrl": "https://archive.nyu.edu/retrieve/120185/nyu_2451_60181.zip",
-    "http://lccn.loc.gov/sh85035852": "https://archive.nyu.edu/retrieve/120757/nyu_2451_60181_doc.zip",
-    "http://www.opengis.net/def/serviceType/ogc/wfs": "https://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs",
-    "http://www.opengis.net/def/serviceType/ogc/wms": "https://maps-restricted.geo.nyu.edu/geoserver/sdr/wms"
-  },
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/60181\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/120185/nyu_2451_60181.zip\",\"http://lccn.loc.gov/sh85035852\":\"https://archive.nyu.edu/retrieve/120757/nyu_2451_60181_doc.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\"}",
   "dct_source_sm": [],
   "dct_spatial_sm": [
     "Meghalaya (India)",

@@ -1,7 +1,5 @@
 {
-  "dct_creator_sm": [
-
-  ],
+  "dct_creator_sm": [],
   "dct_description_sm": [
     "This polygon shapefile represents the 1982 Province Boundaries for China. The layer was primarily based on the \"China Map of Population,\" published by China Statistical Press, and some other yearly administrative maps. See the documentation for more information and a list of the layer variables."
   ],
@@ -10,7 +8,7 @@
     "http://hdl.handle.net/2451/34632"
   ],
   "dct_language_sm": [
-    "English"
+    "eng"
   ],
   "dct_publisher_sm": [
     "Beijing Hua tong ren shi chang xin xi you xian ze ren gong si"

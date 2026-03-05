@@ -1,7 +1,5 @@
 {
-  "dct_creator_sm": [
-
-  ],
+  "dct_creator_sm": [],
   "dct_description_sm": [
     "U.S. Airports represents airport grounds and airport runways within the United States. All airports have a boundary, and most have at least one runway."
   ],
@@ -10,7 +8,7 @@
     "http://hdl.handle.net/2451/34173"
   ],
   "dct_language_sm": [
-    "English"
+    "eng"
   ],
   "dct_publisher_sm": [
     "Environmental Systems Research Institute (Redlands, Calif.)"

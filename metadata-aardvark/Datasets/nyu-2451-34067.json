@@ -1,7 +1,5 @@
 {
-  "dct_creator_sm": [
-
-  ],
+  "dct_creator_sm": [],
   "dct_description_sm": [
     "U.S. and Canada Streets Cartographic represents streets, highways, interstate highways, roads with and without limited access, secondary and connecting roads, local and rural roads, roads with special characteristics, access ramps, and ferries within the United States and Canada."
   ],
@@ -10,7 +8,7 @@
     "http://hdl.handle.net/2451/34067"
   ],
   "dct_language_sm": [
-    "English"
+    "eng"
   ],
   "dct_publisher_sm": [
     "Environmental Systems Research Institute (Redlands, Calif.)"

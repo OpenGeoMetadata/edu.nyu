@@ -1,7 +1,5 @@
 {
-  "dct_creator_sm": [
-
-  ],
+  "dct_creator_sm": [],
   "dct_description_sm": [
     "This layer represents the total population in Manhattan and Brooklyn by census tract, 2010. Downloaded from American Factfinder."
   ],
@@ -10,7 +8,7 @@
     "http://hdl.handle.net/2451/34205"
   ],
   "dct_language_sm": [
-    "English"
+    "eng"
   ],
   "dct_publisher_sm": [
     "U.S. Census Bureau"
