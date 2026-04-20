@@ -1,6 +1,5 @@
 {
   "id": "nyu-2451-34763",
-  "gbl_wxsIdentifier_s": "sdr:nyu_2451_34763",
   "schema_provider_s": "Baruch CUNY",
   "gbl_resourceClass_sm": [
     "Datasets"
@@ -36,7 +35,7 @@
   "gbl_mdModified_dt": "2016-06-27T14:58:39Z",
   "nyu_addl_dspace_s": "35711",
   "gbl_mdVersion_s": "Aardvark",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34763\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34763\"}",
   "dct_description_sm": [
     "The layers in this Sqlite Geodatabase were created from the GTFS data feeds from the Metropolitan Transportation Authority (MTA) to represent major routes and stops for buses and trains throughout New York City. A python script was written to take the data files as input and plot and save them in the local state plane coordinate reference system. This dataset is intended for researchers, policy makers, students, and educators for basic geographic analysis and mapping purposes. It was created by the GIS Lab at the Newman Library at Baruch College CUNY as part of the NYC Mass Transit Spatial Layers series, so that members of the public could have access to well-documented and readily-usable GIS layers of NYC mass transit features."
   ],
