@@ -48,7 +48,7 @@
   "gbl_resourceType_sm": [
     "Raster data"
   ],
-  "gbl_wxsIdentifier_s": "sdr_nyu_2451_60074",
+  "gbl_wxsIdentifier_s": "sdr:nyu_2451_60074",
   "gbl_mdModified_dt": "2020-07-21T09:42:33Z",
   "id": "nyu-2451-60074",
   "nyu_addl_license_s": "Attribution 4.0 International (CC BY 4.0)",
