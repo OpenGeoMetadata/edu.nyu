@@ -1,7 +1,5 @@
 {
-  "dct_creator_sm": [
-
-  ],
+  "dct_creator_sm": [],
   "dct_description_sm": [
     "This layer represents the housing characterisitics in 2010 of Manhattan and Brooklyn at the census tract level. Downloaded from American Factfinder, Table DP04, Selected Housing Characteristics"
   ],
@@ -10,7 +8,7 @@
     "http://hdl.handle.net/2451/34204"
   ],
   "dct_language_sm": [
-    "English"
+    "eng"
   ],
   "dct_publisher_sm": [
     "U.S. Census Bureau"

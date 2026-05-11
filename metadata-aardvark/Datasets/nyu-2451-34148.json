@@ -1,7 +1,5 @@
 {
-  "dct_creator_sm": [
-
-  ],
+  "dct_creator_sm": [],
   "dct_description_sm": [
     "U.S. National Atlas Volcanoes represents volcanoes thought to be active in the last 10,000 years (Holocene), in and near the United States. The data is a subset of data available from the Global Volcanism Program, Smithsonian Institution."
   ],
@@ -10,7 +8,7 @@
     "http://hdl.handle.net/2451/34148"
   ],
   "dct_language_sm": [
-    "English"
+    "eng"
   ],
   "dct_publisher_sm": [
     "Environmental Systems Research Institute (Redlands, Calif.)"

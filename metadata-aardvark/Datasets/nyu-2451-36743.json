@@ -1,7 +1,5 @@
 {
-  "dct_creator_sm": [
-
-  ],
+  "dct_creator_sm": [],
   "dct_description_sm": [
     "This polygon shapefile represents the boundaries zones for taxi pickups as delimited by the New York City Taxi and Limousine Commission (TLC). These files are available at http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml"
   ],
@@ -10,7 +8,7 @@
     "http://hdl.handle.net/2451/36743"
   ],
   "dct_language_sm": [
-    "English"
+    "eng"
   ],
   "dct_publisher_sm": [
     "New York (N.Y.). Taxi and Limousine Commission"

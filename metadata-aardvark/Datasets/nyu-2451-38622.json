@@ -8,8 +8,7 @@
   ],
   "dct_accessRights_s": "Public",
   "schema_provider_s": "NYU",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/38622\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/79940/nyu_2451_38622_fwf_las_T_317500_233000.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\",\"http://lccn.loc.gov/sh85035852\":\"https://archive.nyu.edu/retrieve/81335/nyu_2451_38684_doc.zip\"}",
-  "gbl_wxsIdentifier_s": "sdr:nyu_2451_38622",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/38622\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/79940/nyu_2451_38622_fwf_las_T_317500_233000.zip\",\"http://lccn.loc.gov/sh85035852\":\"https://archive.nyu.edu/retrieve/81335/nyu_2451_38684_doc.zip\"}",
   "id": "nyu-2451-38622",
   "gbl_resourceType_sm": [
     "Multi-spectral data"
@@ -17,7 +16,7 @@
   "gbl_mdModified_dt": "2017-06-06T15:21:27Z",
   "dct_format_s": "LAS",
   "dct_language_sm": [
-    "English"
+    "eng"
   ],
   "gbl_resourceClass_sm": [
     "Datasets"

@@ -1,7 +1,5 @@
 {
-  "dct_creator_sm": [
-
-  ],
+  "dct_creator_sm": [],
   "dct_description_sm": [
     "This file contains the name and route of rails in China. The attribute table contains the name of each route in Chinese and English. Some fields are null. The source of the data is the National Geomatic Center of China."
   ],
@@ -10,7 +8,7 @@
     "http://hdl.handle.net/2451/33891"
   ],
   "dct_language_sm": [
-    "Chinese"
+    "zho"
   ],
   "dct_publisher_sm": [
     "Beijing Hua tong ren shi chang xin xi you xian ze ren gong si"

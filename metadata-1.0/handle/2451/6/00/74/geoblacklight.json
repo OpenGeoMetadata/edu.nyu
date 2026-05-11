@@ -36,7 +36,7 @@
   ],
   "geoblacklight_version": "1.0",
   "layer_geom_type_s": "Raster",
-  "layer_id_s": "sdr_nyu_2451_60074",
+  "layer_id_s": "sdr:nyu_2451_60074",
   "layer_modified_dt": "2020-07-21T09:42:33Z",
   "layer_slug_s": "nyu-2451-60074",
   "nyu_addl_license_s": "Attribution 4.0 International (CC BY 4.0)",

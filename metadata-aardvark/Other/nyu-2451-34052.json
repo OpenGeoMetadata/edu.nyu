@@ -1,7 +1,5 @@
 {
-  "dct_creator_sm": [
-
-  ],
+  "dct_creator_sm": [],
   "dct_description_sm": [
     "U.S. and Canada Highways represents the major highways of the United States and Canada. These include interstates and inter-metropolitan area highways and major roads."
   ],
@@ -10,7 +8,7 @@
     "http://hdl.handle.net/2451/34052"
   ],
   "dct_language_sm": [
-    "English"
+    "eng"
   ],
   "dct_publisher_sm": [
     "Environmental Systems Research Institute (Redlands, Calif.)"

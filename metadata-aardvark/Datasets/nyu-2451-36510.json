@@ -10,7 +10,7 @@
     "http://hdl.handle.net/2451/36510"
   ],
   "dct_language_sm": [
-    "English"
+    "eng"
   ],
   "dct_publisher_sm": [
     "East View Cartographic, Inc."
@@ -50,6 +50,7 @@
   ],
   "gbl_mdModified_dt": "2020-04-14T12:04:13Z",
   "id": "nyu-2451-36510",
+  "gbl_wxsIdentifier_s": "sdr:nyu_2451_36510",
   "nyu_addl_dspace_s": "37487",
   "nyu_addl_format_sm": [
     "Shapefile"

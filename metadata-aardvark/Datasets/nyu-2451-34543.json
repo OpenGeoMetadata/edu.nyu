@@ -1,7 +1,5 @@
 {
-  "dct_creator_sm": [
-
-  ],
+  "dct_creator_sm": [],
   "dct_description_sm": [
     "This polygon shapefile layer represents the State Senate Districts boundaries for the City of New York, with water included. These district boundaries represent the redistricting as of the US Census 2010. This file was generated from the 16A release of the Department of City Planning's LION file. "
   ],
@@ -10,7 +8,7 @@
     "http://hdl.handle.net/2451/34543"
   ],
   "dct_language_sm": [
-    "English"
+    "eng"
   ],
   "dct_publisher_sm": [
     "New York (City). Department of City Planning"

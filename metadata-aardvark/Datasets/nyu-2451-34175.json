@@ -1,7 +1,5 @@
 {
-  "dct_creator_sm": [
-
-  ],
+  "dct_creator_sm": [],
   "dct_description_sm": [
     "U.S. Highways represents the major and minor highways of the United States. These include interstates, U.S. highways, state highways, major roads, and minor roads. This dataset is from the Census 2000 TIGER/Line files. It contains all Class 1, 2, and 3 road segments plus any other roads segments necessary to provide network connectivity for the Class_Rte field."
   ],
@@ -10,7 +8,7 @@
     "http://hdl.handle.net/2451/34175"
   ],
   "dct_language_sm": [
-    "English"
+    "eng"
   ],
   "dct_publisher_sm": [
     "Environmental Systems Research Institute (Redlands, Calif.)"

@@ -1,7 +1,5 @@
 {
-  "dct_creator_sm": [
-
-  ],
+  "dct_creator_sm": [],
   "dct_description_sm": [
     "This polygon shapefile represents the value spent in dirhams on social assistance (welfare) programs by each emirate of the United Arab Emirates for 2005-2016"
   ],
@@ -10,7 +8,7 @@
     "http://hdl.handle.net/2451/42147"
   ],
   "dct_language_sm": [
-    "English"
+    "eng"
   ],
   "dct_publisher_sm": [
     "United Arab Emirates Government"
@@ -33,9 +31,7 @@
   "dct_issued_s": "2018",
   "schema_provider_s": "NYU",
   "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/42147\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/84888/nyu_2451_42147.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\",\"http://lccn.loc.gov/sh85035852\":\"https://archive.nyu.edu/retrieve/84889/nyu_2451_42147_doc.zip\"}",
-  "dct_source_sm": [
-
-  ],
+  "dct_source_sm": [],
   "dct_spatial_sm": [
     "United Arab Emirates"
   ],

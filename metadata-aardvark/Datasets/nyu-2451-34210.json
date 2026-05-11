@@ -1,7 +1,5 @@
 {
-  "dct_creator_sm": [
-
-  ],
+  "dct_creator_sm": [],
   "dct_description_sm": [
     "This layer represents the rivers of China."
   ],
@@ -10,7 +8,7 @@
     "http://hdl.handle.net/2451/34210"
   ],
   "dct_language_sm": [
-    "Chinese"
+    "zho"
   ],
   "dct_publisher_sm": [
     "Beijing Hua tong ren shi chang xin xi you xian ze ren gong si"

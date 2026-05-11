@@ -7,7 +7,7 @@
     "http://hdl.handle.net/2451/43847"
   ],
   "dct_language_sm": [
-    "English"
+    "eng"
   ],
   "dct_publisher_sm": [
     "Information Technology and Innovation - Enterprise GIS"
@@ -27,9 +27,7 @@
   ],
   "schema_provider_s": "NYU",
   "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/43847\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/88307/nyu_2451_43847.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\"}",
-  "dct_source_sm": [
-
-  ],
+  "dct_source_sm": [],
   "dct_spatial_sm": [
     "New Orleans, Louisiana, United States"
   ],

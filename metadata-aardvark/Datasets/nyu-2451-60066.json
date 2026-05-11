@@ -10,7 +10,7 @@
     "http://hdl.handle.net/2451/60066"
   ],
   "dct_language_sm": [
-    "English"
+    "eng"
   ],
   "dct_publisher_sm": [
     "Newman Library (Bernard M. Baruch College)"
@@ -32,9 +32,7 @@
   "dct_issued_s": "5/31/2019",
   "schema_provider_s": "Baruch CUNY",
   "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/60066\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/122650/nyu_2451_60066.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\",\"http://lccn.loc.gov/sh85035852\":\"https://archive.nyu.edu/retrieve/122663/nyu_2451_60066_doc.zip\",\"http://www.isotc211.org/schemas/2005/gmd\":\"http://faculty.baruch.cuny.edu/geoportal/metadata/nyc_transit/may2019/stops_metro_north_may2019_iso.xml\"}",
-  "dct_source_sm": [
-
-  ],
+  "dct_source_sm": [],
   "dct_spatial_sm": [
     "New York-Northern New Jersey-Long Island, New York, United States",
     "New York City, New York, United States",

@@ -13,7 +13,7 @@
     "http://hdl.handle.net/2451/60074"
   ],
   "dct_language_sm": [
-    "English"
+    "eng"
   ],
   "dct_publisher_sm": [
     ""
@@ -34,7 +34,7 @@
   ],
   "dct_issued_s": "7/22/2020",
   "schema_provider_s": "NYU",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/60074\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/124775/nyu_2451_60074.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/60074\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/124775/nyu_2451_60074.zip\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\"}",
   "dct_spatial_sm": [
     "Earth"
   ],
@@ -48,7 +48,7 @@
   "gbl_resourceType_sm": [
     "Raster data"
   ],
-  "gbl_wxsIdentifier_s": "sdr_nyu_2451_60074",
+  "gbl_wxsIdentifier_s": "sdr:nyu_2451_60074",
   "gbl_mdModified_dt": "2020-07-21T09:42:33Z",
   "id": "nyu-2451-60074",
   "nyu_addl_license_s": "Attribution 4.0 International (CC BY 4.0)",

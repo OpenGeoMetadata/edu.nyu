@@ -1,7 +1,5 @@
 {
-  "dct_creator_sm": [
-
-  ],
+  "dct_creator_sm": [],
   "dct_description_sm": [
     "This layer displays locations of townships in China with population data from the 2010 Census."
   ],
@@ -10,7 +8,7 @@
     "http://hdl.handle.net/2451/34209"
   ],
   "dct_language_sm": [
-    "Chinese"
+    "zho"
   ],
   "dct_accessRights_s": "Restricted",
   "dct_subject_sm": [

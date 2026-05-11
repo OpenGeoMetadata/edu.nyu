@@ -1,13 +1,11 @@
 {
-  "dct_creator_sm": [
-
-  ],
+  "dct_creator_sm": [],
   "dct_format_s": "ESRI Geodatabase",
   "dct_identifier_sm": [
     "http://hdl.handle.net/2451/34606"
   ],
   "dct_language_sm": [
-    "English"
+    "eng"
   ],
   "dct_publisher_sm": [
     "Environmental Systems Research Institute (Redlands, Calif.)"

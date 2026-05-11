@@ -1,7 +1,5 @@
 {
-  "dct_creator_sm": [
-
-  ],
+  "dct_creator_sm": [],
   "dct_description_sm": [
     "This polygon shapefile represents updated province boundaries for China. It is part of the 2015 China Administrative Boundaries Maps product from the University of Michigan China Data Center. See the documentation for more information about the administrative boundary changes represented in this layer. Note that the \"generated\" version of this data does not contain Chinese name variables; please refer to the original version of the dataset and the associated documentation file."
   ],
@@ -10,7 +8,7 @@
     "http://hdl.handle.net/2451/38210"
   ],
   "dct_language_sm": [
-    "English"
+    "eng"
   ],
   "dct_publisher_sm": [
     "Beijing Hua tong ren shi chang xin xi you xian ze ren gong si"

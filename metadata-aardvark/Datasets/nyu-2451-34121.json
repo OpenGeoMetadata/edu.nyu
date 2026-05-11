@@ -1,7 +1,5 @@
 {
-  "dct_creator_sm": [
-
-  ],
+  "dct_creator_sm": [],
   "dct_description_sm": [
     "World Regions represents the boundaries for the regions of the world. There are 25 commonly recognized world regions."
   ],
@@ -10,7 +8,7 @@
     "http://hdl.handle.net/2451/34121"
   ],
   "dct_language_sm": [
-    "English"
+    "eng"
   ],
   "dct_publisher_sm": [
     "Environmental Systems Research Institute (Redlands, Calif.)"

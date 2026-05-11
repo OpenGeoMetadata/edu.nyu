@@ -1,7 +1,5 @@
 {
-  "dct_creator_sm": [
-
-  ],
+  "dct_creator_sm": [],
   "dct_description_sm": [
     "This polygon shapefile layer represents areas where  zoning and discretionary tax incentives are available for the development, expansion and renovation of full line grocery stores and supermarkets. This is a geographic file created by the New York City Department of City Planning, showing eligible areas for zoning incentives and eligible areas for tax incentives through the NYC Industrial Development Agency. For more information on the FRESH program and other incentives targeting grocery stores, please see www.nyc.gov/FRESH, or download the report in the archival copy."
   ],
@@ -10,7 +8,7 @@
     "http://hdl.handle.net/2451/34531"
   ],
   "dct_language_sm": [
-    "English"
+    "eng"
   ],
   "dct_publisher_sm": [
     "New York (City). Department of City Planning"

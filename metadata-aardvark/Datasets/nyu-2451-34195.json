@@ -1,7 +1,5 @@
 {
-  "dct_creator_sm": [
-
-  ],
+  "dct_creator_sm": [],
   "dct_description_sm": [
     "This map represents ares in New York City where students collected images and attribute information about graffiti and urban spaces. The beats, or informally designated areas, were designated by the professors of the class and do not adhere to any established political boundaries or administrative divisions."
   ],
@@ -10,7 +8,7 @@
     "http://hdl.handle.net/2451/34195"
   ],
   "dct_language_sm": [
-    "English"
+    "eng"
   ],
   "dct_accessRights_s": "Restricted",
   "dct_subject_sm": [

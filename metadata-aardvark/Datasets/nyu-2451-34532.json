@@ -1,7 +1,5 @@
 {
-  "dct_creator_sm": [
-
-  ],
+  "dct_creator_sm": [],
   "dct_description_sm": [
     "This polygon shapefile layer represents zones marked by the NYC Department of City Planning, Planning Coordination and Waterfront Division as Lower Density Growth Management Areas. A Lower Density Growth Management Area is an area designated in the Zoning Resolution where new developments must provide more off-street parking, larger yards and more open space than would otherwise be required in the applicable zoning districts In Staten Island and Bronx Community District 10. This text amendment responds to concerns regarding large-scale medical facilities and day care centers that are located in lower-density districts and do not provide sufficient parking. The proposal would provide stricter regulations in residential areas while encouraging these uses in more appropriate commercial districts. This downloadable data is the approximate area in these sections of the City where new development are required to comply to the rules and regulations of Lower Density Growth Management Area. For complete documentation, consult the archival copy."
   ],
@@ -10,7 +8,7 @@
     "http://hdl.handle.net/2451/34532"
   ],
   "dct_language_sm": [
-    "English"
+    "eng"
   ],
   "dct_publisher_sm": [
     "New York (City). Department of City Planning"

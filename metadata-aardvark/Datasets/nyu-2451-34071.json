@@ -1,7 +1,5 @@
 {
-  "dct_creator_sm": [
-
-  ],
+  "dct_creator_sm": [],
   "dct_description_sm": [
     "U.S. and Canada Postal Points represents the five-digit ZIP Code areas of the United States and the three-character Forward Sortation Areas (FSA) of Canada as centroids."
   ],
@@ -10,7 +8,7 @@
     "http://hdl.handle.net/2451/34071"
   ],
   "dct_language_sm": [
-    "English"
+    "eng"
   ],
   "dct_publisher_sm": [
     "Environmental Systems Research Institute (Redlands, Calif.)"

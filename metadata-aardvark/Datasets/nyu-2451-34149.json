@@ -1,7 +1,5 @@
 {
-  "dct_creator_sm": [
-
-  ],
+  "dct_creator_sm": [],
   "dct_description_sm": [
     "Europe NUTS 0 Demographics represents areas of aggregated socioeconomic and demographic information at the NUTS 0 (country) level for Europe. NUTS (Nomenclature des UnitÃƒÂ©s Territoriales Statistiques) refers to the Nomenclature of Territorial Units for Statistics. For more information: http://ec.europa.eu/eurostat/ramon/nuts/home_regions_en.html."
   ],
@@ -10,7 +8,7 @@
     "http://hdl.handle.net/2451/34149"
   ],
   "dct_language_sm": [
-    "English"
+    "eng"
   ],
   "dct_publisher_sm": [
     "Environmental Systems Research Institute (Redlands, Calif.)"

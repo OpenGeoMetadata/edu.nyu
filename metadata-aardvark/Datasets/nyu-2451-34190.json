@@ -1,7 +1,5 @@
 {
-  "dct_creator_sm": [
-
-  ],
+  "dct_creator_sm": [],
   "dct_description_sm": [
     "U.S. and Canada City Points represents cities of the United States and Canada including national, state, and provincial capitals."
   ],
@@ -10,7 +8,7 @@
     "http://hdl.handle.net/2451/34190"
   ],
   "dct_language_sm": [
-    "English"
+    "eng"
   ],
   "dct_publisher_sm": [
     "Environmental Systems Research Institute (Redlands, Calif.)"

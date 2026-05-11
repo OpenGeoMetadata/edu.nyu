@@ -1,7 +1,5 @@
 {
-  "dct_creator_sm": [
-
-  ],
+  "dct_creator_sm": [],
   "dct_description_sm": [
     "World Countries represents the boundaries for the countries of the world as they existed in January 2008."
   ],
@@ -10,7 +8,7 @@
     "http://hdl.handle.net/2451/34112"
   ],
   "dct_language_sm": [
-    "English"
+    "eng"
   ],
   "dct_publisher_sm": [
     "Environmental Systems Research Institute (Redlands, Calif.)"

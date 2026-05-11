@@ -1,7 +1,5 @@
 {
-  "dct_creator_sm": [
-
-  ],
+  "dct_creator_sm": [],
   "dct_description_sm": [
     "This georeferenced raster layer represents agricultural production in China in 1967. It is taken from the book, Communist China: Map Folio, which was published by the CIA's Directorate of Intelligence, Office of Basic and Geographic Intelligence in 1967. The maps in this book were intended as an introduction and general reference to persons interested in Communist China. It was issued primarily for government use, but several copies were released to academic institutions. The entire folio contains 17 maps, most of which are at a 1:10,000,000 scale. The data represented on these maps has been drawn from a variety of sources, including the American Consulate General, Hong Kong, an official State Statistical Bureau publication called Ten Great Years (1960), an article by Hou, H. Y. et al. called \"The Vegetation of China with Special Reference to Main Soil Types (1957), a Chinese map entitled Chung-kuo Nien Chiang-shui-liang (Annual Precipitaiton in China) (1964), and an atlas published by the Institute of Ethnography of the USSR Academy of Sciences. The maps were scanned by NYU Libraries Digital Libraries and Technology Services and were georeferenced by NYU Libraries Data Services."
   ],
@@ -10,7 +8,7 @@
     "http://hdl.handle.net/2451/36739"
   ],
   "dct_language_sm": [
-    "English"
+    "eng"
   ],
   "dct_publisher_sm": [
     "Directorate of Intelligence, Office of Basic and Geographic Intelligence"
@@ -32,7 +30,7 @@
   ],
   "dct_issued_s": "1967",
   "schema_provider_s": "NYU",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/36739\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/77428/nyu_2451_36739.zip\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/36739\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/77428/nyu_2451_36739.zip\"}",
   "dct_spatial_sm": [
     "People's Republic of China, China"
   ],

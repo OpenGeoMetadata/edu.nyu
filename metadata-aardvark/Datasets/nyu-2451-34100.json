@@ -1,7 +1,5 @@
 {
-  "dct_creator_sm": [
-
-  ],
+  "dct_creator_sm": [],
   "dct_description_sm": [
     "U.S. ZIP Code Points represents the five-digit U.S. ZIP Code areas as points, plus all ZIP Codes that have no area and are represented as points rather than areas such as Post-Office-Box ZIP Codes and unique ZIP Codes (for example, defining an organization)."
   ],
@@ -10,7 +8,7 @@
     "http://hdl.handle.net/2451/34100"
   ],
   "dct_language_sm": [
-    "English"
+    "eng"
   ],
   "dct_publisher_sm": [
     "Environmental Systems Research Institute (Redlands, Calif.)"

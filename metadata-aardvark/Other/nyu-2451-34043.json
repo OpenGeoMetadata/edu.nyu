@@ -1,13 +1,11 @@
 {
-  "dct_creator_sm": [
-
-  ],
+  "dct_creator_sm": [],
   "dct_format_s": "Shapefile",
   "dct_identifier_sm": [
     "http://hdl.handle.net/2451/34043"
   ],
   "dct_language_sm": [
-    "English"
+    "eng"
   ],
   "dct_publisher_sm": [
     "New York (City). Department of City Planning"
@@ -18,9 +16,7 @@
     "Urban density"
   ],
   "dct_title_s": "2010 Buildings",
-  "dct_isPartOf_sm": [
-
-  ],
+  "dct_isPartOf_sm": [],
   "schema_provider_s": "NYU",
   "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/34043\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/73388/nyu_2451_34043.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-public.geo.nyu.edu/geoserver/sdr/wms\"}",
   "dct_spatial_sm": [

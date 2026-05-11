@@ -1,7 +1,5 @@
 {
-  "dct_creator_sm": [
-
-  ],
+  "dct_creator_sm": [],
   "dct_description_sm": [
     "This polygon shapefile layer represents the boundaries for all rezonings adopted since January 1, 2002 (STATUS = \"Adopted\") and current proposed rezonings (STATUS = \"Certified\"). Selected city-initiated text amendments to the Zoning Resolution since 2002 that have discrete geographical boundaries may be included."
   ],
@@ -10,7 +8,7 @@
     "http://hdl.handle.net/2451/34530"
   ],
   "dct_language_sm": [
-    "English"
+    "eng"
   ],
   "dct_publisher_sm": [
     "New York (City). Department of City Planning"

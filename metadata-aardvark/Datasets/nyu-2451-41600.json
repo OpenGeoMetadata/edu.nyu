@@ -10,7 +10,7 @@
     "http://hdl.handle.net/2451/41600"
   ],
   "dct_language_sm": [
-    "English"
+    "eng"
   ],
   "dct_publisher_sm": [
     "East View Cartographic, Inc."
@@ -29,13 +29,11 @@
   ],
   "dct_issued_s": "5/31/2016",
   "schema_provider_s": "NYU",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/41600\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/84006/nyu_2451_41600.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://hdl.handle.net/2451/41600\",\"http://schema.org/downloadUrl\":\"https://archive.nyu.edu/retrieve/84006/nyu_2451_41600.zip\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://maps-restricted.geo.nyu.edu/geoserver/sdr/wms\"}",
   "dct_source_sm": [
     "nyu-2451-41104"
   ],
-  "dct_spatial_sm": [
-
-  ],
+  "dct_spatial_sm": [],
   "dct_temporal_sm": [
     "2016"
   ],

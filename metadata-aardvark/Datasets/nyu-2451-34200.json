@@ -1,7 +1,5 @@
 {
-  "dct_creator_sm": [
-
-  ],
+  "dct_creator_sm": [],
   "dct_description_sm": [
     "This layer represents the location of Buenos Aires Subway Stations. Downloaded from http://data.buenosaires.gob.ar/dataset/subte-estaciones.  Authored by Ministerio de Desarrollo Urbano"
   ],
@@ -10,7 +8,7 @@
     "http://hdl.handle.net/2451/34200"
   ],
   "dct_language_sm": [
-    "Spanish"
+    "spa"
   ],
   "dct_publisher_sm": [
     "Buenos Aires (Argentina)"

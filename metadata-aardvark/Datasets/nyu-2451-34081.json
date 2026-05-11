@@ -1,7 +1,5 @@
 {
-  "dct_creator_sm": [
-
-  ],
+  "dct_creator_sm": [],
   "dct_description_sm": [
     "U.S. Census Block Centroid Populations represents the populations of the U.S. Census blocks for United States. U.S. Census blocks are the smallest geographic entities within a county for which the Census Bureau tabulates population."
   ],
@@ -10,7 +8,7 @@
     "http://hdl.handle.net/2451/34081"
   ],
   "dct_language_sm": [
-    "English"
+    "eng"
   ],
   "dct_publisher_sm": [
     "Environmental Systems Research Institute (Redlands, Calif.)"

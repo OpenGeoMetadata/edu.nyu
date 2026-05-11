@@ -1,7 +1,5 @@
 {
-  "dct_creator_sm": [
-
-  ],
+  "dct_creator_sm": [],
   "dct_description_sm": [
     "World Time Zones represents the time zones of the world. The time zones are best displayed with World Countries or World Administrative Units."
   ],
@@ -10,7 +8,7 @@
     "http://hdl.handle.net/2451/34124"
   ],
   "dct_language_sm": [
-    "English"
+    "eng"
   ],
   "dct_publisher_sm": [
     "Environmental Systems Research Institute (Redlands, Calif.)"

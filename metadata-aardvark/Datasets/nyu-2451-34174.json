@@ -1,7 +1,5 @@
 {
-  "dct_creator_sm": [
-
-  ],
+  "dct_creator_sm": [],
   "dct_description_sm": [
     "U.S. National Atlas Airports represents airports in the United States, Puerto Rico, U.S. Virgin Islands, and U.S. Possessions with airport passenger enplanements of greater than or equal to 100 passengers per year."
   ],
@@ -10,7 +8,7 @@
     "http://hdl.handle.net/2451/34174"
   ],
   "dct_language_sm": [
-    "English"
+    "eng"
   ],
   "dct_publisher_sm": [
     "Environmental Systems Research Institute (Redlands, Calif.)"

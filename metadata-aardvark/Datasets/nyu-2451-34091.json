@@ -1,7 +1,5 @@
 {
-  "dct_creator_sm": [
-
-  ],
+  "dct_creator_sm": [],
   "dct_description_sm": [
     "U.S. States represents the 50 states, the District of Columbia, and Puerto Rico of the United States."
   ],
@@ -10,7 +8,7 @@
     "http://hdl.handle.net/2451/34091"
   ],
   "dct_language_sm": [
-    "English"
+    "eng"
   ],
   "dct_publisher_sm": [
     "Environmental Systems Research Institute (Redlands, Calif.)"

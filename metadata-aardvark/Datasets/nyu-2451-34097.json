@@ -1,7 +1,5 @@
 {
-  "dct_creator_sm": [
-
-  ],
+  "dct_creator_sm": [],
   "dct_description_sm": [
     "U.S. National Atlas Urbanized Areas represents urban areas in the United States derived from the urban areas layer of the Digital Chart of the World (DCW)."
   ],
@@ -10,7 +8,7 @@
     "http://hdl.handle.net/2451/34097"
   ],
   "dct_language_sm": [
-    "English"
+    "eng"
   ],
   "dct_publisher_sm": [
     "Environmental Systems Research Institute (Redlands, Calif.)"

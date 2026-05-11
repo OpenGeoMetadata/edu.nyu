@@ -1,7 +1,5 @@
 {
-  "dct_creator_sm": [
-
-  ],
+  "dct_creator_sm": [],
   "dct_description_sm": [
     "U.S. and Canada Detailed Streets represents streets, highways, roads with and without limited access, secondary and connecting roads, local and rural roads, roads with special characteristics, access ramps, and ferries within the United States and Canada. This data set contains road network features such as arterial classification, speed, and direction of travel. It contains address ranges for all addressable features with addresses."
   ],
@@ -10,7 +8,7 @@
     "http://hdl.handle.net/2451/34130"
   ],
   "dct_language_sm": [
-    "English"
+    "eng"
   ],
   "dct_publisher_sm": [
     "Environmental Systems Research Institute (Redlands, Calif.)"

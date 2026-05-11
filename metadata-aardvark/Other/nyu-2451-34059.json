@@ -1,7 +1,5 @@
 {
-  "dct_creator_sm": [
-
-  ],
+  "dct_creator_sm": [],
   "dct_description_sm": [
     "U.S. and Canada Major Roads represents the major roads of the United States and Canada. These include interstates, inter-metropolitan area, and intra-state highways and major roads."
   ],
@@ -10,7 +8,7 @@
     "http://hdl.handle.net/2451/34059"
   ],
   "dct_language_sm": [
-    "English"
+    "eng"
   ],
   "dct_publisher_sm": [
     "Environmental Systems Research Institute (Redlands, Calif.)"

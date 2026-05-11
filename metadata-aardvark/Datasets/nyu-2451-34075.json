@@ -1,7 +1,5 @@
 {
-  "dct_creator_sm": [
-
-  ],
+  "dct_creator_sm": [],
   "dct_description_sm": [
     "U.S. National Atlas Water Feature Lines represents the linear water features (for example, aqueducts, canals, intracoastal waterways, and streams) of the United States."
   ],
@@ -10,7 +8,7 @@
     "http://hdl.handle.net/2451/34075"
   ],
   "dct_language_sm": [
-    "English"
+    "eng"
   ],
   "dct_publisher_sm": [
     "Environmental Systems Research Institute (Redlands, Calif.)"
